@@ -264,9 +264,14 @@ padding: 0.75rem 0;
 
 .header-content {
 padding: 0 1rem;
+gap: 0.5rem;
 }
 
 .app-title {
+position: static;
+transform: none;
+flex: 1;
+text-align: center;
 font-size: 1.4rem;
 }
 
