@@ -64,6 +64,7 @@ Fast loading speed.
 Partial offline usage available (based on cached data).
 
 📁 Project Structure (Latest)
+
 PKC-Korean-Learning/
 ├─ index.html
 ├─ manifest.webmanifest
