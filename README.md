@@ -62,6 +62,7 @@ Features after installation
 App mode execution without an address bar.
 Fast loading speed.
 Partial offline usage available (based on cached data).
+
 📁 Project Structure (Latest)
 PKC-Korean-Learning/
 ├─ index.html
@@ -78,6 +79,7 @@ PKC-Korean-Learning/
 ├─ js/
 ├─ data/
 └─ locales/
+
 🎧 Audio Pronunciation Troubleshooting Guide
 The pronunciation feature in this app uses the browser's built-in TTS (Web Speech API / speechSynthesis). This means it doesn't play audio files but instead calls the Korean voice engine installed on your device.
 
