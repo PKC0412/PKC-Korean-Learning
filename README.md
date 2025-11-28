@@ -66,19 +66,33 @@ Partial offline usage available (based on cached data).
 📁 Project Structure (Latest)
 
 PKC-Korean-Learning/
+
 ├─ index.html
+
 ├─ manifest.webmanifest
+
 ├─ service-worker.js
+
 ├─ favicon.ico
+
 ├─ assets/
+
 │  ├─ icons/
+
 │  │  ├─ icon-192.png
+
 │  │  └─ icon-512.png
+
 │  ├─ audio/
+
 │  └─ images/
+
 ├─ css/
+
 ├─ js/
+
 ├─ data/
+
 └─ locales/
 
 🎧 Audio Pronunciation Troubleshooting Guide
