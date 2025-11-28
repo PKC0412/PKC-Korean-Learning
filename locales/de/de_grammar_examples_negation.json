@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "Ich esse kein scharfes Essen."
+    },
+    "negation_an_2": {
+      "translation": "Mein jüngeres Geschwisterchen macht keine Hausaufgaben."
+    },
+    "negation_an_3": {
+      "translation": "Ich trinke keinen Kaffee."
+    },
+    "negation_an_4": {
+      "translation": "Mein Freund schaut kein Fernsehen."
+    },
+    "negation_an_5": {
+      "translation": "Ich mache keinen Sport."
+    },
+    "negation_mot_1": {
+      "translation": "Ich kann nicht gut schwimmen."
+    },
+    "negation_mot_2": {
+      "translation": "Mein jüngeres Geschwisterchen kann nicht Fahrrad fahren."
+    },
+    "negation_mot_3": {
+      "translation": "Ich kann nicht gut singen."
+    },
+    "negation_mot_4": {
+      "translation": "Mein Freund kann nicht gut zeichnen."
+    },
+    "negation_mot_5": {
+      "translation": "Ich kann nicht Auto fahren."
+    },
+    "negation_ji_anhda_1": {
+      "translation": "Ich trinke keinen Alkohol."
+    },
+    "negation_ji_anhda_2": {
+      "translation": "Mein Freund frühstückt nicht."
+    },
+    "negation_ji_anhda_3": {
+      "translation": "Ich gehe nicht spät schlafen."
+    },
+    "negation_ji_anhda_4": {
+      "translation": "Mein jüngeres Geschwisterchen geht nicht zur Schule."
+    },
+    "negation_ji_anhda_5": {
+      "translation": "Ich esse kein Fleisch."
+    },
+    "negation_ji_mothada_1": {
+      "translation": "Ich kann kein scharfes Essen essen."
+    },
+    "negation_ji_mothada_2": {
+      "translation": "Mein jüngeres Geschwisterchen kann die Treppe nicht hochrennen."
+    },
+    "negation_ji_mothada_3": {
+      "translation": "Ich kann nicht weit laufen."
+    },
+    "negation_ji_mothada_4": {
+      "translation": "Mein Freund kann nicht an hohe Orte gehen."
+    },
+    "negation_ji_mothada_5": {
+      "translation": "Ich kann kein schweres Gepäck heben."
+    }
+  }
+}

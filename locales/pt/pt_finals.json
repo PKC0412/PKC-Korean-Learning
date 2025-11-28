@@ -1,0 +1,218 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "Giyeok",
+    "romanization": "k",
+    "ipa": "[k]",
+    "description": "Para na parte de trás da língua. O batchim mais comum.",
+    "examples": "[translate:박] (park), [translate:삭] (sak)"
+  },
+  {
+    "char": "ㄲ",
+    "name": "Ssanggiyeok",
+    "romanization": "k",
+    "ipa": "[k*]",
+    "description": "Um som de parada tenso na parte de trás da língua.",
+    "examples": "[translate:닭] (dak), [translate:깎] (kkak)"
+  },
+  {
+    "char": "ㄳ",
+    "name": "Giyeok-Siot",
+    "romanization": "k",
+    "ipa": "[ks]",
+    "description": "Um batchim de consoante dupla (k + s).",
+    "examples": "[translate:닭] (dags), [translate:맑] (malks)"
+  },
+  {
+    "char": "ㄴ",
+    "name": "Nieun",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "Termina com um som nasal na crista alveolar.",
+    "examples": "[translate:산] (san), [translate:본] (bon)"
+  },
+  {
+    "char": "ㄵ",
+    "name": "Nieun-Jieut",
+    "romanization": "n",
+    "ipa": "[nʲ]",
+    "description": "Um batchim de consoante dupla (n + j).",
+    "examples": "[translate:앉] (anj)"
+  },
+  {
+    "char": "ㄶ",
+    "name": "Nieun-Hieut",
+    "romanization": "n",
+    "ipa": "[nh]",
+    "description": "Um batchim de consoante dupla (n + h).",
+    "examples": "[translate:않] (anh)"
+  },
+  {
+    "char": "ㄷ",
+    "name": "Digeut",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "Para na crista alveolar.",
+    "examples": "[translate:곧] (got), [translate:닫] (dat)"
+  },
+  {
+    "char": "ㄹ",
+    "name": "Rieul",
+    "romanization": "l",
+    "ipa": "[l]",
+    "description": "Termina com um som líquido [l].",
+    "examples": "[translate:말] (mal), [translate:불] (bul)"
+  },
+  {
+    "char": "ㄺ",
+    "name": "Rieul-Giyeok",
+    "romanization": "k",
+    "ipa": "[lk]",
+    "description": "Um batchim de consoante dupla (l + k).",
+    "examples": "[translate:닭] (dalk)"
+  },
+  {
+    "char": "ㄻ",
+    "name": "Rieul-Mieum",
+    "romanization": "m",
+    "ipa": "[lm]",
+    "description": "Um batchim de consoante dupla (l + m).",
+    "examples": "[translate:삶] (salm)"
+  },
+  {
+    "char": "ㄼ",
+    "name": "Rieul-Bieup",
+    "romanization": "l/b",
+    "ipa": "[lp]",
+    "description": "Um batchim de consoante dupla (l + b).",
+    "examples": "[translate:여덟] (yeodeol)"
+  },
+  {
+    "char": "ㄽ",
+    "name": "Rieul-Siot",
+    "romanization": "l",
+    "ipa": "[ls]",
+    "description": "Um batchim de consoante dupla (l + s).",
+    "examples": "[translate:외골] (oegol)"
+  },
+  {
+    "char": "ㄾ",
+    "name": "Rieul-Tieut",
+    "romanization": "l",
+    "ipa": "[lt]",
+    "description": "Um batchim de consoante dupla (l + t).",
+    "examples": "[translate:핥] (hal)"
+  },
+  {
+    "char": "ㄿ",
+    "name": "Rieul-Pieup",
+    "romanization": "p",
+    "ipa": "[lp]",
+    "description": "Um batchim de consoante dupla (l + p).",
+    "examples": "[translate:읊] (eulp)"
+  },
+  {
+    "char": "ㅀ",
+    "name": "Rieul-Hieut",
+    "romanization": "l",
+    "ipa": "[lh]",
+    "description": "Um batchim de consoante dupla (l + h).",
+    "examples": "[translate:잃] (il)"
+  },
+  {
+    "char": "ㅁ",
+    "name": "Mieum",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "Termina com um som nasal nos lábios.",
+    "examples": "[translate:곰] (gom), [translate:밤] (bam)"
+  },
+  {
+    "char": "ㅂ",
+    "name": "Bieup",
+    "romanization": "p",
+    "ipa": "[p]",
+    "description": "Para nos lábios.",
+    "examples": "[translate:입] (ip), [translate:집] (jip)"
+  },
+  {
+    "char": "ㅄ",
+    "name": "Bieup-Siot",
+    "romanization": "p",
+    "ipa": "[ps]",
+    "description": "Um batchim de consoante dupla (p + s).",
+    "examples": "[translate:없] (eop)"
+  },
+  {
+    "char": "ㅅ",
+    "name": "Siot",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "Para na crista alveolar (pronunciado como 't').",
+    "examples": "[translate:옷] (ot), [translate:맛] (mat)"
+  },
+  {
+    "char": "ㅆ",
+    "name": "Ssangsiot",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "Para na crista alveolar (pronunciado como 't').",
+    "examples": "[translate:있] (it)"
+  },
+  {
+    "char": "ㅇ",
+    "name": "Ieung",
+    "romanization": "ng",
+    "ipa": "[ŋ]",
+    "description": "Termina com um som nasal [ng].",
+    "examples": "[translate:강] (gang), [translate:방] (bang)"
+  },
+  {
+    "char": "ㅈ",
+    "name": "Jieut",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "Para na crista alveolar (pronunciado como 't').",
+    "examples": "[translate:낮] (nat)"
+  },
+  {
+    "char": "ㅊ",
+    "name": "Chieut",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "Para na crista alveolar (pronunciado como 't').",
+    "examples": "[translate:꽃] (kkot)"
+  },
+  {
+    "char": "ㅋ",
+    "name": "Kieuk",
+    "romanization": "k",
+    "ipa": "[k]",
+    "description": "Para na parte de trás da língua (pronunciado como 'k').",
+    "examples": "[translate:부엌] (bueok)"
+  },
+  {
+    "char": "ㅌ",
+    "name": "Tieut",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "Para na crista alveolar (pronunciado como 't').",
+    "examples": "[translate:밭] (bat)"
+  },
+  {
+    "char": "ㅍ",
+    "name": "Pieup",
+    "romanization": "p",
+    "ipa": "[p]",
+    "description": "Para nos lábios (pronunciado como 'p').",
+    "examples": "[translate:앞] (ap)"
+  },
+  {
+    "char": "ㅎ",
+    "name": "Hieut",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "Para na crista alveolar (pronunciado como 't').",
+    "examples": "[translate:히읗] (hieut)"
+  }
+]

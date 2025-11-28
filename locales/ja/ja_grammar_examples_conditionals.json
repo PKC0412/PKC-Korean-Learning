@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "雨が降ると傘を使う。"
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "時間があれば一緒に昼食を食べよう。"
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "早く家に帰れば映画を見る。"
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "天気が良ければ散歩に行く。"
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "忙しい場合は明日する。"
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "お金を貯めれば旅行に行く。"
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "運動すればもっと健康になる。"
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "しっかり勉強すれば成績が良くなる。"
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "早く寝れば明日はもっと元気になる。"
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "たくさん歩けば疲れる。"
+    }
+  }
+}

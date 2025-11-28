@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "今天我想早点回家。"
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "弟弟想养小狗。"
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "我想周末去海边。"
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "朋友说想学习新工作。"
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "我想明年在国外工作。"
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "昨天我第一次试着做了泡菜。"
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "弟弟想试着滑雪。"
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "我试着用了一下新方法。"
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "朋友让我尝尝他做的蛋糕。"
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "这周我打算尝试一种新运动。"
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "我必须在今天之前提交这份报告。"
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "学生们在现场必须穿安全服。"
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "会议前必须整理资料。"
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "我们在出发前必须确认票。"
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "吃药前必须先吃饭。"
+    }
+  }
+}

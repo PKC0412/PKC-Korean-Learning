@@ -1,0 +1,135 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "Giyeok",
+    "romanization": "g/k",
+    "ipa": "[k/g]",
+    "description": "Ein einfacher Verschlusslaut, der am hinteren Zungenbereich gebildet wird."
+  },
+  {
+    "char": "ㄴ",
+    "name": "Nieun",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "Ein Nasallaut, der in der Nähe des Zahndamms erzeugt wird."
+  },
+  {
+    "char": "ㄷ",
+    "name": "Digeut",
+    "romanization": "d/t",
+    "ipa": "[t/d]",
+    "description": "Ein einfacher Verschlusslaut, der am Zahndamm gebildet wird."
+  },
+  {
+    "char": "ㄹ",
+    "name": "Rieul",
+    "romanization": "r/l",
+    "ipa": "[l/r]",
+    "description": "Ein Liquid, bei dem die Zungenspitze den Zahndamm leicht berührt oder dort fließt."
+  },
+  {
+    "char": "ㅁ",
+    "name": "Mieum",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "Ein Nasallaut, der mit den Lippen gebildet wird."
+  },
+  {
+    "char": "ㅂ",
+    "name": "Bieup",
+    "romanization": "b/p",
+    "ipa": "[p/b]",
+    "description": "Ein einfacher Verschlusslaut, der durch Schließen und Öffnen der Lippen entsteht."
+  },
+  {
+    "char": "ㅅ",
+    "name": "Siot",
+    "romanization": "s",
+    "ipa": "[s]",
+    "description": "Ein Reibelaut (Frikativ), der am Zahndamm gebildet wird."
+  },
+  {
+    "char": "ㅇ",
+    "name": "Ieung",
+    "romanization": "ng",
+    "ipa": "[Ø/-ŋ]",
+    "description": "Stumm am Silbenanfang, fungiert am Silbenende als nasaler [ng]-Laut (Batchim)."
+  },
+  {
+    "char": "ㅈ",
+    "name": "Jieut",
+    "romanization": "j",
+    "ipa": "[ʈʃ/ɖʒ]",
+    "description": "Ein einfacher Affrikat, der durch Blockieren und Lösen mit Reibung entsteht."
+  },
+  {
+    "char": "ㅊ",
+    "name": "Chieut",
+    "romanization": "ch",
+    "ipa": "[ʈʃʰ]",
+    "description": "Ein starker (aspirierter) Affrikat."
+  },
+  {
+    "char": "ㅋ",
+    "name": "Kieuk",
+    "romanization": "k",
+    "ipa": "[kʰ]",
+    "description": "Ein starker (aspirierter) Verschlusslaut aus dem hinteren Zungenbereich."
+  },
+  {
+    "char": "ㅌ",
+    "name": "Tieut",
+    "romanization": "t",
+    "ipa": "[tʰ]",
+    "description": "Ein starker (aspirierter) Verschlusslaut am Zahndamm."
+  },
+  {
+    "char": "ㅍ",
+    "name": "Pieup",
+    "romanization": "p",
+    "ipa": "[pʰ]",
+    "description": "Ein starker (aspirierter) Verschlusslaut von den Lippen."
+  },
+  {
+    "char": "ㅎ",
+    "name": "Hieut",
+    "romanization": "h",
+    "ipa": "[h]",
+    "description": "Ein Reibelaut, der im Hals erzeugt wird."
+  },
+  {
+    "char": "ㄲ",
+    "name": "Ssanggiyeok",
+    "romanization": "kk",
+    "ipa": "[k*]",
+    "description": "Ein gespannter Laut, der durch Verdoppelung des 'ㄱ' entsteht."
+  },
+  {
+    "char": "ㄸ",
+    "name": "Ssangdigeut",
+    "romanization": "tt",
+    "ipa": "[t*]",
+    "description": "Ein gespannter Laut, der durch Verdoppelung des 'ㄷ' entsteht."
+  },
+  {
+    "char": "ㅃ",
+    "name": "Ssangbieup",
+    "romanization": "pp",
+    "ipa": "[p*]",
+    "description": "Ein gespannter Laut, der durch Verdoppelung des 'ㅂ' entsteht."
+  },
+  {
+    "char": "ㅆ",
+    "name": "Ssangsiot",
+    "romanization": "ss",
+    "ipa": "[s*]",
+    "description": "Ein gespannter Reibelaut, der durch Verdoppelung des 'ㅅ' entsteht."
+  },
+  {
+    "char": "ㅉ",
+    "name": "Ssangjieut",
+    "romanization": "jj",
+    "ipa": "[ʈʃ*]",
+    "description": "Ein gespannter Affrikat, der durch Verdoppelung des 'ㅈ' entsteht."
+  }
+]

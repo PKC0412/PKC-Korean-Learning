@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "ฉันออกกำลังกายทุกวัน"
+    },
+    "tenses_present_2": {
+      "translation": "น้องทำการบ้านอยู่ตอนนี้"
+    },
+    "tenses_present_3": {
+      "translation": "เพื่อนทำงานที่บริษัท"
+    },
+    "tenses_present_4": {
+      "translation": "ฉันพักผ่อนที่บ้าน"
+    },
+    "tenses_present_5": {
+      "translation": "พวกเราเดินเล่นที่สวนสาธารณะ"
+    },
+    "tenses_past_1": {
+      "translation": "เมื่อวานฉันเจอเพื่อน"
+    },
+    "tenses_past_2": {
+      "translation": "ฉันดูหนังเมื่อสัปดาห์ที่แล้ว"
+    },
+    "tenses_past_3": {
+      "translation": "น้องกินมื้อเช้าสาย"
+    },
+    "tenses_past_4": {
+      "translation": "ฉันซื้อเสื้อผ้าใหม่"
+    },
+    "tenses_past_5": {
+      "translation": "พวกเราไปเที่ยวเมื่อสุดสัปดาห์"
+    },
+    "tenses_future_1": {
+      "translation": "พรุ่งนี้ฉันจะเจอเพื่อน"
+    },
+    "tenses_future_2": {
+      "translation": "น้องจะย้ายบ้านสัปดาห์หน้า"
+    },
+    "tenses_future_3": {
+      "translation": "ปีนี้ฉันจะตั้งใจเรียนภาษาเกาหลี"
+    },
+    "tenses_future_4": {
+      "translation": "ปีหน้าพวกเราจะไปเที่ยว"
+    },
+    "tenses_future_5": {
+      "translation": "ฉันจะทำมื้อเย็นเร็วๆ นี้"
+    },
+    "tenses_progressive_1": {
+      "translation": "ฉันกำลังกินข้าวอยู่"
+    },
+    "tenses_progressive_2": {
+      "translation": "น้องกำลังฟังเพลงในห้อง"
+    },
+    "tenses_progressive_3": {
+      "translation": "เพื่อนกำลังอ่านหนังสือที่ห้องสมุด"
+    },
+    "tenses_progressive_4": {
+      "translation": "พวกเรากำลังเตรียมการประชุม"
+    },
+    "tenses_progressive_5": {
+      "translation": "ข้างนอกฝนกำลังตก"
+    },
+    "tenses_experiential_1": {
+      "translation": "ฉันเคยไปเกาหลี"
+    },
+    "tenses_experiential_2": {
+      "translation": "เพื่อนเคยเล่นสกี"
+    },
+    "tenses_experiential_3": {
+      "translation": "ฉันไม่เคยกินอาหารเผ็ด"
+    },
+    "tenses_experiential_4": {
+      "translation": "น้องเคยอาศัยอยู่ต่างประเทศ"
+    },
+    "tenses_experiential_5": {
+      "translation": "ฉันเคยเล่นกีตาร์"
+    }
+  }
+}

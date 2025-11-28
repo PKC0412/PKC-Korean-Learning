@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "Ich gehe zur Schule."
+    },
+    "particles_case_2": {
+      "translation": "Mein Freund hat mich gerufen."
+    },
+    "particles_case_3": {
+      "translation": "Mein jüngeres Geschwisterchen liest ein Buch im Zimmer."
+    },
+    "particles_case_4": {
+      "translation": "Ich gehe zur Arbeit in die Firma."
+    },
+    "particles_case_5": {
+      "translation": "Wir machen jedes Wochenende Sport."
+    },
+    "particles_auxiliary_1": {
+      "translation": "Kaffee mag ich."
+    },
+    "particles_auxiliary_2": {
+      "translation": "Mein Freund hat auch den Film gesehen."
+    },
+    "particles_auxiliary_3": {
+      "translation": "Ich trinke nur Wasser."
+    },
+    "particles_auxiliary_4": {
+      "translation": "Mein jüngeres Geschwisterchen hat nicht einmal Reis gegessen."
+    },
+    "particles_auxiliary_5": {
+      "translation": "Ich lese nichts außer Büchern."
+    },
+    "particles_conjunctive_1": {
+      "translation": "Ich esse mit meinem Freund."
+    },
+    "particles_conjunctive_2": {
+      "translation": "Wir sind mit der Familie gereist."
+    },
+    "particles_conjunctive_3": {
+      "translation": "Mein jüngeres Geschwisterchen spielt mit dem Welpen."
+    },
+    "particles_conjunctive_4": {
+      "translation": "Ich mag Kimchi und Bulgogi."
+    },
+    "particles_conjunctive_5": {
+      "translation": "Mein Freund hat mit dem Lehrer gesprochen."
+    }
+  }
+}

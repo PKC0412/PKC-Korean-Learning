@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "Wenn es regnet, benutze ich einen Regenschirm."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "Wenn du Zeit hast, lass uns zusammen zu Mittag essen."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "Wenn ich früh nach Hause komme, schaue ich einen Film."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "Wenn das Wetter gut ist, gehe ich spazieren."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "Wenn ich beschäftigt bin, mache ich es morgen."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "Wenn ich Geld spare, werde ich eine Reise machen."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "Wenn ich Sport treibe, werde ich gesünder."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "Wenn ich fleißig lerne, werden sich meine Noten verbessern."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "Wenn ich früh ins Bett gehe, werde ich mich morgen erfrischter fühlen."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "Wenn ich viel laufe, werde ich müde."
+    }
+  }
+}

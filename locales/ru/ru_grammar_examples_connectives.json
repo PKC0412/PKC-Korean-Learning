@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "Я занимаюсь спортом утром, а потом принимаю душ."
+    },
+    "connectives_go_2": {
+      "translation": "Младший брат делает домашнее задание, а потом смотрит телевизор."
+    },
+    "connectives_go_3": {
+      "translation": "Я ем, а потом иду гулять."
+    },
+    "connectives_go_4": {
+      "translation": "Друг читает книгу и слушает музыку."
+    },
+    "connectives_go_5": {
+      "translation": "Я мою посуду и стираю белье."
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "Так как шел дождь, я остался дома."
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "Так как я проголодался, пообедал рано."
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "Из-за пробок я опоздал."
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "Так как я устал, лег спать рано."
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "Так как погода была хорошая, я пошел гулять."
+    },
+    "connectives_jiman_1": {
+      "translation": "Я устал, но все равно позанимался спортом."
+    },
+    "connectives_jiman_2": {
+      "translation": "Холодно, но я вышел на прогулку."
+    },
+    "connectives_jiman_3": {
+      "translation": "Я занят, но встретился с другом."
+    },
+    "connectives_jiman_4": {
+      "translation": "Вкусно, но немного остру."
+    },
+    "connectives_jiman_5": {
+      "translation": "Дорого, но качество хорошее."
+    },
+    "connectives_myeonseo_1": {
+      "translation": "Я слушаю музыку, пока учусь."
+    },
+    "connectives_myeonseo_2": {
+      "translation": "Младший брат ест, смотря телевизор."
+    },
+    "connectives_myeonseo_3": {
+      "translation": "Друг разговаривает на ходу."
+    },
+    "connectives_myeonseo_4": {
+      "translation": "Я готовлю, напевая песню."
+    },
+    "connectives_myeonseo_5": {
+      "translation": "Люди улыбаются, когда фотографируются."
+    },
+    "connectives_geona_1": {
+      "translation": "В выходные я смотрю фильмы или отдыхаю."
+    },
+    "connectives_geona_2": {
+      "translation": "Младший брат учится или играет в игры."
+    },
+    "connectives_geona_3": {
+      "translation": "Друг читает книгу или слушает музыку в кафе."
+    },
+    "connectives_geona_4": {
+      "translation": "Занимаюсь спортом или иду гулять."
+    },
+    "connectives_geona_5": {
+      "translation": "Мы фотографируемся или пьем кофе на улице."
+    }
+  }
+}

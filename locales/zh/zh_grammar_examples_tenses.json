@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "我每天运动。"
+    },
+    "tenses_present_2": {
+      "translation": "弟弟现在在做作业。"
+    },
+    "tenses_present_3": {
+      "translation": "朋友在公司工作。"
+    },
+    "tenses_present_4": {
+      "translation": "我在家休息。"
+    },
+    "tenses_present_5": {
+      "translation": "我们在公园散步。"
+    },
+    "tenses_past_1": {
+      "translation": "昨天我见了朋友。"
+    },
+    "tenses_past_2": {
+      "translation": "我上周看了电影。"
+    },
+    "tenses_past_3": {
+      "translation": "弟弟很晚才吃早饭。"
+    },
+    "tenses_past_4": {
+      "translation": "我买了新衣服。"
+    },
+    "tenses_past_5": {
+      "translation": "我们周末去旅行了。"
+    },
+    "tenses_future_1": {
+      "translation": "我明天会见朋友。"
+    },
+    "tenses_future_2": {
+      "translation": "弟弟下周要搬家。"
+    },
+    "tenses_future_3": {
+      "translation": "我今年要努力学习韩语。"
+    },
+    "tenses_future_4": {
+      "translation": "我们明年要去旅行。"
+    },
+    "tenses_future_5": {
+      "translation": "我马上就做晚饭。"
+    },
+    "tenses_progressive_1": {
+      "translation": "我现在正在吃饭。"
+    },
+    "tenses_progressive_2": {
+      "translation": "弟弟正在房间里听音乐。"
+    },
+    "tenses_progressive_3": {
+      "translation": "朋友正在图书馆看书。"
+    },
+    "tenses_progressive_4": {
+      "translation": "我们正在准备会议。"
+    },
+    "tenses_progressive_5": {
+      "translation": "外面正在下雨。"
+    },
+    "tenses_experiential_1": {
+      "translation": "我去过韩国。"
+    },
+    "tenses_experiential_2": {
+      "translation": "朋友滑过雪。"
+    },
+    "tenses_experiential_3": {
+      "translation": "我没吃过辣的食物。"
+    },
+    "tenses_experiential_4": {
+      "translation": "弟弟在国外生活过。"
+    },
+    "tenses_experiential_5": {
+      "translation": "我弹过吉他。"
+    }
+  }
+}

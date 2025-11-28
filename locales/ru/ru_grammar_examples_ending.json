@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "translations": {
+    "ending_polite_ayo_eoyo_1": {
+      "translation": "Я сегодня рано иду домой."
+    },
+    "ending_polite_ayo_eoyo_2": {
+      "translation": "Друг пьет кофе в кафе."
+    },
+    "ending_polite_ayo_eoyo_3": {
+      "translation": "Мы занимаемся спортом вечером."
+    },
+    "ending_polite_ayo_eoyo_4": {
+      "translation": "Я смотрю фильмы каждые выходные."
+    },
+    "ending_polite_ayo_eoyo_5": {
+      "translation": "Погода хорошая."
+    },
+    "ending_formal_sumnida_1": {
+      "translation": "Я работаю в Корее."
+    },
+    "ending_formal_sumnida_2": {
+      "translation": "Собрание начинается в 15:00."
+    },
+    "ending_formal_sumnida_3": {
+      "translation": "Я студент."
+    },
+    "ending_formal_sumnida_4": {
+      "translation": "Сейчас пишу отчет."
+    },
+    "ending_formal_sumnida_5": {
+      "translation": "Вы будете присутствовать на собрании?"
+    }
+  }
+}

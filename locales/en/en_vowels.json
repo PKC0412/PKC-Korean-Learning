@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "A",
+    "romanization": "a",
+    "ipa": "[a]",
+    "description": "A bright vowel produced with the mouth wide open and tongue forward."
+  },
+  {
+    "char": "ㅑ",
+    "name": "Ya",
+    "romanization": "ya",
+    "ipa": "[ja]",
+    "description": "A diphthong starting with a glide [j] followed by 'a'."
+  },
+  {
+    "char": "ㅓ",
+    "name": "Eo",
+    "romanization": "eo",
+    "ipa": "[ʌ]",
+    "description": "A mid-low vowel produced with the tongue back and mouth partly open."
+  },
+  {
+    "char": "ㅕ",
+    "name": "Yeo",
+    "romanization": "yeo",
+    "ipa": "[jʌ]",
+    "description": "A diphthong starting with a glide [j] followed by 'eo'."
+  },
+  {
+    "char": "ㅗ",
+    "name": "O",
+    "romanization": "o",
+    "ipa": "[o]",
+    "description": "A rounded vowel produced with lips circled and tongue back."
+  },
+  {
+    "char": "ㅛ",
+    "name": "Yo",
+    "romanization": "yo",
+    "ipa": "[jo]",
+    "description": "A diphthong starting with a glide [j] followed by 'o'."
+  },
+  {
+    "char": "ㅜ",
+    "name": "U",
+    "romanization": "u",
+    "ipa": "[u]",
+    "description": "A high rounded vowel produced with lips pushed forward."
+  },
+  {
+    "char": "ㅠ",
+    "name": "Yu",
+    "romanization": "yu",
+    "ipa": "[ju]",
+    "description": "A diphthong starting with a glide [j] followed by 'u'."
+  },
+  {
+    "char": "ㅡ",
+    "name": "Eu",
+    "romanization": "eu",
+    "ipa": "[ɨ]",
+    "description": "A high flat vowel produced with the mouth almost closed and tongue central."
+  },
+  {
+    "char": "ㅣ",
+    "name": "I",
+    "romanization": "i",
+    "ipa": "[i]",
+    "description": "A high front vowel produced with the mouth almost closed."
+  },
+  {
+    "char": "ㅐ",
+    "name": "Ae",
+    "romanization": "ae",
+    "ipa": "[æ]",
+    "description": "A low front vowel produced with the mouth wide open."
+  },
+  {
+    "char": "ㅒ",
+    "name": "Yae",
+    "romanization": "yae",
+    "ipa": "[jæ]",
+    "description": "A diphthong starting with a glide [j] followed by 'ae'."
+  },
+  {
+    "char": "ㅔ",
+    "name": "E",
+    "romanization": "e",
+    "ipa": "[e]",
+    "description": "A mid-high front vowel produced with the mouth slightly open."
+  },
+  {
+    "char": "ㅖ",
+    "name": "Ye",
+    "romanization": "ye",
+    "ipa": "[je]",
+    "description": "A diphthong starting with a glide [j] followed by 'e'."
+  },
+  {
+    "char": "ㅘ",
+    "name": "Wa",
+    "romanization": "wa",
+    "ipa": "[wa]",
+    "description": "A diphthong combining [w] glide and 'a'."
+  },
+  {
+    "char": "ㅙ",
+    "name": "Wae",
+    "romanization": "wae",
+    "ipa": "[wæ]",
+    "description": "A diphthong combining [w] glide and 'ae'."
+  },
+  {
+    "char": "ㅚ",
+    "name": "Oe",
+    "romanization": "oe",
+    "ipa": "[we]",
+    "description": "A diphthong usually pronounced like 'we' ([w] + 'e')."
+  },
+  {
+    "char": "ㅝ",
+    "name": "Weo",
+    "romanization": "weo",
+    "ipa": "[wʌ]",
+    "description": "A diphthong combining [w] glide and 'eo'."
+  },
+  {
+    "char": "ㅞ",
+    "name": "We",
+    "romanization": "we",
+    "ipa": "[we]",
+    "description": "A diphthong combining [w] glide and 'e'."
+  },
+  {
+    "char": "ㅟ",
+    "name": "Wi",
+    "romanization": "wi",
+    "ipa": "[wi]",
+    "description": "A diphthong combining [w] glide and 'i'."
+  },
+  {
+    "char": "ㅢ",
+    "name": "Ui",
+    "romanization": "ui",
+    "ipa": "[ɨj]",
+    "description": "A diphthong combining 'eu' and 'i'."
+  }
+]

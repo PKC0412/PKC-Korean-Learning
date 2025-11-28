@@ -1,0 +1,49 @@
+{
+  "units": [
+    {
+      "id": "comparison_boda_basic",
+      "title": "비교 표현: 보다",
+      "description": "‘A보다 B가 더 ~’ 구조로 두 대상을 비교할 수 있습니다."
+    },
+    {
+      "id": "comparison_mankeum_basic",
+      "title": "비교 표현: 만큼",
+      "description": "‘만큼’은 어떤 기준에 맞먹는 정도를 비교할 때 사용합니다."
+    },
+    {
+      "id": "comparison_cheoreom_basic",
+      "title": "비교 표현: 처럼",
+      "description": "‘처럼’은 어떤 대상과 비슷한 상태나 모습을 표현할 때 사용합니다."
+    },
+    {
+      "id": "comparison_boda_more_less",
+      "title": "비교: 더/~보다 덜",
+      "description": "둘을 비교하며 ‘더/덜’을 사용하는 표현을 연습합니다."
+    },
+    {
+      "id": "comparison_boda_expectation",
+      "title": "비교: 생각보다/예상보다",
+      "description": "기대와 실제를 비교할 때 쓰는 표현을 살펴봅니다."
+    },
+    {
+      "id": "comparison_mankeum_degree",
+      "title": "비교: 만큼 (정도)",
+      "description": "어느 정도인지를 말할 때 쓰이는 ‘만큼’ 표현을 연습합니다."
+    },
+    {
+      "id": "comparison_mankeum_negative",
+      "title": "비교: ~만큼 ~지 않다",
+      "description": "기대에 미치지 못할 때 쓰는 부정 비교 표현을 살펴봅니다."
+    },
+    {
+      "id": "comparison_cheoreom_simile",
+      "title": "비교: ~처럼 (비유)",
+      "description": "비유적으로 모습을 표현하는 ‘처럼’ 용법을 연습합니다."
+    },
+    {
+      "id": "comparison_cheoreom_as_if",
+      "title": "비교: ~인 것처럼",
+      "description": "마치 그런 것 같은 느낌을 표현하는 문장을 살펴봅니다."
+    }
+  ]
+}

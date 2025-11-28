@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "Bevo caffè ogni mattina."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "Il mio fratellino incontra un amico a scuola."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "Il mio amico guarda un film a casa."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "Ceniamo la sera."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "L'insegnante insegna il coreano agli studenti."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "Studio il coreano a scuola la mattina."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "Mia sorella maggiore si riposa a casa nel fine settimana."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "Mio padre lavora fino a tardi in ufficio."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "Do un regalo al mio amico."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "Parliamo a bassa voce nel bar."
+    },
+    "sentence_structure_types_1": {
+      "translation": "Il tempo è davvero bello oggi."
+    },
+    "sentence_structure_types_2": {
+      "translation": "Hai tempo questa sera?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Chiudi la porta, per favore."
+    },
+    "sentence_structure_types_4": {
+      "translation": "Andiamo a mangiare insieme?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "Non faccia tardi, venga presto."
+    }
+  }
+}

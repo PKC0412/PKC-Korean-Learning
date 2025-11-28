@@ -1,0 +1,758 @@
+[
+  {
+    "id": "aux_verbs_gosipda_basic",
+    "title_ko": "보조 용언: -고 싶다 (원함)",
+    "description_ko": "‘-고 싶다’는 어떤 행동을 하고 싶은 마음, 희망을 표현할 때 사용합니다.",
+    "title": "Hilfsverb: -고 싶다 (Wunsch)",
+    "explanation": "‘-고 싶다’ wird verwendet, um den Wunsch oder die Hoffnung auszudrücken, eine bestimmte Handlung auszuführen."
+  },
+  {
+    "id": "aux_verbs_boda_basic",
+    "title_ko": "보조 용언: -아/어 보다 (시도)",
+    "description_ko": "‘-아/어 보다’는 어떤 행동을 한 번 시도해 보는 느낌을 줄 때 사용합니다.",
+    "title": "Hilfsverb: -아/어 보다 (Versuch)",
+    "explanation": "‘-아/어 보다’ wird verwendet, um das Gefühl zu vermitteln, eine Handlung einmal auszuprobieren."
+  },
+  {
+    "id": "aux_verbs_eya_hada_basic",
+    "title_ko": "보조 용언: -아/어야 하다 (의무)",
+    "description_ko": "‘-아/어야 하다’는 해야만 하는 일, 의무나 필요성을 나타냅니다.",
+    "title": "Hilfsverb: -아/어야 하다 (Pflicht)",
+    "explanation": "‘-아/어야 하다’ drückt Aufgaben aus, die erledigt werden müssen, sowie Pflicht oder Notwendigkeit."
+  },
+  {
+    "id": "aux_verbs_gosipda_desire",
+    "title_ko": "보조 용언: -고 싶다 (원함)",
+    "description_ko": "하고 싶은 일·바람을 표현하는 기본 문장을 연습합니다.",
+    "title": "Wunsch äußern",
+    "explanation": "Wir üben grundlegende Sätze, um Dinge auszudrücken, die man tun möchte, oder Wünsche."
+  },
+  {
+    "id": "aux_verbs_gosipda_negative",
+    "title_ko": "보조 용언: -고 싶지 않다",
+    "description_ko": "하고 싶지 않은 마음을 부드럽게 표현하는 문장을 살펴봅니다.",
+    "title": "Verneinung des Wunsches",
+    "explanation": "Wir schauen uns Sätze an, mit denen man auf sanfte Weise ausdrückt, dass man etwas nicht tun möchte."
+  },
+  {
+    "id": "aux_verbs_boda_experience",
+    "title_ko": "보조 용언: -아/어 보다 (경험)",
+    "description_ko": "한 번 해 본 경험을 말할 때 쓰이는 표현을 연습합니다.",
+    "title": "Erfahrungen",
+    "explanation": "Wir üben Ausdrücke, die verwendet werden, um über Erfahrungen zu sprechen, die man einmal gemacht hat."
+  },
+  {
+    "id": "aux_verbs_boda_suggestion",
+    "title_ko": "보조 용언: -아/어 보세요 (권유)",
+    "description_ko": "상대에게 무언가를 해 보라고 권하는 표현을 살펴봅니다.",
+    "title": "Empfehlungen",
+    "explanation": "Wir betrachten Ausdrücke, mit denen man jemandem empfiehlt, etwas auszuprobieren."
+  },
+  {
+    "id": "aux_verbs_eya_hada_rule",
+    "title_ko": "보조 용언: -아/어야 하다 (규칙)",
+    "description_ko": "규칙·당연한 의무를 말하는 표현을 연습합니다.",
+    "title": "Regeln und Pflichten",
+    "explanation": "Wir üben Ausdrücke, um über Regeln und selbstverständliche Pflichten zu sprechen."
+  },
+  {
+    "id": "aux_verbs_eya_hada_condition",
+    "title_ko": "보조 용언: -아/어야 하다 (조건)",
+    "description_ko": "어떤 조건이 충족되어야 하는 상황을 설명하는 문장을 살펴봅니다.",
+    "title": "Notwendige Bedingungen",
+    "explanation": "Wir schauen uns Sätze an, die Situationen beschreiben, in denen eine bestimmte Bedingung erfüllt sein muss."
+  },
+  {
+    "id": "comparison_boda_basic",
+    "title_ko": "비교 표현: 보다",
+    "description_ko": "‘A보다 B가 더 ~’ 구조로 두 대상을 비교할 수 있습니다.",
+    "title": "Vergleich: -보다 (als)",
+    "explanation": "Mit der Struktur ‘A보다 B가 더 ~’ (B ist ... als A) können zwei Objekte verglichen werden."
+  },
+  {
+    "id": "comparison_mankeum_basic",
+    "title_ko": "비교 표현: 만큼",
+    "description_ko": "‘만큼’은 어떤 기준에 맞먹는 정도를 비교할 때 사용합니다.",
+    "title": "Vergleich: -만큼 (so viel wie)",
+    "explanation": "‘만큼’ wird verwendet, um ein Ausmaß zu vergleichen, das einem bestimmten Standard entspricht."
+  },
+  {
+    "id": "comparison_cheoreom_basic",
+    "title_ko": "비교 표현: 처럼",
+    "description_ko": "‘처럼’은 어떤 대상과 비슷한 상태나 모습을 표현할 때 사용합니다.",
+    "title": "Vergleich: -처럼 (wie)",
+    "explanation": "‘처럼’ wird verwendet, um einen Zustand oder ein Erscheinungsbild auszudrücken, das einem Objekt ähnelt."
+  },
+  {
+    "id": "comparison_boda_more_less",
+    "title_ko": "비교: 더/~보다 덜",
+    "description_ko": "둘을 비교하며 ‘더/덜’을 사용하는 표현을 연습합니다.",
+    "title": "Vergleich: mehr/weniger",
+    "explanation": "Wir üben Ausdrücke, die ‘더’ (mehr) oder ‘덜’ (weniger) verwenden, um zwei Dinge zu vergleichen."
+  },
+  {
+    "id": "comparison_boda_expectation",
+    "title_ko": "비교: 생각보다/예상보다",
+    "description_ko": "기대와 실제를 비교할 때 쓰는 표현을 살펴봅니다.",
+    "title": "Vergleich mit Erwartungen",
+    "explanation": "Wir betrachten Ausdrücke, die verwendet werden, um Erwartungen mit der Realität zu vergleichen."
+  },
+  {
+    "id": "comparison_mankeum_degree",
+    "title_ko": "비교: 만큼 (정도)",
+    "description_ko": "어느 정도인지를 말할 때 쓰이는 ‘만큼’ 표현을 연습합니다.",
+    "title": "Ausmaß mit -만큼",
+    "explanation": "Wir üben den Ausdruck ‘만큼’, der verwendet wird, um ein bestimmtes Ausmaß anzugeben."
+  },
+  {
+    "id": "comparison_mankeum_negative",
+    "title_ko": "비교: ~만큼 ~지 않다",
+    "description_ko": "기대에 미치지 못할 때 쓰는 부정 비교 표현을 살펴봅니다.",
+    "title": "Verneinter Vergleich",
+    "explanation": "Wir schauen uns verneinte Vergleichsausdrücke an, die verwendet werden, wenn Erwartungen nicht erfüllt werden."
+  },
+  {
+    "id": "comparison_cheoreom_simile",
+    "title_ko": "비교: ~처럼 (비유)",
+    "description_ko": "비유적으로 모습을 표현하는 ‘처럼’ 용법을 연습합니다.",
+    "title": "Gleichnis mit -처럼",
+    "explanation": "Wir üben die Verwendung von ‘처럼’, um Erscheinungsbilder metaphorisch auszudrücken."
+  },
+  {
+    "id": "comparison_cheoreom_as_if",
+    "title_ko": "비교: ~인 것처럼",
+    "description_ko": "마치 그런 것 같은 느낌을 표현하는 문장을 살펴봅니다.",
+    "title": "Als ob",
+    "explanation": "Wir betrachten Sätze, die das Gefühl ausdrücken, als ob etwas so wäre."
+  },
+  {
+    "id": "conditionals_eumyeon_basic",
+    "title_ko": "조건 표현: -(으)면 (일반 조건)",
+    "description_ko": "‘-(으)면’은 어떤 조건이 충족되었을 때 그 결과가 일어나는 상황을 표현합니다.",
+    "title": "Konditional: -(으)면 (Wenn)",
+    "explanation": "‘-(으)면’ drückt eine Situation aus, in der ein Ergebnis eintritt, wenn eine bestimmte Bedingung erfüllt ist."
+  },
+  {
+    "id": "conditionals_eumyeon_future",
+    "title_ko": "조건 표현: -(으)면 (미래/반복 상황)",
+    "description_ko": "미래나 반복되는 상황에서 ‘~하면 항상 ~한다’는 패턴을 말할 때도 ‘-(으)면’을 사용할 수 있습니다.",
+    "title": "Konditional (Zukunft/Wiederholung)",
+    "explanation": "‘-(으)면’ kann auch verwendet werden, um Muster wie ‘immer wenn ..., dann ...’ in zukünftigen oder sich wiederholenden Situationen auszudrücken."
+  },
+  {
+    "id": "conditionals_eumyeon_real",
+    "title_ko": "조건: -(으)면 (일반)",
+    "description_ko": "조건이 충족되면 자연스럽게 이어지는 결과를 표현하는 문장을 연습합니다.",
+    "title": "Reale Bedingungen",
+    "explanation": "Wir üben Sätze, die ein Ergebnis ausdrücken, das natürlicherweise folgt, wenn eine Bedingung erfüllt ist."
+  },
+  {
+    "id": "conditionals_eumyeon_instruction",
+    "title_ko": "조건: -(으)면 됩니다",
+    "description_ko": "설명·안내에서 많이 쓰는 조건 표현을 살펴봅니다.",
+    "title": "Anweisungen geben",
+    "explanation": "Wir betrachten Bedingungsausdrücke, die häufig in Erklärungen oder Anleitungen verwendet werden."
+  },
+  {
+    "id": "conditionals_eumyeon_habitual",
+    "title_ko": "조건: -(으)면 (반복)",
+    "description_ko": "습관적으로 반복되는 상황을 조건절로 표현합니다.",
+    "title": "Gewohnheitsmäßige Bedingungen",
+    "explanation": "Wir drücken Situationen, die sich gewohnheitsmäßig wiederholen, mit Bedingungssätzen aus."
+  },
+  {
+    "id": "conditionals_eumyeon_assumption",
+    "title_ko": "조건: -(으)면 (가정)",
+    "description_ko": "가정·희망·제안을 나타내는 조건 표현을 연습합니다.",
+    "title": "Annahmen und Hoffnungen",
+    "explanation": "Wir üben Bedingungsausdrücke, die Annahmen, Hoffnungen oder Vorschläge darstellen."
+  },
+  {
+    "id": "connectives_go_sequence_basic",
+    "title_ko": "연결 표현: -고 (나열, 순서)",
+    "description_ko": "‘-고’는 동작을 나열하거나 순서를 표현할 때 사용합니다.",
+    "title": "Verbindung: -고 (Reihenfolge)",
+    "explanation": "‘-고’ wird verwendet, um Handlungen aufzulisten oder eine Reihenfolge auszudrücken."
+  },
+  {
+    "id": "connectives_aseo_eoseo_reason_basic",
+    "title_ko": "연결 표현: -아서/어서 (이유)",
+    "description_ko": "‘-아서/어서’는 이유나 원인을 말할 때 쓰는 연결어미입니다.",
+    "title": "Verbindung: -아서/어서 (Grund)",
+    "explanation": "‘-아서/어서’ ist eine verbindende Endung, die verwendet wird, um einen Grund oder eine Ursache anzugeben."
+  },
+  {
+    "id": "connectives_jiman_basic",
+    "title_ko": "연결 표현: -지만 (대조)",
+    "description_ko": "‘-지만’은 앞뒤 내용을 대조하거나 양보할 때 사용합니다.",
+    "title": "Verbindung: -지만 (Gegensatz)",
+    "explanation": "‘-지만’ wird verwendet, um den vorhergehenden und nachfolgenden Inhalt zu kontrastieren oder ein Zugeständnis zu machen."
+  },
+  {
+    "id": "connectives_myeonseo_simult_basic",
+    "title_ko": "연결 표현: -면서 (동시 동작)",
+    "description_ko": "‘-면서’는 두 동작이 동시에 일어날 때 사용합니다.",
+    "title": "Verbindung: -면서 (Gleichzeitig)",
+    "explanation": "‘-면서’ wird verwendet, wenn zwei Handlungen gleichzeitig stattfinden."
+  },
+  {
+    "id": "connectives_geona_choice_basic",
+    "title_ko": "연결 표현: -거나 (선택)",
+    "description_ko": "‘-거나’는 둘 이상의 선택지 중 하나 이상을 말할 때 사용합니다.",
+    "title": "Verbindung: -거나 (Auswahl)",
+    "explanation": "‘-거나’ wird verwendet, wenn man über eine oder mehrere Optionen aus zwei oder mehr Wahlmöglichkeiten spricht."
+  },
+  {
+    "id": "connectives_go_sequence_time",
+    "title_ko": "연결: -고 (시간 순서)",
+    "description_ko": "여러 동작을 시간 순서대로 나열하는 표현을 연습합니다.",
+    "title": "Chronologische Reihenfolge",
+    "explanation": "Wir üben Ausdrücke, bei denen mehrere Handlungen in chronologischer Reihenfolge aufgelistet werden."
+  },
+  {
+    "id": "connectives_go_parallel",
+    "title_ko": "연결: -고 (병렬 나열)",
+    "description_ko": "비슷한 성격의 동작을 나란히 나열하는 표현입니다.",
+    "title": "Parallele Aufzählung",
+    "explanation": "Dies sind Ausdrücke, um Handlungen mit ähnlichem Charakter nebeneinander aufzulisten."
+  },
+  {
+    "id": "connectives_aseo_eoseo_cause",
+    "title_ko": "연결: -아서/어서 (원인)",
+    "description_ko": "원인과 결과를 자연스럽게 이어주는 표현을 연습합니다.",
+    "title": "Ursache und Wirkung",
+    "explanation": "Wir üben Ausdrücke, die Ursache und Ergebnis auf natürliche Weise verbinden."
+  },
+  {
+    "id": "connectives_aseo_eoseo_constraint",
+    "title_ko": "연결: -아서/어서 (제약)",
+    "description_ko": "어떤 이유로 인해 할 수 없거나 힘든 상황을 설명하는 문장을 살펴봅니다.",
+    "title": "Einschränkungen durch Gründe",
+    "explanation": "Wir schauen uns Sätze an, die Situationen beschreiben, in denen etwas aus einem bestimmten Grund nicht möglich oder schwierig ist."
+  },
+  {
+    "id": "connectives_jiman_contrast",
+    "title_ko": "연결: -지만 (대조)",
+    "description_ko": "예상과 다른 결과를 말할 때 쓰이는 대조 표현을 연습합니다.",
+    "title": "Kontrast",
+    "explanation": "Wir üben Kontrastausdrücke, die verwendet werden, wenn ein Ergebnis anders ist als erwartet."
+  },
+  {
+    "id": "connectives_jiman_soften",
+    "title_ko": "연결: -지만 (양보·완화)",
+    "description_ko": "말을 부드럽게 만들거나 양보하는 느낌을 줄 때 쓰이는 표현입니다.",
+    "title": "Abschwächung und Zugeständnis",
+    "explanation": "Dieser Ausdruck wird verwendet, um Aussagen weicher zu machen oder ein Gefühl des Zugeständnisses zu vermitteln."
+  },
+  {
+    "id": "connectives_myeonseo_simult_action",
+    "title_ko": "연결: -면서 (동시 동작)",
+    "description_ko": "두 동작이 동시에 일어나는 상황을 표현하는 문장을 연습합니다.",
+    "title": "Gleichzeitige Handlungen",
+    "explanation": "Wir üben Sätze, die Situationen ausdrücken, in denen zwei Handlungen gleichzeitig geschehen."
+  },
+  {
+    "id": "connectives_myeonseo_criticism",
+    "title_ko": "연결: -면서 (비판)",
+    "description_ko": "알면서도 하지 않거나 모순적인 행동을 비판하는 표현을 살펴봅니다.",
+    "title": "Kritik an Widersprüchen",
+    "explanation": "Wir betrachten Ausdrücke, die widersprüchliches Verhalten kritisieren oder Handlungen, die unterlassen werden, obwohl man es besser weiß."
+  },
+  {
+    "id": "connectives_geona_choice_two",
+    "title_ko": "연결: -거나 (선택)",
+    "description_ko": "두 가지 중 선택할 때 쓰는 ‘-거나’ 표현을 연습합니다.",
+    "title": "Wahl zwischen zwei Optionen",
+    "explanation": "Wir üben den Ausdruck ‘-거나’, der verwendet wird, wenn man zwischen zwei Dingen wählt."
+  },
+  {
+    "id": "connectives_geona_free_choice",
+    "title_ko": "연결: -거나 (자유 선택)",
+    "description_ko": "여러 가능성 중 아무 것이나 괜찮다는 의미를 나타내는 표현입니다.",
+    "title": "Freie Wahl",
+    "explanation": "Dieser Ausdruck bedeutet, dass jede von mehreren Möglichkeiten in Ordnung ist."
+  },
+  {
+    "id": "ending_polite_ayo_eoyo_basic",
+    "title_ko": "종결 표현: -아요/어요 (존댓말)",
+    "description_ko": "동사 어간 뒤에 -아요/어요를 붙여 부드럽고 자연스러운 존댓말을 만들 수 있습니다.",
+    "title": "Höfliche Endung: -아요/어요",
+    "explanation": "Durch Anhängen von -아요/어요 an den Verbstamm können Sie eine weiche und natürliche Höflichkeitsform bilden."
+  },
+  {
+    "id": "ending_formal_sumnida_basic",
+    "title_ko": "종결 표현: -습니다/-습니까 (격식체)",
+    "description_ko": "공식적인 상황이나 발표, 안내 방송 등에서 -습니다/-습니까 형태를 사용합니다.",
+    "title": "Formelle Endung: -습니다",
+    "explanation": "In formellen Situationen, bei Präsentationen oder Durchsagen wird die Form -습니다/-습니까 verwendet."
+  },
+  {
+    "id": "ending_polite_ayo_eoyo_statement",
+    "title_ko": "종결: -아요/어요 (평서)",
+    "description_ko": "존댓말 평서문을 자연스럽게 쓰는 연습입니다.",
+    "title": "Aussagesatz (Höflich)",
+    "explanation": "Dies ist eine Übung, um Aussagesätze in der Höflichkeitsform natürlich zu verwenden."
+  },
+  {
+    "id": "ending_polite_ayo_eoyo_question",
+    "title_ko": "종결: -아요/어요? (의문)",
+    "description_ko": "존댓말 의문문을 만드는 기본 패턴을 살펴봅니다.",
+    "title": "Fragesatz (Höflich)",
+    "explanation": "Wir betrachten die grundlegenden Muster zur Bildung von Fragesätzen in der Höflichkeitsform."
+  },
+  {
+    "id": "ending_formal_sumnida_statement",
+    "title_ko": "종결: -습니다 (평서)",
+    "description_ko": "격식체 평서문을 공식적인 상황에서 쓰는 표현을 연습합니다.",
+    "title": "Aussagesatz (Formell)",
+    "explanation": "Wir üben die Verwendung von formellen Aussagesätzen in offiziellen Situationen."
+  },
+  {
+    "id": "ending_formal_sumnida_question",
+    "title_ko": "종결: -습니까? (의문)",
+    "description_ko": "격식체 의문문을 공지·안내 등에서 쓰는 예를 살펴봅니다.",
+    "title": "Fragesatz (Formell)",
+    "explanation": "Wir schauen uns Beispiele für die Verwendung formeller Fragesätze in Bekanntmachungen oder Anleitungen an."
+  },
+  {
+    "id": "negation_an_basic",
+    "title_ko": "부정 표현: 안",
+    "description_ko": "동사 앞에 ‘안’을 붙여 간단하게 ‘~하지 않는다’는 의미를 표현할 수 있습니다.",
+    "title": "Verneinung: 안",
+    "explanation": "Indem man ‘안’ vor das Verb setzt, kann man einfach ausdrücken, dass man etwas ‘nicht tut’."
+  },
+  {
+    "id": "negation_mot_basic",
+    "title_ko": "부정 표현: 못",
+    "description_ko": "‘못’은 능력이나 상황 때문에 어떤 행동을 할 수 없음을 나타냅니다.",
+    "title": "Verneinung: 못 (Unfähigkeit)",
+    "explanation": "‘못’ drückt aus, dass man eine Handlung aufgrund von mangelnder Fähigkeit oder der Situation nicht ausführen kann."
+  },
+  {
+    "id": "negation_ji_anhda_basic",
+    "title_ko": "부정 표현: -지 않다",
+    "description_ko": "‘-지 않다’는 조금 더 격식 있고 문장형 어미와 잘 어울리는 부정 표현입니다.",
+    "title": "Verneinung: -지 않다",
+    "explanation": "‘-지 않다’ ist eine Verneinung, die etwas formeller ist und gut zu Satzendungen passt."
+  },
+  {
+    "id": "negation_ji_mothada_basic",
+    "title_ko": "부정 표현: -지 못하다",
+    "description_ko": "‘-지 못하다’는 능력이나 조건 부족으로 인해 할 수 없음을 나타냅니다.",
+    "title": "Verneinung: -지 못하다",
+    "explanation": "‘-지 못하다’ zeigt an, dass man etwas aufgrund fehlender Fähigkeit oder Bedingungen nicht tun kann."
+  },
+  {
+    "id": "negation_an_preference",
+    "title_ko": "부정: 안 + 동사",
+    "description_ko": "선호나 선택을 말할 때 쓰이는 ‘안’ + 동사를 연습합니다.",
+    "title": "Präferenz-Verneinung (안)",
+    "explanation": "Wir üben ‘안’ + Verb, was verwendet wird, um über Vorlieben oder Entscheidungen zu sprechen."
+  },
+  {
+    "id": "negation_an_adjective",
+    "title_ko": "부정: 안 + 형용사",
+    "description_ko": "성질·상태를 부정할 때 쓰이는 ‘안’ + 형용사를 살펴봅니다.",
+    "title": "Eigenschafts-Verneinung (안)",
+    "explanation": "Wir betrachten ‘안’ + Adjektiv, um Eigenschaften oder Zustände zu verneinen."
+  },
+  {
+    "id": "negation_mot_ability",
+    "title_ko": "부정: 못 (능력 부족)",
+    "description_ko": "능력이 없어서 할 수 없음을 나타내는 표현을 연습합니다.",
+    "title": "Mangelnde Fähigkeit (못)",
+    "explanation": "Wir üben Ausdrücke, die anzeigen, dass man etwas mangels Fähigkeit nicht tun kann."
+  },
+  {
+    "id": "negation_mot_situation",
+    "title_ko": "부정: 못 (상황·조건)",
+    "description_ko": "상황이나 조건 때문에 할 수 없음을 말하는 표현입니다.",
+    "title": "Situative Unfähigkeit (못)",
+    "explanation": "Dies sind Ausdrücke, um zu sagen, dass man etwas wegen der Situation oder Bedingungen nicht tun kann."
+  },
+  {
+    "id": "negation_ji_anhda_formal",
+    "title_ko": "부정: -지 않다 (격식체)",
+    "description_ko": "격식 있고 문어적인 느낌을 주는 ‘-지 않다’ 표현을 연습합니다.",
+    "title": "Formelle Verneinung (-지 않다)",
+    "explanation": "Wir üben den Ausdruck ‘-지 않다’, der ein formelles und schriftsprachliches Gefühl vermittelt."
+  },
+  {
+    "id": "negation_ji_anhda_emphasis",
+    "title_ko": "부정: -지 않다 (강조)",
+    "description_ko": "강하게 부정하거나 의견을 강조할 때 쓰이는 표현을 살펴봅니다.",
+    "title": "Betonte Verneinung",
+    "explanation": "Wir betrachten Ausdrücke, die verwendet werden, um stark zu verneinen oder eine Meinung zu betonen."
+  },
+  {
+    "id": "negation_ji_mothada_formal",
+    "title_ko": "부정: -지 못하다 (격식체)",
+    "description_ko": "격식 있는 문장에서 쓰이는 ‘-지 못하다’ 표현을 연습합니다.",
+    "title": "Formelle Unfähigkeit (-지 못하다)",
+    "explanation": "Wir üben den Ausdruck ‘-지 못하다’, der in formellen Sätzen verwendet wird."
+  },
+  {
+    "id": "negation_ji_mothada_regret",
+    "title_ko": "부정: -지 못하다 (유감)",
+    "description_ko": "하지 못한 일에 대한 아쉬움·후회를 표현하는 문장을 연습합니다.",
+    "title": "Bedauern ausdrücken",
+    "explanation": "Wir üben Sätze, die Bedauern oder Reue über etwas ausdrücken, das man nicht tun konnte."
+  },
+  {
+    "id": "particles_case_iga_eulreul_basic",
+    "title_ko": "격조사: 이/가와 을/를",
+    "description_ko": "이/가는 주어, 을/를은 목적어를 나타내는 기본 격조사입니다.",
+    "title": "Subjekt- und Objektpartikel",
+    "explanation": "이/가 sind die grundlegenden Partikel für das Subjekt, und 을/를 markieren das Objekt."
+  },
+  {
+    "id": "particles_case_e_eseo_location",
+    "title_ko": "격조사: 에와 에서 (장소 표현)",
+    "description_ko": "에는 위치를, 에서는 행동이 일어나는 장소를 표현하는 데 자주 쓰입니다.",
+    "title": "Orts-Partikel: 에/에서",
+    "explanation": "‘에’ wird oft für Positionen verwendet, und ‘에서’ für Orte, an denen eine Handlung stattfindet."
+  },
+  {
+    "id": "particles_auxiliary_eun_neun_contrast",
+    "title_ko": "보조사: 은/는 (대조, 주제 강조)",
+    "description_ko": "은/는은 문장의 주제를 나타내거나, 다른 것과 비교·대조할 때 자주 사용됩니다.",
+    "title": "Themenpartikel: 은/는",
+    "explanation": "은/는 wird häufig verwendet, um das Thema des Satzes anzugeben oder um Vergleiche und Kontraste zu ziehen."
+  },
+  {
+    "id": "particles_auxiliary_do_man_focus",
+    "title_ko": "보조사: 도와 만 (덧붙이기, 한정)",
+    "description_ko": "도는 ‘~도 역시’의 의미를, 만은 ‘~만, ~뿐’의 의미를 나타냅니다.",
+    "title": "Zusatz und Begrenzung: 도/만",
+    "explanation": "‘도’ hat die Bedeutung von ‘auch’, und ‘만’ bedeutet ‘nur’ oder ‘ausschließlich’."
+  },
+  {
+    "id": "particles_conjunctive_and_basic",
+    "title_ko": "접속조사: 과/와, 하고, (이)랑",
+    "description_ko": "과/와, 하고, (이)랑은 ‘~와/과 함께, ~와/과’의 의미로 두 대상을 나란히 연결합니다.",
+    "title": "Verbindungspartikel: und/mit",
+    "explanation": "과/와, 하고, (이)랑 verbinden zwei Objekte mit der Bedeutung von ‘zusammen mit’ oder ‘und’."
+  },
+  {
+    "id": "particles_case_ege_hante",
+    "title_ko": "격조사: 에게/한테/께",
+    "description_ko": "사람이나 생물을 향한 간접 목적을 나타내는 표현입니다.",
+    "title": "Dativ-Partikel: 에게/한테",
+    "explanation": "Diese Ausdrücke markieren ein indirektes Objekt, das sich auf Menschen oder Lebewesen bezieht."
+  },
+  {
+    "id": "particles_case_ro_direction",
+    "title_ko": "격조사: (으)로",
+    "description_ko": "방향, 이동 경로, 수단을 나타내는 '(으)로' 사용을 연습합니다.",
+    "title": "Richtungs-/Mittel-Partikel: (으)로",
+    "explanation": "Wir üben die Verwendung von ‘(으)로’, was Richtung, Pfad oder Mittel angibt."
+  },
+  {
+    "id": "particles_case_time_mada",
+    "title_ko": "격조사: 에/마다",
+    "description_ko": "시간·주기 표현에 쓰이는 '에, 마다'를 연습합니다.",
+    "title": "Zeit-Partikel: 에/마다",
+    "explanation": "Wir üben ‘에’ und ‘마다’, die für Zeit- und Frequenzausdrücke verwendet werden."
+  },
+  {
+    "id": "particles_auxiliary_jjeum_ssik",
+    "title_ko": "보조사: 쯤, 씩",
+    "description_ko": "대략적인 양이나 나누어지는 양을 나타내는 표현입니다.",
+    "title": "Ungefähre Menge/Verteilung",
+    "explanation": "Diese Ausdrücke geben eine ungefähre Menge oder eine verteilte Menge an."
+  },
+  {
+    "id": "particles_auxiliary_bakke_kkaji",
+    "title_ko": "보조사: 밖에, 까지",
+    "description_ko": "범위를 제한하거나 끝 지점을 나타내는 표현을 연습합니다.",
+    "title": "Begrenzung/Endpunkt",
+    "explanation": "Wir üben Ausdrücke, die einen Bereich einschränken (‘außer’) oder einen Endpunkt angeben (‘bis’)."
+  },
+  {
+    "id": "particles_auxiliary_jjocha",
+    "title_ko": "보조사: 조차, 마저",
+    "description_ko": "놀람·의외·강조를 나타내는 보조사를 살펴봅니다.",
+    "title": "Betonung: 조차/마저",
+    "explanation": "Wir betrachten Hilfspartikel, die Überraschung, Unerwartetes oder Betonung ausdrücken (‘sogar’)."
+  },
+  {
+    "id": "particles_conjunctive_and_nuance",
+    "title_ko": "접속조사: 과/와 vs 하고 vs (이)랑",
+    "description_ko": "같은 ‘그리고’ 의미라도 표현에 따라 뉘앙스가 달라지는 것을 연습합니다.",
+    "title": "Nuancen von 'Und'",
+    "explanation": "Wir üben, wie sich die Nuance je nach Ausdruck ändert, auch wenn alle ‘und’ bedeuten."
+  },
+  {
+    "id": "particles_conjunctive_with_person",
+    "title_ko": "접속조사: 누구와 함께",
+    "description_ko": "사람과 함께하는 상황에서 자주 쓰이는 표현을 연습합니다.",
+    "title": "Zusammen mit jemandem",
+    "explanation": "Wir üben Ausdrücke, die häufig in Situationen verwendet werden, in denen man mit Menschen zusammen ist."
+  },
+  {
+    "id": "quotations_dago_basic",
+    "title_ko": "인용 표현: -다고 하다 (평서 인용)",
+    "description_ko": "‘-다고 하다’는 다른 사람이 한 말을 간접적으로 전할 때 사용하는 표현입니다.",
+    "title": "Indirekte Rede: -다고 하다",
+    "explanation": "‘-다고 하다’ wird verwendet, um indirekt zu berichten, was eine andere Person gesagt hat."
+  },
+  {
+    "id": "quotations_rago_basic",
+    "title_ko": "인용 표현: -라고 하다 (말하기)",
+    "description_ko": "‘-라고 하다’는 이름, 말, 생각 등의 내용을 인용할 때 사용합니다.",
+    "title": "Zitieren: -라고 하다",
+    "explanation": "‘-라고 하다’ wird verwendet, um Inhalte wie Namen, Worte oder Gedanken zu zitieren."
+  },
+  {
+    "id": "quotations_dago_report",
+    "title_ko": "인용: -다고 하다 (전달)",
+    "description_ko": "남의 말을 전할 때 쓰는 ‘-다고 하다’ 표현을 연습합니다.",
+    "title": "Berichten: -다고 하다",
+    "explanation": "Wir üben den Ausdruck ‘-다고 하다’, um die Worte anderer zu übermitteln."
+  },
+  {
+    "id": "quotations_dago_think",
+    "title_ko": "인용: -다고 생각하다",
+    "description_ko": "자신의 생각·느낌을 인용문 형태로 말하는 표현을 살펴봅니다.",
+    "title": "Gedanken ausdrücken",
+    "explanation": "Wir betrachten Ausdrücke, um eigene Gedanken oder Gefühle in Form eines Zitats zu äußern."
+  },
+  {
+    "id": "quotations_rago_name",
+    "title_ko": "인용: -라고 하다 (이름)",
+    "description_ko": "이름·호칭을 소개할 때 쓰는 표현을 연습합니다.",
+    "title": "Namen nennen (-라고 하다)",
+    "explanation": "Wir üben Ausdrücke, die verwendet werden, um Namen oder Titel vorzustellen."
+  },
+  {
+    "id": "quotations_rago_command",
+    "title_ko": "인용: -라고 하다 (명령·부탁)",
+    "description_ko": "명령·부탁 내용을 인용해서 전달하는 문장을 살펴봅니다.",
+    "title": "Befehle zitieren",
+    "explanation": "Wir schauen uns Sätze an, die Befehle oder Bitten zitieren und übermitteln."
+  },
+  {
+    "id": "sentence_basic_order_intro",
+    "title_ko": "기본 문장 구조 (SOV)",
+    "description_ko": "한국어 문장은 보통 주어-목적어-동사(SOV) 순서로 구성됩니다.",
+    "title": "Satzstruktur (SOV)",
+    "explanation": "Koreanische Sätze sind normalerweise in der Reihenfolge Subjekt-Objekt-Verb (SOV) aufgebaut."
+  },
+  {
+    "id": "sentence_elements_subject_object",
+    "title_ko": "문장 성분: 주어와 목적어",
+    "description_ko": "주어는 행동의 주체, 목적어는 행동의 대상을 나타냅니다.",
+    "title": "Satzglieder: Subjekt/Objekt",
+    "explanation": "Das Subjekt ist der Träger der Handlung, und das Objekt ist das Ziel der Handlung."
+  },
+  {
+    "id": "sentence_elements_adverbial_complement",
+    "title_ko": "문장 성분: 부사어와 보어",
+    "description_ko": "부사어는 시간·장소·방법 등을, 보어는 주어나 목적어를 보충 설명합니다.",
+    "title": "Adverbiale und Ergänzungen",
+    "explanation": "Adverbiale geben Zeit, Ort, Art und Weise an, während Ergänzungen das Subjekt oder Objekt näher erläutern."
+  },
+  {
+    "id": "sentence_types_declarative_interrogative_imperative",
+    "title_ko": "문장 유형: 평서문, 의문문, 명령문",
+    "description_ko": "평서문은 사실을 말하고, 의문문은 질문을, 명령문은 부탁이나 지시를 표현합니다.",
+    "title": "Satzarten",
+    "explanation": "Aussagesätze nennen Fakten, Fragesätze stellen Fragen, und Befehlssätze drücken Bitten oder Anweisungen aus."
+  },
+  {
+    "id": "sentence_basic_order_subject_drop",
+    "title_ko": "기본 어순: 주어 생략",
+    "description_ko": "기본 어순에서 주어를 생략하는 자연스러운 문장을 연습합니다.",
+    "title": "Auslassen des Subjekts",
+    "explanation": "Wir üben natürliche Sätze, bei denen das Subjekt in der Grundwortstellung weggelassen wird."
+  },
+  {
+    "id": "sentence_basic_order_object_drop",
+    "title_ko": "기본 어순: 목적어 생략",
+    "description_ko": "맥락 속에서 목적어를 생략하는 표현을 살펴봅니다.",
+    "title": "Auslassen des Objekts",
+    "explanation": "Wir betrachten Ausdrücke, bei denen das Objekt im Kontext weggelassen wird."
+  },
+  {
+    "id": "sentence_basic_order_adverb_position",
+    "title_ko": "기본 어순: 부사어 위치",
+    "description_ko": "시간·장소·빈도 부사어가 문장 안에서 어디에 오는지 연습합니다.",
+    "title": "Position der Adverbiale",
+    "explanation": "Wir üben, wo Adverbiale für Zeit, Ort und Häufigkeit im Satz stehen."
+  },
+  {
+    "id": "sentence_elements_time_place",
+    "title_ko": "문장 성분: 시간과 장소",
+    "description_ko": "언제, 어디에서를 나타내는 성분의 위치를 익힙니다.",
+    "title": "Zeit und Ort",
+    "explanation": "Wir lernen die Position der Satzglieder, die ‘wann’ und ‘wo’ angeben."
+  },
+  {
+    "id": "sentence_elements_indirect_object",
+    "title_ko": "문장 성분: 간접목적어",
+    "description_ko": "‘에게, 한테’ 등 간접목적어 표현을 연습합니다.",
+    "title": "Indirektes Objekt",
+    "explanation": "Wir üben Ausdrücke für das indirekte Objekt wie ‘에게’ oder ‘한테’."
+  },
+  {
+    "id": "sentence_types_question_endings",
+    "title_ko": "문장 유형: 의문문 어미",
+    "description_ko": "존댓말 의문문 어미와 자연스러운 질문 패턴을 살펴봅니다.",
+    "title": "Frageendungen",
+    "explanation": "Wir schauen uns die Frageendungen in der Höflichkeitsform und natürliche Fragemuster an."
+  },
+  {
+    "id": "sentence_types_request_suggestion",
+    "title_ko": "문장 유형: 부탁과 제안",
+    "description_ko": "부탁·제안을 공손하게 표현하는 문장 유형을 연습합니다.",
+    "title": "Bitten und Vorschläge",
+    "explanation": "Wir üben Satzarten, um Bitten und Vorschläge höflich auszudrücken."
+  },
+  {
+    "id": "tenses_present_basic",
+    "title_ko": "현재 시제: -아요/어요",
+    "description_ko": "현재 시제는 보통 동사 어간 뒤에 -아요/어요를 붙여서 표현합니다.",
+    "title": "Präsens: -아요/어요",
+    "explanation": "Das Präsens wird normalerweise gebildet, indem man -아요/어요 an den Verbstamm anhängt."
+  },
+  {
+    "id": "tenses_past_basic",
+    "title_ko": "과거 시제: -았/었어요",
+    "description_ko": "과거 시제는 동작이나 상태가 과거에 일어났음을 나타냅니다.",
+    "title": "Vergangenheit: -았/었어요",
+    "explanation": "Die Vergangenheitsform zeigt an, dass eine Handlung oder ein Zustand in der Vergangenheit stattfand."
+  },
+  {
+    "id": "tenses_future_basic",
+    "title_ko": "미래 시제: -ㄹ/을 거예요",
+    "description_ko": "미래 시제는 앞으로 일어날 일이나 계획을 말할 때 사용합니다.",
+    "title": "Zukunft: -ㄹ/을 거예요",
+    "explanation": "Die Zukunftsform wird verwendet, um über Dinge zu sprechen, die passieren werden, oder über Pläne."
+  },
+  {
+    "id": "tenses_progressive_basic",
+    "title_ko": "진행 시제: -고 있어요",
+    "description_ko": "진행 시제는 동작이 지금 한창 진행 중임을 나타냅니다.",
+    "title": "Verlaufsform: -고 있어요",
+    "explanation": "Die Verlaufsform zeigt an, dass eine Handlung gerade im Gange ist."
+  },
+  {
+    "id": "tenses_experiential_basic",
+    "title_ko": "경험 표현: -아/어 본 적이 있다",
+    "description_ko": "‘-아/어 본 적이 있다’는 어떤 경험을 해 본 적이 있음을 나타냅니다.",
+    "title": "Erfahrung: -본 적이 있다",
+    "explanation": "‘-아/어 본 적이 있다’ drückt aus, dass man eine bestimmte Erfahrung gemacht hat."
+  },
+  {
+    "id": "tenses_present_state_habit",
+    "title_ko": "현재 시제: 상태·습관",
+    "description_ko": "현재의 상태와 반복되는 습관을 표현하는 문장을 연습합니다.",
+    "title": "Präsens: Zustand/Gewohnheit",
+    "explanation": "Wir üben Sätze, die den aktuellen Zustand und wiederkehrende Gewohnheiten ausdrücken."
+  },
+  {
+    "id": "tenses_present_future_use",
+    "title_ko": "현재 시제: 가까운 미래",
+    "description_ko": "일정이나 약속 등 가까운 미래를 현재 시제로 말하는 표현을 살펴봅니다.",
+    "title": "Präsens für nahe Zukunft",
+    "explanation": "Wir betrachten Ausdrücke, die das Präsens nutzen, um über die nahe Zukunft, wie Termine oder Verabredungen, zu sprechen."
+  },
+  {
+    "id": "tenses_past_experience",
+    "title_ko": "과거 시제: 단순 과거와 경험",
+    "description_ko": "단순히 과거 사실을 말하는 표현과 경험을 말하는 표현을 비교합니다.",
+    "title": "Vergangenheit vs. Erfahrung",
+    "explanation": "Wir vergleichen Ausdrücke, die einfache Fakten der Vergangenheit nennen, mit solchen, die Erfahrungen beschreiben."
+  },
+  {
+    "id": "tenses_past_background",
+    "title_ko": "과거 시제: 배경 설명",
+    "description_ko": "과거 상황을 배경으로 깔고 다른 사건을 설명하는 표현을 연습합니다.",
+    "title": "Vergangenheit als Hintergrund",
+    "explanation": "Wir üben Ausdrücke, die eine vergangene Situation als Hintergrund nutzen, um ein anderes Ereignis zu erklären."
+  },
+  {
+    "id": "tenses_future_plan_intent",
+    "title_ko": "미래 시제: 계획과 의도",
+    "description_ko": "계획·의도를 나타내는 미래 시제 표현을 연습합니다.",
+    "title": "Zukunft: Plan und Absicht",
+    "explanation": "Wir üben Zukunftsformen, die Pläne oder Absichten ausdrücken."
+  },
+  {
+    "id": "tenses_future_guess",
+    "title_ko": "미래 시제: 추측",
+    "description_ko": "추측이나 예상에 쓰이는 미래 시제를 살펴봅니다.",
+    "title": "Zukunft: Vermutung",
+    "explanation": "Wir schauen uns Zukunftsformen an, die für Vermutungen oder Vorhersagen verwendet werden."
+  },
+  {
+    "id": "tenses_progressive_now",
+    "title_ko": "진행: 지금 하고 있는 일",
+    "description_ko": "지금 진행 중인 동작을 자연스럽게 표현하는 연습입니다.",
+    "title": "Laufende Handlung",
+    "explanation": "Dies ist eine Übung, um Handlungen, die gerade stattfinden, natürlich auszudrücken."
+  },
+  {
+    "id": "tenses_progressive_repeated",
+    "title_ko": "진행: 반복되는 행동",
+    "description_ko": "습관처럼 반복되는 행동에 진행 표현이 쓰이는 예를 살펴봅니다.",
+    "title": "Wiederholte Handlung",
+    "explanation": "Wir betrachten Beispiele, in denen die Verlaufsform für gewohnheitsmäßig wiederholte Handlungen verwendet wird."
+  },
+  {
+    "id": "tenses_experiential_experience",
+    "title_ko": "경험: ~아/어 본 적 있다",
+    "description_ko": "해 본 적이 있는 경험을 말하는 표현을 연습합니다.",
+    "title": "Erfahrung haben",
+    "explanation": "Wir üben Ausdrücke, um über Erfahrungen zu sprechen, die man bereits gemacht hat."
+  },
+  {
+    "id": "tenses_experiential_never",
+    "title_ko": "경험: ~아/어 본 적 없다",
+    "description_ko": "아직 경험해 보지 못한 일을 말하는 표현을 살펴봅니다.",
+    "title": "Keine Erfahrung haben",
+    "explanation": "Wir schauen uns Ausdrücke an, um über Dinge zu sprechen, die man noch nicht erlebt hat."
+  },
+  {
+    "id": "voice_passive_ajida_basic",
+    "title_ko": "피동: -아/어지다",
+    "description_ko": "‘-아/어지다’는 주로 상태의 변화나 피동(남에 의해 ~되다)을 나타낼 때 사용합니다.",
+    "title": "Passiv: -아/어지다",
+    "explanation": "‘-아/어지다’ wird hauptsächlich verwendet, um eine Zustandsänderung oder das Passiv (durch jemanden getan werden) auszudrücken."
+  },
+  {
+    "id": "voice_causative_gehada_basic",
+    "title_ko": "사동: -게 하다",
+    "description_ko": "‘-게 하다’는 누군가에게 어떤 행동을 하도록 만들거나 시킬 때 사용합니다.",
+    "title": "Kausativ: -게 하다",
+    "explanation": "‘-게 하다’ wird verwendet, wenn man jemanden dazu bringt oder veranlasst, eine bestimmte Handlung auszuführen."
+  },
+  {
+    "id": "voice_passive_ajida_state",
+    "title_ko": "피동: -아/어지다 (상태 변화)",
+    "description_ko": "상태가 바뀌는 상황을 피동 표현으로 말하는 연습입니다.",
+    "title": "Zustandsänderung (Passiv)",
+    "explanation": "Wir üben, Situationen, in denen sich der Zustand ändert, mit Passivausdrücken zu beschreiben."
+  },
+  {
+    "id": "voice_passive_ajida_by",
+    "title_ko": "피동: -아/어지다 (행위자)",
+    "description_ko": "누가 했는지를 ‘에게/에 의해’와 함께 표현하는 문장을 살펴봅니다.",
+    "title": "Passiv mit Akteur",
+    "explanation": "Wir schauen uns Sätze an, die mit ‘에게/에 의해’ ausdrücken, wer die Handlung ausgeführt hat."
+  },
+  {
+    "id": "voice_causative_gehada_request",
+    "title_ko": "사동: -게 하다 (부탁)",
+    "description_ko": "상대에게 어떤 행동을 하게 해 달라고 부탁하는 표현을 연습합니다.",
+    "title": "Kausativ: Bitten",
+    "explanation": "Wir üben Ausdrücke, mit denen man jemanden bittet, eine Handlung zu ermöglichen."
+  },
+  {
+    "id": "voice_causative_gehada_force",
+    "title_ko": "사동: -게 하다 (지시·강제)",
+    "description_ko": "누군가에게 억지로 시키는 뉘앙스를 가진 사동 표현을 살펴봅니다.",
+    "title": "Kausativ: Anweisung/Zwang",
+    "explanation": "Wir betrachten Kausativausdrücke, die die Nuance haben, jemanden zu etwas zu zwingen oder anzuweisen."
+  }
+]

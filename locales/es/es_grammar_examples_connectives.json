@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "Hago ejercicio por la mañana y luego me ducho."
+    },
+    "connectives_go_2": {
+      "translation": "Mi hermano menor hace la tarea y luego ve la televisión."
+    },
+    "connectives_go_3": {
+      "translation": "Como y luego salgo a caminar."
+    },
+    "connectives_go_4": {
+      "translation": "Mi amigo lee un libro y escucha música."
+    },
+    "connectives_go_5": {
+      "translation": "Lavo los platos y hago la colada."
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "Como llovió, me quedé en casa."
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "Como tenía hambre, almorcé temprano."
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "Como había tráfico, llegué tarde."
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "Como estaba cansado, me acosté temprano."
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "Como hacía buen tiempo, salí a caminar."
+    },
+    "connectives_jiman_1": {
+      "translation": "Estoy cansado, pero aun así hice ejercicio."
+    },
+    "connectives_jiman_2": {
+      "translation": "Hace frío, pero salí a caminar."
+    },
+    "connectives_jiman_3": {
+      "translation": "Estoy ocupado, pero me reuní con mi amigo."
+    },
+    "connectives_jiman_4": {
+      "translation": "Está rico, pero un poco picante."
+    },
+    "connectives_jiman_5": {
+      "translation": "Es caro, pero de buena calidad."
+    },
+    "connectives_myeonseo_1": {
+      "translation": "Escucho música mientras estudio."
+    },
+    "connectives_myeonseo_2": {
+      "translation": "Mi hermano menor come mientras ve la televisión."
+    },
+    "connectives_myeonseo_3": {
+      "translation": "Mi amigo habla mientras camina."
+    },
+    "connectives_myeonseo_4": {
+      "translation": "Cocino mientras canto."
+    },
+    "connectives_myeonseo_5": {
+      "translation": "La gente sonríe mientras se toma fotos."
+    },
+    "connectives_geona_1": {
+      "translation": "Los fines de semana veo una película o descanso."
+    },
+    "connectives_geona_2": {
+      "translation": "Mi hermano menor estudia o juega videojuegos."
+    },
+    "connectives_geona_3": {
+      "translation": "Mi amigo lee un libro o escucha música en el café."
+    },
+    "connectives_geona_4": {
+      "translation": "Hago ejercicio o salgo a caminar."
+    },
+    "connectives_geona_5": {
+      "translation": "Tomamos fotos o tomamos café afuera."
+    }
+  }
+}

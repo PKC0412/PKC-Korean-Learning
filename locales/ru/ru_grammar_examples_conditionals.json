@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "Когда идет дождь, я пользуюсь зонтом."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "Если есть время, давай пообедаем вместе."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "Если я приду домой рано, посмотрю фильм."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "Если погода хорошая, я иду гулять."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "Если я занят, сделаю это завтра."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "Если накоплю денег, поеду в путешествие."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "Если заниматься спортом, станешь здоровее."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "Если усердно учиться, оценки улучшатся."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "Если лечь спать рано, завтра будешь чувствовать себя бодрее."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "Если много ходить, устанешь."
+    }
+  }
+}

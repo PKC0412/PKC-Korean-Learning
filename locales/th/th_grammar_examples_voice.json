@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "หน้าต่างถูกเปิด"
+    },
+    "voice_passive_ajida_2": {
+      "translation": "ประตูถูกปิด"
+    },
+    "voice_passive_ajida_3": {
+      "translation": "ไฟถูกปิด"
+    },
+    "voice_passive_ajida_4": {
+      "translation": "อาหารถูกทำเสร็จแล้ว"
+    },
+    "voice_passive_ajida_5": {
+      "translation": "ถนนถูกปิดกั้น"
+    },
+    "voice_causative_gehada_1": {
+      "translation": "ฉันทำให้น้องหัวเราะ"
+    },
+    "voice_causative_gehada_2": {
+      "translation": "คุณครูให้นักเรียนอ่าน"
+    },
+    "voice_causative_gehada_3": {
+      "translation": "ฉันทำให้เพื่อนรอ"
+    },
+    "voice_causative_gehada_4": {
+      "translation": "แม่ให้ฉันนอนเร็ว"
+    },
+    "voice_causative_gehada_5": {
+      "translation": "ฉันสั่งให้ลูกสุนัขนั่ง"
+    }
+  }
+}

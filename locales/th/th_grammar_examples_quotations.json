@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "เพื่อนบอกว่าจะมาสาย"
+    },
+    "quotations_declare_dago_2": {
+      "translation": "แม่บอกว่าอร่อย"
+    },
+    "quotations_declare_dago_3": {
+      "translation": "คุณครูบอกให้เงียบ"
+    },
+    "quotations_declare_dago_4": {
+      "translation": "เพื่อนบอกว่าหนังสนุก"
+    },
+    "quotations_declare_dago_5": {
+      "translation": "น้องบอกว่าเหนื่อย"
+    },
+    "quotations_say_lago_1": {
+      "translation": "ฉันบอกให้เพื่อนมา"
+    },
+    "quotations_say_lago_2": {
+      "translation": "แม่บอกให้ฉันกินข้าว"
+    },
+    "quotations_say_lago_3": {
+      "translation": "คุณครูบอกให้เรียนหนังสือ"
+    },
+    "quotations_say_lago_4": {
+      "translation": "เพื่อนบอกให้ฉันเปิดประตู"
+    },
+    "quotations_say_lago_5": {
+      "translation": "น้องบอกให้รีบมา"
+    }
+  }
+}

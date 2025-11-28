@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "Mi amigo dijo que llegaría tarde."
+    },
+    "quotations_declare_dago_2": {
+      "translation": "Mamá dijo que estaba rico."
+    },
+    "quotations_declare_dago_3": {
+      "translation": "El profesor nos dijo que guardáramos silencio."
+    },
+    "quotations_declare_dago_4": {
+      "translation": "Mi amigo dijo que la película era divertida."
+    },
+    "quotations_declare_dago_5": {
+      "translation": "Mi hermano menor dijo que estaba cansado."
+    },
+    "quotations_say_lago_1": {
+      "translation": "Le dije a mi amigo que viniera."
+    },
+    "quotations_say_lago_2": {
+      "translation": "Mamá me dijo que comiera."
+    },
+    "quotations_say_lago_3": {
+      "translation": "El profesor nos dijo que estudiáramos."
+    },
+    "quotations_say_lago_4": {
+      "translation": "Mi amigo me dijo que abriera la puerta."
+    },
+    "quotations_say_lago_5": {
+      "translation": "Mi hermano menor me dijo que viniera rápido."
+    }
+  }
+}

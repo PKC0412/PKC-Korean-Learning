@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "我早上运动，然后洗澡。"
+    },
+    "connectives_go_2": {
+      "translation": "弟弟做完作业后看电视。"
+    },
+    "connectives_go_3": {
+      "translation": "吃完饭后去散步。"
+    },
+    "connectives_go_4": {
+      "translation": "朋友读书并听音乐。"
+    },
+    "connectives_go_5": {
+      "translation": "我洗碗和洗衣服。"
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "因为下雨，所以待在家里。"
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "因为肚子饿，所以早早就吃了午饭。"
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "因为堵车，所以迟到了。"
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "因为累了，所以早睡了。"
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "因为天气好，所以去散步了。"
+    },
+    "connectives_jiman_1": {
+      "translation": "虽然累，但还是运动了。"
+    },
+    "connectives_jiman_2": {
+      "translation": "虽然冷，但还是出去散步了。"
+    },
+    "connectives_jiman_3": {
+      "translation": "虽然忙，但还是见了朋友。"
+    },
+    "connectives_jiman_4": {
+      "translation": "虽然好吃，但是有点辣。"
+    },
+    "connectives_jiman_5": {
+      "translation": "虽然贵，但是质量好。"
+    },
+    "connectives_myeonseo_1": {
+      "translation": "我一边听音乐一边学习。"
+    },
+    "connectives_myeonseo_2": {
+      "translation": "弟弟一边看电视一边吃饭。"
+    },
+    "connectives_myeonseo_3": {
+      "translation": "朋友一边走一边说话。"
+    },
+    "connectives_myeonseo_4": {
+      "translation": "我一边唱歌一边做饭。"
+    },
+    "connectives_myeonseo_5": {
+      "translation": "人们一边笑一边拍照。"
+    },
+    "connectives_geona_1": {
+      "translation": "我周末看电影或者休息。"
+    },
+    "connectives_geona_2": {
+      "translation": "弟弟学习或者玩游戏。"
+    },
+    "connectives_geona_3": {
+      "translation": "朋友在咖啡馆看书或者听音乐。"
+    },
+    "connectives_geona_4": {
+      "translation": "运动或者去散步。"
+    },
+    "connectives_geona_5": {
+      "translation": "我们在外面拍照或者喝咖啡。"
+    }
+  }
+}

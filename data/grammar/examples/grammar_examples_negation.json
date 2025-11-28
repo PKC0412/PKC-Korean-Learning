@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "examples": [
+    {
+      "id": "negation_an_1",
+      "groupId": "negation_an",
+      "korean": "저는 매운 음식을 안 먹어요.",
+      "romanization": "jeoneun maeun eumsigeul an meogeoyo",
+      "ipa": "tɕʌnɯn mɛun ɯmsiɡɯl an mʌɡʌjo"
+    },
+    {
+      "id": "negation_an_2",
+      "groupId": "negation_an",
+      "korean": "동생은 숙제를 안 해요.",
+      "romanization": "dongsaengeun sukjereul an haeyo",
+      "ipa": "toŋsɛŋɯn suk̚tɕeɾɯl an hɛjo"
+    },
+    {
+      "id": "negation_an_3",
+      "groupId": "negation_an",
+      "korean": "저는 커피를 안 마셔요.",
+      "romanization": "jeoneun keopireul an masyeoyo",
+      "ipa": "tɕʌnɯn kʰʌpʰiɾɯl an maʃʌjo"
+    },
+    {
+      "id": "negation_an_4",
+      "groupId": "negation_an",
+      "korean": "친구는 TV를 안 봐요.",
+      "romanization": "chinguneun tibireul an bwayo",
+      "ipa": "tɕʰiŋɡunɯn tʰiβiɾɯl an bwayo"
+    },
+    {
+      "id": "negation_an_5",
+      "groupId": "negation_an",
+      "korean": "저는 운동을 안 해요.",
+      "romanization": "jeoneun undongeul an haeyo",
+      "ipa": "tɕʌnɯn undoŋɯl an hɛjo"
+    },
+    {
+      "id": "negation_mot_1",
+      "groupId": "negation_mot",
+      "korean": "저는 수영을 잘 못 해요.",
+      "romanization": "jeoneun suyeongeul jal mot haeyo",
+      "ipa": "tɕʌnɯn sujʌŋɯl tɕal motʰɛjo"
+    },
+    {
+      "id": "negation_mot_2",
+      "groupId": "negation_mot",
+      "korean": "동생은 자전거를 못 타요.",
+      "romanization": "dongsaengeun jajeongeoreul mot tayo",
+      "ipa": "toŋsɛŋɯn tɕadʑʌŋɡʌɾɯl motʰa jo"
+    },
+    {
+      "id": "negation_mot_3",
+      "groupId": "negation_mot",
+      "korean": "저는 노래를 못 불러요.",
+      "romanization": "jeoneun noraereul mot bulleoyo",
+      "ipa": "tɕʌnɯn noɾɛɾɯl mot pulːʌjo"
+    },
+    {
+      "id": "negation_mot_4",
+      "groupId": "negation_mot",
+      "korean": "친구는 그림을 못 그려요.",
+      "romanization": "chinguneun geurimeul mot geuryeoyo",
+      "ipa": "tɕʰiŋɡunɯn kɯɾimɯl mot kɯɾjʌjo"
+    },
+    {
+      "id": "negation_mot_5",
+      "groupId": "negation_mot",
+      "korean": "저는 운전을 못 해요.",
+      "romanization": "jeoneun unjeoneul mot haeyo",
+      "ipa": "tɕʌnɯn undʑʌnɯl motʰɛjo"
+    },
+    {
+      "id": "negation_ji_anhda_1",
+      "groupId": "negation_ji_anhda",
+      "korean": "저는 술을 마시지 않아요.",
+      "romanization": "jeoneun sureul masiji anayo",
+      "ipa": "tɕʌnɯn suɾɯl masidʑi ana jo"
+    },
+    {
+      "id": "negation_ji_anhda_2",
+      "groupId": "negation_ji_anhda",
+      "korean": "친구는 아침을 먹지 않아요.",
+      "romanization": "chinguneun achimeul meokji anayo",
+      "ipa": "tɕʰiŋɡunɯn atɕʰimɯl mʌkt͡ɕi ana jo"
+    },
+    {
+      "id": "negation_ji_anhda_3",
+      "groupId": "negation_ji_anhda",
+      "korean": "저는 늦게 자지 않아요.",
+      "romanization": "jeoneun neutge jaji anayo",
+      "ipa": "tɕʌnɯn nɯt̚ke tɕadʑi ana jo"
+    },
+    {
+      "id": "negation_ji_anhda_4",
+      "groupId": "negation_ji_anhda",
+      "korean": "동생은 학교에 가지 않아요.",
+      "romanization": "dongsaengeun hakgyoe gaji anayo",
+      "ipa": "toŋsɛŋɯn hak̚kjo e kadʑi ana jo"
+    },
+    {
+      "id": "negation_ji_anhda_5",
+      "groupId": "negation_ji_anhda",
+      "korean": "저는 고기를 먹지 않아요.",
+      "romanization": "jeoneun gogireul meokji anayo",
+      "ipa": "tɕʌnɯn koɡiɾɯl mʌkt͡ɕi ana jo"
+    },
+    {
+      "id": "negation_ji_mothada_1",
+      "groupId": "negation_ji_mothada",
+      "korean": "저는 매운 음식을 먹지 못해요.",
+      "romanization": "jeoneun maeun eumsigeul meokji mothaeyo",
+      "ipa": "tɕʌnɯn mɛun ɯmsiɡɯl mʌkt͡ɕi motʰɛjo"
+    },
+    {
+      "id": "negation_ji_mothada_2",
+      "groupId": "negation_ji_mothada",
+      "korean": "동생은 계단을 뛰지 못해요.",
+      "romanization": "dongsaengeun gyedaneul ttwijimothaeyo",
+      "ipa": "toŋsɛŋɯn kjɛdanɯl t͈ɥidʑi motʰɛjo"
+    },
+    {
+      "id": "negation_ji_mothada_3",
+      "groupId": "negation_ji_mothada",
+      "korean": "저는 멀리 걷지 못해요.",
+      "romanization": "jeoneun meolli geotji mothaeyo",
+      "ipa": "tɕʌnɯn mʌlːi kʌt͡ɕi motʰɛjo"
+    },
+    {
+      "id": "negation_ji_mothada_4",
+      "groupId": "negation_ji_mothada",
+      "korean": "친구는 높은 곳에 가지 못해요.",
+      "romanization": "chinguneun nopeun gose gaji mothaeyo",
+      "ipa": "tɕʰiŋɡunɯn nopʰɯn kose kadʑi motʰɛjo"
+    },
+    {
+      "id": "negation_ji_mothada_5",
+      "groupId": "negation_ji_mothada",
+      "korean": "저는 무거운 짐을 들지 못해요.",
+      "romanization": "jeoneun mugeoun jimeul deulji mothaeyo",
+      "ipa": "tɕʌnɯn muɡʌun tɕimɯl tɯlt͡ɕi motʰɛjo"
+    }
+  ]
+}

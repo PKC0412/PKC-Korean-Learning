@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "translations": {
+    "ending_polite_ayo_eoyo_1": {
+      "translation": "今日は早く家に帰る。"
+    },
+    "ending_polite_ayo_eoyo_2": {
+      "translation": "友達はカフェでコーヒーを飲んでいる。"
+    },
+    "ending_polite_ayo_eoyo_3": {
+      "translation": "私たちは夕方に運動する。"
+    },
+    "ending_polite_ayo_eoyo_4": {
+      "translation": "私は毎週末映画を見る。"
+    },
+    "ending_polite_ayo_eoyo_5": {
+      "translation": "天気が良い。"
+    },
+    "ending_formal_sumnida_1": {
+      "translation": "私は韓国で働いています。"
+    },
+    "ending_formal_sumnida_2": {
+      "translation": "会議は午後3時に始まります。"
+    },
+    "ending_formal_sumnida_3": {
+      "translation": "私は学生です。"
+    },
+    "ending_formal_sumnida_4": {
+      "translation": "私は今報告書を作成しています。"
+    },
+    "ending_formal_sumnida_5": {
+      "translation": "会議に参加しますか？"
+    }
+  }
+}

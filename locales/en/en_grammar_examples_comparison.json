@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "It's warmer today than it was yesterday."
+    },
+    "comparison_boda_2": {
+      "translation": "I'm taller than my older sister."
+    },
+    "comparison_boda_3": {
+      "translation": "This bag is lighter than that bag."
+    },
+    "comparison_boda_4": {
+      "translation": "This movie is much more interesting than the last one."
+    },
+    "comparison_boda_5": {
+      "translation": "This road is a little quieter than that one."
+    },
+    "comparison_mankeum_1": {
+      "translation": "I'm not as good at cooking as my older sister."
+    },
+    "comparison_mankeum_2": {
+      "translation": "Today is as busy as yesterday."
+    },
+    "comparison_mankeum_3": {
+      "translation": "That athlete got results as good as we expected."
+    },
+    "comparison_mankeum_4": {
+      "translation": "This outfit isn't as warm as I thought."
+    },
+    "comparison_mankeum_5": {
+      "translation": "I'm not as good at English as my friend."
+    },
+    "comparison_cheoreom_1": {
+      "translation": "That child smiles just like an angel."
+    },
+    "comparison_cheoreom_2": {
+      "translation": "This puppy is small and cute like a doll."
+    },
+    "comparison_cheoreom_3": {
+      "translation": "The sky is so beautiful, just like a painting."
+    },
+    "comparison_cheoreom_4": {
+      "translation": "He works like a machine."
+    },
+    "comparison_cheoreom_5": {
+      "translation": "I want to walk freely like the wind."
+    }
+  }
+}

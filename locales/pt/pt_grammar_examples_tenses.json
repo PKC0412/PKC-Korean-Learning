@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "Eu me exercito todos os dias."
+    },
+    "tenses_present_2": {
+      "translation": "Meu irmãozinho está fazendo a lição de casa agora."
+    },
+    "tenses_present_3": {
+      "translation": "Meu amigo trabalha em uma empresa."
+    },
+    "tenses_present_4": {
+      "translation": "Eu descanso em casa."
+    },
+    "tenses_present_5": {
+      "translation": "Nós caminhamos no parque."
+    },
+    "tenses_past_1": {
+      "translation": "Ontem encontrei meu amigo."
+    },
+    "tenses_past_2": {
+      "translation": "Na semana passada, eu assisti a um filme."
+    },
+    "tenses_past_3": {
+      "translation": "Meu irmãozinho tomou café da manhã tarde."
+    },
+    "tenses_past_4": {
+      "translation": "Eu comprei roupas novas."
+    },
+    "tenses_past_5": {
+      "translation": "Viajamos no fim de semana."
+    },
+    "tenses_future_1": {
+      "translation": "Amanhã vou encontrar meu amigo."
+    },
+    "tenses_future_2": {
+      "translation": "Meu irmãozinho vai se mudar na próxima semana."
+    },
+    "tenses_future_3": {
+      "translation": "Este ano vou estudar coreano."
+    },
+    "tenses_future_4": {
+      "translation": "No ano que vem vamos viajar."
+    },
+    "tenses_future_5": {
+      "translation": "Logo vou preparar o jantar."
+    },
+    "tenses_progressive_1": {
+      "translation": "Estou comendo agora."
+    },
+    "tenses_progressive_2": {
+      "translation": "Meu irmãozinho está ouvindo música no quarto."
+    },
+    "tenses_progressive_3": {
+      "translation": "Meu amigo está lendo na biblioteca."
+    },
+    "tenses_progressive_4": {
+      "translation": "Estamos preparando uma reunião."
+    },
+    "tenses_progressive_5": {
+      "translation": "Está chovendo lá fora."
+    },
+    "tenses_experiential_1": {
+      "translation": "Eu já estive na Coreia."
+    },
+    "tenses_experiential_2": {
+      "translation": "Meu amigo já tentou esquiar."
+    },
+    "tenses_experiential_3": {
+      "translation": "Nunca comi comida muito apimentada."
+    },
+    "tenses_experiential_4": {
+      "translation": "Meu irmãozinho já morou no exterior."
+    },
+    "tenses_experiential_5": {
+      "translation": "Eu já toquei violão antes."
+    }
+  }
+}

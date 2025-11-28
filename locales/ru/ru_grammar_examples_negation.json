@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "Я не ем острую пищу."
+    },
+    "negation_an_2": {
+      "translation": "Младший брат не делает домашнее задание."
+    },
+    "negation_an_3": {
+      "translation": "Я не пью кофе."
+    },
+    "negation_an_4": {
+      "translation": "Друг не смотрит телевизор."
+    },
+    "negation_an_5": {
+      "translation": "Я не занимаюсь спортом."
+    },
+    "negation_mot_1": {
+      "translation": "Я не очень хорошо плаваю."
+    },
+    "negation_mot_2": {
+      "translation": "Младший брат не умеет кататься на велосипеде."
+    },
+    "negation_mot_3": {
+      "translation": "Я не очень хорошо пою."
+    },
+    "negation_mot_4": {
+      "translation": "Друг не очень хорошо рисует."
+    },
+    "negation_mot_5": {
+      "translation": "Я не умею водить машину."
+    },
+    "negation_ji_anhda_1": {
+      "translation": "Я не пью алкоголь."
+    },
+    "negation_ji_anhda_2": {
+      "translation": "Друг не завтракает."
+    },
+    "negation_ji_anhda_3": {
+      "translation": "Я не ложусь спать поздно."
+    },
+    "negation_ji_anhda_4": {
+      "translation": "Младший брат не ходит в школу."
+    },
+    "negation_ji_anhda_5": {
+      "translation": "Я не ем мясо."
+    },
+    "negation_ji_mothada_1": {
+      "translation": "Я не могу есть острую пищу."
+    },
+    "negation_ji_mothada_2": {
+      "translation": "Младший брат не может бегать по лестнице."
+    },
+    "negation_ji_mothada_3": {
+      "translation": "Я не могу ходить далеко."
+    },
+    "negation_ji_mothada_4": {
+      "translation": "Друг не может ходить в высокие места."
+    },
+    "negation_ji_mothada_5": {
+      "translation": "Я не могу поднимать тяжелый багаж."
+    }
+  }
+}

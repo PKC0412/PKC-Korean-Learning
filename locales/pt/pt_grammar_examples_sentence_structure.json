@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "Eu bebo café todas as manhãs."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "Meu irmão mais novo encontra um amigo na escola."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "Meu amigo assiste a um filme em casa."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "Nós jantamos à noite."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "O professor ensina coreano aos alunos."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "Eu estudo coreano na escola de manhã."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "Minha irmã mais velha descansa em casa no fim de semana."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "Meu pai trabalha até tarde no escritório."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "Eu dou um presente ao meu amigo."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "Nós conversamos baixinho na cafeteria."
+    },
+    "sentence_structure_types_1": {
+      "translation": "O tempo está realmente bom hoje."
+    },
+    "sentence_structure_types_2": {
+      "translation": "Você tem tempo esta noite?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Por favor, feche a porta."
+    },
+    "sentence_structure_types_4": {
+      "translation": "Vamos comer juntos?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "Não se atrase, venha cedo."
+    }
+  }
+}

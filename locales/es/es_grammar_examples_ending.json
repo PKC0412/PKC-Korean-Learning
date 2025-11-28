@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "translations": {
+    "ending_polite_ayo_eoyo_1": {
+      "translation": "Hoy voy a casa temprano."
+    },
+    "ending_polite_ayo_eoyo_2": {
+      "translation": "Mi amigo está bebiendo café en una cafetería."
+    },
+    "ending_polite_ayo_eoyo_3": {
+      "translation": "Hacemos ejercicio por la tarde."
+    },
+    "ending_polite_ayo_eoyo_4": {
+      "translation": "Veo películas cada fin de semana."
+    },
+    "ending_polite_ayo_eoyo_5": {
+      "translation": "Hace buen tiempo."
+    },
+    "ending_formal_sumnida_1": {
+      "translation": "Trabajo en Corea."
+    },
+    "ending_formal_sumnida_2": {
+      "translation": "La reunión empieza a las 3 p. m."
+    },
+    "ending_formal_sumnida_3": {
+      "translation": "Soy estudiante."
+    },
+    "ending_formal_sumnida_4": {
+      "translation": "Estoy preparando el informe ahora."
+    },
+    "ending_formal_sumnida_5": {
+      "translation": "¿Asiste usted a la reunión?"
+    }
+  }
+}

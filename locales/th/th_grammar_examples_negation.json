@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "ฉันไม่กินอาหารเผ็ด"
+    },
+    "negation_an_2": {
+      "translation": "น้องไม่ทำการบ้าน"
+    },
+    "negation_an_3": {
+      "translation": "ฉันไม่ดื่มกาแฟ"
+    },
+    "negation_an_4": {
+      "translation": "เพื่อนไม่ดูทีวี"
+    },
+    "negation_an_5": {
+      "translation": "ฉันไม่ออกกำลังกาย"
+    },
+    "negation_mot_1": {
+      "translation": "ฉันว่ายน้ำไม่ค่อยเก่ง"
+    },
+    "negation_mot_2": {
+      "translation": "น้องขี่จักรยานไม่เป็น"
+    },
+    "negation_mot_3": {
+      "translation": "ฉันร้องเพลงไม่ค่อยเก่ง"
+    },
+    "negation_mot_4": {
+      "translation": "เพื่อนวาดรูปไม่เก่ง"
+    },
+    "negation_mot_5": {
+      "translation": "ฉันขับรถไม่เป็น"
+    },
+    "negation_ji_anhda_1": {
+      "translation": "ฉันไม่ดื่มเหล้า"
+    },
+    "negation_ji_anhda_2": {
+      "translation": "เพื่อนไม่กินมื้อเช้า"
+    },
+    "negation_ji_anhda_3": {
+      "translation": "ฉันไม่นอนดึก"
+    },
+    "negation_ji_anhda_4": {
+      "translation": "น้องไม่ไปโรงเรียน"
+    },
+    "negation_ji_anhda_5": {
+      "translation": "ฉันไม่กินเนื้อสัตว์"
+    },
+    "negation_ji_mothada_1": {
+      "translation": "ฉันกินอาหารเผ็ดไม่ได้"
+    },
+    "negation_ji_mothada_2": {
+      "translation": "น้องวิ่งขึ้นบันไดไม่ได้"
+    },
+    "negation_ji_mothada_3": {
+      "translation": "ฉันเดินไกลไม่ได้"
+    },
+    "negation_ji_mothada_4": {
+      "translation": "เพื่อนไปที่สูงไม่ได้"
+    },
+    "negation_ji_mothada_5": {
+      "translation": "ฉันยกของหนักไม่ได้"
+    }
+  }
+}

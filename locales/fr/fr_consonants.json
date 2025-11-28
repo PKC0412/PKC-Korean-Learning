@@ -1,0 +1,135 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "Giyeok",
+    "romanization": "g/k",
+    "ipa": "[k/g]",
+    "description": "Un son occlusif simple produit à l'arrière de la langue."
+  },
+  {
+    "char": "ㄴ",
+    "name": "Nieun",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "Un son nasal produit près de la crête alvéolaire."
+  },
+  {
+    "char": "ㄷ",
+    "name": "Digeut",
+    "romanization": "d/t",
+    "ipa": "[t/d]",
+    "description": "Un son occlusif simple produit près de la crête alvéolaire."
+  },
+  {
+    "char": "ㄹ",
+    "name": "Rieul",
+    "romanization": "r/l",
+    "ipa": "[l/r]",
+    "description": "Un son liquide où le bout de la langue tape ou coule près de la crête alvéolaire."
+  },
+  {
+    "char": "ㅁ",
+    "name": "Mieum",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "Un son nasal produit par les lèvres."
+  },
+  {
+    "char": "ㅂ",
+    "name": "Bieup",
+    "romanization": "b/p",
+    "ipa": "[p/b]",
+    "description": "Un son occlusif simple produit en fermant et en relâchant les lèvres."
+  },
+  {
+    "char": "ㅅ",
+    "name": "Siot",
+    "romanization": "s",
+    "ipa": "[s]",
+    "description": "Un son fricatif produit près de la crête alvéolaire."
+  },
+  {
+    "char": "ㅇ",
+    "name": "Ieung",
+    "romanization": "ng",
+    "ipa": "[Ø/-ŋ]",
+    "description": "Silencieux au début d'une syllabe, mais agit comme un son nasal [ng] à la fin (batchim)."
+  },
+  {
+    "char": "ㅈ",
+    "name": "Jieut",
+    "romanization": "j",
+    "ipa": "[ʈʃ/ɖʒ]",
+    "description": "Un son affriqué simple produit en bloquant et en relâchant avec friction."
+  },
+  {
+    "char": "ㅊ",
+    "name": "Chieut",
+    "romanization": "ch",
+    "ipa": "[ʈʃʰ]",
+    "description": "Un son affriqué fort (aspiré)."
+  },
+  {
+    "char": "ㅋ",
+    "name": "Kieuk",
+    "romanization": "k",
+    "ipa": "[kʰ]",
+    "description": "Un son occlusif fort (aspiré) provenant de l'arrière de la langue."
+  },
+  {
+    "char": "ㅌ",
+    "name": "Tieut",
+    "romanization": "t",
+    "ipa": "[tʰ]",
+    "description": "Un son occlusif fort (aspiré) près de la crête alvéolaire."
+  },
+  {
+    "char": "ㅍ",
+    "name": "Pieup",
+    "romanization": "p",
+    "ipa": "[pʰ]",
+    "description": "Un son occlusif fort (aspiré) provenant des lèvres."
+  },
+  {
+    "char": "ㅎ",
+    "name": "Hieut",
+    "romanization": "h",
+    "ipa": "[h]",
+    "description": "Un son fricatif produit dans la gorge."
+  },
+  {
+    "char": "ㄲ",
+    "name": "Ssanggiyeok",
+    "romanization": "kk",
+    "ipa": "[k*]",
+    "description": "Un son tendu produit en doublant le son 'ㄱ'."
+  },
+  {
+    "char": "ㄸ",
+    "name": "Ssangdigeut",
+    "romanization": "tt",
+    "ipa": "[t*]",
+    "description": "Un son tendu produit en doublant le son 'ㄷ'."
+  },
+  {
+    "char": "ㅃ",
+    "name": "Ssangbieup",
+    "romanization": "pp",
+    "ipa": "[p*]",
+    "description": "Un son tendu produit en doublant le son 'ㅂ'."
+  },
+  {
+    "char": "ㅆ",
+    "name": "Ssangsiot",
+    "romanization": "ss",
+    "ipa": "[s*]",
+    "description": "Un son fricatif tendu produit en doublant le son 'ㅅ'."
+  },
+  {
+    "char": "ㅉ",
+    "name": "Ssangjieut",
+    "romanization": "jj",
+    "ipa": "[ʈʃ*]",
+    "description": "Un son affriqué tendu produit en doublant le son 'ㅈ'."
+  }
+]

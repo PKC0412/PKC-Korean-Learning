@@ -1,0 +1,64 @@
+{
+  "units": [
+    {
+      "id": "negation_an_basic",
+      "title": "부정 표현: 안",
+      "description": "동사 앞에 ‘안’을 붙여 간단하게 ‘~하지 않는다’는 의미를 표현할 수 있습니다."
+    },
+    {
+      "id": "negation_mot_basic",
+      "title": "부정 표현: 못",
+      "description": "‘못’은 능력이나 상황 때문에 어떤 행동을 할 수 없음을 나타냅니다."
+    },
+    {
+      "id": "negation_ji_anhda_basic",
+      "title": "부정 표현: -지 않다",
+      "description": "‘-지 않다’는 조금 더 격식 있고 문장형 어미와 잘 어울리는 부정 표현입니다."
+    },
+    {
+      "id": "negation_ji_mothada_basic",
+      "title": "부정 표현: -지 못하다",
+      "description": "‘-지 못하다’는 능력이나 조건 부족으로 인해 할 수 없음을 나타냅니다."
+    },
+    {
+      "id": "negation_an_preference",
+      "title": "부정: 안 + 동사",
+      "description": "선호나 선택을 말할 때 쓰이는 ‘안’ + 동사를 연습합니다."
+    },
+    {
+      "id": "negation_an_adjective",
+      "title": "부정: 안 + 형용사",
+      "description": "성질·상태를 부정할 때 쓰이는 ‘안’ + 형용사를 살펴봅니다."
+    },
+    {
+      "id": "negation_mot_ability",
+      "title": "부정: 못 (능력 부족)",
+      "description": "능력이 없어서 할 수 없음을 나타내는 표현을 연습합니다."
+    },
+    {
+      "id": "negation_mot_situation",
+      "title": "부정: 못 (상황·조건)",
+      "description": "상황이나 조건 때문에 할 수 없음을 말하는 표현입니다."
+    },
+    {
+      "id": "negation_ji_anhda_formal",
+      "title": "부정: -지 않다 (격식체)",
+      "description": "격식 있고 문어적인 느낌을 주는 ‘-지 않다’ 표현을 연습합니다."
+    },
+    {
+      "id": "negation_ji_anhda_emphasis",
+      "title": "부정: -지 않다 (강조)",
+      "description": "강하게 부정하거나 의견을 강조할 때 쓰이는 표현을 살펴봅니다."
+    },
+    {
+      "id": "negation_ji_mothada_formal",
+      "title": "부정: -지 못하다 (격식체)",
+      "description": "격식 있는 문장에서 쓰이는 ‘-지 못하다’ 표현을 연습합니다."
+    },
+    {
+      "id": "negation_ji_mothada_regret",
+      "title": "부정: -지 못하다 (유감)",
+      "description": "하지 못한 일에 대한 아쉬움·후회를 표현하는 문장을 연습합니다."
+    }
+  ]
+}

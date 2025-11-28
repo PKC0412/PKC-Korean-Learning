@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "Het raam werd geopend."
+    },
+    "voice_passive_ajida_2": {
+      "translation": "De deur werd gesloten."
+    },
+    "voice_passive_ajida_3": {
+      "translation": "Het licht werd uitgedaan."
+    },
+    "voice_passive_ajida_4": {
+      "translation": "Het eten werd klaargemaakt."
+    },
+    "voice_passive_ajida_5": {
+      "translation": "De weg werd afgesloten."
+    },
+    "voice_causative_gehada_1": {
+      "translation": "Ik liet mijn broertje lachen."
+    },
+    "voice_causative_gehada_2": {
+      "translation": "De leraar liet de leerlingen lezen."
+    },
+    "voice_causative_gehada_3": {
+      "translation": "Ik liet mijn vriend wachten."
+    },
+    "voice_causative_gehada_4": {
+      "translation": "Mijn moeder liet mij vroeg naar bed gaan."
+    },
+    "voice_causative_gehada_5": {
+      "translation": "Ik liet de puppy zitten."
+    }
+  }
+}

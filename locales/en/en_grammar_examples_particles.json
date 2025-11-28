@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "I go to school."
+    },
+    "particles_case_2": {
+      "translation": "My friend called me."
+    },
+    "particles_case_3": {
+      "translation": "My younger sibling reads a book in the room."
+    },
+    "particles_case_4": {
+      "translation": "I go to work at the company."
+    },
+    "particles_case_5": {
+      "translation": "We exercise every weekend."
+    },
+    "particles_auxiliary_1": {
+      "translation": "I like coffee."
+    },
+    "particles_auxiliary_2": {
+      "translation": "My friend also watched a movie."
+    },
+    "particles_auxiliary_3": {
+      "translation": "I only drink water."
+    },
+    "particles_auxiliary_4": {
+      "translation": "My younger sibling didn’t even eat a meal."
+    },
+    "particles_auxiliary_5": {
+      "translation": "I only read books."
+    },
+    "particles_conjunctive_1": {
+      "translation": "I eat with my friend."
+    },
+    "particles_conjunctive_2": {
+      "translation": "We went on a trip with our family."
+    },
+    "particles_conjunctive_3": {
+      "translation": "My younger sibling plays with the puppy."
+    },
+    "particles_conjunctive_4": {
+      "translation": "I like kimchi and bulgogi."
+    },
+    "particles_conjunctive_5": {
+      "translation": "My friend talked with the teacher."
+    }
+  }
+}

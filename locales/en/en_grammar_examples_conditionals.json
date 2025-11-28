@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "When it rains, I use an umbrella."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "If you have time, let's have lunch together."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "If I come home early, I watch a movie."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "If the weather is nice, I go for a walk."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "If I'm busy, I'll do it tomorrow."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "If I save money, I will go on a trip."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "If I exercise, I will become healthier."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "If I study hard, my grades will improve."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "If I go to bed early, I'll feel more refreshed tomorrow."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "If I walk a lot, I'll get tired."
+    }
+  }
+}

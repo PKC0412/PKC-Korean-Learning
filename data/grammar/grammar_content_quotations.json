@@ -1,0 +1,34 @@
+{
+  "units": [
+    {
+      "id": "quotations_dago_basic",
+      "title": "인용 표현: -다고 하다 (평서 인용)",
+      "description": "‘-다고 하다’는 다른 사람이 한 말을 간접적으로 전할 때 사용하는 표현입니다."
+    },
+    {
+      "id": "quotations_rago_basic",
+      "title": "인용 표현: -라고 하다 (말하기)",
+      "description": "‘-라고 하다’는 이름, 말, 생각 등의 내용을 인용할 때 사용합니다."
+    },
+    {
+      "id": "quotations_dago_report",
+      "title": "인용: -다고 하다 (전달)",
+      "description": "남의 말을 전할 때 쓰는 ‘-다고 하다’ 표현을 연습합니다."
+    },
+    {
+      "id": "quotations_dago_think",
+      "title": "인용: -다고 생각하다",
+      "description": "자신의 생각·느낌을 인용문 형태로 말하는 표현을 살펴봅니다."
+    },
+    {
+      "id": "quotations_rago_name",
+      "title": "인용: -라고 하다 (이름)",
+      "description": "이름·호칭을 소개할 때 쓰는 표현을 연습합니다."
+    },
+    {
+      "id": "quotations_rago_command",
+      "title": "인용: -라고 하다 (명령·부탁)",
+      "description": "명령·부탁 내용을 인용해서 전달하는 문장을 살펴봅니다."
+    }
+  ]
+}

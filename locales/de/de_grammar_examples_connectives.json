@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "Ich mache morgens Sport und dusche dann."
+    },
+    "connectives_go_2": {
+      "translation": "Mein jüngeres Geschwisterchen macht Hausaufgaben und schaut dann fern."
+    },
+    "connectives_go_3": {
+      "translation": "Ich esse und gehe dann spazieren."
+    },
+    "connectives_go_4": {
+      "translation": "Mein Freund liest ein Buch und hört Musik."
+    },
+    "connectives_go_5": {
+      "translation": "Ich spüle das Geschirr und mache die Wäsche."
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "Weil es geregnet hat, bin ich zu Hause geblieben."
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "Weil ich hungrig war, habe ich früh zu Mittag gegessen."
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "Weil die Straße verstopft war, bin ich spät angekommen."
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "Weil ich müde war, bin ich früh ins Bett gegangen."
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "Weil das Wetter gut war, bin ich spazieren gegangen."
+    },
+    "connectives_jiman_1": {
+      "translation": "Ich bin müde, aber ich habe trotzdem Sport gemacht."
+    },
+    "connectives_jiman_2": {
+      "translation": "Es ist kalt, aber ich bin spazieren gegangen."
+    },
+    "connectives_jiman_3": {
+      "translation": "Ich bin beschäftigt, aber ich habe meinen Freund getroffen."
+    },
+    "connectives_jiman_4": {
+      "translation": "Es ist lecker, aber ein bisschen scharf."
+    },
+    "connectives_jiman_5": {
+      "translation": "Es ist teuer, aber die Qualität ist gut."
+    },
+    "connectives_myeonseo_1": {
+      "translation": "Ich höre Musik, während ich lerne."
+    },
+    "connectives_myeonseo_2": {
+      "translation": "Mein jüngeres Geschwisterchen isst, während es fernsieht."
+    },
+    "connectives_myeonseo_3": {
+      "translation": "Mein Freund redet beim Gehen."
+    },
+    "connectives_myeonseo_4": {
+      "translation": "Ich koche, während ich singe."
+    },
+    "connectives_myeonseo_5": {
+      "translation": "Die Leute lächeln, während sie Fotos machen."
+    },
+    "connectives_geona_1": {
+      "translation": "Am Wochenende schaue ich einen Film oder ruhe mich aus."
+    },
+    "connectives_geona_2": {
+      "translation": "Mein jüngeres Geschwisterchen lernt oder spielt Spiele."
+    },
+    "connectives_geona_3": {
+      "translation": "Mein Freund liest ein Buch oder hört Musik im Café."
+    },
+    "connectives_geona_4": {
+      "translation": "Ich mache Sport oder gehe spazieren."
+    },
+    "connectives_geona_5": {
+      "translation": "Wir machen draußen Fotos oder trinken Kaffee."
+    }
+  }
+}

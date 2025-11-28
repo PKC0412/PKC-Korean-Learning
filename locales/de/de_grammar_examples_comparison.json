@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "Heute ist das Wetter wärmer als gestern."
+    },
+    "comparison_boda_2": {
+      "translation": "Ich bin größer als meine ältere Schwester."
+    },
+    "comparison_boda_3": {
+      "translation": "Diese Tasche ist leichter als jene Tasche."
+    },
+    "comparison_boda_4": {
+      "translation": "Dieser Film ist viel interessanter als der letzte."
+    },
+    "comparison_boda_5": {
+      "translation": "Diese Straße ist etwas ruhiger als jene Straße."
+    },
+    "comparison_mankeum_1": {
+      "translation": "Ich kann nicht so gut kochen wie meine ältere Schwester."
+    },
+    "comparison_mankeum_2": {
+      "translation": "Heute ist es genauso beschäftigt wie gestern."
+    },
+    "comparison_mankeum_3": {
+      "translation": "Dieser Sportler hat Ergebnisse erzielt, die so gut waren, wie wir erwartet hatten."
+    },
+    "comparison_mankeum_4": {
+      "translation": "Dieses Outfit ist nicht so warm, wie ich dachte."
+    },
+    "comparison_mankeum_5": {
+      "translation": "Ich bin in Englisch nicht so gut wie mein Freund."
+    },
+    "comparison_cheoreom_1": {
+      "translation": "Dieses Kind lächelt wirklich wie ein Engel."
+    },
+    "comparison_cheoreom_2": {
+      "translation": "Dieser Welpe ist klein und niedlich wie eine Puppe."
+    },
+    "comparison_cheoreom_3": {
+      "translation": "Der Himmel ist so schön, genau wie ein Gemälde."
+    },
+    "comparison_cheoreom_4": {
+      "translation": "Er arbeitet wirklich wie eine Maschine."
+    },
+    "comparison_cheoreom_5": {
+      "translation": "Ich möchte frei wie der Wind laufen."
+    }
+  }
+}

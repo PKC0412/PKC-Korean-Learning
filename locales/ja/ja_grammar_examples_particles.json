@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "私は学校へ行く。"
+    },
+    "particles_case_2": {
+      "translation": "友達が私に電話した。"
+    },
+    "particles_case_3": {
+      "translation": "弟は部屋で本を読んでいる。"
+    },
+    "particles_case_4": {
+      "translation": "私は会社に仕事に行く。"
+    },
+    "particles_case_5": {
+      "translation": "毎週末運動する。"
+    },
+    "particles_auxiliary_1": {
+      "translation": "私はコーヒーが好きだ。"
+    },
+    "particles_auxiliary_2": {
+      "translation": "友達も映画を見た。"
+    },
+    "particles_auxiliary_3": {
+      "translation": "私は水だけ飲む。"
+    },
+    "particles_auxiliary_4": {
+      "translation": "弟はご飯さえ食べなかった。"
+    },
+    "particles_auxiliary_5": {
+      "translation": "私は本だけ読む。"
+    },
+    "particles_conjunctive_1": {
+      "translation": "私は友達と食事する。"
+    },
+    "particles_conjunctive_2": {
+      "translation": "私たちは家族と旅行した。"
+    },
+    "particles_conjunctive_3": {
+      "translation": "弟は子犬と遊ぶ。"
+    },
+    "particles_conjunctive_4": {
+      "translation": "私はキムチとプルコギが好きだ。"
+    },
+    "particles_conjunctive_5": {
+      "translation": "友達は先生と話した。"
+    }
+  }
+}

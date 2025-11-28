@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "German": "Hallo / Guten Tag",
+    "romanization": "annyeonghaseyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "German": "Auf Wiedersehen (Gehender)",
+    "romanization": "annyeonghi gaseyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "German": "Auf Wiedersehen (Bleibender)",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "안녕",
+    "German": "Hallo / Tschüss",
+    "romanization": "annyeong",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "감사합니다",
+    "German": "Vielen Dank",
+    "romanization": "gamsahamnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "고맙습니다",
+    "German": "Danke",
+    "romanization": "gomapseumnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "고마워요",
+    "German": "Danke dir",
+    "romanization": "gomawoyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "죄송합니다",
+    "German": "Es tut mir leid",
+    "romanization": "joesonghamnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "미안합니다",
+    "German": "Entschuldigung",
+    "romanization": "mianhamnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "미안해요",
+    "German": "Sorry / Entschuldigung",
+    "romanization": "mianhaeyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "반갑습니다",
+    "German": "Schön, Sie kennenzulernen",
+    "romanization": "bangapseumnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "German": "Freut mich, Sie zu treffen",
+    "romanization": "mannaseo bangawoyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "실례합니다",
+    "German": "Entschuldigen Sie",
+    "romanization": "sillyehamnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "저기요",
+    "German": "Entschuldigung (um Aufmerksamkeit zu erregen)",
+    "romanization": "jeogiyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "어서 오세요",
+    "German": "Willkommen",
+    "romanization": "eoseo oseyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "German": "Gute Nacht",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "잘 자요",
+    "German": "Schlaf gut",
+    "romanization": "jal jayo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "German": "Guten Appetit",
+    "romanization": "masitge deuseyo",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "German": "Ich werde gut essen (Danke für das Essen)",
+    "romanization": "jal meokgetseumnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "German": "Ich habe gut gegessen (Danke für das Essen)",
+    "romanization": "jal meogeotseumnida",
+    "category": "Begrüßung"
+  },
+  {
+    "korean": "네",
+    "German": "Ja",
+    "romanization": "ne",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "아니요",
+    "German": "Nein",
+    "romanization": "aniyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "괜찮아요",
+    "German": "Es ist in Ordnung / Alles gut",
+    "romanization": "gwaenchanayo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "좋아요",
+    "German": "Gut / Ich mag es",
+    "romanization": "joayo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "싫어요",
+    "German": "Ich mag es nicht / Ich will nicht",
+    "romanization": "sileoyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "천만에요",
+    "German": "Gern geschehen",
+    "romanization": "cheonmaneyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "잠깐만요",
+    "German": "Einen Moment bitte",
+    "romanization": "jamkkanmanyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "알겠습니다",
+    "German": "Verstanden",
+    "romanization": "algesseumnida",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "모르겠어요",
+    "German": "Ich weiß es nicht",
+    "romanization": "moreugesseoyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "도와주세요",
+    "German": "Helfen Sie mir bitte",
+    "romanization": "dowajuseyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "됐어요",
+    "German": "Es reicht / Schon gut",
+    "romanization": "dwaesseoyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "안 돼요",
+    "German": "Das geht nicht / Nein",
+    "romanization": "an dwaeyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "맞아요",
+    "German": "Das stimmt",
+    "romanization": "majayo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "틀렸어요",
+    "German": "Das ist falsch",
+    "romanization": "teullyeosseoyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "그래요",
+    "German": "Ach so / Wirklich?",
+    "romanization": "geuraeyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "정말요",
+    "German": "Wirklich?",
+    "romanization": "jeongmallyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "진짜요",
+    "German": "Echt?",
+    "romanization": "jinjjayo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "그럼요",
+    "German": "Natürlich",
+    "romanization": "geureomyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "아마도",
+    "German": "Vielleicht",
+    "romanization": "amado",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "글쎄요",
+    "German": "Nun ja / Ich bin mir nicht sicher",
+    "romanization": "geulsseyo",
+    "category": "Grundwortschatz"
+  },
+  {
+    "korean": "물",
+    "German": "Wasser",
+    "romanization": "mul",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "밥",
+    "German": "Reis / Essen",
+    "romanization": "bap",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "김밥",
+    "German": "Kimbap",
+    "romanization": "gimbap",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "라면",
+    "German": "Ramyun / Instant-Nudeln",
+    "romanization": "ramyeon",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "김치",
+    "German": "Kimchi",
+    "romanization": "gimchi",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "커피",
+    "German": "Kaffee",
+    "romanization": "keopi",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "차",
+    "German": "Tee",
+    "romanization": "cha",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "우유",
+    "German": "Milch",
+    "romanization": "uyu",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "주스",
+    "German": "Saft",
+    "romanization": "juseu",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "맥주",
+    "German": "Bier",
+    "romanization": "maekju",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "빵",
+    "German": "Brot",
+    "romanization": "ppang",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "과자",
+    "German": "Snack / Keks",
+    "romanization": "gwaja",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "사탕",
+    "German": "Bonbon",
+    "romanization": "satang",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "고기",
+    "German": "Fleisch",
+    "romanization": "gogi",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "치킨",
+    "German": "Hähnchen",
+    "romanization": "chikin",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "계란",
+    "German": "Ei",
+    "romanization": "gyeran",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "과일",
+    "German": "Obst",
+    "romanization": "gwail",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "사과",
+    "German": "Apfel",
+    "romanization": "sagwa",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "바나나",
+    "German": "Banane",
+    "romanization": "banana",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "야채",
+    "German": "Gemüse",
+    "romanization": "yachae",
+    "category": "Essen & Trinken"
+  },
+  {
+    "korean": "사람",
+    "German": "Mensch / Person",
+    "romanization": "saram",
+    "category": "Menschen"
+  },
+  {
+    "korean": "친구",
+    "German": "Freund",
+    "romanization": "chingu",
+    "category": "Menschen"
+  },
+  {
+    "korean": "가족",
+    "German": "Familie",
+    "romanization": "gajok",
+    "category": "Menschen"
+  },
+  {
+    "korean": "엄마",
+    "German": "Mama",
+    "romanization": "eomma",
+    "category": "Menschen"
+  },
+  {
+    "korean": "아빠",
+    "German": "Papa",
+    "romanization": "appa",
+    "category": "Menschen"
+  },
+  {
+    "korean": "부모님",
+    "German": "Eltern",
+    "romanization": "bumonim",
+    "category": "Menschen"
+  },
+  {
+    "korean": "형",
+    "German": "Großer Bruder (für Männer)",
+    "romanization": "hyeong",
+    "category": "Menschen"
+  },
+  {
+    "korean": "오빠",
+    "German": "Großer Bruder (für Frauen)",
+    "romanization": "oppa",
+    "category": "Menschen"
+  },
+  {
+    "korean": "누나",
+    "German": "Große Schwester (für Männer)",
+    "romanization": "nuna",
+    "category": "Menschen"
+  },
+  {
+    "korean": "언니",
+    "German": "Große Schwester (für Frauen)",
+    "romanization": "eonni",
+    "category": "Menschen"
+  },
+  {
+    "korean": "동생",
+    "German": "Jüngeres Geschwister",
+    "romanization": "dongsaeng",
+    "category": "Menschen"
+  },
+  {
+    "korean": "선생님",
+    "German": "Lehrer",
+    "romanization": "seonsaengnim",
+    "category": "Menschen"
+  },
+  {
+    "korean": "학생",
+    "German": "Schüler / Student",
+    "romanization": "haksaeng",
+    "category": "Menschen"
+  },
+  {
+    "korean": "남자",
+    "German": "Mann",
+    "romanization": "namja",
+    "category": "Menschen"
+  },
+  {
+    "korean": "여자",
+    "German": "Frau",
+    "romanization": "yeoja",
+    "category": "Menschen"
+  },
+  {
+    "korean": "아이",
+    "German": "Kind",
+    "romanization": "ai",
+    "category": "Menschen"
+  },
+  {
+    "korean": "아기",
+    "German": "Baby",
+    "romanization": "agi",
+    "category": "Menschen"
+  },
+  {
+    "korean": "할아버지",
+    "German": "Großvater",
+    "romanization": "harabeoji",
+    "category": "Menschen"
+  },
+  {
+    "korean": "할머니",
+    "German": "Großmutter",
+    "romanization": "halmeoni",
+    "category": "Menschen"
+  },
+  {
+    "korean": "손님",
+    "German": "Gast / Kunde",
+    "romanization": "sonnim",
+    "category": "Menschen"
+  },
+  {
+    "korean": "집",
+    "German": "Haus / Zuhause",
+    "romanization": "jip",
+    "category": "Orte"
+  },
+  {
+    "korean": "학교",
+    "German": "Schule",
+    "romanization": "hakgyo",
+    "category": "Orte"
+  },
+  {
+    "korean": "병원",
+    "German": "Krankenhaus",
+    "romanization": "byeongwon",
+    "category": "Orte"
+  },
+  {
+    "korean": "약국",
+    "German": "Apotheke",
+    "romanization": "yakguk",
+    "category": "Orte"
+  },
+  {
+    "korean": "식당",
+    "German": "Restaurant",
+    "romanization": "sikdang",
+    "category": "Orte"
+  },
+  {
+    "korean": "카페",
+    "German": "Café",
+    "romanization": "kape",
+    "category": "Orte"
+  },
+  {
+    "korean": "화장실",
+    "German": "Toilette",
+    "romanization": "hwajangsil",
+    "category": "Orte"
+  },
+  {
+    "korean": "은행",
+    "German": "Bank",
+    "romanization": "eunhaeng",
+    "category": "Orte"
+  },
+  {
+    "korean": "공항",
+    "German": "Flughafen",
+    "romanization": "gonghang",
+    "category": "Orte"
+  },
+  {
+    "korean": "호텔",
+    "German": "Hotel",
+    "romanization": "hotel",
+    "category": "Orte"
+  },
+  {
+    "korean": "시장",
+    "German": "Markt",
+    "romanization": "sijang",
+    "category": "Orte"
+  },
+  {
+    "korean": "백화점",
+    "German": "Kaufhaus",
+    "romanization": "baekwajeom",
+    "category": "Orte"
+  },
+  {
+    "korean": "편의점",
+    "German": "Gemischtwarenladen / Convenience Store",
+    "romanization": "pyeonuijeom",
+    "category": "Orte"
+  },
+  {
+    "korean": "회사",
+    "German": "Firma",
+    "romanization": "hoesa",
+    "category": "Orte"
+  },
+  {
+    "korean": "도서관",
+    "German": "Bibliothek",
+    "romanization": "doseogwan",
+    "category": "Orte"
+  },
+  {
+    "korean": "공원",
+    "German": "Park",
+    "romanization": "gongwon",
+    "category": "Orte"
+  },
+  {
+    "korean": "극장",
+    "German": "Theater / Kino",
+    "romanization": "geukjang",
+    "category": "Orte"
+  },
+  {
+    "korean": "박물관",
+    "German": "Museum",
+    "romanization": "bangmulgwan",
+    "category": "Orte"
+  },
+  {
+    "korean": "역",
+    "German": "Bahnhof",
+    "romanization": "yeok",
+    "category": "Orte"
+  },
+  {
+    "korean": "정류장",
+    "German": "Haltestelle",
+    "romanization": "jeongnyujang",
+    "category": "Orte"
+  },
+  {
+    "korean": "버스",
+    "German": "Bus",
+    "romanization": "beoseu",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "택시",
+    "German": "Taxi",
+    "romanization": "taeksi",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "기차",
+    "German": "Zug",
+    "romanization": "gicha",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "지하철",
+    "German": "U-Bahn",
+    "romanization": "jihacheol",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "비행기",
+    "German": "Flugzeug",
+    "romanization": "bihaenggi",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "자동차",
+    "German": "Auto",
+    "romanization": "jadongcha",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "자전거",
+    "German": "Fahrrad",
+    "romanization": "jajeongeo",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "오토바이",
+    "German": "Motorrad",
+    "romanization": "otobai",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "배",
+    "German": "Schiff / Boot",
+    "romanization": "bae",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "표",
+    "German": "Ticket / Fahrkarte",
+    "romanization": "pyo",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "길",
+    "German": "Weg / Straße",
+    "romanization": "gil",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "거리",
+    "German": "Straße / Entfernung",
+    "romanization": "geori",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "신호등",
+    "German": "Ampel",
+    "romanization": "sinhodeung",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "횡단보도",
+    "German": "Zebrastreifen",
+    "romanization": "hoengdanbodo",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "주차장",
+    "German": "Parkplatz",
+    "romanization": "juchajang",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "운전",
+    "German": "Fahren (am Steuer)",
+    "romanization": "unjeon",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "출발",
+    "German": "Abfahrt",
+    "romanization": "chulbal",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "도착",
+    "German": "Ankunft",
+    "romanization": "dochak",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "가까이",
+    "German": "nah",
+    "romanization": "gakkai",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "멀리",
+    "German": "fern",
+    "romanization": "meolli",
+    "category": "Verkehr"
+  },
+  {
+    "korean": "가다",
+    "German": "gehen / fahren",
+    "romanization": "gada",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "오다",
+    "German": "kommen",
+    "romanization": "oda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "먹다",
+    "German": "essen",
+    "romanization": "meokda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "마시다",
+    "German": "trinken",
+    "romanization": "masida",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "자다",
+    "German": "schlafen",
+    "romanization": "jada",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "일어나다",
+    "German": "aufstehen",
+    "romanization": "ireonada",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "씻다",
+    "German": "waschen",
+    "romanization": "ssitda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "입다",
+    "German": "anziehen",
+    "romanization": "ipda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "벗다",
+    "German": "ausziehen",
+    "romanization": "beotda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "앉다",
+    "German": "sitzen / sich setzen",
+    "romanization": "anda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "서다",
+    "German": "stehen / aufstehen",
+    "romanization": "seoda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "눕다",
+    "German": "liegen / sich hinlegen",
+    "romanization": "nupda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "걷다",
+    "German": "laufen / zu Fuß gehen",
+    "romanization": "geotda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "뛰다",
+    "German": "rennen",
+    "romanization": "ttwida",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "타다",
+    "German": "einsteigen / fahren (Transportmittel)",
+    "romanization": "tada",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "내리다",
+    "German": "aussteigen",
+    "romanization": "naerida",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "열다",
+    "German": "öffnen",
+    "romanization": "yeolda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "닫다",
+    "German": "schließen",
+    "romanization": "datda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "켜다",
+    "German": "einschalten",
+    "romanization": "kyeoda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "끄다",
+    "German": "ausschalten",
+    "romanization": "kkeuda",
+    "category": "Alltagsverben"
+  },
+  {
+    "korean": "공부하다",
+    "German": "lernen / studieren",
+    "romanization": "gongbuhada",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "일하다",
+    "German": "arbeiten",
+    "romanization": "ilhada",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "보다",
+    "German": "sehen / schauen",
+    "romanization": "boda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "듣다",
+    "German": "hören",
+    "romanization": "deutda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "말하다",
+    "German": "sagen / sprechen",
+    "romanization": "malhada",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "읽다",
+    "German": "lesen",
+    "romanization": "ikda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "쓰다",
+    "German": "schreiben / benutzen",
+    "romanization": "sseuda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "배우다",
+    "German": "lernen",
+    "romanization": "baeuda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "가르치다",
+    "German": "lehren / beibringen",
+    "romanization": "gareuchida",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "생각하다",
+    "German": "denken",
+    "romanization": "saenggakhada",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "알다",
+    "German": "wissen / kennen",
+    "romanization": "alda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "모르다",
+    "German": "nicht wissen / nicht kennen",
+    "romanization": "moreuda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "사다",
+    "German": "kaufen",
+    "romanization": "sada",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "팔다",
+    "German": "verkaufen",
+    "romanization": "palda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "만들다",
+    "German": "machen / herstellen",
+    "romanization": "mandeulda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "하다",
+    "German": "tun / machen",
+    "romanization": "hada",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "주다",
+    "German": "geben",
+    "romanization": "juda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "받다",
+    "German": "erhalten / bekommen",
+    "romanization": "batda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "찾다",
+    "German": "suchen / finden",
+    "romanization": "chatda",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "잃다",
+    "German": "verlieren",
+    "romanization": "ilta",
+    "category": "Aktionsverben"
+  },
+  {
+    "korean": "좋다",
+    "German": "gut",
+    "romanization": "jota",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "나쁘다",
+    "German": "schlecht",
+    "romanization": "nappeuda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "크다",
+    "German": "groß",
+    "romanization": "keuda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "작다",
+    "German": "klein",
+    "romanization": "jakda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "높다",
+    "German": "hoch",
+    "romanization": "nopda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "낮다",
+    "German": "niedrig",
+    "romanization": "natda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "길다",
+    "German": "lang",
+    "romanization": "gilda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "짧다",
+    "German": "kurz",
+    "romanization": "jjalpda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "넓다",
+    "German": "weit / breit",
+    "romanization": "neolpda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "좁다",
+    "German": "eng / schmal",
+    "romanization": "jopda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "예쁘다",
+    "German": "hübsch",
+    "romanization": "yeppeuda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "아름답다",
+    "German": "schön",
+    "romanization": "areumdapda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "맛있다",
+    "German": "lecker",
+    "romanization": "masitta",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "맛없다",
+    "German": "nicht lecker",
+    "romanization": "mateopsda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "비싸다",
+    "German": "teuer",
+    "romanization": "bissada",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "싸다",
+    "German": "billig / günstig",
+    "romanization": "ssada",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "많다",
+    "German": "viel",
+    "romanization": "manta",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "적다",
+    "German": "wenig",
+    "romanization": "jeokda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "빠르다",
+    "German": "schnell",
+    "romanization": "ppareuda",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "느리다",
+    "German": "langsam",
+    "romanization": "neurida",
+    "category": "Adjektive"
+  },
+  {
+    "korean": "하나",
+    "German": "eins",
+    "romanization": "hana",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "둘",
+    "German": "zwei",
+    "romanization": "dul",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "셋",
+    "German": "drei",
+    "romanization": "set",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "넷",
+    "German": "vier",
+    "romanization": "net",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "다섯",
+    "German": "fünf",
+    "romanization": "daseot",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "여섯",
+    "German": "sechs",
+    "romanization": "yeoseot",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "일곱",
+    "German": "sieben",
+    "romanization": "ilgop",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "여덟",
+    "German": "acht",
+    "romanization": "yeodeol",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "아홉",
+    "German": "neun",
+    "romanization": "ahop",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "열",
+    "German": "zehn",
+    "romanization": "yeol",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "일",
+    "German": "eins (Sino-Koreanisch)",
+    "romanization": "il",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "이",
+    "German": "zwei (Sino-Koreanisch)",
+    "romanization": "i",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "삼",
+    "German": "drei (Sino-Koreanisch)",
+    "romanization": "sam",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "사",
+    "German": "vier (Sino-Koreanisch)",
+    "romanization": "sa",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "오",
+    "German": "fünf (Sino-Koreanisch)",
+    "romanization": "o",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "육",
+    "German": "sechs (Sino-Koreanisch)",
+    "romanization": "yuk",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "칠",
+    "German": "sieben (Sino-Koreanisch)",
+    "romanization": "chil",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "팔",
+    "German": "acht (Sino-Koreanisch)",
+    "romanization": "pal",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "구",
+    "German": "neun (Sino-Koreanisch)",
+    "romanization": "gu",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "십",
+    "German": "zehn (Sino-Koreanisch)",
+    "romanization": "sip",
+    "category": "Zahlen"
+  },
+  {
+    "korean": "오늘",
+    "German": "heute",
+    "romanization": "oneul",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "내일",
+    "German": "morgen",
+    "romanization": "naeil",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "어제",
+    "German": "gestern",
+    "romanization": "eoje",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "모레",
+    "German": "übermorgen",
+    "romanization": "more",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "그제",
+    "German": "vorgestern",
+    "romanization": "geuje",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "지금",
+    "German": "jetzt",
+    "romanization": "jigeum",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "나중에",
+    "German": "später",
+    "romanization": "najunge",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "아침",
+    "German": "Morgen",
+    "romanization": "achim",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "점심",
+    "German": "Mittag",
+    "romanization": "jeomsim",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "저녁",
+    "German": "Abend",
+    "romanization": "jeonyeok",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "밤",
+    "German": "Nacht",
+    "romanization": "bam",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "시간",
+    "German": "Zeit / Stunde",
+    "romanization": "sigan",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "분",
+    "German": "Minute",
+    "romanization": "bun",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "초",
+    "German": "Sekunde",
+    "romanization": "cho",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "년",
+    "German": "Jahr",
+    "romanization": "nyeon",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "월",
+    "German": "Monat",
+    "romanization": "wol",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "일",
+    "German": "Tag",
+    "romanization": "il",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "주",
+    "German": "Woche",
+    "romanization": "ju",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "요일",
+    "German": "Wochentag",
+    "romanization": "yoil",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "날",
+    "German": "Tag",
+    "romanization": "nal",
+    "category": "Zeit & Datum"
+  },
+  {
+    "korean": "빨강",
+    "German": "Rot",
+    "romanization": "ppalgang",
+    "category": "Farben"
+  },
+  {
+    "korean": "빨간색",
+    "German": "rote Farbe",
+    "romanization": "ppalgansaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "파랑",
+    "German": "Blau",
+    "romanization": "parang",
+    "category": "Farben"
+  },
+  {
+    "korean": "파란색",
+    "German": "blaue Farbe",
+    "romanization": "paransaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "노랑",
+    "German": "Gelb",
+    "romanization": "norang",
+    "category": "Farben"
+  },
+  {
+    "korean": "노란색",
+    "German": "gelbe Farbe",
+    "romanization": "noransaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "초록",
+    "German": "Grün",
+    "romanization": "chorok",
+    "category": "Farben"
+  },
+  {
+    "korean": "초록색",
+    "German": "grüne Farbe",
+    "romanization": "choroksaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "검정",
+    "German": "Schwarz",
+    "romanization": "geomjeong",
+    "category": "Farben"
+  },
+  {
+    "korean": "검은색",
+    "German": "schwarze Farbe",
+    "romanization": "geomeunsaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "하양",
+    "German": "Weiß",
+    "romanization": "hayang",
+    "category": "Farben"
+  },
+  {
+    "korean": "하얀색",
+    "German": "weiße Farbe",
+    "romanization": "hayansaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "주황",
+    "German": "Orange",
+    "romanization": "juhwang",
+    "category": "Farben"
+  },
+  {
+    "korean": "주황색",
+    "German": "orange Farbe",
+    "romanization": "juhwangsaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "보라",
+    "German": "Lila / Violett",
+    "romanization": "bora",
+    "category": "Farben"
+  },
+  {
+    "korean": "보라색",
+    "German": "lila Farbe",
+    "romanization": "borasaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "분홍",
+    "German": "Rosa",
+    "romanization": "bunhong",
+    "category": "Farben"
+  },
+  {
+    "korean": "분홍색",
+    "German": "rosa Farbe",
+    "romanization": "bunhongsaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "회색",
+    "German": "Grau",
+    "romanization": "hoesaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "갈색",
+    "German": "Braun",
+    "romanization": "galsaek",
+    "category": "Farben"
+  },
+  {
+    "korean": "머리",
+    "German": "Kopf",
+    "romanization": "meori",
+    "category": "Körper"
+  },
+  {
+    "korean": "얼굴",
+    "German": "Gesicht",
+    "romanization": "eolgul",
+    "category": "Körper"
+  },
+  {
+    "korean": "눈",
+    "German": "Auge",
+    "romanization": "nun",
+    "category": "Körper"
+  },
+  {
+    "korean": "코",
+    "German": "Nase",
+    "romanization": "ko",
+    "category": "Körper"
+  },
+  {
+    "korean": "귀",
+    "German": "Ohr",
+    "romanization": "gwi",
+    "category": "Körper"
+  },
+  {
+    "korean": "입",
+    "German": "Mund",
+    "romanization": "ip",
+    "category": "Körper"
+  },
+  {
+    "korean": "이",
+    "German": "Zahn",
+    "romanization": "i",
+    "category": "Körper"
+  },
+  {
+    "korean": "목",
+    "German": "Hals",
+    "romanization": "mok",
+    "category": "Körper"
+  },
+  {
+    "korean": "어깨",
+    "German": "Schulter",
+    "romanization": "eokkae",
+    "category": "Körper"
+  },
+  {
+    "korean": "팔",
+    "German": "Arm",
+    "romanization": "pal",
+    "category": "Körper"
+  },
+  {
+    "korean": "손",
+    "German": "Hand",
+    "romanization": "son",
+    "category": "Körper"
+  },
+  {
+    "korean": "손가락",
+    "German": "Finger",
+    "romanization": "son garak",
+    "category": "Körper"
+  },
+  {
+    "korean": "다리",
+    "German": "Bein",
+    "romanization": "dari",
+    "category": "Körper"
+  },
+  {
+    "korean": "발",
+    "German": "Fuß",
+    "romanization": "bal",
+    "category": "Körper"
+  },
+  {
+    "korean": "발가락",
+    "German": "Zeh",
+    "romanization": "balgarak",
+    "category": "Körper"
+  },
+  {
+    "korean": "배",
+    "German": "Bauch",
+    "romanization": "bae",
+    "category": "Körper"
+  },
+  {
+    "korean": "등",
+    "German": "Rücken",
+    "romanization": "deung",
+    "category": "Körper"
+  },
+  {
+    "korean": "가슴",
+    "German": "Brust",
+    "romanization": "gaseum",
+    "category": "Körper"
+  },
+  {
+    "korean": "심장",
+    "German": "Herz",
+    "romanization": "simjang",
+    "category": "Körper"
+  },
+  {
+    "korean": "피",
+    "German": "Blut",
+    "romanization": "pi",
+    "category": "Körper"
+  },
+  {
+    "korean": "날씨",
+    "German": "Wetter",
+    "romanization": "nalssi",
+    "category": "Natur"
+  },
+  {
+    "korean": "비",
+    "German": "Regen",
+    "romanization": "bi",
+    "category": "Natur"
+  },
+  {
+    "korean": "눈",
+    "German": "Schnee",
+    "romanization": "nun",
+    "category": "Natur"
+  },
+  {
+    "korean": "바람",
+    "German": "Wind",
+    "romanization": "baram",
+    "category": "Natur"
+  },
+  {
+    "korean": "구름",
+    "German": "Wolke",
+    "romanization": "gureum",
+    "category": "Natur"
+  },
+  {
+    "korean": "해",
+    "German": "Sonne",
+    "romanization": "hae",
+    "category": "Natur"
+  },
+  {
+    "korean": "달",
+    "German": "Mond",
+    "romanization": "dal",
+    "category": "Natur"
+  },
+  {
+    "korean": "별",
+    "German": "Stern",
+    "romanization": "byeol",
+    "category": "Natur"
+  },
+  {
+    "korean": "하늘",
+    "German": "Himmel",
+    "romanization": "haneul",
+    "category": "Natur"
+  },
+  {
+    "korean": "땅",
+    "German": "Erde / Boden",
+    "romanization": "ttang",
+    "category": "Natur"
+  },
+  {
+    "korean": "산",
+    "German": "Berg",
+    "romanization": "san",
+    "category": "Natur"
+  },
+  {
+    "korean": "강",
+    "German": "Fluss",
+    "romanization": "gang",
+    "category": "Natur"
+  },
+  {
+    "korean": "바다",
+    "German": "Meer",
+    "romanization": "bada",
+    "category": "Natur"
+  },
+  {
+    "korean": "호수",
+    "German": "See",
+    "romanization": "hosu",
+    "category": "Natur"
+  },
+  {
+    "korean": "나무",
+    "German": "Baum",
+    "romanization": "namu",
+    "category": "Natur"
+  },
+  {
+    "korean": "꽃",
+    "German": "Blume",
+    "romanization": "kkot",
+    "category": "Natur"
+  },
+  {
+    "korean": "풀",
+    "German": "Gras",
+    "romanization": "pul",
+    "category": "Natur"
+  },
+  {
+    "korean": "불",
+    "German": "Feuer",
+    "romanization": "bul",
+    "category": "Natur"
+  },
+  {
+    "korean": "돌",
+    "German": "Stein",
+    "romanization": "dol",
+    "category": "Natur"
+  },
+  {
+    "korean": "흙",
+    "German": "Erde / Schmutz",
+    "romanization": "heuk",
+    "category": "Natur"
+  },
+  {
+    "korean": "교실",
+    "German": "Klassenzimmer",
+    "romanization": "gyosil",
+    "category": "Schule"
+  },
+  {
+    "korean": "책",
+    "German": "Buch",
+    "romanization": "chaek",
+    "category": "Schule"
+  },
+  {
+    "korean": "공책",
+    "German": "Heft / Notizbuch",
+    "romanization": "gongchaek",
+    "category": "Schule"
+  },
+  {
+    "korean": "연필",
+    "German": "Bleistift",
+    "romanization": "yeonpil",
+    "category": "Schule"
+  },
+  {
+    "korean": "펜",
+    "German": "Stift",
+    "romanization": "pen",
+    "category": "Schule"
+  },
+  {
+    "korean": "지우개",
+    "German": "Radiergummi",
+    "romanization": "jiugae",
+    "category": "Schule"
+  },
+  {
+    "korean": "가방",
+    "German": "Tasche / Rucksack",
+    "romanization": "gabang",
+    "category": "Schule"
+  },
+  {
+    "korean": "책상",
+    "German": "Schreibtisch",
+    "romanization": "chaeksang",
+    "category": "Schule"
+  },
+  {
+    "korean": "의자",
+    "German": "Stuhl",
+    "romanization": "uija",
+    "category": "Schule"
+  },
+  {
+    "korean": "칠판",
+    "German": "Tafel",
+    "romanization": "chilpan",
+    "category": "Schule"
+  },
+  {
+    "korean": "숙제",
+    "German": "Hausaufgabe",
+    "romanization": "sukje",
+    "category": "Schule"
+  },
+  {
+    "korean": "시험",
+    "German": "Prüfung / Test",
+    "romanization": "siheom",
+    "category": "Schule"
+  },
+  {
+    "korean": "성적",
+    "German": "Note / Leistung",
+    "romanization": "seongjeok",
+    "category": "Schule"
+  },
+  {
+    "korean": "수업",
+    "German": "Unterricht",
+    "romanization": "sueop",
+    "category": "Schule"
+  },
+  {
+    "korean": "과목",
+    "German": "Fach",
+    "romanization": "gwamok",
+    "category": "Schule"
+  },
+  {
+    "korean": "수학",
+    "German": "Mathematik",
+    "romanization": "suhak",
+    "category": "Schule"
+  },
+  {
+    "korean": "과학",
+    "German": "Wissenschaft",
+    "romanization": "gwahak",
+    "category": "Schule"
+  },
+  {
+    "korean": "영어",
+    "German": "Englisch",
+    "romanization": "yeongeo",
+    "category": "Schule"
+  },
+  {
+    "korean": "역사",
+    "German": "Geschichte",
+    "romanization": "yeoksa",
+    "category": "Schule"
+  },
+  {
+    "korean": "체육",
+    "German": "Sportunterricht",
+    "romanization": "cheyuk",
+    "category": "Schule"
+  }
+]

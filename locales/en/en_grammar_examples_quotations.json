@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "My friend said they would be late."
+    },
+    "quotations_declare_dago_2": {
+      "translation": "Mom said it was delicious."
+    },
+    "quotations_declare_dago_3": {
+      "translation": "The teacher told us to be quiet."
+    },
+    "quotations_declare_dago_4": {
+      "translation": "My friend said the movie was fun."
+    },
+    "quotations_declare_dago_5": {
+      "translation": "My younger sibling said they were tired."
+    },
+    "quotations_say_lago_1": {
+      "translation": "I told my friend to come."
+    },
+    "quotations_say_lago_2": {
+      "translation": "Mom told me to eat."
+    },
+    "quotations_say_lago_3": {
+      "translation": "The teacher told us to study."
+    },
+    "quotations_say_lago_4": {
+      "translation": "My friend told me to open the door."
+    },
+    "quotations_say_lago_5": {
+      "translation": "My younger sibling told me to come quickly."
+    }
+  }
+}

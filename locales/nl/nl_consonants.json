@@ -1,0 +1,135 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "Giyeok",
+    "romanization": "g/k",
+    "ipa": "[k/g]",
+    "description": "Een eenvoudige plofklank geproduceerd achter in de tong."
+  },
+  {
+    "char": "ㄴ",
+    "name": "Nieun",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "Een neusklank geproduceerd bij de tandkas."
+  },
+  {
+    "char": "ㄷ",
+    "name": "Digeut",
+    "romanization": "d/t",
+    "ipa": "[t/d]",
+    "description": "Een eenvoudige plofklank geproduceerd bij de tandkas."
+  },
+  {
+    "char": "ㄹ",
+    "name": "Rieul",
+    "romanization": "r/l",
+    "ipa": "[l/r]",
+    "description": "Een vloeibare klank waarbij de tongpunt de tandkas raakt of erlangs stroomt."
+  },
+  {
+    "char": "ㅁ",
+    "name": "Mieum",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "Een neusklank geproduceerd door de lippen."
+  },
+  {
+    "char": "ㅂ",
+    "name": "Bieup",
+    "romanization": "b/p",
+    "ipa": "[p/b]",
+    "description": "Een eenvoudige plofklank geproduceerd door de lippen te sluiten en te openen."
+  },
+  {
+    "char": "ㅅ",
+    "name": "Siot",
+    "romanization": "s",
+    "ipa": "[s]",
+    "description": "Een wrijfklank geproduceerd bij de tandkas."
+  },
+  {
+    "char": "ㅇ",
+    "name": "Ieung",
+    "romanization": "ng",
+    "ipa": "[Ø/-ŋ]",
+    "description": "Stil aan het begin van een lettergreep, maar fungeert als een nasale [ng]-klank aan het eind (batchim)."
+  },
+  {
+    "char": "ㅈ",
+    "name": "Jieut",
+    "romanization": "j",
+    "ipa": "[ʈʃ/ɖʒ]",
+    "description": "Een eenvoudige affricaat geproduceerd door blokkeren en vrijgeven met wrijving."
+  },
+  {
+    "char": "ㅊ",
+    "name": "Chieut",
+    "romanization": "ch",
+    "ipa": "[ʈʃʰ]",
+    "description": "Een sterke (geaspireerde) affricaat."
+  },
+  {
+    "char": "ㅋ",
+    "name": "Kieuk",
+    "romanization": "k",
+    "ipa": "[kʰ]",
+    "description": "Een sterke (geaspireerde) plofklank van achter in de tong."
+  },
+  {
+    "char": "ㅌ",
+    "name": "Tieut",
+    "romanization": "t",
+    "ipa": "[tʰ]",
+    "description": "Een sterke (geaspireerde) plofklank bij de tandkas."
+  },
+  {
+    "char": "ㅍ",
+    "name": "Pieup",
+    "romanization": "p",
+    "ipa": "[pʰ]",
+    "description": "Een sterke (geaspireerde) plofklank van de lippen."
+  },
+  {
+    "char": "ㅎ",
+    "name": "Hieut",
+    "romanization": "h",
+    "ipa": "[h]",
+    "description": "Een wrijfklank geproduceerd in de keel."
+  },
+  {
+    "char": "ㄲ",
+    "name": "Ssanggiyeok",
+    "romanization": "kk",
+    "ipa": "[k*]",
+    "description": "Een gespannen klank geproduceerd door de 'ㄱ'-klank te verdubbelen."
+  },
+  {
+    "char": "ㄸ",
+    "name": "Ssangdigeut",
+    "romanization": "tt",
+    "ipa": "[t*]",
+    "description": "Een gespannen klank geproduceerd door de 'ㄷ'-klank te verdubbelen."
+  },
+  {
+    "char": "ㅃ",
+    "name": "Ssangbieup",
+    "romanization": "pp",
+    "ipa": "[p*]",
+    "description": "Een gespannen klank geproduceerd door de 'ㅂ'-klank te verdubbelen."
+  },
+  {
+    "char": "ㅆ",
+    "name": "Ssangsiot",
+    "romanization": "ss",
+    "ipa": "[s*]",
+    "description": "Een gespannen wrijfklank geproduceerd door de 'ㅅ'-klank te verdubbelen."
+  },
+  {
+    "char": "ㅉ",
+    "name": "Ssangjieut",
+    "romanization": "jj",
+    "ipa": "[ʈʃ*]",
+    "description": "Een gespannen affricaat geproduceerd door de 'ㅈ'-klank te verdubbelen."
+  }
+]

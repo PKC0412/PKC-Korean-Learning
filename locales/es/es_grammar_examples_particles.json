@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "Voy a la escuela."
+    },
+    "particles_case_2": {
+      "translation": "Mi amigo me llamó."
+    },
+    "particles_case_3": {
+      "translation": "Mi hermano menor lee un libro en la habitación."
+    },
+    "particles_case_4": {
+      "translation": "Voy a trabajar a la empresa."
+    },
+    "particles_case_5": {
+      "translation": "Hacemos ejercicio cada fin de semana."
+    },
+    "particles_auxiliary_1": {
+      "translation": "Me gusta el café."
+    },
+    "particles_auxiliary_2": {
+      "translation": "Mi amigo también vio la película."
+    },
+    "particles_auxiliary_3": {
+      "translation": "Solo bebo agua."
+    },
+    "particles_auxiliary_4": {
+      "translation": "Mi hermano menor ni siquiera comió arroz."
+    },
+    "particles_auxiliary_5": {
+      "translation": "Solo leo libros."
+    },
+    "particles_conjunctive_1": {
+      "translation": "Como con mi amigo."
+    },
+    "particles_conjunctive_2": {
+      "translation": "Viajamos con la familia."
+    },
+    "particles_conjunctive_3": {
+      "translation": "Mi hermano menor juega con el cachorro."
+    },
+    "particles_conjunctive_4": {
+      "translation": "Me gustan el kimchi y el bulgogi."
+    },
+    "particles_conjunctive_5": {
+      "translation": "Mi amigo habló con el profesor."
+    }
+  }
+}

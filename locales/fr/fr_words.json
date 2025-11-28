@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "French": "Bonjour / Bonsoir",
+    "romanization": "annyeonghaseyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "French": "Au revoir (à celui qui part)",
+    "romanization": "annyeonghi gaseyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "French": "Au revoir (à celui qui reste)",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "안녕",
+    "French": "Salut",
+    "romanization": "annyeong",
+    "category": "Salutations"
+  },
+  {
+    "korean": "감사합니다",
+    "French": "Merci (formel)",
+    "romanization": "gamsahamnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "고맙습니다",
+    "French": "Merci",
+    "romanization": "gomapseumnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "고마워요",
+    "French": "Merci (poli)",
+    "romanization": "gomawoyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "죄송합니다",
+    "French": "Je suis désolé(e) (formel)",
+    "romanization": "joesonghamnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "미안합니다",
+    "French": "Pardon / Je m'excuse",
+    "romanization": "mianhamnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "미안해요",
+    "French": "Désolé(e)",
+    "romanization": "mianhaeyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "반갑습니다",
+    "French": "Enchanté(e)",
+    "romanization": "bangapseumnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "French": "Ravi(e) de vous rencontrer",
+    "romanization": "mannaseo bangawoyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "실례합니다",
+    "French": "Excusez-moi",
+    "romanization": "sillyehamnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "저기요",
+    "French": "S'il vous plaît (pour attirer l'attention)",
+    "romanization": "jeogiyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "어서 오세요",
+    "French": "Bienvenue",
+    "romanization": "eoseo oseyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "French": "Bonne nuit (formel)",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "잘 자요",
+    "French": "Bonne nuit / Fais de beaux rêves",
+    "romanization": "jal jayo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "French": "Bon appétit",
+    "romanization": "masitge deuseyo",
+    "category": "Salutations"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "French": "Merci pour ce repas (avant de manger)",
+    "romanization": "jal meokgetseumnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "French": "C'était délicieux (après avoir mangé)",
+    "romanization": "jal meogeotseumnida",
+    "category": "Salutations"
+  },
+  {
+    "korean": "네",
+    "French": "Oui",
+    "romanization": "ne",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "아니요",
+    "French": "Non",
+    "romanization": "aniyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "괜찮아요",
+    "French": "Ça va / Ce n'est pas grave",
+    "romanization": "gwaenchanayo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "좋아요",
+    "French": "Bien / J'aime",
+    "romanization": "joayo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "싫어요",
+    "French": "Je n'aime pas / Je déteste",
+    "romanization": "sileoyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "천만에요",
+    "French": "Je vous en prie / De rien",
+    "romanization": "cheonmaneyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "잠깐만요",
+    "French": "Un instant, s'il vous plaît",
+    "romanization": "jamkkanmanyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "알겠습니다",
+    "French": "Compris / Entendu",
+    "romanization": "algesseumnida",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "모르겠어요",
+    "French": "Je ne sais pas",
+    "romanization": "moreugesseoyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "도와주세요",
+    "French": "Aidez-moi, s'il vous plaît",
+    "romanization": "dowajuseyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "됐어요",
+    "French": "Ça suffit / C'est bon",
+    "romanization": "dwaesseoyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "안 돼요",
+    "French": "Ce n'est pas possible / Non",
+    "romanization": "an dwaeyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "맞아요",
+    "French": "C'est exact / C'est vrai",
+    "romanization": "majayo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "틀렸어요",
+    "French": "C'est faux / Ce n'est pas ça",
+    "romanization": "teullyeosseoyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "그래요",
+    "French": "Ah bon ? / Vraiment ?",
+    "romanization": "geuraeyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "정말요",
+    "French": "Vraiment ?",
+    "romanization": "jeongmallyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "진짜요",
+    "French": "Sérieusement ?",
+    "romanization": "jinjjayo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "그럼요",
+    "French": "Bien sûr",
+    "romanization": "geureomyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "아마도",
+    "French": "Peut-être",
+    "romanization": "amado",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "글쎄요",
+    "French": "Eh bien... / Je ne suis pas sûr",
+    "romanization": "geulsseyo",
+    "category": "Vocabulaire de base"
+  },
+  {
+    "korean": "물",
+    "French": "Eau",
+    "romanization": "mul",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "밥",
+    "French": "Riz / Repas",
+    "romanization": "bap",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "김밥",
+    "French": "Gimbap",
+    "romanization": "gimbap",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "라면",
+    "French": "Ramen / Nouilles instantanées",
+    "romanization": "ramyeon",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "김치",
+    "French": "Kimchi",
+    "romanization": "gimchi",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "커피",
+    "French": "Café",
+    "romanization": "keopi",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "차",
+    "French": "Thé",
+    "romanization": "cha",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "우유",
+    "French": "Lait",
+    "romanization": "uyu",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "주스",
+    "French": "Jus",
+    "romanization": "juseu",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "맥주",
+    "French": "Bière",
+    "romanization": "maekju",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "빵",
+    "French": "Pain",
+    "romanization": "ppang",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "과자",
+    "French": "Snack / Biscuit",
+    "romanization": "gwaja",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "사탕",
+    "French": "Bonbon",
+    "romanization": "satang",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "고기",
+    "French": "Viande",
+    "romanization": "gogi",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "치킨",
+    "French": "Poulet frit",
+    "romanization": "chikin",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "계란",
+    "French": "Œuf",
+    "romanization": "gyeran",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "과일",
+    "French": "Fruit",
+    "romanization": "gwail",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "사과",
+    "French": "Pomme",
+    "romanization": "sagwa",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "바나나",
+    "French": "Banane",
+    "romanization": "banana",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "야채",
+    "French": "Légume",
+    "romanization": "yachae",
+    "category": "Nourriture"
+  },
+  {
+    "korean": "사람",
+    "French": "Personne / Gens",
+    "romanization": "saram",
+    "category": "Personnes"
+  },
+  {
+    "korean": "친구",
+    "French": "Ami(e)",
+    "romanization": "chingu",
+    "category": "Personnes"
+  },
+  {
+    "korean": "가족",
+    "French": "Famille",
+    "romanization": "gajok",
+    "category": "Personnes"
+  },
+  {
+    "korean": "엄마",
+    "French": "Maman",
+    "romanization": "eomma",
+    "category": "Personnes"
+  },
+  {
+    "korean": "아빠",
+    "French": "Papa",
+    "romanization": "appa",
+    "category": "Personnes"
+  },
+  {
+    "korean": "부모님",
+    "French": "Parents",
+    "romanization": "bumonim",
+    "category": "Personnes"
+  },
+  {
+    "korean": "형",
+    "French": "Grand frère (pour un homme)",
+    "romanization": "hyeong",
+    "category": "Personnes"
+  },
+  {
+    "korean": "오빠",
+    "French": "Grand frère (pour une femme)",
+    "romanization": "oppa",
+    "category": "Personnes"
+  },
+  {
+    "korean": "누나",
+    "French": "Grande sœur (pour un homme)",
+    "romanization": "nuna",
+    "category": "Personnes"
+  },
+  {
+    "korean": "언니",
+    "French": "Grande sœur (pour une femme)",
+    "romanization": "eonni",
+    "category": "Personnes"
+  },
+  {
+    "korean": "동생",
+    "French": "Petit frère / Petite sœur",
+    "romanization": "dongsaeng",
+    "category": "Personnes"
+  },
+  {
+    "korean": "선생님",
+    "French": "Professeur / Maître",
+    "romanization": "seonsaengnim",
+    "category": "Personnes"
+  },
+  {
+    "korean": "학생",
+    "French": "Étudiant / Élève",
+    "romanization": "haksaeng",
+    "category": "Personnes"
+  },
+  {
+    "korean": "남자",
+    "French": "Homme",
+    "romanization": "namja",
+    "category": "Personnes"
+  },
+  {
+    "korean": "여자",
+    "French": "Femme",
+    "romanization": "yeoja",
+    "category": "Personnes"
+  },
+  {
+    "korean": "아이",
+    "French": "Enfant",
+    "romanization": "ai",
+    "category": "Personnes"
+  },
+  {
+    "korean": "아기",
+    "French": "Bébé",
+    "romanization": "agi",
+    "category": "Personnes"
+  },
+  {
+    "korean": "할아버지",
+    "French": "Grand-père",
+    "romanization": "harabeoji",
+    "category": "Personnes"
+  },
+  {
+    "korean": "할머니",
+    "French": "Grand-mère",
+    "romanization": "halmeoni",
+    "category": "Personnes"
+  },
+  {
+    "korean": "손님",
+    "French": "Client / Invité",
+    "romanization": "sonnim",
+    "category": "Personnes"
+  },
+  {
+    "korean": "집",
+    "French": "Maison",
+    "romanization": "jip",
+    "category": "Lieux"
+  },
+  {
+    "korean": "학교",
+    "French": "École",
+    "romanization": "hakgyo",
+    "category": "Lieux"
+  },
+  {
+    "korean": "병원",
+    "French": "Hôpital",
+    "romanization": "byeongwon",
+    "category": "Lieux"
+  },
+  {
+    "korean": "약국",
+    "French": "Pharmacie",
+    "romanization": "yakguk",
+    "category": "Lieux"
+  },
+  {
+    "korean": "식당",
+    "French": "Restaurant",
+    "romanization": "sikdang",
+    "category": "Lieux"
+  },
+  {
+    "korean": "카페",
+    "French": "Café",
+    "romanization": "kape",
+    "category": "Lieux"
+  },
+  {
+    "korean": "화장실",
+    "French": "Toilettes",
+    "romanization": "hwajangsil",
+    "category": "Lieux"
+  },
+  {
+    "korean": "은행",
+    "French": "Banque",
+    "romanization": "eunhaeng",
+    "category": "Lieux"
+  },
+  {
+    "korean": "공항",
+    "French": "Aéroport",
+    "romanization": "gonghang",
+    "category": "Lieux"
+  },
+  {
+    "korean": "호텔",
+    "French": "Hôtel",
+    "romanization": "hotel",
+    "category": "Lieux"
+  },
+  {
+    "korean": "시장",
+    "French": "Marché",
+    "romanization": "sijang",
+    "category": "Lieux"
+  },
+  {
+    "korean": "백화점",
+    "French": "Grand magasin",
+    "romanization": "baekwajeom",
+    "category": "Lieux"
+  },
+  {
+    "korean": "편의점",
+    "French": "Supérette / Dépanneur",
+    "romanization": "pyeonuijeom",
+    "category": "Lieux"
+  },
+  {
+    "korean": "회사",
+    "French": "Entreprise / Bureau",
+    "romanization": "hoesa",
+    "category": "Lieux"
+  },
+  {
+    "korean": "도서관",
+    "French": "Bibliothèque",
+    "romanization": "doseogwan",
+    "category": "Lieux"
+  },
+  {
+    "korean": "공원",
+    "French": "Parc",
+    "romanization": "gongwon",
+    "category": "Lieux"
+  },
+  {
+    "korean": "극장",
+    "French": "Théâtre / Cinéma",
+    "romanization": "geukjang",
+    "category": "Lieux"
+  },
+  {
+    "korean": "박물관",
+    "French": "Musée",
+    "romanization": "bangmulgwan",
+    "category": "Lieux"
+  },
+  {
+    "korean": "역",
+    "French": "Gare / Station",
+    "romanization": "yeok",
+    "category": "Lieux"
+  },
+  {
+    "korean": "정류장",
+    "French": "Arrêt (de bus)",
+    "romanization": "jeongnyujang",
+    "category": "Lieux"
+  },
+  {
+    "korean": "버스",
+    "French": "Bus",
+    "romanization": "beoseu",
+    "category": "Transport"
+  },
+  {
+    "korean": "택시",
+    "French": "Taxi",
+    "romanization": "taeksi",
+    "category": "Transport"
+  },
+  {
+    "korean": "기차",
+    "French": "Train",
+    "romanization": "gicha",
+    "category": "Transport"
+  },
+  {
+    "korean": "지하철",
+    "French": "Métro",
+    "romanization": "jihacheol",
+    "category": "Transport"
+  },
+  {
+    "korean": "비행기",
+    "French": "Avion",
+    "romanization": "bihaenggi",
+    "category": "Transport"
+  },
+  {
+    "korean": "자동차",
+    "French": "Voiture",
+    "romanization": "jadongcha",
+    "category": "Transport"
+  },
+  {
+    "korean": "자전거",
+    "French": "Vélo",
+    "romanization": "jajeongeo",
+    "category": "Transport"
+  },
+  {
+    "korean": "오토바이",
+    "French": "Moto",
+    "romanization": "otobai",
+    "category": "Transport"
+  },
+  {
+    "korean": "배",
+    "French": "Bateau",
+    "romanization": "bae",
+    "category": "Transport"
+  },
+  {
+    "korean": "표",
+    "French": "Ticket / Billet",
+    "romanization": "pyo",
+    "category": "Transport"
+  },
+  {
+    "korean": "길",
+    "French": "Route / Chemin",
+    "romanization": "gil",
+    "category": "Transport"
+  },
+  {
+    "korean": "거리",
+    "French": "Rue / Distance",
+    "romanization": "geori",
+    "category": "Transport"
+  },
+  {
+    "korean": "신호등",
+    "French": "Feu de signalisation",
+    "romanization": "sinhodeung",
+    "category": "Transport"
+  },
+  {
+    "korean": "횡단보도",
+    "French": "Passage piéton",
+    "romanization": "hoengdanbodo",
+    "category": "Transport"
+  },
+  {
+    "korean": "주차장",
+    "French": "Parking",
+    "romanization": "juchajang",
+    "category": "Transport"
+  },
+  {
+    "korean": "운전",
+    "French": "Conduite",
+    "romanization": "unjeon",
+    "category": "Transport"
+  },
+  {
+    "korean": "출발",
+    "French": "Départ",
+    "romanization": "chulbal",
+    "category": "Transport"
+  },
+  {
+    "korean": "도착",
+    "French": "Arrivée",
+    "romanization": "dochak",
+    "category": "Transport"
+  },
+  {
+    "korean": "가까이",
+    "French": "Près",
+    "romanization": "gakkai",
+    "category": "Transport"
+  },
+  {
+    "korean": "멀리",
+    "French": "Loin",
+    "romanization": "meolli",
+    "category": "Transport"
+  },
+  {
+    "korean": "가다",
+    "French": "Aller",
+    "romanization": "gada",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "오다",
+    "French": "Venir",
+    "romanization": "oda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "먹다",
+    "French": "Manger",
+    "romanization": "meokda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "마시다",
+    "French": "Boire",
+    "romanization": "masida",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "자다",
+    "French": "Dormir",
+    "romanization": "jada",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "일어나다",
+    "French": "Se lever / Se réveiller",
+    "romanization": "ireonada",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "씻다",
+    "French": "Laver / Se laver",
+    "romanization": "ssitda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "입다",
+    "French": "Porter (un vêtement)",
+    "romanization": "ipda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "벗다",
+    "French": "Enlever (un vêtement)",
+    "romanization": "beotda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "앉다",
+    "French": "S'asseoir",
+    "romanization": "anda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "서다",
+    "French": "Se tenir debout",
+    "romanization": "seoda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "눕다",
+    "French": "S'allonger",
+    "romanization": "nupda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "걷다",
+    "French": "Marcher",
+    "romanization": "geotda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "뛰다",
+    "French": "Courir",
+    "romanization": "ttwida",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "타다",
+    "French": "Monter / Prendre (un transport)",
+    "romanization": "tada",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "내리다",
+    "French": "Descendre",
+    "romanization": "naerida",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "열다",
+    "French": "Ouvrir",
+    "romanization": "yeolda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "닫다",
+    "French": "Fermer",
+    "romanization": "datda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "켜다",
+    "French": "Allumer",
+    "romanization": "kyeoda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "끄다",
+    "French": "Éteindre",
+    "romanization": "kkeuda",
+    "category": "Verbes du quotidien"
+  },
+  {
+    "korean": "공부하다",
+    "French": "Étudier",
+    "romanization": "gongbuhada",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "일하다",
+    "French": "Travailler",
+    "romanization": "ilhada",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "보다",
+    "French": "Voir / Regarder",
+    "romanization": "boda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "듣다",
+    "French": "Entendre / Écouter",
+    "romanization": "deutda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "말하다",
+    "French": "Parler / Dire",
+    "romanization": "malhada",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "읽다",
+    "French": "Lire",
+    "romanization": "ikda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "쓰다",
+    "French": "Écrire / Utiliser",
+    "romanization": "sseuda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "배우다",
+    "French": "Apprendre",
+    "romanization": "baeuda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "가르치다",
+    "French": "Enseigner",
+    "romanization": "gareuchida",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "생각하다",
+    "French": "Penser",
+    "romanization": "saenggakhada",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "알다",
+    "French": "Savoir / Connaître",
+    "romanization": "alda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "모르다",
+    "French": "Ignorer / Ne pas savoir",
+    "romanization": "moreuda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "사다",
+    "French": "Acheter",
+    "romanization": "sada",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "팔다",
+    "French": "Vendre",
+    "romanization": "palda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "만들다",
+    "French": "Faire / Fabriquer",
+    "romanization": "mandeulda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "하다",
+    "French": "Faire",
+    "romanization": "hada",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "주다",
+    "French": "Donner",
+    "romanization": "juda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "받다",
+    "French": "Recevoir",
+    "romanization": "batda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "찾다",
+    "French": "Chercher / Trouver",
+    "romanization": "chatda",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "잃다",
+    "French": "Perdre",
+    "romanization": "ilta",
+    "category": "Verbes d'action"
+  },
+  {
+    "korean": "좋다",
+    "French": "Bon / Bien",
+    "romanization": "jota",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "나쁘다",
+    "French": "Mauvais",
+    "romanization": "nappeuda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "크다",
+    "French": "Grand",
+    "romanization": "keuda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "작다",
+    "French": "Petit",
+    "romanization": "jakda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "높다",
+    "French": "Haut",
+    "romanization": "nopda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "낮다",
+    "French": "Bas",
+    "romanization": "natda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "길다",
+    "French": "Long",
+    "romanization": "gilda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "짧다",
+    "French": "Court",
+    "romanization": "jjalpda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "넓다",
+    "French": "Large / Vaste",
+    "romanization": "neolpda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "좁다",
+    "French": "Étroit",
+    "romanization": "jopda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "예쁘다",
+    "French": "Joli",
+    "romanization": "yeppeuda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "아름답다",
+    "French": "Beau / Belle",
+    "romanization": "areumdapda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "맛있다",
+    "French": "Délicieux",
+    "romanization": "masitta",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "맛없다",
+    "French": "Pas bon / Insipide",
+    "romanization": "mateopsda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "비싸다",
+    "French": "Cher",
+    "romanization": "bissada",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "싸다",
+    "French": "Pas cher / Bon marché",
+    "romanization": "ssada",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "많다",
+    "French": "Beaucoup / Nombreux",
+    "romanization": "manta",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "적다",
+    "French": "Peu",
+    "romanization": "jeokda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "빠르다",
+    "French": "Rapide",
+    "romanization": "ppareuda",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "느리다",
+    "French": "Lent",
+    "romanization": "neurida",
+    "category": "Adjectifs"
+  },
+  {
+    "korean": "하나",
+    "French": "Un",
+    "romanization": "hana",
+    "category": "Nombres"
+  },
+  {
+    "korean": "둘",
+    "French": "Deux",
+    "romanization": "dul",
+    "category": "Nombres"
+  },
+  {
+    "korean": "셋",
+    "French": "Trois",
+    "romanization": "set",
+    "category": "Nombres"
+  },
+  {
+    "korean": "넷",
+    "French": "Quatre",
+    "romanization": "net",
+    "category": "Nombres"
+  },
+  {
+    "korean": "다섯",
+    "French": "Cinq",
+    "romanization": "daseot",
+    "category": "Nombres"
+  },
+  {
+    "korean": "여섯",
+    "French": "Six",
+    "romanization": "yeoseot",
+    "category": "Nombres"
+  },
+  {
+    "korean": "일곱",
+    "French": "Sept",
+    "romanization": "ilgop",
+    "category": "Nombres"
+  },
+  {
+    "korean": "여덟",
+    "French": "Huit",
+    "romanization": "yeodeol",
+    "category": "Nombres"
+  },
+  {
+    "korean": "아홉",
+    "French": "Neuf",
+    "romanization": "ahop",
+    "category": "Nombres"
+  },
+  {
+    "korean": "열",
+    "French": "Dix",
+    "romanization": "yeol",
+    "category": "Nombres"
+  },
+  {
+    "korean": "일",
+    "French": "Un (Sino-coréen)",
+    "romanization": "il",
+    "category": "Nombres"
+  },
+  {
+    "korean": "이",
+    "French": "Deux (Sino-coréen)",
+    "romanization": "i",
+    "category": "Nombres"
+  },
+  {
+    "korean": "삼",
+    "French": "Trois (Sino-coréen)",
+    "romanization": "sam",
+    "category": "Nombres"
+  },
+  {
+    "korean": "사",
+    "French": "Quatre (Sino-coréen)",
+    "romanization": "sa",
+    "category": "Nombres"
+  },
+  {
+    "korean": "오",
+    "French": "Cinq (Sino-coréen)",
+    "romanization": "o",
+    "category": "Nombres"
+  },
+  {
+    "korean": "육",
+    "French": "Six (Sino-coréen)",
+    "romanization": "yuk",
+    "category": "Nombres"
+  },
+  {
+    "korean": "칠",
+    "French": "Sept (Sino-coréen)",
+    "romanization": "chil",
+    "category": "Nombres"
+  },
+  {
+    "korean": "팔",
+    "French": "Huit (Sino-coréen)",
+    "romanization": "pal",
+    "category": "Nombres"
+  },
+  {
+    "korean": "구",
+    "French": "Neuf (Sino-coréen)",
+    "romanization": "gu",
+    "category": "Nombres"
+  },
+  {
+    "korean": "십",
+    "French": "Dix (Sino-coréen)",
+    "romanization": "sip",
+    "category": "Nombres"
+  },
+  {
+    "korean": "오늘",
+    "French": "Aujourd'hui",
+    "romanization": "oneul",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "내일",
+    "French": "Demain",
+    "romanization": "naeil",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "어제",
+    "French": "Hier",
+    "romanization": "eoje",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "모레",
+    "French": "Après-demain",
+    "romanization": "more",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "그제",
+    "French": "Avant-hier",
+    "romanization": "geuje",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "지금",
+    "French": "Maintenant",
+    "romanization": "jigeum",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "나중에",
+    "French": "Plus tard",
+    "romanization": "najunge",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "아침",
+    "French": "Matin",
+    "romanization": "achim",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "점심",
+    "French": "Midi / Déjeuner",
+    "romanization": "jeomsim",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "저녁",
+    "French": "Soir / Dîner",
+    "romanization": "jeonyeok",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "밤",
+    "French": "Nuit",
+    "romanization": "bam",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "시간",
+    "French": "Temps / Heure",
+    "romanization": "sigan",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "분",
+    "French": "Minute",
+    "romanization": "bun",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "초",
+    "French": "Seconde",
+    "romanization": "cho",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "년",
+    "French": "Année",
+    "romanization": "nyeon",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "월",
+    "French": "Mois",
+    "romanization": "wol",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "일",
+    "French": "Jour",
+    "romanization": "il",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "주",
+    "French": "Semaine",
+    "romanization": "ju",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "요일",
+    "French": "Jour de la semaine",
+    "romanization": "yoil",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "날",
+    "French": "Jour",
+    "romanization": "nal",
+    "category": "Temps et Date"
+  },
+  {
+    "korean": "빨강",
+    "French": "Rouge",
+    "romanization": "ppalgang",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "빨간색",
+    "French": "Couleur rouge",
+    "romanization": "ppalgansaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "파랑",
+    "French": "Bleu",
+    "romanization": "parang",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "파란색",
+    "French": "Couleur bleue",
+    "romanization": "paransaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "노랑",
+    "French": "Jaune",
+    "romanization": "norang",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "노란색",
+    "French": "Couleur jaune",
+    "romanization": "noransaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "초록",
+    "French": "Vert",
+    "romanization": "chorok",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "초록색",
+    "French": "Couleur verte",
+    "romanization": "choroksaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "검정",
+    "French": "Noir",
+    "romanization": "geomjeong",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "검은색",
+    "French": "Couleur noire",
+    "romanization": "geomeunsaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "하양",
+    "French": "Blanc",
+    "romanization": "hayang",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "하얀색",
+    "French": "Couleur blanche",
+    "romanization": "hayansaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "주황",
+    "French": "Orange",
+    "romanization": "juhwang",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "주황색",
+    "French": "Couleur orange",
+    "romanization": "juhwangsaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "보라",
+    "French": "Violet",
+    "romanization": "bora",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "보라색",
+    "French": "Couleur violette",
+    "romanization": "borasaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "분홍",
+    "French": "Rose",
+    "romanization": "bunhong",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "분홍색",
+    "French": "Couleur rose",
+    "romanization": "bunhongsaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "회색",
+    "French": "Gris",
+    "romanization": "hoesaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "갈색",
+    "French": "Marron / Brun",
+    "romanization": "galsaek",
+    "category": "Couleurs"
+  },
+  {
+    "korean": "머리",
+    "French": "Tête",
+    "romanization": "meori",
+    "category": "Corps"
+  },
+  {
+    "korean": "얼굴",
+    "French": "Visage",
+    "romanization": "eolgul",
+    "category": "Corps"
+  },
+  {
+    "korean": "눈",
+    "French": "Œil / Yeux",
+    "romanization": "nun",
+    "category": "Corps"
+  },
+  {
+    "korean": "코",
+    "French": "Nez",
+    "romanization": "ko",
+    "category": "Corps"
+  },
+  {
+    "korean": "귀",
+    "French": "Oreille",
+    "romanization": "gwi",
+    "category": "Corps"
+  },
+  {
+    "korean": "입",
+    "French": "Bouche",
+    "romanization": "ip",
+    "category": "Corps"
+  },
+  {
+    "korean": "이",
+    "French": "Dent",
+    "romanization": "i",
+    "category": "Corps"
+  },
+  {
+    "korean": "목",
+    "French": "Cou / Gorge",
+    "romanization": "mok",
+    "category": "Corps"
+  },
+  {
+    "korean": "어깨",
+    "French": "Épaule",
+    "romanization": "eokkae",
+    "category": "Corps"
+  },
+  {
+    "korean": "팔",
+    "French": "Bras",
+    "romanization": "pal",
+    "category": "Corps"
+  },
+  {
+    "korean": "손",
+    "French": "Main",
+    "romanization": "son",
+    "category": "Corps"
+  },
+  {
+    "korean": "손가락",
+    "French": "Doigt",
+    "romanization": "son garak",
+    "category": "Corps"
+  },
+  {
+    "korean": "다리",
+    "French": "Jambe",
+    "romanization": "dari",
+    "category": "Corps"
+  },
+  {
+    "korean": "발",
+    "French": "Pied",
+    "romanization": "bal",
+    "category": "Corps"
+  },
+  {
+    "korean": "발가락",
+    "French": "Orteil",
+    "romanization": "balgarak",
+    "category": "Corps"
+  },
+  {
+    "korean": "배",
+    "French": "Ventre",
+    "romanization": "bae",
+    "category": "Corps"
+  },
+  {
+    "korean": "등",
+    "French": "Dos",
+    "romanization": "deung",
+    "category": "Corps"
+  },
+  {
+    "korean": "가슴",
+    "French": "Poitrine / Cœur",
+    "romanization": "gaseum",
+    "category": "Corps"
+  },
+  {
+    "korean": "심장",
+    "French": "Cœur (organe)",
+    "romanization": "simjang",
+    "category": "Corps"
+  },
+  {
+    "korean": "피",
+    "French": "Sang",
+    "romanization": "pi",
+    "category": "Corps"
+  },
+  {
+    "korean": "날씨",
+    "French": "Temps / Météo",
+    "romanization": "nalssi",
+    "category": "Nature"
+  },
+  {
+    "korean": "비",
+    "French": "Pluie",
+    "romanization": "bi",
+    "category": "Nature"
+  },
+  {
+    "korean": "눈",
+    "French": "Neige",
+    "romanization": "nun",
+    "category": "Nature"
+  },
+  {
+    "korean": "바람",
+    "French": "Vent",
+    "romanization": "baram",
+    "category": "Nature"
+  },
+  {
+    "korean": "구름",
+    "French": "Nuage",
+    "romanization": "gureum",
+    "category": "Nature"
+  },
+  {
+    "korean": "해",
+    "French": "Soleil",
+    "romanization": "hae",
+    "category": "Nature"
+  },
+  {
+    "korean": "달",
+    "French": "Lune",
+    "romanization": "dal",
+    "category": "Nature"
+  },
+  {
+    "korean": "별",
+    "French": "Étoile",
+    "romanization": "byeol",
+    "category": "Nature"
+  },
+  {
+    "korean": "하늘",
+    "French": "Ciel",
+    "romanization": "haneul",
+    "category": "Nature"
+  },
+  {
+    "korean": "땅",
+    "French": "Terre / Sol",
+    "romanization": "ttang",
+    "category": "Nature"
+  },
+  {
+    "korean": "산",
+    "French": "Montagne",
+    "romanization": "san",
+    "category": "Nature"
+  },
+  {
+    "korean": "강",
+    "French": "Rivière / Fleuve",
+    "romanization": "gang",
+    "category": "Nature"
+  },
+  {
+    "korean": "바다",
+    "French": "Mer",
+    "romanization": "bada",
+    "category": "Nature"
+  },
+  {
+    "korean": "호수",
+    "French": "Lac",
+    "romanization": "hosu",
+    "category": "Nature"
+  },
+  {
+    "korean": "나무",
+    "French": "Arbre",
+    "romanization": "namu",
+    "category": "Nature"
+  },
+  {
+    "korean": "꽃",
+    "French": "Fleur",
+    "romanization": "kkot",
+    "category": "Nature"
+  },
+  {
+    "korean": "풀",
+    "French": "Herbe",
+    "romanization": "pul",
+    "category": "Nature"
+  },
+  {
+    "korean": "불",
+    "French": "Feu",
+    "romanization": "bul",
+    "category": "Nature"
+  },
+  {
+    "korean": "돌",
+    "French": "Pierre",
+    "romanization": "dol",
+    "category": "Nature"
+  },
+  {
+    "korean": "흙",
+    "French": "Terre",
+    "romanization": "heuk",
+    "category": "Nature"
+  },
+  {
+    "korean": "교실",
+    "French": "Salle de classe",
+    "romanization": "gyosil",
+    "category": "École"
+  },
+  {
+    "korean": "책",
+    "French": "Livre",
+    "romanization": "chaek",
+    "category": "École"
+  },
+  {
+    "korean": "공책",
+    "French": "Cahier",
+    "romanization": "gongchaek",
+    "category": "École"
+  },
+  {
+    "korean": "연필",
+    "French": "Crayon",
+    "romanization": "yeonpil",
+    "category": "École"
+  },
+  {
+    "korean": "펜",
+    "French": "Stylo",
+    "romanization": "pen",
+    "category": "École"
+  },
+  {
+    "korean": "지우개",
+    "French": "Gomme",
+    "romanization": "jiugae",
+    "category": "École"
+  },
+  {
+    "korean": "가방",
+    "French": "Sac / Cartable",
+    "romanization": "gabang",
+    "category": "École"
+  },
+  {
+    "korean": "책상",
+    "French": "Bureau",
+    "romanization": "chaeksang",
+    "category": "École"
+  },
+  {
+    "korean": "의자",
+    "French": "Chaise",
+    "romanization": "uija",
+    "category": "École"
+  },
+  {
+    "korean": "칠판",
+    "French": "Tableau noir",
+    "romanization": "chilpan",
+    "category": "École"
+  },
+  {
+    "korean": "숙제",
+    "French": "Devoirs",
+    "romanization": "sukje",
+    "category": "École"
+  },
+  {
+    "korean": "시험",
+    "French": "Examen",
+    "romanization": "siheom",
+    "category": "École"
+  },
+  {
+    "korean": "성적",
+    "French": "Note / Résultats",
+    "romanization": "seongjeok",
+    "category": "École"
+  },
+  {
+    "korean": "수업",
+    "French": "Cours / Classe",
+    "romanization": "sueop",
+    "category": "École"
+  },
+  {
+    "korean": "과목",
+    "French": "Matière",
+    "romanization": "gwamok",
+    "category": "École"
+  },
+  {
+    "korean": "수학",
+    "French": "Mathématiques",
+    "romanization": "suhak",
+    "category": "École"
+  },
+  {
+    "korean": "과학",
+    "French": "Sciences",
+    "romanization": "gwahak",
+    "category": "École"
+  },
+  {
+    "korean": "영어",
+    "French": "Anglais",
+    "romanization": "yeongeo",
+    "category": "École"
+  },
+  {
+    "korean": "역사",
+    "French": "Histoire",
+    "romanization": "yeoksa",
+    "category": "École"
+  },
+  {
+    "korean": "체육",
+    "French": "Éducation physique (Sport)",
+    "romanization": "cheyuk",
+    "category": "École"
+  }
+]

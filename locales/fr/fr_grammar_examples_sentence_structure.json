@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "Je bois du café tous les matins."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "Mon petit frère rencontre un ami à l'école."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "Mon ami regarde un film à la maison."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "Nous dînons le soir."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "Le professeur enseigne le coréen aux élèves."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "J'étudie le coréen à l'école le matin."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "Ma grande sœur se repose à la maison le week-end."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "Mon père travaille tard au bureau."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "Je donne un cadeau à mon ami."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "Nous parlons doucement dans le café."
+    },
+    "sentence_structure_types_1": {
+      "translation": "Il fait très beau aujourd'hui."
+    },
+    "sentence_structure_types_2": {
+      "translation": "Avez-vous du temps ce soir ?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Fermez la porte, s'il vous plaît."
+    },
+    "sentence_structure_types_4": {
+      "translation": "On va manger ensemble ?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "Ne soyez pas en retard, venez tôt."
+    }
+  }
+}

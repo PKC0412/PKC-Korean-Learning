@@ -1,0 +1,135 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "Giyeok",
+    "romanization": "g/k",
+    "ipa": "[k/g]",
+    "description": "A plain stop sound produced at the back of the tongue."
+  },
+  {
+    "char": "ㄴ",
+    "name": "Nieun",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "A nasal sound produced near the gum ridge."
+  },
+  {
+    "char": "ㄷ",
+    "name": "Digeut",
+    "romanization": "d/t",
+    "ipa": "[t/d]",
+    "description": "A plain stop sound produced near the gum ridge."
+  },
+  {
+    "char": "ㄹ",
+    "name": "Rieul",
+    "romanization": "r/l",
+    "ipa": "[l/r]",
+    "description": "A liquid sound where the tongue tip taps or flows near the gum ridge."
+  },
+  {
+    "char": "ㅁ",
+    "name": "Mieum",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "A nasal sound produced by the lips."
+  },
+  {
+    "char": "ㅂ",
+    "name": "Bieup",
+    "romanization": "b/p",
+    "ipa": "[p/b]",
+    "description": "A plain stop sound produced by closing and releasing the lips."
+  },
+  {
+    "char": "ㅅ",
+    "name": "Siot",
+    "romanization": "s",
+    "ipa": "[s]",
+    "description": "A fricative sound produced near the gum ridge."
+  },
+  {
+    "char": "ㅇ",
+    "name": "Ieung",
+    "romanization": "ng",
+    "ipa": "[Ø/-ŋ]",
+    "description": "Silent at the start of a syllable, but acts as a nasal [ng] sound at the end (batchim)."
+  },
+  {
+    "char": "ㅈ",
+    "name": "Jieut",
+    "romanization": "j",
+    "ipa": "[ʈʃ/ɖʒ]",
+    "description": "A plain affricate sound produced by blocking and releasing with friction."
+  },
+  {
+    "char": "ㅊ",
+    "name": "Chieut",
+    "romanization": "ch",
+    "ipa": "[ʈʃʰ]",
+    "description": "A strong (aspirated) affricate sound."
+  },
+  {
+    "char": "ㅋ",
+    "name": "Kieuk",
+    "romanization": "k",
+    "ipa": "[kʰ]",
+    "description": "A strong (aspirated) stop sound from the back of the tongue."
+  },
+  {
+    "char": "ㅌ",
+    "name": "Tieut",
+    "romanization": "t",
+    "ipa": "[tʰ]",
+    "description": "A strong (aspirated) stop sound near the gum ridge."
+  },
+  {
+    "char": "ㅍ",
+    "name": "Pieup",
+    "romanization": "p",
+    "ipa": "[pʰ]",
+    "description": "A strong (aspirated) stop sound from the lips."
+  },
+  {
+    "char": "ㅎ",
+    "name": "Hieut",
+    "romanization": "h",
+    "ipa": "[h]",
+    "description": "A fricative sound produced in the throat."
+  },
+  {
+    "char": "ㄲ",
+    "name": "Ssanggiyeok",
+    "romanization": "kk",
+    "ipa": "[k*]",
+    "description": "A tense sound produced by doubling the 'ㄱ' sound."
+  },
+  {
+    "char": "ㄸ",
+    "name": "Ssangdigeut",
+    "romanization": "tt",
+    "ipa": "[t*]",
+    "description": "A tense sound produced by doubling the 'ㄷ' sound."
+  },
+  {
+    "char": "ㅃ",
+    "name": "Ssangbieup",
+    "romanization": "pp",
+    "ipa": "[p*]",
+    "description": "A tense sound produced by doubling the 'ㅂ' sound."
+  },
+  {
+    "char": "ㅆ",
+    "name": "Ssangsiot",
+    "romanization": "ss",
+    "ipa": "[s*]",
+    "description": "A tense fricative sound produced by doubling the 'ㅅ' sound."
+  },
+  {
+    "char": "ㅉ",
+    "name": "Ssangjieut",
+    "romanization": "jj",
+    "ipa": "[ʈʃ*]",
+    "description": "A tense affricate sound produced by doubling the 'ㅈ' sound."
+  }
+]

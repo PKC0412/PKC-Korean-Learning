@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "Vandaag is het warmer dan gisteren."
+    },
+    "comparison_boda_2": {
+      "translation": "Ik ben langer dan mijn oudere zus."
+    },
+    "comparison_boda_3": {
+      "translation": "Deze tas is lichter dan die daar."
+    },
+    "comparison_boda_4": {
+      "translation": "Deze film is veel interessanter dan de vorige."
+    },
+    "comparison_boda_5": {
+      "translation": "Deze straat is iets rustiger dan die daar."
+    },
+    "comparison_mankeum_1": {
+      "translation": "Ik kook niet zo goed als mijn zus."
+    },
+    "comparison_mankeum_2": {
+      "translation": "Vandaag is net zo druk als gisteren."
+    },
+    "comparison_mankeum_3": {
+      "translation": "Die atleet behaalde resultaten die net zo goed waren als verwacht."
+    },
+    "comparison_mankeum_4": {
+      "translation": "Deze outfit is niet zo warm als ik dacht."
+    },
+    "comparison_mankeum_5": {
+      "translation": "Ik ben niet zo goed in Engels als mijn vriend."
+    },
+    "comparison_cheoreom_1": {
+      "translation": "Dat kind lacht als een engel."
+    },
+    "comparison_cheoreom_2": {
+      "translation": "Deze puppy is klein en schattig als een pop."
+    },
+    "comparison_cheoreom_3": {
+      "translation": "De lucht is prachtig, als een schilderij."
+    },
+    "comparison_cheoreom_4": {
+      "translation": "Hij werkt als een machine."
+    },
+    "comparison_cheoreom_5": {
+      "translation": "Ik wil vrij lopen als de wind."
+    }
+  }
+}

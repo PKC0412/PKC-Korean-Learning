@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "Я хочу сегодня пораньше пойти домой."
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "Мой младший брат хочет завести щенка."
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "Я хочу поехать на море в эти выходные."
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "Друг говорит, что хочет научиться новой работе."
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "Я хочу работать за границей в следующем году."
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "Вчера я впервые попробовал приготовить кимчи."
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "Мой младший брат хотел попробовать покататься на лыжах."
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "Я попробовал использовать новый метод."
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "Друг сказал мне попробовать торт, который он приготовил."
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "На этой неделе я собираюсь попробовать новый вид упражнений."
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "Я должен сдать этот отчет до сегодняшнего дня."
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "Рабочие должны носить защитную одежду на объекте."
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "Нужно привести в порядок материалы перед собранием."
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "Мы должны проверить билеты перед отправлением."
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "Я должен поесть перед тем, как принять лекарство."
+    }
+  }
+}

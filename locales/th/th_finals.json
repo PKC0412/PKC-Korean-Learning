@@ -1,0 +1,218 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "คียอก",
+    "romanization": "k",
+    "ipa": "[k]",
+    "description": "หยุดที่ส่วนหลังของลิ้น เป็นตัวสะกดที่พบบ่อยที่สุด",
+    "examples": "[translate:박] (park), [translate:삭] (sak)"
+  },
+  {
+    "char": "ㄲ",
+    "name": "ซังคียอก",
+    "romanization": "k",
+    "ipa": "[k*]",
+    "description": "เสียงหยุดหนักที่ส่วนหลังของลิ้น",
+    "examples": "[translate:닭] (dak), [translate:깎] (kkak)"
+  },
+  {
+    "char": "ㄳ",
+    "name": "คียอก-ชีอด",
+    "romanization": "k",
+    "ipa": "[ks]",
+    "description": "ตัวสะกดผสม (k + s)",
+    "examples": "[translate:닭] (dags), [translate:맑] (malks)"
+  },
+  {
+    "char": "ㄴ",
+    "name": "นีอึน",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "จบด้วยเสียงนาสิกที่ปุ่มเหงือก",
+    "examples": "[translate:산] (san), [translate:본] (bon)"
+  },
+  {
+    "char": "ㄵ",
+    "name": "นีอึน-ชีอึด",
+    "romanization": "n",
+    "ipa": "[nʲ]",
+    "description": "ตัวสะกดผสม (n + j)",
+    "examples": "[translate:앉] (anj)"
+  },
+  {
+    "char": "ㄶ",
+    "name": "นีอึน-ฮีอึด",
+    "romanization": "n",
+    "ipa": "[nh]",
+    "description": "ตัวสะกดผสม (n + h)",
+    "examples": "[translate:않] (anh)"
+  },
+  {
+    "char": "ㄷ",
+    "name": "ทีกึด",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "หยุดที่ปุ่มเหงือก",
+    "examples": "[translate:곧] (got), [translate:닫] (dat)"
+  },
+  {
+    "char": "ㄹ",
+    "name": "รีอึล",
+    "romanization": "l",
+    "ipa": "[l]",
+    "description": "จบด้วยเสียงเหลว [l]",
+    "examples": "[translate:말] (mal), [translate:불] (bul)"
+  },
+  {
+    "char": "ㄺ",
+    "name": "รีอึล-คียอก",
+    "romanization": "k",
+    "ipa": "[lk]",
+    "description": "ตัวสะกดผสม (l + k)",
+    "examples": "[translate:닭] (dalk)"
+  },
+  {
+    "char": "ㄻ",
+    "name": "รีอึล-มีอึม",
+    "romanization": "m",
+    "ipa": "[lm]",
+    "description": "ตัวสะกดผสม (l + m)",
+    "examples": "[translate:삶] (salm)"
+  },
+  {
+    "char": "ㄼ",
+    "name": "รีอึล-พีอึบ",
+    "romanization": "l/b",
+    "ipa": "[lp]",
+    "description": "ตัวสะกดผสม (l + b)",
+    "examples": "[translate:여덟] (yeodeol)"
+  },
+  {
+    "char": "ㄽ",
+    "name": "รีอึล-ชีอด",
+    "romanization": "l",
+    "ipa": "[ls]",
+    "description": "ตัวสะกดผสม (l + s)",
+    "examples": "[translate:외골] (oegol)"
+  },
+  {
+    "char": "ㄾ",
+    "name": "รีอึล-ทีอึด",
+    "romanization": "l",
+    "ipa": "[lt]",
+    "description": "ตัวสะกดผสม (l + t)",
+    "examples": "[translate:핥] (hal)"
+  },
+  {
+    "char": "ㄿ",
+    "name": "รีอึล-พีอึบ",
+    "romanization": "p",
+    "ipa": "[lp]",
+    "description": "ตัวสะกดผสม (l + p)",
+    "examples": "[translate:읊] (eulp)"
+  },
+  {
+    "char": "ㅀ",
+    "name": "รีอึล-ฮีอึด",
+    "romanization": "l",
+    "ipa": "[lh]",
+    "description": "ตัวสะกดผสม (l + h)",
+    "examples": "[translate:잃] (il)"
+  },
+  {
+    "char": "ㅁ",
+    "name": "มีอึม",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "จบด้วยเสียงนาสิกที่ริมฝีปาก",
+    "examples": "[translate:곰] (gom), [translate:밤] (bam)"
+  },
+  {
+    "char": "ㅂ",
+    "name": "พีอึบ",
+    "romanization": "p",
+    "ipa": "[p]",
+    "description": "หยุดที่ริมฝีปาก",
+    "examples": "[translate:입] (ip), [translate:집] (jip)"
+  },
+  {
+    "char": "ㅄ",
+    "name": "พีอึบ-ชีอด",
+    "romanization": "p",
+    "ipa": "[ps]",
+    "description": "ตัวสะกดผสม (p + s)",
+    "examples": "[translate:없] (eop)"
+  },
+  {
+    "char": "ㅅ",
+    "name": "ชีอด",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "หยุดที่ปุ่มเหงือก (ออกเสียงเป็น 't')",
+    "examples": "[translate:옷] (ot), [translate:맛] (mat)"
+  },
+  {
+    "char": "ㅆ",
+    "name": "ซังชีอด",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "หยุดที่ปุ่มเหงือก (ออกเสียงเป็น 't')",
+    "examples": "[translate:있] (it)"
+  },
+  {
+    "char": "ㅇ",
+    "name": "อีอึง",
+    "romanization": "ng",
+    "ipa": "[ŋ]",
+    "description": "จบด้วยเสียงนาสิก [ng]",
+    "examples": "[translate:강] (gang), [translate:방] (bang)"
+  },
+  {
+    "char": "ㅈ",
+    "name": "ชีอึด",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "หยุดที่ปุ่มเหงือก (ออกเสียงเป็น 't')",
+    "examples": "[translate:낮] (nat)"
+  },
+  {
+    "char": "ㅊ",
+    "name": "ชีอึด",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "หยุดที่ปุ่มเหงือก (ออกเสียงเป็น 't')",
+    "examples": "[translate:꽃] (kkot)"
+  },
+  {
+    "char": "ㅋ",
+    "name": "คีอึก",
+    "romanization": "k",
+    "ipa": "[k]",
+    "description": "หยุดที่ส่วนหลังของลิ้น (ออกเสียงเป็น 'k')",
+    "examples": "[translate:부엌] (bueok)"
+  },
+  {
+    "char": "ㅌ",
+    "name": "ทีอึด",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "หยุดที่ปุ่มเหงือก (ออกเสียงเป็น 't')",
+    "examples": "[translate:밭] (bat)"
+  },
+  {
+    "char": "ㅍ",
+    "name": "พีอึบ",
+    "romanization": "p",
+    "ipa": "[p]",
+    "description": "หยุดที่ริมฝีปาก (ออกเสียงเป็น 'p')",
+    "examples": "[translate:앞] (ap)"
+  },
+  {
+    "char": "ㅎ",
+    "name": "ฮีอึด",
+    "romanization": "t",
+    "ipa": "[t]",
+    "description": "หยุดที่ปุ่มเหงือก (ออกเสียงเป็น 't')",
+    "examples": "[translate:히읗] (hieut)"
+  }
+]

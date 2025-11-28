@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "I want to go home early today."
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "My younger sibling wants to raise a puppy."
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "I want to go to the sea on the weekend."
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "My friend says they want to learn a new job."
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "I want to work abroad next year."
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "Yesterday I tried making kimchi for the first time."
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "My younger sibling wanted to try skiing."
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "I tried using a new method."
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "My friend told me to try eating the cake they made."
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "This week I will try a new kind of exercise."
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "I have to submit this report by today."
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "Workers must wear safety gear at the site."
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "I have to organize the materials before the meeting."
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "We must check our tickets before we depart."
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "I have to eat before I take the medicine."
+    }
+  }
+}

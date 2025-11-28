@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "Ik drink elke ochtend koffie."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "Mijn jongere broer of zus ontmoet een vriend op school."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "Mijn vriend kijkt thuis een film."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "Wij eten 's avonds."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "De leraar leert de studenten Koreaans."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "Ik studeer 's ochtends Koreaans op school."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "Mijn grote zus rust in het weekend thuis uit."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "Vader werkt tot laat op kantoor."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "Ik geef een cadeau aan mijn vriend."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "Wij praten rustig in het café."
+    },
+    "sentence_structure_types_1": {
+      "translation": "Het weer is vandaag echt mooi."
+    },
+    "sentence_structure_types_2": {
+      "translation": "Heb je vanavond tijd?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Doe de deur alsjeblieft dicht."
+    },
+    "sentence_structure_types_4": {
+      "translation": "Zullen we samen gaan eten?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "Kom alsjeblieft vroeg en wees niet te laat."
+    }
+  }
+}

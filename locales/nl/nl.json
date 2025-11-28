@@ -1,0 +1,146 @@
+{
+  "menu": {
+    "hangul": "Hangul leren",
+    "vocabulary": "Woorden",
+    "flashcard": "Flashcards",
+    "grammar": "Grammatica",
+    "help": "Help"
+  },
+  "language": {
+    "modalTitle": "Taal",
+    "modalDescription": "Selecteer je voorkeurstaal voor de interface. Je kunt dit op elk moment wijzigen.",
+    "names": {
+      "en": "English",
+      "zh": "简体中文",
+      "ja": "日本語",
+      "ru": "Русский",
+      "es": "Español",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch",
+      "th": "ไทย",
+      "pt": "Português",
+      "nl": "Nederlands"
+    }
+  },
+  "help": {
+    "header": "Maker & Contact",
+    "description": "Heb je vragen, bugmeldingen of suggesties? Neem dan contact met ons op via onderstaande kanalen.",
+    "creatorLabel": "Maker:"
+  },
+  "vocab": {
+    "play": "Audio afspelen"
+  },
+  "grammar": {
+    "hear": "Luisteren"
+  },
+  "common": {
+    "listen": "Luisteren",
+    "example": "Voorbeeld",
+    "romanization": "Romanisatie",
+    "nodata": "Geen gegevens beschikbaar."
+  },
+  "flashcard": {
+    "empty": "Er zijn geen woorden beschikbaar om te leren.",
+    "session": {
+      "summary": "Sessie: {current} van {total} woorden",
+      "shuffled": "Willekeurig",
+      "sequential": "Volgorde"
+    },
+    "total_words": "Totaal aantal woorden",
+    "controls": {
+      "hear": "Luisteren",
+      "know": "Ik weet het",
+      "dontKnow": "Opnieuw leren"
+    },
+    "progress": {
+      "label": "Voortgang: {done} / {total}"
+    },
+    "hint": {
+      "reveal": "Tik op de kaart om de betekenis te tonen",
+      "romanizationLabel": "Romanisatie:"
+    },
+    "result": {
+      "title": "Goed gedaan!",
+      "completed": "Je hebt {total} woorden gestudeerd.",
+      "accuracy": "Nauwkeurigheid: {accuracy}%",
+      "stats": "Bekend: {known} | Herhalen: {unknown}",
+      "restart": "Husselen & opnieuw beginnen"
+    }
+  },
+  "category": {
+    "all": "Alles",
+    "greetings": "Begroetingen",
+    "basic": "Basis",
+    "food": "Eten",
+    "people": "Mensen",
+    "places": "Plaatsen",
+    "transportation": "Vervoer",
+    "verbs_daily": "Dagelijkse werkwoorden",
+    "verbs_actions": "Actiewerkwoorden",
+    "adjectives": "Bijvoeglijke naamwoorden",
+    "numbers": "Getallen",
+    "time": "Tijd/Datum",
+    "colors": "Kleuren",
+    "body": "Lichaam",
+    "nature": "Natuur",
+    "school": "School"
+  },
+  "발음 듣기": "Uitspraak beluisteren",
+  "자음": "Medeklinkers",
+  "모음": "Klinkers",
+  "받침": "Batchim",
+  "로마자 표기:": "Romanisatie:",
+  "이전": "Vorige",
+  "다음": "Volgende",
+  "설명:": "Uitleg:",
+  "예시:": "Voorbeeld:",
+  "설명이 아직 준비되지 않았습니다.": "Uitleg is nog niet beschikbaar.",
+  "예시가 아직 준비되지 않았습니다.": "Voorbeelden zijn nog niet beschikbaar.",
+  "예문": "Voorbeeldzin",
+  "grammar_category_sentence_structure": "Zinsstructuur",
+  "grammar_category_particles": "Partikels",
+  "grammar_category_tenses": "Tijden",
+  "grammar_category_negation": "Ontkenning",
+  "grammar_category_connectives": "Connectieven",
+  "grammar_category_comparison": "Vergelijking",
+  "grammar_category_ending": "Uitgangen",
+  "grammar_category_aux_verbs": "Hulpwerkwoorden",
+  "grammar_category_voice": "Stijl (passief & causatief)",
+  "grammar_category_conditionals": "Voorwaardelijke zinnen",
+  "grammar_category_quotations": "Citaties",
+  "grammar_group_sentence_structure_basic_order": "Basiswoordvolgorde (SOV)",
+  "grammar_group_sentence_structure_elements": "Zinselementen",
+  "grammar_group_sentence_structure_types": "Zinstypen",
+  "grammar_group_particles_case": "Naamvalsdeeltjes",
+  "grammar_group_particles_auxiliary": "Hulpdeeltjes",
+  "grammar_group_particles_conjunctive": "Voegende deeltjes",
+  "grammar_group_tenses_present": "Tegenwoordige tijd",
+  "grammar_group_tenses_past": "Verleden tijd",
+  "grammar_group_tenses_future": "Toekomende tijd",
+  "grammar_group_tenses_progressive": "Duurvorm (-고 있어요)",
+  "grammar_group_tenses_experiential": "Ervaringsvorm (-아/어 본 적이 있다)",
+  "grammar_group_negation_an": "Negatie met 안",
+  "grammar_group_negation_mot": "Negatie met 못",
+  "grammar_group_negation_ji_anhda": "Negatie met -지 않다",
+  "grammar_group_negation_ji_mothada": "Negatie met -지 못하다",
+  "grammar_group_connectives_go": "Connectief -고",
+  "grammar_group_connectives_aseo_eoseo": "Connectief -아서/어서",
+  "grammar_group_connectives_jiman": "Connectief -지만",
+  "grammar_group_connectives_myeonseo": "Connectief -면서",
+  "grammar_group_connectives_geona": "Connectief -거나",
+  "grammar_group_comparison_boda": "Vergelijking met 보다",
+  "grammar_group_comparison_mankeum": "Vergelijking met 만큼",
+  "grammar_group_comparison_cheoreom": "Vergelijking met 처럼",
+  "grammar_group_ending_polite_ayo_eoyo": "Beleefde uitgang -아요/어요",
+  "grammar_group_ending_formal_sumnida": "Formele uitgang -습니다/-습니까",
+  "grammar_group_aux_verbs_want_gosipda": "Hulpwerkwoord -고 싶다",
+  "grammar_group_aux_verbs_try_boda": "Hulpwerkwoord -아/어 보다",
+  "grammar_group_aux_verbs_must_eya_hada": "Hulpwerkwoord -아/어야 하다",
+  "grammar_group_voice_passive_ajida": "Lijdende vorm -아/어지다",
+  "grammar_group_voice_causative_gehada": "Causatieve vorm -게 하다",
+  "grammar_group_conditionals_myeon_basic": "Voorwaardelijke zin -(으)면",
+  "grammar_group_conditionals_tomyeon_future": "Voorwaardelijke zin -(으)면 (toekomst/herhaling)",
+  "grammar_group_quotations_declare_dago": "Citatief -다고 하다",
+  "grammar_group_quotations_say_lago": "Citatief -라고 하다"
+}

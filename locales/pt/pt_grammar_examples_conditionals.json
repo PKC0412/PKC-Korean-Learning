@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "Quando chove, eu uso um guarda-chuva."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "Se você tiver tempo, vamos almoçar juntos."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "Se eu chegar cedo em casa, eu assisto a um filme."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "Se o tempo estiver bom, eu vou caminhar."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "Se eu estiver ocupado, faço isso amanhã."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "Se eu economizar dinheiro, vou viajar."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "Se eu me exercitar, vou ficar mais saudável."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "Se eu estudar bastante, minhas notas vão melhorar."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "Se eu dormir cedo, vou me sentir melhor amanhã."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "Se eu andar muito, vou ficar cansado."
+    }
+  }
+}

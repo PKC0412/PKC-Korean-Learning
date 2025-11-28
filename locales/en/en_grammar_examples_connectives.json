@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "I exercise in the morning and then take a shower."
+    },
+    "connectives_go_2": {
+      "translation": "My younger sibling does homework and then watches TV."
+    },
+    "connectives_go_3": {
+      "translation": "I eat and then take a walk."
+    },
+    "connectives_go_4": {
+      "translation": "My friend reads a book and listens to music."
+    },
+    "connectives_go_5": {
+      "translation": "I wash the dishes and do the laundry."
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "Because it rained, I stayed home."
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "Because I was hungry, I ate lunch early."
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "Because the road was jammed, I arrived late."
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "Because I was tired, I went to bed early."
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "Because the weather was nice, I went for a walk."
+    },
+    "connectives_jiman_1": {
+      "translation": "I'm tired, but I exercised anyway."
+    },
+    "connectives_jiman_2": {
+      "translation": "It's cold, but I went for a walk."
+    },
+    "connectives_jiman_3": {
+      "translation": "I'm busy, but I met my friend."
+    },
+    "connectives_jiman_4": {
+      "translation": "It's delicious, but a little spicy."
+    },
+    "connectives_jiman_5": {
+      "translation": "It's expensive, but the quality is good."
+    },
+    "connectives_myeonseo_1": {
+      "translation": "I listen to music while studying."
+    },
+    "connectives_myeonseo_2": {
+      "translation": "My younger sibling eats while watching TV."
+    },
+    "connectives_myeonseo_3": {
+      "translation": "My friend talks while walking."
+    },
+    "connectives_myeonseo_4": {
+      "translation": "I cook while singing."
+    },
+    "connectives_myeonseo_5": {
+      "translation": "People smile while taking pictures."
+    },
+    "connectives_geona_1": {
+      "translation": "On weekends, I watch a movie or rest."
+    },
+    "connectives_geona_2": {
+      "translation": "My younger sibling studies or plays games."
+    },
+    "connectives_geona_3": {
+      "translation": "My friend reads a book or listens to music at a cafe."
+    },
+    "connectives_geona_4": {
+      "translation": "I exercise or take a walk."
+    },
+    "connectives_geona_5": {
+      "translation": "We take pictures or drink coffee outside."
+    }
+  }
+}

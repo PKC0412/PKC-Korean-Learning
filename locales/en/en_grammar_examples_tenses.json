@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "I exercise every day."
+    },
+    "tenses_present_2": {
+      "translation": "My younger sibling is doing homework now."
+    },
+    "tenses_present_3": {
+      "translation": "My friend works at a company."
+    },
+    "tenses_present_4": {
+      "translation": "I rest at home."
+    },
+    "tenses_present_5": {
+      "translation": "We walk in the park."
+    },
+    "tenses_past_1": {
+      "translation": "I met my friend yesterday."
+    },
+    "tenses_past_2": {
+      "translation": "I watched a movie last week."
+    },
+    "tenses_past_3": {
+      "translation": "My younger sibling ate breakfast late."
+    },
+    "tenses_past_4": {
+      "translation": "I bought new clothes."
+    },
+    "tenses_past_5": {
+      "translation": "We traveled on the weekend."
+    },
+    "tenses_future_1": {
+      "translation": "I will meet my friend tomorrow."
+    },
+    "tenses_future_2": {
+      "translation": "My younger sibling will move next week."
+    },
+    "tenses_future_3": {
+      "translation": "I will study Korean this year."
+    },
+    "tenses_future_4": {
+      "translation": "We will travel next year."
+    },
+    "tenses_future_5": {
+      "translation": "I will cook dinner soon."
+    },
+    "tenses_progressive_1": {
+      "translation": "I am eating right now."
+    },
+    "tenses_progressive_2": {
+      "translation": "My younger sibling is listening to music in the room."
+    },
+    "tenses_progressive_3": {
+      "translation": "My friend is reading at the library."
+    },
+    "tenses_progressive_4": {
+      "translation": "We are preparing for a meeting."
+    },
+    "tenses_progressive_5": {
+      "translation": "It is raining outside."
+    },
+    "tenses_experiential_1": {
+      "translation": "I have been to Korea before."
+    },
+    "tenses_experiential_2": {
+      "translation": "My friend has tried skiing."
+    },
+    "tenses_experiential_3": {
+      "translation": "I have never eaten very spicy food."
+    },
+    "tenses_experiential_4": {
+      "translation": "My younger sibling has lived abroad."
+    },
+    "tenses_experiential_5": {
+      "translation": "I have played the guitar before."
+    }
+  }
+}

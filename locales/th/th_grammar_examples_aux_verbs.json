@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "วันนี้ฉันอยากกลับบ้านเร็ว"
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "น้องอยากเลี้ยงลูกสุนัข"
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "ฉันอยากไปทะเลสุดสัปดาห์นี้"
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "เพื่อนบอกว่าอยากเรียนรู้งานใหม่"
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "ฉันอยากทำงานต่างประเทศปีหน้า"
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "เมื่อวานฉันลองทำกิมจิเป็นครั้งแรก"
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "น้องอยากลองเล่นสกี"
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "ฉันลองใช้วิธีใหม่ดูแล้ว"
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "เพื่อนบอกให้ฉันลองกินเค้กที่เขาทำ"
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "สัปดาห์นี้ฉันจะลองออกกำลังกายแบบใหม่"
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "ฉันต้องส่งรายงานนี้ภายในวันนี้"
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "คนงานต้องสวมชุดนิรภัยในสถานที่ปฏิบัติงาน"
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "ต้องจัดเตรียมเอกสารก่อนการประชุม"
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "เราต้องตรวจสอบตั๋วก่อนออกเดินทาง"
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "ฉันต้องกินข้าวก่อนกินยา"
+    }
+  }
+}

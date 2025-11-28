@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "A",
+    "romanization": "a",
+    "ipa": "[a]",
+    "description": "Une voyelle brillante produite avec la bouche grande ouverte et la langue vers l'avant."
+  },
+  {
+    "char": "ㅑ",
+    "name": "Ya",
+    "romanization": "ya",
+    "ipa": "[ja]",
+    "description": "Une diphtongue commençant par un glissement [j] suivi de 'a'."
+  },
+  {
+    "char": "ㅓ",
+    "name": "Eo",
+    "romanization": "eo",
+    "ipa": "[ʌ]",
+    "description": "Une voyelle mi-basse produite avec la langue en arrière et la bouche partiellement ouverte."
+  },
+  {
+    "char": "ㅕ",
+    "name": "Yeo",
+    "romanization": "yeo",
+    "ipa": "[jʌ]",
+    "description": "Une diphtongue commençant par un glissement [j] suivi de 'eo'."
+  },
+  {
+    "char": "ㅗ",
+    "name": "O",
+    "romanization": "o",
+    "ipa": "[o]",
+    "description": "Une voyelle arrondie produite avec les lèvres en cercle et la langue en arrière."
+  },
+  {
+    "char": "ㅛ",
+    "name": "Yo",
+    "romanization": "yo",
+    "ipa": "[jo]",
+    "description": "Une diphtongue commençant par un glissement [j] suivi de 'o'."
+  },
+  {
+    "char": "ㅜ",
+    "name": "U",
+    "romanization": "u",
+    "ipa": "[u]",
+    "description": "Une voyelle arrondie haute produite avec les lèvres poussées vers l'avant."
+  },
+  {
+    "char": "ㅠ",
+    "name": "Yu",
+    "romanization": "yu",
+    "ipa": "[ju]",
+    "description": "Une diphtongue commençant par un glissement [j] suivi de 'u'."
+  },
+  {
+    "char": "ㅡ",
+    "name": "Eu",
+    "romanization": "eu",
+    "ipa": "[ɨ]",
+    "description": "Une voyelle plate haute produite avec la bouche presque fermée et la langue au centre."
+  },
+  {
+    "char": "ㅣ",
+    "name": "I",
+    "romanization": "i",
+    "ipa": "[i]",
+    "description": "Une voyelle antérieure haute produite avec la bouche presque fermée."
+  },
+  {
+    "char": "ㅐ",
+    "name": "Ae",
+    "romanization": "ae",
+    "ipa": "[æ]",
+    "description": "Une voyelle antérieure basse produite avec la bouche grande ouverte."
+  },
+  {
+    "char": "ㅒ",
+    "name": "Yae",
+    "romanization": "yae",
+    "ipa": "[jæ]",
+    "description": "Une diphtongue commençant par un glissement [j] suivi de 'ae'."
+  },
+  {
+    "char": "ㅔ",
+    "name": "E",
+    "romanization": "e",
+    "ipa": "[e]",
+    "description": "Une voyelle antérieure mi-haute produite avec la bouche légèrement ouverte."
+  },
+  {
+    "char": "ㅖ",
+    "name": "Ye",
+    "romanization": "ye",
+    "ipa": "[je]",
+    "description": "Une diphtongue commençant par un glissement [j] suivi de 'e'."
+  },
+  {
+    "char": "ㅘ",
+    "name": "Wa",
+    "romanization": "wa",
+    "ipa": "[wa]",
+    "description": "Une diphtongue combinant le glissement [w] et 'a'."
+  },
+  {
+    "char": "ㅙ",
+    "name": "Wae",
+    "romanization": "wae",
+    "ipa": "[wæ]",
+    "description": "Une diphtongue combinant le glissement [w] et 'ae'."
+  },
+  {
+    "char": "ㅚ",
+    "name": "Oe",
+    "romanization": "oe",
+    "ipa": "[we]",
+    "description": "Une diphtongue généralement prononcée comme 'we' ([w] + 'e')."
+  },
+  {
+    "char": "ㅝ",
+    "name": "Weo",
+    "romanization": "weo",
+    "ipa": "[wʌ]",
+    "description": "Une diphtongue combinant le glissement [w] et 'eo'."
+  },
+  {
+    "char": "ㅞ",
+    "name": "We",
+    "romanization": "we",
+    "ipa": "[we]",
+    "description": "Une diphtongue combinant le glissement [w] et 'e'."
+  },
+  {
+    "char": "ㅟ",
+    "name": "Wi",
+    "romanization": "wi",
+    "ipa": "[wi]",
+    "description": "Une diphtongue combinant le glissement [w] et 'i'."
+  },
+  {
+    "char": "ㅢ",
+    "name": "Ui",
+    "romanization": "ui",
+    "ipa": "[ɨj]",
+    "description": "Une diphtongue combinant 'eu' et 'i'."
+  }
+]

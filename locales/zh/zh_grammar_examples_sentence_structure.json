@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "我每天早上喝咖啡。"
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "弟弟（或妹妹）在学校见朋友。"
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "朋友在家看电影。"
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "我们晚上吃饭。"
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "老师教学生韩语。"
+    },
+    "sentence_structure_elements_1": {
+      "translation": "我早上在学校学习韩语。"
+    },
+    "sentence_structure_elements_2": {
+      "translation": "姐姐周末在家休息。"
+    },
+    "sentence_structure_elements_3": {
+      "translation": "爸爸在公司工作到很晚。"
+    },
+    "sentence_structure_elements_4": {
+      "translation": "我送礼物给朋友。"
+    },
+    "sentence_structure_elements_5": {
+      "translation": "我们在咖啡馆安静地聊天。"
+    },
+    "sentence_structure_types_1": {
+      "translation": "今天天气真好。"
+    },
+    "sentence_structure_types_2": {
+      "translation": "今天晚上有时间吗？"
+    },
+    "sentence_structure_types_3": {
+      "translation": "请关一下门。"
+    },
+    "sentence_structure_types_4": {
+      "translation": "要一起去吃饭吗？"
+    },
+    "sentence_structure_types_5": {
+      "translation": "别迟到，请早点来。"
+    }
+  }
+}

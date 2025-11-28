@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "examples": [
+    {
+      "id": "conditionals_myeon_basic_1",
+      "groupId": "conditionals_myeon_basic",
+      "korean": "비가 오면 우산을 써요.",
+      "romanization": "biga omyeon usaneul sseoyo",
+      "ipa": "piga omjʌn usanɯl ssʌjo"
+    },
+    {
+      "id": "conditionals_myeon_basic_2",
+      "groupId": "conditionals_myeon_basic",
+      "korean": "시간이 있으면 같이 점심 먹어요.",
+      "romanization": "sigani isseumyeon gachi jeomsim meogeoyo",
+      "ipa": "ɕiɡan i issɯmjʌn katɕʰi tɕʌmsim mʌɡʌjo"
+    },
+    {
+      "id": "conditionals_myeon_basic_3",
+      "groupId": "conditionals_myeon_basic",
+      "korean": "집에 일찍 오면 영화 봐요.",
+      "romanization": "jibe iljjik omyeon yeonghwa bwayo",
+      "ipa": "tɕibe ilt͡ɕ͈ik̚ omjʌn jʌŋhʷa bwayo"
+    },
+    {
+      "id": "conditionals_myeon_basic_4",
+      "groupId": "conditionals_myeon_basic",
+      "korean": "날씨가 좋으면 산책해요.",
+      "romanization": "nalssiga joeumyeon sanchaekhaeyo",
+      "ipa": "nals͈iɡa tɕoɯmjʌn sant͡ɕʰɛkʰɛjo"
+    },
+    {
+      "id": "conditionals_myeon_basic_5",
+      "groupId": "conditionals_myeon_basic",
+      "korean": "바쁘면 내일 해요.",
+      "romanization": "bappeumyeon naeil haeyo",
+      "ipa": "pap͈ɯmjʌn nɛil hɛjo"
+    },
+    {
+      "id": "conditionals_tomyeon_future_1",
+      "groupId": "conditionals_tomyeon_future",
+      "korean": "돈을 모으면 여행을 갈 거예요.",
+      "romanization": "doneul moeumyeon yeohaengeul gal geoyeyo",
+      "ipa": "tonɯl moɯmjʌn jʌhɛŋɯl kal kʌjejo"
+    },
+    {
+      "id": "conditionals_tomyeon_future_2",
+      "groupId": "conditionals_tomyeon_future",
+      "korean": "운동을 하면 건강해질 거예요.",
+      "romanization": "undongeul hamyeon geonganghaejil geoyeyo",
+      "ipa": "undoŋɯl hamjʌn kʌŋɡaŋhɛdʑil kʌjejo"
+    },
+    {
+      "id": "conditionals_tomyeon_future_3",
+      "groupId": "conditionals_tomyeon_future",
+      "korean": "열심히 공부하면 성적이 오를 거예요.",
+      "romanization": "yeolsimhi gongbuhamyeon seongjeogi oreul geoyeyo",
+      "ipa": "jʌlɕimhi koŋbʌhamjʌn sʌŋdʑʌɡi oɾɯl kʌjejo"
+    },
+    {
+      "id": "conditionals_tomyeon_future_4",
+      "groupId": "conditionals_tomyeon_future",
+      "korean": "일찍 자면 내일 더 상쾌할 거예요.",
+      "romanization": "iljjik jamyeon naeil deo sangkwaehal geoyeyo",
+      "ipa": "ilt͡ɕ͈ik̚ tɕamjʌn nɛil tʌ saŋkʷɛhal kʌjejo"
+    },
+    {
+      "id": "conditionals_tomyeon_future_5",
+      "groupId": "conditionals_tomyeon_future",
+      "korean": "많이 걸으면 피곤해질 거예요.",
+      "romanization": "mani georeumyeon pigonhaejil geoyeyo",
+      "ipa": "mani kʌɾɯmjʌn pʰiɡonhɛdʑil kʌjejo"
+    }
+  ]
+}

@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "Russian": "Здравствуйте / Привет",
+    "romanization": "annyeonghaseyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "Russian": "До свидания (уходящему)",
+    "romanization": "annyeonghi gaseyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "Russian": "До свидания (остающемуся)",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "안녕",
+    "Russian": "Привет / Пока",
+    "romanization": "annyeong",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "감사합니다",
+    "Russian": "Спасибо (формально)",
+    "romanization": "gamsahamnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "고맙습니다",
+    "Russian": "Спасибо",
+    "romanization": "gomapseumnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "고마워요",
+    "Russian": "Спасибо (вежливо)",
+    "romanization": "gomawoyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "죄송합니다",
+    "Russian": "Извините (формально)",
+    "romanization": "joesonghamnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "미안합니다",
+    "Russian": "Простите / Извините",
+    "romanization": "mianhamnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "미안해요",
+    "Russian": "Прости / Извини",
+    "romanization": "mianhaeyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "반갑습니다",
+    "Russian": "Приятно познакомиться",
+    "romanization": "bangapseumnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "Russian": "Рад(а) встрече",
+    "romanization": "mannaseo bangawoyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "실례합니다",
+    "Russian": "Извините (при обращении)",
+    "romanization": "sillyehamnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "저기요",
+    "Russian": "Извините (чтобы привлечь внимание)",
+    "romanization": "jeogiyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "어서 오세요",
+    "Russian": "Добро пожаловать",
+    "romanization": "eoseo oseyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "Russian": "Спокойной ночи (формально)",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "잘 자요",
+    "Russian": "Спокойной ночи",
+    "romanization": "jal jayo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "Russian": "Приятного аппетита",
+    "romanization": "masitge deuseyo",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "Russian": "Я буду хорошо есть (Спасибо за еду)",
+    "romanization": "jal meokgetseumnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "Russian": "Я хорошо поел (Спасибо за угощение)",
+    "romanization": "jal meogeotseumnida",
+    "category": "Приветствия"
+  },
+  {
+    "korean": "네",
+    "Russian": "Да",
+    "romanization": "ne",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "아니요",
+    "Russian": "Нет",
+    "romanization": "aniyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "괜찮아요",
+    "Russian": "Всё в порядке / Нормально",
+    "romanization": "gwaenchanayo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "좋아요",
+    "Russian": "Хорошо / Мне нравится",
+    "romanization": "joayo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "싫어요",
+    "Russian": "Не нравится / Не хочу",
+    "romanization": "sileoyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "천만에요",
+    "Russian": "Не за что",
+    "romanization": "cheonmaneyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "잠깐만요",
+    "Russian": "Секундочку / Подождите",
+    "romanization": "jamkkanmanyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "알겠습니다",
+    "Russian": "Понятно / Хорошо",
+    "romanization": "algesseumnida",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "모르겠어요",
+    "Russian": "Я не знаю",
+    "romanization": "moreugesseoyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "도와주세요",
+    "Russian": "Помогите, пожалуйста",
+    "romanization": "dowajuseyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "됐어요",
+    "Russian": "Достаточно / Хватит",
+    "romanization": "dwaesseoyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "안 돼요",
+    "Russian": "Нельзя / Нет",
+    "romanization": "an dwaeyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "맞아요",
+    "Russian": "Правильно / Верно",
+    "romanization": "majayo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "틀렸어요",
+    "Russian": "Неправильно",
+    "romanization": "teullyeosseoyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "그래요",
+    "Russian": "Правда? / Вот как?",
+    "romanization": "geuraeyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "정말요",
+    "Russian": "Серьёзно? / Действительно?",
+    "romanization": "jeongmallyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "진짜요",
+    "Russian": "Правда? / Реально?",
+    "romanization": "jinjjayo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "그럼요",
+    "Russian": "Конечно",
+    "romanization": "geureomyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "아마도",
+    "Russian": "Возможно / Наверное",
+    "romanization": "amado",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "글쎄요",
+    "Russian": "Ну... / Не уверен",
+    "romanization": "geulsseyo",
+    "category": "Основная лексика"
+  },
+  {
+    "korean": "물",
+    "Russian": "Вода",
+    "romanization": "mul",
+    "category": "Еда"
+  },
+  {
+    "korean": "밥",
+    "Russian": "Рис / Еда",
+    "romanization": "bap",
+    "category": "Еда"
+  },
+  {
+    "korean": "김밥",
+    "Russian": "Кимпаб",
+    "romanization": "gimbap",
+    "category": "Еда"
+  },
+  {
+    "korean": "라면",
+    "Russian": "Рамён / Лапша быстрого приготовления",
+    "romanization": "ramyeon",
+    "category": "Еда"
+  },
+  {
+    "korean": "김치",
+    "Russian": "Кимчи",
+    "romanization": "gimchi",
+    "category": "Еда"
+  },
+  {
+    "korean": "커피",
+    "Russian": "Кофе",
+    "romanization": "keopi",
+    "category": "Еда"
+  },
+  {
+    "korean": "차",
+    "Russian": "Чай",
+    "romanization": "cha",
+    "category": "Еда"
+  },
+  {
+    "korean": "우유",
+    "Russian": "Молоко",
+    "romanization": "uyu",
+    "category": "Еда"
+  },
+  {
+    "korean": "주스",
+    "Russian": "Сок",
+    "romanization": "juseu",
+    "category": "Еда"
+  },
+  {
+    "korean": "맥주",
+    "Russian": "Пиво",
+    "romanization": "maekju",
+    "category": "Еда"
+  },
+  {
+    "korean": "빵",
+    "Russian": "Хлеб",
+    "romanization": "ppang",
+    "category": "Еда"
+  },
+  {
+    "korean": "과자",
+    "Russian": "Снеки / Печенье",
+    "romanization": "gwaja",
+    "category": "Еда"
+  },
+  {
+    "korean": "사탕",
+    "Russian": "Конфета",
+    "romanization": "satang",
+    "category": "Еда"
+  },
+  {
+    "korean": "고기",
+    "Russian": "Мясо",
+    "romanization": "gogi",
+    "category": "Еда"
+  },
+  {
+    "korean": "치킨",
+    "Russian": "Курица (жареная)",
+    "romanization": "chikin",
+    "category": "Еда"
+  },
+  {
+    "korean": "계란",
+    "Russian": "Яйцо",
+    "romanization": "gyeran",
+    "category": "Еда"
+  },
+  {
+    "korean": "과일",
+    "Russian": "Фрукты",
+    "romanization": "gwail",
+    "category": "Еда"
+  },
+  {
+    "korean": "사과",
+    "Russian": "Яблоко",
+    "romanization": "sagwa",
+    "category": "Еда"
+  },
+  {
+    "korean": "바나나",
+    "Russian": "Банан",
+    "romanization": "banana",
+    "category": "Еда"
+  },
+  {
+    "korean": "야채",
+    "Russian": "Овощи",
+    "romanization": "yachae",
+    "category": "Еда"
+  },
+  {
+    "korean": "사람",
+    "Russian": "Человек",
+    "romanization": "saram",
+    "category": "Люди"
+  },
+  {
+    "korean": "친구",
+    "Russian": "Друг / Подруга",
+    "romanization": "chingu",
+    "category": "Люди"
+  },
+  {
+    "korean": "가족",
+    "Russian": "Семья",
+    "romanization": "gajok",
+    "category": "Люди"
+  },
+  {
+    "korean": "엄마",
+    "Russian": "Мама",
+    "romanization": "eomma",
+    "category": "Люди"
+  },
+  {
+    "korean": "아빠",
+    "Russian": "Папа",
+    "romanization": "appa",
+    "category": "Люди"
+  },
+  {
+    "korean": "부모님",
+    "Russian": "Родители",
+    "romanization": "bumonim",
+    "category": "Люди"
+  },
+  {
+    "korean": "형",
+    "Russian": "Старший брат (для мужчин)",
+    "romanization": "hyeong",
+    "category": "Люди"
+  },
+  {
+    "korean": "오빠",
+    "Russian": "Старший брат (для женщин)",
+    "romanization": "oppa",
+    "category": "Люди"
+  },
+  {
+    "korean": "누나",
+    "Russian": "Старшая сестра (для мужчин)",
+    "romanization": "nuna",
+    "category": "Люди"
+  },
+  {
+    "korean": "언니",
+    "Russian": "Старшая сестра (для женщин)",
+    "romanization": "eonni",
+    "category": "Люди"
+  },
+  {
+    "korean": "동생",
+    "Russian": "Младший брат / Младшая сестра",
+    "romanization": "dongsaeng",
+    "category": "Люди"
+  },
+  {
+    "korean": "선생님",
+    "Russian": "Учитель / Господин",
+    "romanization": "seonsaengnim",
+    "category": "Люди"
+  },
+  {
+    "korean": "학생",
+    "Russian": "Ученик / Студент",
+    "romanization": "haksaeng",
+    "category": "Люди"
+  },
+  {
+    "korean": "남자",
+    "Russian": "Мужчина",
+    "romanization": "namja",
+    "category": "Люди"
+  },
+  {
+    "korean": "여자",
+    "Russian": "Женщина",
+    "romanization": "yeoja",
+    "category": "Люди"
+  },
+  {
+    "korean": "아이",
+    "Russian": "Ребенок",
+    "romanization": "ai",
+    "category": "Люди"
+  },
+  {
+    "korean": "아기",
+    "Russian": "Малыш / Младенец",
+    "romanization": "agi",
+    "category": "Люди"
+  },
+  {
+    "korean": "할아버지",
+    "Russian": "Дедушка",
+    "romanization": "harabeoji",
+    "category": "Люди"
+  },
+  {
+    "korean": "할머니",
+    "Russian": "Бабушка",
+    "romanization": "halmeoni",
+    "category": "Люди"
+  },
+  {
+    "korean": "손님",
+    "Russian": "Гость / Клиент",
+    "romanization": "sonnim",
+    "category": "Люди"
+  },
+  {
+    "korean": "집",
+    "Russian": "Дом",
+    "romanization": "jip",
+    "category": "Места"
+  },
+  {
+    "korean": "학교",
+    "Russian": "Школа",
+    "romanization": "hakgyo",
+    "category": "Места"
+  },
+  {
+    "korean": "병원",
+    "Russian": "Больница",
+    "romanization": "byeongwon",
+    "category": "Места"
+  },
+  {
+    "korean": "약국",
+    "Russian": "Аптека",
+    "romanization": "yakguk",
+    "category": "Места"
+  },
+  {
+    "korean": "식당",
+    "Russian": "Ресторан / Столовая",
+    "romanization": "sikdang",
+    "category": "Места"
+  },
+  {
+    "korean": "카페",
+    "Russian": "Кафе",
+    "romanization": "kape",
+    "category": "Места"
+  },
+  {
+    "korean": "화장실",
+    "Russian": "Туалет",
+    "romanization": "hwajangsil",
+    "category": "Места"
+  },
+  {
+    "korean": "은행",
+    "Russian": "Банк",
+    "romanization": "eunhaeng",
+    "category": "Места"
+  },
+  {
+    "korean": "공항",
+    "Russian": "Аэропорт",
+    "romanization": "gonghang",
+    "category": "Места"
+  },
+  {
+    "korean": "호텔",
+    "Russian": "Отель",
+    "romanization": "hotel",
+    "category": "Места"
+  },
+  {
+    "korean": "시장",
+    "Russian": "Рынок",
+    "romanization": "sijang",
+    "category": "Места"
+  },
+  {
+    "korean": "백화점",
+    "Russian": "Универмаг",
+    "romanization": "baekwajeom",
+    "category": "Места"
+  },
+  {
+    "korean": "편의점",
+    "Russian": "Круглосуточный магазин",
+    "romanization": "pyeonuijeom",
+    "category": "Места"
+  },
+  {
+    "korean": "회사",
+    "Russian": "Фирма / Офис",
+    "romanization": "hoesa",
+    "category": "Места"
+  },
+  {
+    "korean": "도서관",
+    "Russian": "Библиотека",
+    "romanization": "doseogwan",
+    "category": "Места"
+  },
+  {
+    "korean": "공원",
+    "Russian": "Парк",
+    "romanization": "gongwon",
+    "category": "Места"
+  },
+  {
+    "korean": "극장",
+    "Russian": "Театр / Кинотеатр",
+    "romanization": "geukjang",
+    "category": "Места"
+  },
+  {
+    "korean": "박물관",
+    "Russian": "Музей",
+    "romanization": "bangmulgwan",
+    "category": "Места"
+  },
+  {
+    "korean": "역",
+    "Russian": "Вокзал / Станция",
+    "romanization": "yeok",
+    "category": "Места"
+  },
+  {
+    "korean": "정류장",
+    "Russian": "Остановка (автобусная)",
+    "romanization": "jeongnyujang",
+    "category": "Места"
+  },
+  {
+    "korean": "버스",
+    "Russian": "Автобус",
+    "romanization": "beoseu",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "택시",
+    "Russian": "Такси",
+    "romanization": "taeksi",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "기차",
+    "Russian": "Поезд",
+    "romanization": "gicha",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "지하철",
+    "Russian": "Метро",
+    "romanization": "jihacheol",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "비행기",
+    "Russian": "Самолет",
+    "romanization": "bihaenggi",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "자동차",
+    "Russian": "Автомобиль",
+    "romanization": "jadongcha",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "자전거",
+    "Russian": "Велосипед",
+    "romanization": "jajeongeo",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "오토바이",
+    "Russian": "Мотоцикл",
+    "romanization": "otobai",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "배",
+    "Russian": "Корабль / Лодка",
+    "romanization": "bae",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "표",
+    "Russian": "Билет",
+    "romanization": "pyo",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "길",
+    "Russian": "Дорога / Путь",
+    "romanization": "gil",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "거리",
+    "Russian": "Улица / Расстояние",
+    "romanization": "geori",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "신호등",
+    "Russian": "Светофор",
+    "romanization": "sinhodeung",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "횡단보도",
+    "Russian": "Пешеходный переход",
+    "romanization": "hoengdanbodo",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "주차장",
+    "Russian": "Парковка",
+    "romanization": "juchajang",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "운전",
+    "Russian": "Вождение",
+    "romanization": "unjeon",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "출발",
+    "Russian": "Отправление",
+    "romanization": "chulbal",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "도착",
+    "Russian": "Прибытие",
+    "romanization": "dochak",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "가까이",
+    "Russian": "Близко",
+    "romanization": "gakkai",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "멀리",
+    "Russian": "Далеко",
+    "romanization": "meolli",
+    "category": "Транспорт"
+  },
+  {
+    "korean": "가다",
+    "Russian": "Идти / Ехать (туда)",
+    "romanization": "gada",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "오다",
+    "Russian": "Приходить / Приезжать (сюда)",
+    "romanization": "oda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "먹다",
+    "Russian": "Есть / Кушать",
+    "romanization": "meokda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "마시다",
+    "Russian": "Пить",
+    "romanization": "masida",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "자다",
+    "Russian": "Спать",
+    "romanization": "jada",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "일어나다",
+    "Russian": "Вставать / Просыпаться",
+    "romanization": "ireonada",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "씻다",
+    "Russian": "Мыть / Мыться",
+    "romanization": "ssitda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "입다",
+    "Russian": "Надевать (одежду)",
+    "romanization": "ipda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "벗다",
+    "Russian": "Снимать (одежду)",
+    "romanization": "beotda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "앉다",
+    "Russian": "Сидеть / Садиться",
+    "romanization": "anda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "서다",
+    "Russian": "Стоять / Вставать",
+    "romanization": "seoda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "눕다",
+    "Russian": "Лежать / Ложиться",
+    "romanization": "nupda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "걷다",
+    "Russian": "Ходить пешком",
+    "romanization": "geotda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "뛰다",
+    "Russian": "Бежать",
+    "romanization": "ttwida",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "타다",
+    "Russian": "Садиться (в транспорт) / Ехать",
+    "romanization": "tada",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "내리다",
+    "Russian": "Выходить (из транспорта)",
+    "romanization": "naerida",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "열다",
+    "Russian": "Открывать",
+    "romanization": "yeolda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "닫다",
+    "Russian": "Закрывать",
+    "romanization": "datda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "켜다",
+    "Russian": "Включать",
+    "romanization": "kyeoda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "끄다",
+    "Russian": "Выключать",
+    "romanization": "kkeuda",
+    "category": "Повседневные глаголы"
+  },
+  {
+    "korean": "공부하다",
+    "Russian": "Учиться / Заниматься",
+    "romanization": "gongbuhada",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "일하다",
+    "Russian": "Работать",
+    "romanization": "ilhada",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "보다",
+    "Russian": "Смотреть / Видеть",
+    "romanization": "boda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "듣다",
+    "Russian": "Слушать / Слышать",
+    "romanization": "deutda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "말하다",
+    "Russian": "Говорить",
+    "romanization": "malhada",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "읽다",
+    "Russian": "Читать",
+    "romanization": "ikda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "쓰다",
+    "Russian": "Писать / Использовать",
+    "romanization": "sseuda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "배우다",
+    "Russian": "Учить / Изучать",
+    "romanization": "baeuda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "가르치다",
+    "Russian": "Преподавать / Учить кого-то",
+    "romanization": "gareuchida",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "생각하다",
+    "Russian": "Думать",
+    "romanization": "saenggakhada",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "알다",
+    "Russian": "Знать",
+    "romanization": "alda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "모르다",
+    "Russian": "Не знать",
+    "romanization": "moreuda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "사다",
+    "Russian": "Покупать",
+    "romanization": "sada",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "팔다",
+    "Russian": "Продавать",
+    "romanization": "palda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "만들다",
+    "Russian": "Делать / Создавать",
+    "romanization": "mandeulda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "하다",
+    "Russian": "Делать",
+    "romanization": "hada",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "주다",
+    "Russian": "Давать",
+    "romanization": "juda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "받다",
+    "Russian": "Получать",
+    "romanization": "batda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "찾다",
+    "Russian": "Искать / Находить",
+    "romanization": "chatda",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "잃다",
+    "Russian": "Терять",
+    "romanization": "ilta",
+    "category": "Глаголы действия"
+  },
+  {
+    "korean": "좋다",
+    "Russian": "Хороший",
+    "romanization": "jota",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "나쁘다",
+    "Russian": "Плохой",
+    "romanization": "nappeuda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "크다",
+    "Russian": "Большой",
+    "romanization": "keuda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "작다",
+    "Russian": "Маленький",
+    "romanization": "jakda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "높다",
+    "Russian": "Высокий",
+    "romanization": "nopda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "낮다",
+    "Russian": "Низкий",
+    "romanization": "natda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "길다",
+    "Russian": "Длинный",
+    "romanization": "gilda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "짧다",
+    "Russian": "Короткий",
+    "romanization": "jjalpda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "넓다",
+    "Russian": "Широкий",
+    "romanization": "neolpda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "좁다",
+    "Russian": "Узкий",
+    "romanization": "jopda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "예쁘다",
+    "Russian": "Красивый (о вещах/девушках)",
+    "romanization": "yeppeuda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "아름답다",
+    "Russian": "Прекрасный",
+    "romanization": "areumdapda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "맛있다",
+    "Russian": "Вкусный",
+    "romanization": "masitta",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "맛없다",
+    "Russian": "Невкусный",
+    "romanization": "mateopsda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "비싸다",
+    "Russian": "Дорогой",
+    "romanization": "bissada",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "싸다",
+    "Russian": "Дешевый",
+    "romanization": "ssada",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "많다",
+    "Russian": "Много",
+    "romanization": "manta",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "적다",
+    "Russian": "Мало",
+    "romanization": "jeokda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "빠르다",
+    "Russian": "Быстрый",
+    "romanization": "ppareuda",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "느리다",
+    "Russian": "Медленный",
+    "romanization": "neurida",
+    "category": "Прилагательные"
+  },
+  {
+    "korean": "하나",
+    "Russian": "Один",
+    "romanization": "hana",
+    "category": "Числа"
+  },
+  {
+    "korean": "둘",
+    "Russian": "Два",
+    "romanization": "dul",
+    "category": "Числа"
+  },
+  {
+    "korean": "셋",
+    "Russian": "Три",
+    "romanization": "set",
+    "category": "Числа"
+  },
+  {
+    "korean": "넷",
+    "Russian": "Четыре",
+    "romanization": "net",
+    "category": "Числа"
+  },
+  {
+    "korean": "다섯",
+    "Russian": "Пять",
+    "romanization": "daseot",
+    "category": "Числа"
+  },
+  {
+    "korean": "여섯",
+    "Russian": "Шесть",
+    "romanization": "yeoseot",
+    "category": "Числа"
+  },
+  {
+    "korean": "일곱",
+    "Russian": "Семь",
+    "romanization": "ilgop",
+    "category": "Числа"
+  },
+  {
+    "korean": "여덟",
+    "Russian": "Восемь",
+    "romanization": "yeodeol",
+    "category": "Числа"
+  },
+  {
+    "korean": "아홉",
+    "Russian": "Девять",
+    "romanization": "ahop",
+    "category": "Числа"
+  },
+  {
+    "korean": "열",
+    "Russian": "Десять",
+    "romanization": "yeol",
+    "category": "Числа"
+  },
+  {
+    "korean": "일",
+    "Russian": "Один (сино-кор.)",
+    "romanization": "il",
+    "category": "Числа"
+  },
+  {
+    "korean": "이",
+    "Russian": "Два (сино-кор.)",
+    "romanization": "i",
+    "category": "Числа"
+  },
+  {
+    "korean": "삼",
+    "Russian": "Три (сино-кор.)",
+    "romanization": "sam",
+    "category": "Числа"
+  },
+  {
+    "korean": "사",
+    "Russian": "Четыре (сино-кор.)",
+    "romanization": "sa",
+    "category": "Числа"
+  },
+  {
+    "korean": "오",
+    "Russian": "Пять (сино-кор.)",
+    "romanization": "o",
+    "category": "Числа"
+  },
+  {
+    "korean": "육",
+    "Russian": "Шесть (сино-кор.)",
+    "romanization": "yuk",
+    "category": "Числа"
+  },
+  {
+    "korean": "칠",
+    "Russian": "Семь (сино-кор.)",
+    "romanization": "chil",
+    "category": "Числа"
+  },
+  {
+    "korean": "팔",
+    "Russian": "Восемь (сино-кор.)",
+    "romanization": "pal",
+    "category": "Числа"
+  },
+  {
+    "korean": "구",
+    "Russian": "Девять (сино-кор.)",
+    "romanization": "gu",
+    "category": "Числа"
+  },
+  {
+    "korean": "십",
+    "Russian": "Десять (сино-кор.)",
+    "romanization": "sip",
+    "category": "Числа"
+  },
+  {
+    "korean": "오늘",
+    "Russian": "Сегодня",
+    "romanization": "oneul",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "내일",
+    "Russian": "Завтра",
+    "romanization": "naeil",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "어제",
+    "Russian": "Вчера",
+    "romanization": "eoje",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "모레",
+    "Russian": "Послезавтра",
+    "romanization": "more",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "그제",
+    "Russian": "Позавчера",
+    "romanization": "geuje",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "지금",
+    "Russian": "Сейчас",
+    "romanization": "jigeum",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "나중에",
+    "Russian": "Позже",
+    "romanization": "najunge",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "아침",
+    "Russian": "Утро",
+    "romanization": "achim",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "점심",
+    "Russian": "День / Обед",
+    "romanization": "jeomsim",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "저녁",
+    "Russian": "Вечер / Ужин",
+    "romanization": "jeonyeok",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "밤",
+    "Russian": "Ночь",
+    "romanization": "bam",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "시간",
+    "Russian": "Время / Час",
+    "romanization": "sigan",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "분",
+    "Russian": "Минута",
+    "romanization": "bun",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "초",
+    "Russian": "Секунда",
+    "romanization": "cho",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "년",
+    "Russian": "Год",
+    "romanization": "nyeon",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "월",
+    "Russian": "Месяц",
+    "romanization": "wol",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "일",
+    "Russian": "День",
+    "romanization": "il",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "주",
+    "Russian": "Неделя",
+    "romanization": "ju",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "요일",
+    "Russian": "День недели",
+    "romanization": "yoil",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "날",
+    "Russian": "День (сутки)",
+    "romanization": "nal",
+    "category": "Время и дата"
+  },
+  {
+    "korean": "빨강",
+    "Russian": "Красный",
+    "romanization": "ppalgang",
+    "category": "Цвета"
+  },
+  {
+    "korean": "빨간색",
+    "Russian": "Красный цвет",
+    "romanization": "ppalgansaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "파랑",
+    "Russian": "Синий",
+    "romanization": "parang",
+    "category": "Цвета"
+  },
+  {
+    "korean": "파란색",
+    "Russian": "Синий цвет",
+    "romanization": "paransaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "노랑",
+    "Russian": "Желтый",
+    "romanization": "norang",
+    "category": "Цвета"
+  },
+  {
+    "korean": "노란색",
+    "Russian": "Желтый цвет",
+    "romanization": "noransaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "초록",
+    "Russian": "Зеленый",
+    "romanization": "chorok",
+    "category": "Цвета"
+  },
+  {
+    "korean": "초록색",
+    "Russian": "Зеленый цвет",
+    "romanization": "choroksaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "검정",
+    "Russian": "Черный",
+    "romanization": "geomjeong",
+    "category": "Цвета"
+  },
+  {
+    "korean": "검은색",
+    "Russian": "Черный цвет",
+    "romanization": "geomeunsaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "하양",
+    "Russian": "Белый",
+    "romanization": "hayang",
+    "category": "Цвета"
+  },
+  {
+    "korean": "하얀색",
+    "Russian": "Белый цвет",
+    "romanization": "hayansaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "주황",
+    "Russian": "Оранжевый",
+    "romanization": "juhwang",
+    "category": "Цвета"
+  },
+  {
+    "korean": "주황색",
+    "Russian": "Оранжевый цвет",
+    "romanization": "juhwangsaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "보라",
+    "Russian": "Фиолетовый",
+    "romanization": "bora",
+    "category": "Цвета"
+  },
+  {
+    "korean": "보라색",
+    "Russian": "Фиолетовый цвет",
+    "romanization": "borasaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "분홍",
+    "Russian": "Розовый",
+    "romanization": "bunhong",
+    "category": "Цвета"
+  },
+  {
+    "korean": "분홍색",
+    "Russian": "Розовый цвет",
+    "romanization": "bunhongsaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "회색",
+    "Russian": "Серый",
+    "romanization": "hoesaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "갈색",
+    "Russian": "Коричневый",
+    "romanization": "galsaek",
+    "category": "Цвета"
+  },
+  {
+    "korean": "머리",
+    "Russian": "Голова / Волосы",
+    "romanization": "meori",
+    "category": "Тело"
+  },
+  {
+    "korean": "얼굴",
+    "Russian": "Лицо",
+    "romanization": "eolgul",
+    "category": "Тело"
+  },
+  {
+    "korean": "눈",
+    "Russian": "Глаз",
+    "romanization": "nun",
+    "category": "Тело"
+  },
+  {
+    "korean": "코",
+    "Russian": "Нос",
+    "romanization": "ko",
+    "category": "Тело"
+  },
+  {
+    "korean": "귀",
+    "Russian": "Ухо",
+    "romanization": "gwi",
+    "category": "Тело"
+  },
+  {
+    "korean": "입",
+    "Russian": "Рот",
+    "romanization": "ip",
+    "category": "Тело"
+  },
+  {
+    "korean": "이",
+    "Russian": "Зуб",
+    "romanization": "i",
+    "category": "Тело"
+  },
+  {
+    "korean": "목",
+    "Russian": "Шея / Горло",
+    "romanization": "mok",
+    "category": "Тело"
+  },
+  {
+    "korean": "어깨",
+    "Russian": "Плечо",
+    "romanization": "eokkae",
+    "category": "Тело"
+  },
+  {
+    "korean": "팔",
+    "Russian": "Рука (от плеча до кисти)",
+    "romanization": "pal",
+    "category": "Тело"
+  },
+  {
+    "korean": "손",
+    "Russian": "Рука (кисть)",
+    "romanization": "son",
+    "category": "Тело"
+  },
+  {
+    "korean": "손가락",
+    "Russian": "Палец руки",
+    "romanization": "son garak",
+    "category": "Тело"
+  },
+  {
+    "korean": "다리",
+    "Russian": "Нога",
+    "romanization": "dari",
+    "category": "Тело"
+  },
+  {
+    "korean": "발",
+    "Russian": "Ступня",
+    "romanization": "bal",
+    "category": "Тело"
+  },
+  {
+    "korean": "발가락",
+    "Russian": "Палец ноги",
+    "romanization": "balgarak",
+    "category": "Тело"
+  },
+  {
+    "korean": "배",
+    "Russian": "Живот",
+    "romanization": "bae",
+    "category": "Тело"
+  },
+  {
+    "korean": "등",
+    "Russian": "Спина",
+    "romanization": "deung",
+    "category": "Тело"
+  },
+  {
+    "korean": "가슴",
+    "Russian": "Грудь / Сердце",
+    "romanization": "gaseum",
+    "category": "Тело"
+  },
+  {
+    "korean": "심장",
+    "Russian": "Сердце (орган)",
+    "romanization": "simjang",
+    "category": "Тело"
+  },
+  {
+    "korean": "피",
+    "Russian": "Кровь",
+    "romanization": "pi",
+    "category": "Тело"
+  },
+  {
+    "korean": "날씨",
+    "Russian": "Погода",
+    "romanization": "nalssi",
+    "category": "Природа"
+  },
+  {
+    "korean": "비",
+    "Russian": "Дождь",
+    "romanization": "bi",
+    "category": "Природа"
+  },
+  {
+    "korean": "눈",
+    "Russian": "Снег",
+    "romanization": "nun",
+    "category": "Природа"
+  },
+  {
+    "korean": "바람",
+    "Russian": "Ветер",
+    "romanization": "baram",
+    "category": "Природа"
+  },
+  {
+    "korean": "구름",
+    "Russian": "Облако",
+    "romanization": "gureum",
+    "category": "Природа"
+  },
+  {
+    "korean": "해",
+    "Russian": "Солнце",
+    "romanization": "hae",
+    "category": "Природа"
+  },
+  {
+    "korean": "달",
+    "Russian": "Луна",
+    "romanization": "dal",
+    "category": "Природа"
+  },
+  {
+    "korean": "별",
+    "Russian": "Звезда",
+    "romanization": "byeol",
+    "category": "Природа"
+  },
+  {
+    "korean": "하늘",
+    "Russian": "Небо",
+    "romanization": "haneul",
+    "category": "Природа"
+  },
+  {
+    "korean": "땅",
+    "Russian": "Земля / Почва",
+    "romanization": "ttang",
+    "category": "Природа"
+  },
+  {
+    "korean": "산",
+    "Russian": "Гора",
+    "romanization": "san",
+    "category": "Природа"
+  },
+  {
+    "korean": "강",
+    "Russian": "Река",
+    "romanization": "gang",
+    "category": "Природа"
+  },
+  {
+    "korean": "바다",
+    "Russian": "Море",
+    "romanization": "bada",
+    "category": "Природа"
+  },
+  {
+    "korean": "호수",
+    "Russian": "Озеро",
+    "romanization": "hosu",
+    "category": "Природа"
+  },
+  {
+    "korean": "나무",
+    "Russian": "Дерево",
+    "romanization": "namu",
+    "category": "Природа"
+  },
+  {
+    "korean": "꽃",
+    "Russian": "Цветок",
+    "romanization": "kkot",
+    "category": "Природа"
+  },
+  {
+    "korean": "풀",
+    "Russian": "Трава",
+    "romanization": "pul",
+    "category": "Природа"
+  },
+  {
+    "korean": "불",
+    "Russian": "Огонь",
+    "romanization": "bul",
+    "category": "Природа"
+  },
+  {
+    "korean": "돌",
+    "Russian": "Камень",
+    "romanization": "dol",
+    "category": "Природа"
+  },
+  {
+    "korean": "흙",
+    "Russian": "Земля / Грязь",
+    "romanization": "heuk",
+    "category": "Природа"
+  },
+  {
+    "korean": "교실",
+    "Russian": "Классная комната",
+    "romanization": "gyosil",
+    "category": "Школа"
+  },
+  {
+    "korean": "책",
+    "Russian": "Книга",
+    "romanization": "chaek",
+    "category": "Школа"
+  },
+  {
+    "korean": "공책",
+    "Russian": "Тетрадь",
+    "romanization": "gongchaek",
+    "category": "Школа"
+  },
+  {
+    "korean": "연필",
+    "Russian": "Карандаш",
+    "romanization": "yeonpil",
+    "category": "Школа"
+  },
+  {
+    "korean": "펜",
+    "Russian": "Ручка",
+    "romanization": "pen",
+    "category": "Школа"
+  },
+  {
+    "korean": "지우개",
+    "Russian": "Ластик",
+    "romanization": "jiugae",
+    "category": "Школа"
+  },
+  {
+    "korean": "가방",
+    "Russian": "Сумка / Рюкзак",
+    "romanization": "gabang",
+    "category": "Школа"
+  },
+  {
+    "korean": "책상",
+    "Russian": "Письменный стол / Парта",
+    "romanization": "chaeksang",
+    "category": "Школа"
+  },
+  {
+    "korean": "의자",
+    "Russian": "Стул",
+    "romanization": "uija",
+    "category": "Школа"
+  },
+  {
+    "korean": "칠판",
+    "Russian": "Доска (классная)",
+    "romanization": "chilpan",
+    "category": "Школа"
+  },
+  {
+    "korean": "숙제",
+    "Russian": "Домашнее задание",
+    "romanization": "sukje",
+    "category": "Школа"
+  },
+  {
+    "korean": "시험",
+    "Russian": "Экзамен",
+    "romanization": "siheom",
+    "category": "Школа"
+  },
+  {
+    "korean": "성적",
+    "Russian": "Оценка",
+    "romanization": "seongjeok",
+    "category": "Школа"
+  },
+  {
+    "korean": "수업",
+    "Russian": "Урок / Занятие",
+    "romanization": "sueop",
+    "category": "Школа"
+  },
+  {
+    "korean": "과목",
+    "Russian": "Предмет",
+    "romanization": "gwamok",
+    "category": "Школа"
+  },
+  {
+    "korean": "수학",
+    "Russian": "Математика",
+    "romanization": "suhak",
+    "category": "Школа"
+  },
+  {
+    "korean": "과학",
+    "Russian": "Наука",
+    "romanization": "gwahak",
+    "category": "Школа"
+  },
+  {
+    "korean": "영어",
+    "Russian": "Английский язык",
+    "romanization": "yeongeo",
+    "category": "Школа"
+  },
+  {
+    "korean": "역사",
+    "Russian": "История",
+    "romanization": "yeoksa",
+    "category": "Школа"
+  },
+  {
+    "korean": "체육",
+    "Russian": "Физкультура",
+    "romanization": "cheyuk",
+    "category": "Школа"
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "Je fais de l'exercice le matin puis je prends une douche."
+    },
+    "connectives_go_2": {
+      "translation": "Mon petit frère fait ses devoirs puis regarde la télévision."
+    },
+    "connectives_go_3": {
+      "translation": "Je mange puis je vais me promener."
+    },
+    "connectives_go_4": {
+      "translation": "Mon ami lit un livre et écoute de la musique."
+    },
+    "connectives_go_5": {
+      "translation": "Je fais la vaisselle et la lessive."
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "Comme il pleuvait, je suis resté à la maison."
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "Comme j'avais faim, j'ai déjeuné tôt."
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "Comme la route était embouteillée, je suis arrivé en retard."
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "Comme j'étais fatigué, je me suis couché tôt."
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "Comme il faisait beau, je suis allé me promener."
+    },
+    "connectives_jiman_1": {
+      "translation": "Je suis fatigué, mais j'ai quand même fait de l'exercice."
+    },
+    "connectives_jiman_2": {
+      "translation": "Il fait froid, mais je suis sorti me promener."
+    },
+    "connectives_jiman_3": {
+      "translation": "Je suis occupé, mais j'ai rencontré mon ami."
+    },
+    "connectives_jiman_4": {
+      "translation": "C'est bon, mais un peu épicé."
+    },
+    "connectives_jiman_5": {
+      "translation": "C'est cher, mais de bonne qualité."
+    },
+    "connectives_myeonseo_1": {
+      "translation": "J'écoute de la musique en étudiant."
+    },
+    "connectives_myeonseo_2": {
+      "translation": "Mon petit frère mange en regardant la télévision."
+    },
+    "connectives_myeonseo_3": {
+      "translation": "Mon ami parle en marchant."
+    },
+    "connectives_myeonseo_4": {
+      "translation": "Je cuisine en chantant."
+    },
+    "connectives_myeonseo_5": {
+      "translation": "Les gens sourient en prenant des photos."
+    },
+    "connectives_geona_1": {
+      "translation": "Le week-end, je regarde un film ou je me repose."
+    },
+    "connectives_geona_2": {
+      "translation": "Mon petit frère étudie ou joue à des jeux."
+    },
+    "connectives_geona_3": {
+      "translation": "Mon ami lit un livre ou écoute de la musique au café."
+    },
+    "connectives_geona_4": {
+      "translation": "Je fais de l'exercice ou je vais me promener."
+    },
+    "connectives_geona_5": {
+      "translation": "Nous prenons des photos ou buvons un café dehors."
+    }
+  }
+}

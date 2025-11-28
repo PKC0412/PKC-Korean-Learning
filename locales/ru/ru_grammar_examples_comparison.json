@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "Сегодня погода теплее, чем вчера."
+    },
+    "comparison_boda_2": {
+      "translation": "Я выше ростом, чем моя старшая сестра."
+    },
+    "comparison_boda_3": {
+      "translation": "Эта сумка легче, чем та."
+    },
+    "comparison_boda_4": {
+      "translation": "Этот фильм намного интереснее предыдущего."
+    },
+    "comparison_boda_5": {
+      "translation": "Эта дорога немного тише, чем та."
+    },
+    "comparison_mankeum_1": {
+      "translation": "Я не готовлю так хорошо, как моя старшая сестра."
+    },
+    "comparison_mankeum_2": {
+      "translation": "Сегодня я так же занят, как и вчера."
+    },
+    "comparison_mankeum_3": {
+      "translation": "Этот спортсмен показал результаты настолько хорошие, насколько мы ожидали."
+    },
+    "comparison_mankeum_4": {
+      "translation": "Эта одежда не такая теплая, как я думал."
+    },
+    "comparison_mankeum_5": {
+      "translation": "Я не знаю английский так хорошо, как мой друг."
+    },
+    "comparison_cheoreom_1": {
+      "translation": "Этот ребенок улыбается как ангел."
+    },
+    "comparison_cheoreom_2": {
+      "translation": "Этот щенок маленький и милый, как кукла."
+    },
+    "comparison_cheoreom_3": {
+      "translation": "Небо такое красивое, словно картина."
+    },
+    "comparison_cheoreom_4": {
+      "translation": "Он работает как машина."
+    },
+    "comparison_cheoreom_5": {
+      "translation": "Я хочу гулять свободно, как ветер."
+    }
+  }
+}

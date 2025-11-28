@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "A",
+    "romanization": "a",
+    "ipa": "[a]",
+    "description": "Ein heller Vokal, der mit weit geöffnetem Mund und Zunge vorne gebildet wird."
+  },
+  {
+    "char": "ㅑ",
+    "name": "Ya",
+    "romanization": "ya",
+    "ipa": "[ja]",
+    "description": "Ein Diphthong, der mit einem Gleitlaut [j] beginnt, gefolgt von 'a'."
+  },
+  {
+    "char": "ㅓ",
+    "name": "Eo",
+    "romanization": "eo",
+    "ipa": "[ʌ]",
+    "description": "Ein halb-offener Vokal, der mit der Zunge hinten und teilweise geöffnetem Mund gebildet wird."
+  },
+  {
+    "char": "ㅕ",
+    "name": "Yeo",
+    "romanization": "yeo",
+    "ipa": "[jʌ]",
+    "description": "Ein Diphthong, der mit einem Gleitlaut [j] beginnt, gefolgt von 'eo'."
+  },
+  {
+    "char": "ㅗ",
+    "name": "O",
+    "romanization": "o",
+    "ipa": "[o]",
+    "description": "Ein gerundeter Vokal, der mit gerundeten Lippen und Zunge hinten gebildet wird."
+  },
+  {
+    "char": "ㅛ",
+    "name": "Yo",
+    "romanization": "yo",
+    "ipa": "[jo]",
+    "description": "Ein Diphthong, der mit einem Gleitlaut [j] beginnt, gefolgt von 'o'."
+  },
+  {
+    "char": "ㅜ",
+    "name": "U",
+    "romanization": "u",
+    "ipa": "[u]",
+    "description": "Ein hoher gerundeter Vokal, der mit nach vorne geschobenen Lippen gebildet wird."
+  },
+  {
+    "char": "ㅠ",
+    "name": "Yu",
+    "romanization": "yu",
+    "ipa": "[ju]",
+    "description": "Ein Diphthong, der mit einem Gleitlaut [j] beginnt, gefolgt von 'u'."
+  },
+  {
+    "char": "ㅡ",
+    "name": "Eu",
+    "romanization": "eu",
+    "ipa": "[ɨ]",
+    "description": "Ein hoher flacher Vokal, der mit fast geschlossenem Mund und Zunge in der Mitte gebildet wird."
+  },
+  {
+    "char": "ㅣ",
+    "name": "I",
+    "romanization": "i",
+    "ipa": "[i]",
+    "description": "Ein hoher vorderer Vokal, der mit fast geschlossenem Mund gebildet wird."
+  },
+  {
+    "char": "ㅐ",
+    "name": "Ae",
+    "romanization": "ae",
+    "ipa": "[æ]",
+    "description": "Ein tiefer vorderer Vokal, der mit weit geöffnetem Mund gebildet wird."
+  },
+  {
+    "char": "ㅒ",
+    "name": "Yae",
+    "romanization": "yae",
+    "ipa": "[jæ]",
+    "description": "Ein Diphthong, der mit einem Gleitlaut [j] beginnt, gefolgt von 'ae'."
+  },
+  {
+    "char": "ㅔ",
+    "name": "E",
+    "romanization": "e",
+    "ipa": "[e]",
+    "description": "Ein halb-hoher vorderer Vokal, der mit leicht geöffnetem Mund gebildet wird."
+  },
+  {
+    "char": "ㅖ",
+    "name": "Ye",
+    "romanization": "ye",
+    "ipa": "[je]",
+    "description": "Ein Diphthong, der mit einem Gleitlaut [j] beginnt, gefolgt von 'e'."
+  },
+  {
+    "char": "ㅘ",
+    "name": "Wa",
+    "romanization": "wa",
+    "ipa": "[wa]",
+    "description": "Ein Diphthong, der den Gleitlaut [w] und 'a' kombiniert."
+  },
+  {
+    "char": "ㅙ",
+    "name": "Wae",
+    "romanization": "wae",
+    "ipa": "[wæ]",
+    "description": "Ein Diphthong, der den Gleitlaut [w] und 'ae' kombiniert."
+  },
+  {
+    "char": "ㅚ",
+    "name": "Oe",
+    "romanization": "oe",
+    "ipa": "[we]",
+    "description": "Ein Diphthong, der meist wie 'we' ([w] + 'e') ausgesprochen wird."
+  },
+  {
+    "char": "ㅝ",
+    "name": "Weo",
+    "romanization": "weo",
+    "ipa": "[wʌ]",
+    "description": "Ein Diphthong, der den Gleitlaut [w] und 'eo' kombiniert."
+  },
+  {
+    "char": "ㅞ",
+    "name": "We",
+    "romanization": "we",
+    "ipa": "[we]",
+    "description": "Ein Diphthong, der den Gleitlaut [w] und 'e' kombiniert."
+  },
+  {
+    "char": "ㅟ",
+    "name": "Wi",
+    "romanization": "wi",
+    "ipa": "[wi]",
+    "description": "Ein Diphthong, der den Gleitlaut [w] und 'i' kombiniert."
+  },
+  {
+    "char": "ㅢ",
+    "name": "Ui",
+    "romanization": "ui",
+    "ipa": "[ɨj]",
+    "description": "Ein Diphthong, der 'eu' und 'i' kombiniert."
+  }
+]

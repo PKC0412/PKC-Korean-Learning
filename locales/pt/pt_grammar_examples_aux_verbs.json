@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "Hoje quero voltar cedo para casa."
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "Meu irmãozinho quer criar um filhote."
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "Quero ir ao mar neste fim de semana."
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "Meu amigo disse que quer aprender um novo trabalho."
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "Ano que vem quero trabalhar no exterior."
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "Ontem tentei fazer kimchi pela primeira vez."
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "Meu irmãozinho queria tentar esquiar."
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "Tentei usar um novo método."
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "Meu amigo pediu para eu experimentar o bolo que ele fez."
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "Esta semana vou tentar um novo tipo de exercício."
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "Preciso entregar este relatório hoje."
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "Os trabalhadores devem usar equipamentos de segurança na obra."
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "Preciso organizar os documentos antes da reunião."
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "Precisamos verificar as passagens antes de partir."
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "Preciso comer antes de tomar o remédio."
+    }
+  }
+}

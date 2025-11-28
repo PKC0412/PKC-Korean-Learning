@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "私は毎朝コーヒーを飲みます。"
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "弟は学校で友達に会います。"
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "友達は家で映画を見ます。"
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "私たちは夕方に食事をします。"
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "先生は学生たちに韓国語を教えます。"
+    },
+    "sentence_structure_elements_1": {
+      "translation": "私は朝、学校で韓国語を勉強します。"
+    },
+    "sentence_structure_elements_2": {
+      "translation": "姉は週末に家で休みます。"
+    },
+    "sentence_structure_elements_3": {
+      "translation": "父は会社で遅くまで働きます。"
+    },
+    "sentence_structure_elements_4": {
+      "translation": "私は友達にプレゼントをあげます。"
+    },
+    "sentence_structure_elements_5": {
+      "translation": "私たちはカフェで静かに話をします。"
+    },
+    "sentence_structure_types_1": {
+      "translation": "今日は本当に天気がいいですね。"
+    },
+    "sentence_structure_types_2": {
+      "translation": "今日の夕方、時間はありますか？"
+    },
+    "sentence_structure_types_3": {
+      "translation": "ドアを閉めてください。"
+    },
+    "sentence_structure_types_4": {
+      "translation": "一緒にご飯を食べに行きましょうか？"
+    },
+    "sentence_structure_types_5": {
+      "translation": "遅れずに早く来てください。"
+    }
+  }
+}

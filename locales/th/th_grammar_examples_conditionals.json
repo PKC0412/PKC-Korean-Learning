@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "ถ้าฝนตก ฉันจะกางร่ม"
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "ถ้ามีเวลา ไปกินมื้อเที่ยงด้วยกันนะ"
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "ถ้ากลับบ้านเร็ว ฉันจะดูหนัง"
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "ถ้าอากาศดี ฉันจะไปเดินเล่น"
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "ถ้ายุ่ง เดี๋ยวค่อยทำพรุ่งนี้"
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "ถ้าเก็บเงินได้ ฉันจะไปเที่ยว"
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "ถ้าออกกำลังกาย สุขภาพจะแข็งแรงขึ้น"
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "ถ้าตั้งใจเรียน เกรดจะดีขึ้น"
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "ถ้านอนเร็ว พรุ่งนี้จะสดชื่นขึ้น"
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "ถ้าเดินเยอะ จะเหนื่อย"
+    }
+  }
+}

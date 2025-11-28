@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "Faccio esercizio al mattino e poi faccio la doccia."
+    },
+    "connectives_go_2": {
+      "translation": "Il mio fratellino fa i compiti e poi guarda la televisione."
+    },
+    "connectives_go_3": {
+      "translation": "Mangio e poi vado a fare una passeggiata."
+    },
+    "connectives_go_4": {
+      "translation": "Il mio amico legge un libro e ascolta musica."
+    },
+    "connectives_go_5": {
+      "translation": "Lavo i piatti e faccio il bucato."
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "Dato che pioveva, sono rimasto a casa."
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "Dato che avevo fame, ho pranzato presto."
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "Dato che c'era traffico, sono arrivato in ritardo."
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "Dato che ero stanco, sono andato a letto presto."
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "Dato che il tempo era bello, sono uscito a camminare."
+    },
+    "connectives_jiman_1": {
+      "translation": "Sono stanco, ma ho comunque fatto esercizio."
+    },
+    "connectives_jiman_2": {
+      "translation": "Fa freddo, ma sono uscito a camminare."
+    },
+    "connectives_jiman_3": {
+      "translation": "Sono occupato, ma ho incontrato il mio amico."
+    },
+    "connectives_jiman_4": {
+      "translation": "È buono, ma un po’ piccante."
+    },
+    "connectives_jiman_5": {
+      "translation": "È costoso, ma di buona qualità."
+    },
+    "connectives_myeonseo_1": {
+      "translation": "Ascolto musica mentre studio."
+    },
+    "connectives_myeonseo_2": {
+      "translation": "Il mio fratellino mangia mentre guarda la televisione."
+    },
+    "connectives_myeonseo_3": {
+      "translation": "Il mio amico parla mentre cammina."
+    },
+    "connectives_myeonseo_4": {
+      "translation": "Cucino mentre canto."
+    },
+    "connectives_myeonseo_5": {
+      "translation": "Le persone sorridono mentre scattano foto."
+    },
+    "connectives_geona_1": {
+      "translation": "Nel fine settimana guardo un film oppure mi riposo."
+    },
+    "connectives_geona_2": {
+      "translation": "Il mio fratellino studia oppure gioca ai videogiochi."
+    },
+    "connectives_geona_3": {
+      "translation": "Il mio amico legge un libro oppure ascolta musica al caffè."
+    },
+    "connectives_geona_4": {
+      "translation": "Faccio esercizio oppure vado a fare una passeggiata."
+    },
+    "connectives_geona_5": {
+      "translation": "Scattiamo foto oppure beviamo un caffè fuori."
+    }
+  }
+}

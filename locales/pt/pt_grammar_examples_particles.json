@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "Eu vou para a escola."
+    },
+    "particles_case_2": {
+      "translation": "Meu amigo me ligou."
+    },
+    "particles_case_3": {
+      "translation": "Meu irmãozinho lê um livro no quarto."
+    },
+    "particles_case_4": {
+      "translation": "Eu vou trabalhar na empresa."
+    },
+    "particles_case_5": {
+      "translation": "Nós fazemos exercícios todo fim de semana."
+    },
+    "particles_auxiliary_1": {
+      "translation": "Eu gosto de café."
+    },
+    "particles_auxiliary_2": {
+      "translation": "Meu amigo também viu o filme."
+    },
+    "particles_auxiliary_3": {
+      "translation": "Eu bebo apenas água."
+    },
+    "particles_auxiliary_4": {
+      "translation": "Meu irmãozinho nem comeu arroz."
+    },
+    "particles_auxiliary_5": {
+      "translation": "Eu leio somente livros."
+    },
+    "particles_conjunctive_1": {
+      "translation": "Eu como com meu amigo."
+    },
+    "particles_conjunctive_2": {
+      "translation": "Nós viajamos com a família."
+    },
+    "particles_conjunctive_3": {
+      "translation": "Meu irmãozinho brinca com o filhote."
+    },
+    "particles_conjunctive_4": {
+      "translation": "Eu gosto de kimchi e bulgogi."
+    },
+    "particles_conjunctive_5": {
+      "translation": "Meu amigo conversou com o professor."
+    }
+  }
+}

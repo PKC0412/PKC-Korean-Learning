@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "Ich mache jeden Tag Sport."
+    },
+    "tenses_present_2": {
+      "translation": "Mein jüngeres Geschwisterchen macht jetzt Hausaufgaben."
+    },
+    "tenses_present_3": {
+      "translation": "Mein Freund arbeitet in einer Firma."
+    },
+    "tenses_present_4": {
+      "translation": "Ich ruhe mich zu Hause aus."
+    },
+    "tenses_present_5": {
+      "translation": "Wir spazieren im Park."
+    },
+    "tenses_past_1": {
+      "translation": "Ich habe gestern meinen Freund getroffen."
+    },
+    "tenses_past_2": {
+      "translation": "Ich habe letzte Woche einen Film gesehen."
+    },
+    "tenses_past_3": {
+      "translation": "Mein jüngeres Geschwisterchen hat spät gefrühstückt."
+    },
+    "tenses_past_4": {
+      "translation": "Ich habe neue Kleidung gekauft."
+    },
+    "tenses_past_5": {
+      "translation": "Wir sind am Wochenende gereist."
+    },
+    "tenses_future_1": {
+      "translation": "Ich werde morgen meinen Freund treffen."
+    },
+    "tenses_future_2": {
+      "translation": "Mein jüngeres Geschwisterchen wird nächste Woche umziehen."
+    },
+    "tenses_future_3": {
+      "translation": "Ich werde dieses Jahr Koreanisch lernen."
+    },
+    "tenses_future_4": {
+      "translation": "Wir werden nächstes Jahr reisen."
+    },
+    "tenses_future_5": {
+      "translation": "Ich werde bald Abendessen kochen."
+    },
+    "tenses_progressive_1": {
+      "translation": "Ich esse gerade Reis."
+    },
+    "tenses_progressive_2": {
+      "translation": "Mein jüngeres Geschwisterchen hört im Zimmer Musik."
+    },
+    "tenses_progressive_3": {
+      "translation": "Mein Freund liest in der Bibliothek ein Buch."
+    },
+    "tenses_progressive_4": {
+      "translation": "Wir bereiten uns auf eine Besprechung vor."
+    },
+    "tenses_progressive_5": {
+      "translation": "Draußen regnet es."
+    },
+    "tenses_experiential_1": {
+      "translation": "Ich bin schon einmal in Korea gewesen."
+    },
+    "tenses_experiential_2": {
+      "translation": "Mein Freund hat schon einmal Skifahren ausprobiert."
+    },
+    "tenses_experiential_3": {
+      "translation": "Ich habe noch nie scharfes Essen gegessen."
+    },
+    "tenses_experiential_4": {
+      "translation": "Mein jüngeres Geschwisterchen hat schon einmal im Ausland gelebt."
+    },
+    "tenses_experiential_5": {
+      "translation": "Ich habe schon einmal Gitarre gespielt."
+    }
+  }
+}

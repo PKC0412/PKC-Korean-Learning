@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "examples": [
+    {
+      "id": "sentence_structure_basic_order_1",
+      "groupId": "sentence_structure_basic_order",
+      "korean": "저는 아침마다 커피를 마셔요.",
+      "romanization": "jeoneun achimmada keopireul masyeoyo",
+      "ipa": "tɕʌnɯn atɕʰimmada kʰʌpʰiɾɯl maʃʌjo"
+    },
+    {
+      "id": "sentence_structure_basic_order_2",
+      "groupId": "sentence_structure_basic_order",
+      "korean": "동생은 학교에서 친구를 만나요.",
+      "romanization": "dongsaengeun hakgyoeseo chingureul mannayo",
+      "ipa": "toŋsɛŋɯn hak̚kjoeseo tɕʰinguɾɯl mannajo"
+    },
+    {
+      "id": "sentence_structure_basic_order_3",
+      "groupId": "sentence_structure_basic_order",
+      "korean": "친구는 집에서 영화를 봐요.",
+      "romanization": "chinguneun jibeseo yeonghwareul bwayo",
+      "ipa": "tɕʰingu nɯn tɕibeseo jʌŋhwarel bwayo"
+    },
+    {
+      "id": "sentence_structure_basic_order_4",
+      "groupId": "sentence_structure_basic_order",
+      "korean": "우리는 저녁에 밥을 먹어요.",
+      "romanization": "urineun jeonyeoge babeul meogeoyo",
+      "ipa": "uɾinɯn tɕʌɲʌge babɯl mʌgʌjo"
+    },
+    {
+      "id": "sentence_structure_basic_order_5",
+      "groupId": "sentence_structure_basic_order",
+      "korean": "선생님은 학생들에게 한국어를 가르쳐요.",
+      "romanization": "seonsaengnimeun haksaengdeurege hangugeoreul gareucheoyo",
+      "ipa": "sʌnsɛŋnimɯn hak̚sɛŋdɯɾeɡe hanɡuɡʌɾɯl kaɾɯtɕʰʌjo"
+    },
+    {
+      "id": "sentence_structure_elements_1",
+      "groupId": "sentence_structure_elements",
+      "korean": "저는 아침에 학교에서 한국어를 공부해요.",
+      "romanization": "jeoneun achime hakgyoeseo hangugeoreul gongbuhaeyo",
+      "ipa": "tɕʌnɯn atɕʰime hak̚kjoeseo hanɡuɡʌɾɯl koŋbuhɛjo"
+    },
+    {
+      "id": "sentence_structure_elements_2",
+      "groupId": "sentence_structure_elements",
+      "korean": "언니는 주말에 집에서 쉬어요.",
+      "romanization": "eonnineun jumare jibeseo swieoyo",
+      "ipa": "ʌnːinɯn tɕumare tɕibeso ɕɥiʌjo"
+    },
+    {
+      "id": "sentence_structure_elements_3",
+      "groupId": "sentence_structure_elements",
+      "korean": "아버지는 회사에서 늦게까지 일해요.",
+      "romanization": "abeojineun hoesaaeseo neutgekkaji ilhaeyo",
+      "ipa": "abʌdʑinɯn hweːsaeso nɯt̚kek͈adʑi ilhɛjo"
+    },
+    {
+      "id": "sentence_structure_elements_4",
+      "groupId": "sentence_structure_elements",
+      "korean": "저는 친구에게 선물을 줘요.",
+      "romanization": "jeoneun chinguege seonmureul jwoyo",
+      "ipa": "tɕʌnɯn tɕʰinɡueɡe sʌnmurɯl tɕwʌjo"
+    },
+    {
+      "id": "sentence_structure_elements_5",
+      "groupId": "sentence_structure_elements",
+      "korean": "우리는 카페에서 조용히 이야기를 해요.",
+      "romanization": "urineun kapeeseo joyonghi iyagireul haeyo",
+      "ipa": "uɾinɯn kʰapʰeeseo tɕojoŋhi ijagirel hɛjo"
+    },
+    {
+      "id": "sentence_structure_types_1",
+      "groupId": "sentence_structure_types",
+      "korean": "오늘 날씨가 정말 좋아요.",
+      "romanization": "oneul nalssiga jeongmal joayo",
+      "ipa": "onɯl nals͈iɡa tɕʌŋmal tɕoayo"
+    },
+    {
+      "id": "sentence_structure_types_2",
+      "groupId": "sentence_structure_types",
+      "korean": "오늘 저녁에 시간 있어요?",
+      "romanization": "oneul jeonyeoge sigan isseoyo?",
+      "ipa": "onɯl tɕʌɲʌge ɕiɡan issʌjo"
+    },
+    {
+      "id": "sentence_structure_types_3",
+      "groupId": "sentence_structure_types",
+      "korean": "문 좀 닫아 주세요.",
+      "romanization": "mun jom dada juseyo",
+      "ipa": "mun tɕom tada tɕusejo"
+    },
+    {
+      "id": "sentence_structure_types_4",
+      "groupId": "sentence_structure_types",
+      "korean": "같이 밥 먹으러 갈까요?",
+      "romanization": "gachi bab meogeureo galkkayo?",
+      "ipa": "katɕʰi bab mʌgɯɾʌ kalk͈ajo"
+    },
+    {
+      "id": "sentence_structure_types_5",
+      "groupId": "sentence_structure_types",
+      "korean": "늦지 말고 일찍 오세요.",
+      "romanization": "neutji malgo iljjik oseyo",
+      "ipa": "nɯt̚tɕi malɡo ilt͡ɕ͈ik̚ osejo"
+    }
+  ]
+}

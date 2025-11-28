@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "Mein Freund sagte, dass er sich verspäten würde."
+    },
+    "quotations_declare_dago_2": {
+      "translation": "Mama sagte, dass es lecker sei."
+    },
+    "quotations_declare_dago_3": {
+      "translation": "Der Lehrer sagte uns, wir sollten ruhig sein."
+    },
+    "quotations_declare_dago_4": {
+      "translation": "Mein Freund sagte, der Film sei lustig gewesen."
+    },
+    "quotations_declare_dago_5": {
+      "translation": "Mein jüngeres Geschwisterchen sagte, dass es müde sei."
+    },
+    "quotations_say_lago_1": {
+      "translation": "Ich sagte meinem Freund, er solle kommen."
+    },
+    "quotations_say_lago_2": {
+      "translation": "Mama sagte mir, ich solle essen."
+    },
+    "quotations_say_lago_3": {
+      "translation": "Der Lehrer sagte uns, wir sollen lernen."
+    },
+    "quotations_say_lago_4": {
+      "translation": "Mein Freund sagte mir, ich solle die Tür öffnen."
+    },
+    "quotations_say_lago_5": {
+      "translation": "Mein jüngeres Geschwisterchen sagte mir, ich solle schnell kommen."
+    }
+  }
+}

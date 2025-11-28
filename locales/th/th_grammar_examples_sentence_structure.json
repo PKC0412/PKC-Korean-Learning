@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "ฉันดื่มกาแฟทุกเช้า"
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "น้องเจอเพื่อนที่โรงเรียน"
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "เพื่อนดูหนังที่บ้าน"
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "พวกเรากินข้าวตอนเย็น"
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "คุณครูสอนภาษาเกาหลีให้นักเรียน"
+    },
+    "sentence_structure_elements_1": {
+      "translation": "ฉันเรียนภาษาเกาหลีที่โรงเรียนตอนเช้า"
+    },
+    "sentence_structure_elements_2": {
+      "translation": "พี่สาวพักผ่อนที่บ้านช่วงสุดสัปดาห์"
+    },
+    "sentence_structure_elements_3": {
+      "translation": "พ่อทำงานที่บริษัทจนดึก"
+    },
+    "sentence_structure_elements_4": {
+      "translation": "ฉันให้ของขวัญเพื่อน"
+    },
+    "sentence_structure_elements_5": {
+      "translation": "พวกเราคุยกันเบาๆ ที่คาเฟ่"
+    },
+    "sentence_structure_types_1": {
+      "translation": "วันนี้อากาศดีจริงๆ"
+    },
+    "sentence_structure_types_2": {
+      "translation": "เย็นวันนี้มีเวลาไหม?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "ช่วยปิดประตูหน่อยครับ/ค่ะ"
+    },
+    "sentence_structure_types_4": {
+      "translation": "ไปกินข้าวด้วยกันไหม?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "อย่ามาสาย มาเร็วๆ นะ"
+    }
+  }
+}

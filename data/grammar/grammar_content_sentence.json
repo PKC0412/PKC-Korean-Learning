@@ -1,0 +1,59 @@
+{
+  "units": [
+    {
+      "id": "sentence_basic_order_intro",
+      "title": "기본 문장 구조 (SOV)",
+      "description": "한국어 문장은 보통 주어-목적어-동사(SOV) 순서로 구성됩니다."
+    },
+    {
+      "id": "sentence_elements_subject_object",
+      "title": "문장 성분: 주어와 목적어",
+      "description": "주어는 행동의 주체, 목적어는 행동의 대상을 나타냅니다."
+    },
+    {
+      "id": "sentence_elements_adverbial_complement",
+      "title": "문장 성분: 부사어와 보어",
+      "description": "부사어는 시간·장소·방법 등을, 보어는 주어나 목적어를 보충 설명합니다."
+    },
+    {
+      "id": "sentence_types_declarative_interrogative_imperative",
+      "title": "문장 유형: 평서문, 의문문, 명령문",
+      "description": "평서문은 사실을 말하고, 의문문은 질문을, 명령문은 부탁이나 지시를 표현합니다."
+    },
+    {
+      "id": "sentence_basic_order_subject_drop",
+      "title": "기본 어순: 주어 생략",
+      "description": "기본 어순에서 주어를 생략하는 자연스러운 문장을 연습합니다."
+    },
+    {
+      "id": "sentence_basic_order_object_drop",
+      "title": "기본 어순: 목적어 생략",
+      "description": "맥락 속에서 목적어를 생략하는 표현을 살펴봅니다."
+    },
+    {
+      "id": "sentence_basic_order_adverb_position",
+      "title": "기본 어순: 부사어 위치",
+      "description": "시간·장소·빈도 부사어가 문장 안에서 어디에 오는지 연습합니다."
+    },
+    {
+      "id": "sentence_elements_time_place",
+      "title": "문장 성분: 시간과 장소",
+      "description": "언제, 어디에서를 나타내는 성분의 위치를 익힙니다."
+    },
+    {
+      "id": "sentence_elements_indirect_object",
+      "title": "문장 성분: 간접목적어",
+      "description": "‘에게, 한테’ 등 간접목적어 표현을 연습합니다."
+    },
+    {
+      "id": "sentence_types_question_endings",
+      "title": "문장 유형: 의문문 어미",
+      "description": "존댓말 의문문 어미와 자연스러운 질문 패턴을 살펴봅니다."
+    },
+    {
+      "id": "sentence_types_request_suggestion",
+      "title": "문장 유형: 부탁과 제안",
+      "description": "부탁·제안을 공손하게 표현하는 문장 유형을 연습합니다."
+    }
+  ]
+}

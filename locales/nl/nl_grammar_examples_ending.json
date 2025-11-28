@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "translations": {
+    "ending_polite_ayo_eoyo_1": {
+      "translation": "Vandaag ga ik vroeg naar huis."
+    },
+    "ending_polite_ayo_eoyo_2": {
+      "translation": "Mijn vriend drinkt koffie in een café."
+    },
+    "ending_polite_ayo_eoyo_3": {
+      "translation": "Wij sporten in de avond."
+    },
+    "ending_polite_ayo_eoyo_4": {
+      "translation": "Ik kijk elk weekend een film."
+    },
+    "ending_polite_ayo_eoyo_5": {
+      "translation": "Het weer is goed."
+    },
+    "ending_formal_sumnida_1": {
+      "translation": "Ik werk in Korea."
+    },
+    "ending_formal_sumnida_2": {
+      "translation": "De vergadering begint om 3 uur ’s middags."
+    },
+    "ending_formal_sumnida_3": {
+      "translation": "Ik ben een student."
+    },
+    "ending_formal_sumnida_4": {
+      "translation": "Ik ben nu een verslag aan het opstellen."
+    },
+    "ending_formal_sumnida_5": {
+      "translation": "Neemt u deel aan de vergadering?"
+    }
+  }
+}

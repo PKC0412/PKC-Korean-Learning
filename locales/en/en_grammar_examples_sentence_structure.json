@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "I drink coffee every morning."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "My younger sibling meets a friend at school."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "My friend watches a movie at home."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "We eat dinner in the evening."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "The teacher teaches Korean to the students."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "I study Korean at school in the morning."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "My older sister rests at home on the weekend."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "My father works late at the office."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "I give a gift to my friend."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "We talk quietly at the cafe."
+    },
+    "sentence_structure_types_1": {
+      "translation": "The weather is really good today."
+    },
+    "sentence_structure_types_2": {
+      "translation": "Do you have time this evening?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Please close the door."
+    },
+    "sentence_structure_types_4": {
+      "translation": "Shall we go eat together?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "Don't be late, please come early."
+    }
+  }
+}

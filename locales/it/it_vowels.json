@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "A",
+    "romanization": "a",
+    "ipa": "[a]",
+    "description": "Una vocale luminosa prodotta con la bocca spalancata e la lingua in avanti."
+  },
+  {
+    "char": "ㅑ",
+    "name": "Ya",
+    "romanization": "ya",
+    "ipa": "[ja]",
+    "description": "Un dittongo che inizia con una semivocale [j] seguita da 'a'."
+  },
+  {
+    "char": "ㅓ",
+    "name": "Eo",
+    "romanization": "eo",
+    "ipa": "[ʌ]",
+    "description": "Una vocale medio-bassa prodotta con la lingua indietro e la bocca parzialmente aperta."
+  },
+  {
+    "char": "ㅕ",
+    "name": "Yeo",
+    "romanization": "yeo",
+    "ipa": "[jʌ]",
+    "description": "Un dittongo che inizia con una semivocale [j] seguita da 'eo'."
+  },
+  {
+    "char": "ㅗ",
+    "name": "O",
+    "romanization": "o",
+    "ipa": "[o]",
+    "description": "Una vocale arrotondata prodotta con le labbra a cerchio e la lingua indietro."
+  },
+  {
+    "char": "ㅛ",
+    "name": "Yo",
+    "romanization": "yo",
+    "ipa": "[jo]",
+    "description": "Un dittongo che inizia con una semivocale [j] seguita da 'o'."
+  },
+  {
+    "char": "ㅜ",
+    "name": "U",
+    "romanization": "u",
+    "ipa": "[u]",
+    "description": "Una vocale arrotondata alta prodotta con le labbra spinte in avanti."
+  },
+  {
+    "char": "ㅠ",
+    "name": "Yu",
+    "romanization": "yu",
+    "ipa": "[ju]",
+    "description": "Un dittongo che inizia con una semivocale [j] seguita da 'u'."
+  },
+  {
+    "char": "ㅡ",
+    "name": "Eu",
+    "romanization": "eu",
+    "ipa": "[ɨ]",
+    "description": "Una vocale piatta alta prodotta con la bocca quasi chiusa e la lingua centrale."
+  },
+  {
+    "char": "ㅣ",
+    "name": "I",
+    "romanization": "i",
+    "ipa": "[i]",
+    "description": "Una vocale anteriore alta prodotta con la bocca quasi chiusa."
+  },
+  {
+    "char": "ㅐ",
+    "name": "Ae",
+    "romanization": "ae",
+    "ipa": "[æ]",
+    "description": "Una vocale anteriore bassa prodotta con la bocca spalancata."
+  },
+  {
+    "char": "ㅒ",
+    "name": "Yae",
+    "romanization": "yae",
+    "ipa": "[jæ]",
+    "description": "Un dittongo che inizia con una semivocale [j] seguita da 'ae'."
+  },
+  {
+    "char": "ㅔ",
+    "name": "E",
+    "romanization": "e",
+    "ipa": "[e]",
+    "description": "Una vocale anteriore medio-alta prodotta con la bocca leggermente aperta."
+  },
+  {
+    "char": "ㅖ",
+    "name": "Ye",
+    "romanization": "ye",
+    "ipa": "[je]",
+    "description": "Un dittongo che inizia con una semivocale [j] seguita da 'e'."
+  },
+  {
+    "char": "ㅘ",
+    "name": "Wa",
+    "romanization": "wa",
+    "ipa": "[wa]",
+    "description": "Un dittongo che combina la semivocale [w] e 'a'."
+  },
+  {
+    "char": "ㅙ",
+    "name": "Wae",
+    "romanization": "wae",
+    "ipa": "[wæ]",
+    "description": "Un dittongo che combina la semivocale [w] e 'ae'."
+  },
+  {
+    "char": "ㅚ",
+    "name": "Oe",
+    "romanization": "oe",
+    "ipa": "[we]",
+    "description": "Un dittongo pronunciato solitamente come 'we' ([w] + 'e')."
+  },
+  {
+    "char": "ㅝ",
+    "name": "Weo",
+    "romanization": "weo",
+    "ipa": "[wʌ]",
+    "description": "Un dittongo che combina la semivocale [w] e 'eo'."
+  },
+  {
+    "char": "ㅞ",
+    "name": "We",
+    "romanization": "we",
+    "ipa": "[we]",
+    "description": "Un dittongo che combina la semivocale [w] e 'e'."
+  },
+  {
+    "char": "ㅟ",
+    "name": "Wi",
+    "romanization": "wi",
+    "ipa": "[wi]",
+    "description": "Un dittongo che combina la semivocale [w] e 'i'."
+  },
+  {
+    "char": "ㅢ",
+    "name": "Ui",
+    "romanization": "ui",
+    "ipa": "[ɨj]",
+    "description": "Un dittongo che combina 'eu' e 'i'."
+  }
+]

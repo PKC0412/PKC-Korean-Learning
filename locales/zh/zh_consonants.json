@@ -1,0 +1,135 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "Giyeok",
+    "romanization": "g/k",
+    "ipa": "[k/g]",
+    "description": "舌根处发出的松破裂音。"
+  },
+  {
+    "char": "ㄴ",
+    "name": "Nieun",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "齿龈处发出的鼻音。"
+  },
+  {
+    "char": "ㄷ",
+    "name": "Digeut",
+    "romanization": "d/t",
+    "ipa": "[t/d]",
+    "description": "齿龈处发出的松破裂音。"
+  },
+  {
+    "char": "ㄹ",
+    "name": "Rieul",
+    "romanization": "r/l",
+    "ipa": "[l/r]",
+    "description": "舌尖轻触齿龈或气流从舌侧流出的流音。"
+  },
+  {
+    "char": "ㅁ",
+    "name": "Mieum",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "双唇发出的鼻音。"
+  },
+  {
+    "char": "ㅂ",
+    "name": "Bieup",
+    "romanization": "b/p",
+    "ipa": "[p/b]",
+    "description": "双唇闭合后爆破发出的松破裂音。"
+  },
+  {
+    "char": "ㅅ",
+    "name": "Siot",
+    "romanization": "s",
+    "ipa": "[s]",
+    "description": "齿龈处发出的松擦音。"
+  },
+  {
+    "char": "ㅇ",
+    "name": "Ieung",
+    "romanization": "ng",
+    "ipa": "[Ø/-ŋ]",
+    "description": "作初声时不发音，作终声（收音）时发舌根鼻音 [ng]。"
+  },
+  {
+    "char": "ㅈ",
+    "name": "Jieut",
+    "romanization": "j",
+    "ipa": "[ʈʃ/ɖʒ]",
+    "description": "阻塞气流后摩擦发出的松破擦音。"
+  },
+  {
+    "char": "ㅊ",
+    "name": "Chieut",
+    "romanization": "ch",
+    "ipa": "[ʈʃʰ]",
+    "description": "伴随强烈送气的紧破擦音（送气音）。"
+  },
+  {
+    "char": "ㅋ",
+    "name": "Kieuk",
+    "romanization": "k",
+    "ipa": "[kʰ]",
+    "description": "舌根处发出的紧破裂音（送气音）。"
+  },
+  {
+    "char": "ㅌ",
+    "name": "Tieut",
+    "romanization": "t",
+    "ipa": "[tʰ]",
+    "description": "齿龈处发出的紧破裂音（送气音）。"
+  },
+  {
+    "char": "ㅍ",
+    "name": "Pieup",
+    "romanization": "p",
+    "ipa": "[pʰ]",
+    "description": "双唇发出的紧破裂音（送气音）。"
+  },
+  {
+    "char": "ㅎ",
+    "name": "Hieut",
+    "romanization": "h",
+    "ipa": "[h]",
+    "description": "喉咙处发出的气流摩擦音。"
+  },
+  {
+    "char": "ㄲ",
+    "name": "Ssanggiyeok",
+    "romanization": "kk",
+    "ipa": "[k*]",
+    "description": "舌根处用力发出的紧音（浓音）。"
+  },
+  {
+    "char": "ㄸ",
+    "name": "Ssangdigeut",
+    "romanization": "tt",
+    "ipa": "[t*]",
+    "description": "齿龈处用力发出的紧音（浓音）。"
+  },
+  {
+    "char": "ㅃ",
+    "name": "Ssangbieup",
+    "romanization": "pp",
+    "ipa": "[p*]",
+    "description": "双唇用力发出的紧音（浓音）。"
+  },
+  {
+    "char": "ㅆ",
+    "name": "Ssangsiot",
+    "romanization": "ss",
+    "ipa": "[s*]",
+    "description": "齿龈处用力发出的紧擦音（浓音）。"
+  },
+  {
+    "char": "ㅉ",
+    "name": "Ssangjieut",
+    "romanization": "jj",
+    "ipa": "[ʈʃ*]",
+    "description": "用力发出的紧破擦音（浓音）。"
+  }
+]

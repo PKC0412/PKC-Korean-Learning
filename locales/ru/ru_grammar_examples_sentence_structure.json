@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "Я пью кофе каждое утро."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "Мой младший брат (или сестра) встречается с другом в школе."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "Мой друг смотрит фильм дома."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "Мы ужинаем вечером."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "Учитель преподает корейский язык ученикам."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "Я учу корейский язык в школе по утрам."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "Моя старшая сестра отдыхает дома в выходные."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "Папа работает в офисе до поздна."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "Я дарю подарок своему другу."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "Мы тихо разговариваем в кафе."
+    },
+    "sentence_structure_types_1": {
+      "translation": "Сегодня действительно хорошая погода."
+    },
+    "sentence_structure_types_2": {
+      "translation": "У вас есть время сегодня вечером?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Пожалуйста, закройте дверь."
+    },
+    "sentence_structure_types_4": {
+      "translation": "Пойдем поедим вместе?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "Не опаздывайте, приходите пораньше."
+    }
+  }
+}

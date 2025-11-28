@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "Eu não como comida apimentada."
+    },
+    "negation_an_2": {
+      "translation": "Meu irmãozinho não faz a lição de casa."
+    },
+    "negation_an_3": {
+      "translation": "Eu não bebo café."
+    },
+    "negation_an_4": {
+      "translation": "Meu amigo não assiste TV."
+    },
+    "negation_an_5": {
+      "translation": "Eu não faço exercício."
+    },
+    "negation_mot_1": {
+      "translation": "Eu não sei nadar bem."
+    },
+    "negation_mot_2": {
+      "translation": "Meu irmãozinho não sabe andar de bicicleta."
+    },
+    "negation_mot_3": {
+      "translation": "Eu não sei cantar bem."
+    },
+    "negation_mot_4": {
+      "translation": "Meu amigo não sabe desenhar bem."
+    },
+    "negation_mot_5": {
+      "translation": "Eu não sei dirigir."
+    },
+    "negation_ji_anhda_1": {
+      "translation": "Eu não bebo álcool."
+    },
+    "negation_ji_anhda_2": {
+      "translation": "Meu amigo não toma café da manhã."
+    },
+    "negation_ji_anhda_3": {
+      "translation": "Eu não fico acordado até tarde."
+    },
+    "negation_ji_anhda_4": {
+      "translation": "Meu irmãozinho não vai à escola."
+    },
+    "negation_ji_anhda_5": {
+      "translation": "Eu não como carne."
+    },
+    "negation_ji_mothada_1": {
+      "translation": "Eu não consigo comer comida muito apimentada."
+    },
+    "negation_ji_mothada_2": {
+      "translation": "Meu irmãozinho não consegue subir as escadas correndo."
+    },
+    "negation_ji_mothada_3": {
+      "translation": "Eu não consigo andar muito longe."
+    },
+    "negation_ji_mothada_4": {
+      "translation": "Meu amigo não consegue ir a lugares altos."
+    },
+    "negation_ji_mothada_5": {
+      "translation": "Eu não consigo carregar bagagem pesada."
+    }
+  }
+}

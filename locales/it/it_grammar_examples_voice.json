@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "La finestra è stata aperta."
+    },
+    "voice_passive_ajida_2": {
+      "translation": "La porta è stata chiusa."
+    },
+    "voice_passive_ajida_3": {
+      "translation": "La luce è stata spenta."
+    },
+    "voice_passive_ajida_4": {
+      "translation": "Il cibo è stato preparato."
+    },
+    "voice_passive_ajida_5": {
+      "translation": "La strada è stata bloccata."
+    },
+    "voice_causative_gehada_1": {
+      "translation": "Ho fatto ridere il mio fratellino."
+    },
+    "voice_causative_gehada_2": {
+      "translation": "L'insegnante ha fatto leggere gli studenti."
+    },
+    "voice_causative_gehada_3": {
+      "translation": "Ho fatto aspettare il mio amico."
+    },
+    "voice_causative_gehada_4": {
+      "translation": "La mamma mi ha fatto andare a letto presto."
+    },
+    "voice_causative_gehada_5": {
+      "translation": "Ho fatto sedere il cucciolo."
+    }
+  }
+}

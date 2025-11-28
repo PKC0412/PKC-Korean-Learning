@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "examples": [
+    {
+      "id": "connectives_go_1",
+      "groupId": "connectives_go",
+      "korean": "저는 아침에 운동하고 샤워해요.",
+      "romanization": "jeoneun achime undonghago syawohaeyo",
+      "ipa": "tɕʌnɯn atɕʰime undoŋhaɡo ɕjawo hɛjo"
+    },
+    {
+      "id": "connectives_go_2",
+      "groupId": "connectives_go",
+      "korean": "동생은 숙제하고 텔레비전을 봐요.",
+      "romanization": "dongsaengeun sukjehago tellebijeoneul bwayo",
+      "ipa": "toŋsɛŋɯn suk̚tɕehaɡo tʰellebidʑʌnɯl bwayo"
+    },
+    {
+      "id": "connectives_go_3",
+      "groupId": "connectives_go",
+      "korean": "저는 밥을 먹고 산책해요.",
+      "romanization": "jeoneun babeul meokgo sanchaekhaeyo",
+      "ipa": "tɕʌnɯn babɯl mʌk̚ko sant͡ɕʰɛkʰɛjo"
+    },
+    {
+      "id": "connectives_go_4",
+      "groupId": "connectives_go",
+      "korean": "친구는 책을 읽고 음악을 들어요.",
+      "romanization": "chinguneun chaegeul ilggo eumageul deureoyo",
+      "ipa": "tɕʰiŋgunɯn tɕʰɛɡɯl ik̚ko ɯmaɡɯl tɯɾʌjo"
+    },
+    {
+      "id": "connectives_go_5",
+      "groupId": "connectives_go",
+      "korean": "저는 설거지하고 빨래해요.",
+      "romanization": "jeoneun seolgeojihago ppallaehaeyo",
+      "ipa": "tɕʌnɯn sʌlɡʌdʑihaɡo p͈alːɛ hɛjo"
+    },
+    {
+      "id": "connectives_aseo_eoseo_1",
+      "groupId": "connectives_aseo_eoseo",
+      "korean": "비가 와서 집에 있었어요.",
+      "romanization": "biga waseo jibe isseosseoyo",
+      "ipa": "piga wasʌ tɕibe issʌs͈ʌjo"
+    },
+    {
+      "id": "connectives_aseo_eoseo_2",
+      "groupId": "connectives_aseo_eoseo",
+      "korean": "배가 고파서 점심을 일찍 먹었어요.",
+      "romanization": "baega gopaseo jeomsimeul iljjik meogeosseoyo",
+      "ipa": "pɛɡa kopʰasʌ tɕʌmsimɯl ilt͡ɕ͈ik̚ mʌɡʌs͈ʌjo"
+    },
+    {
+      "id": "connectives_aseo_eoseo_3",
+      "groupId": "connectives_aseo_eoseo",
+      "korean": "길이 막혀서 늦게 도착했어요.",
+      "romanization": "giri makhyeoseo neutge dochakhaesseoyo",
+      "ipa": "kiɾi mak̚hjʌsʌ nɯt̚ke tot͡ɕʰakʰɛs͈ʌjo"
+    },
+    {
+      "id": "connectives_aseo_eoseo_4",
+      "groupId": "connectives_aseo_eoseo",
+      "korean": "피곤해서 일찍 잤어요.",
+      "romanization": "pigonaeseo iljjik jasseoyo",
+      "ipa": "pʰiɡonɛsʌ ilt͡ɕ͈ik̚ tɕas͈ʌjo"
+    },
+    {
+      "id": "connectives_aseo_eoseo_5",
+      "groupId": "connectives_aseo_eoseo",
+      "korean": "날씨가 좋아서 산책했어요.",
+      "romanization": "nalssiga joaseo sanchaekhaesseoyo",
+      "ipa": "nals͈iɡa tɕoasʌ sant͡ɕʰɛkʰɛs͈ʌjo"
+    },
+    {
+      "id": "connectives_jiman_1",
+      "groupId": "connectives_jiman",
+      "korean": "피곤하지만 운동했어요.",
+      "romanization": "pigonhajiman undonghaesseoyo",
+      "ipa": "pʰiɡonhadʑiman undoŋhɛs͈ʌjo"
+    },
+    {
+      "id": "connectives_jiman_2",
+      "groupId": "connectives_jiman",
+      "korean": "춥지만 산책 나갔어요.",
+      "romanization": "chupjiman sanchaek nagasseoyo",
+      "ipa": "tɕʰup̚dʑiman sant͡ɕʰɛk̚ naɡas͈ʌjo"
+    },
+    {
+      "id": "connectives_jiman_3",
+      "groupId": "connectives_jiman",
+      "korean": "바쁘지만 친구를 만났어요.",
+      "romanization": "bappeujiman chingureul mannasseoyo",
+      "ipa": "pap͈ɯdʑiman tɕʰiŋɡuɾɯl manːas͈ʌjo"
+    },
+    {
+      "id": "connectives_jiman_4",
+      "groupId": "connectives_jiman",
+      "korean": "맛있지만 조금 매워요.",
+      "romanization": "masitjiman jogeum maewoyo",
+      "ipa": "masidʑiman tɕoɡɯm mɛwojo"
+    },
+    {
+      "id": "connectives_jiman_5",
+      "groupId": "connectives_jiman",
+      "korean": "비싸지만 품질이 좋아요.",
+      "romanization": "bissajiman pumjiri joayo",
+      "ipa": "pis͈adʑiman pʰumdʑiɾi tɕoajo"
+    },
+    {
+      "id": "connectives_myeonseo_1",
+      "groupId": "connectives_myeonseo",
+      "korean": "저는 음악을 들으면서 공부해요.",
+      "romanization": "jeoneun eumageul deureumyeonseo gongbuhaeyo",
+      "ipa": "tɕʌnɯn ɯmaɡɯl tɯɾɯmjʌnsʌ koŋbuhɛjo"
+    },
+    {
+      "id": "connectives_myeonseo_2",
+      "groupId": "connectives_myeonseo",
+      "korean": "동생은 TV를 보면서 밥을 먹어요.",
+      "romanization": "dongsaengeun tibireul bomyeonseo babeul meogeoyo",
+      "ipa": "toŋsɛŋɯn tʰiβiɾɯl pomjʌnsʌ babɯl mʌɡʌjo"
+    },
+    {
+      "id": "connectives_myeonseo_3",
+      "groupId": "connectives_myeonseo",
+      "korean": "친구는 이야기하면서 걸어요.",
+      "romanization": "chingu neun iyagihamyeonse georeoyo",
+      "ipa": "tɕʰiŋɡu nɯn ijagi hamjʌnsʌ kʌɾʌjo"
+    },
+    {
+      "id": "connectives_myeonseo_4",
+      "groupId": "connectives_myeonseo",
+      "korean": "저는 요리하면서 노래 불러요.",
+      "romanization": "jeoneun yorihamyeonseo norae bulleoyo",
+      "ipa": "tɕʌnɯn jori hamjʌnsʌ noɾɛ pulːʌjo"
+    },
+    {
+      "id": "connectives_myeonseo_5",
+      "groupId": "connectives_myeonseo",
+      "korean": "사람들은 웃으면서 사진을 찍었어요.",
+      "romanization": "saramdeureun useumyeonseo sajin-eul jjigeosseoyo",
+      "ipa": "saɾam dɯɾɯn usɯmjʌnsʌ sadʑin ɯl t͡ɕ͈ikʌs͈ʌjo"
+    },
+    {
+      "id": "connectives_geona_1",
+      "groupId": "connectives_geona",
+      "korean": "저는 주말에 영화를 보거나 쉬어요.",
+      "romanization": "jeoneun jumare yeonghwareul bogeona swieoyo",
+      "ipa": "tɕʌnɯn tɕumare jʌŋhʷaɾɯl poɡʌna ɕɥiʌjo"
+    },
+    {
+      "id": "connectives_geona_2",
+      "groupId": "connectives_geona",
+      "korean": "동생은 공부하거나 게임을 해요.",
+      "romanization": "dongsaengeun gongbuhageona geimeul haeyo",
+      "ipa": "toŋsɛŋɯn koŋbuhaɡʌna kei mɯl hɛjo"
+    },
+    {
+      "id": "connectives_geona_3",
+      "groupId": "connectives_geona",
+      "korean": "친구는 카페에서 책을 읽거나 음악을 들어요.",
+      "romanization": "chinguneun kapeeseo chaegeul ilkgeona eumageul deureoyo",
+      "ipa": "tɕʰiŋɡunɯn kʰapʰe eso tɕʰɛɡɯl ik̚kʌna ɯmaɡɯl tɯɾʌjo"
+    },
+    {
+      "id": "connectives_geona_4",
+      "groupId": "connectives_geona",
+      "korean": "저는 운동하거나 산책해요.",
+      "romanization": "jeoneun undonghagena sanchaekhaeyo",
+      "ipa": "tɕʌnɯn undoŋhaɡʌna sant͡ɕʰɛkʰɛjo"
+    },
+    {
+      "id": "connectives_geona_5",
+      "groupId": "connectives_geona",
+      "korean": "우리는 밖에서 사진 찍거나 커피 마셔요.",
+      "romanization": "urineun bakkeseo sajin jjikkeona keopi masyeoyo",
+      "ipa": "uɾinɯn pak̚kʰesʌ sadʑin t͡ɕ͈ik̚kʌna kʰʌpʰi maʃʌjo"
+    }
+  ]
+}

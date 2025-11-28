@@ -1,0 +1,146 @@
+{
+  "menu": {
+    "hangul": "เรียนอักษรฮันกึล",
+    "vocabulary": "คำศัพท์",
+    "flashcard": "แฟลชการ์ด",
+    "grammar": "ไวยากรณ์",
+    "help": "ช่วยเหลือ"
+  },
+  "language": {
+    "modalTitle": "ภาษา",
+    "modalDescription": "โปรดเลือกภาษาที่คุณต้องการสำหรับหน้าจอใช้งาน คุณสามารถเปลี่ยนได้ตลอดเวลา",
+    "names": {
+      "en": "English",
+      "zh": "简体中文",
+      "ja": "日本語",
+      "ru": "Русский",
+      "es": "Español",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch",
+      "th": "ไทย",
+      "pt": "Português",
+      "nl": "Nederlands"
+    }
+  },
+  "help": {
+    "header": "ผู้สร้าง & ติดต่อ",
+    "description": "หากคุณมีคำถาม รายงานข้อผิดพลาด หรือข้อเสนอแนะ โปรดติดต่อเราผ่านช่องทางด้านล่าง",
+    "creatorLabel": "ผู้สร้าง:"
+  },
+  "vocab": {
+    "play": "เล่นเสียง"
+  },
+  "grammar": {
+    "hear": "ฟัง"
+  },
+  "common": {
+    "listen": "ฟัง",
+    "example": "ตัวอย่าง",
+    "romanization": "คำอ่านโรมัน",
+    "nodata": "ไม่มีข้อมูล"
+  },
+  "flashcard": {
+    "empty": "ไม่มีคำศัพท์สำหรับเรียนรู้",
+    "session": {
+      "summary": "เซสชัน: {current} / {total} คำ",
+      "shuffled": "สุ่ม",
+      "sequential": "เรียงลำดับ"
+    },
+    "total_words": "คำศัพท์ทั้งหมด",
+    "controls": {
+      "hear": "ฟัง",
+      "know": "รู้แล้ว",
+      "dontKnow": "ทบทวน"
+    },
+    "progress": {
+      "label": "ความคืบหน้า: {done} / {total}"
+    },
+    "hint": {
+      "reveal": "แตะการ์ดเพื่อดูความหมาย",
+      "romanizationLabel": "คำอ่านโรมัน:"
+    },
+    "result": {
+      "title": "ทำได้ดีมาก!",
+      "completed": "คุณเรียนไปแล้ว {total} คำ",
+      "accuracy": "ความแม่นยำ: {accuracy}%",
+      "stats": "รู้แล้ว: {known} | ทบทวน: {unknown}",
+      "restart": "สุ่มและเริ่มใหม่"
+    }
+  },
+  "category": {
+    "all": "ทั้งหมด",
+    "greetings": "การทักทาย",
+    "basic": "พื้นฐาน",
+    "food": "อาหาร",
+    "people": "ผู้คน",
+    "places": "สถานที่",
+    "transportation": "การเดินทาง",
+    "verbs_daily": "กริยาในชีวิตประจำวัน",
+    "verbs_actions": "กริยาแสดงอาการ",
+    "adjectives": "คำคุณศัพท์",
+    "numbers": "ตัวเลข",
+    "time": "เวลา/วันที่",
+    "colors": "สี",
+    "body": "ร่างกาย",
+    "nature": "ธรรมชาติ",
+    "school": "โรงเรียน"
+  },
+  "발음 듣기": "ฟังการออกเสียง",
+  "자음": "พยัญชนะ",
+  "모음": "สระ",
+  "받침": "ตัวสะกด (Batchim)",
+  "로마자 표기:": "คำอ่านโรมัน:",
+  "이전": "ก่อนหน้า",
+  "다음": "ถัดไป",
+  "설명:": "คำอธิบาย:",
+  "예시:": "ตัวอย่าง:",
+  "설명이 아직 준비되지 않았습니다.": "คำอธิบายยังไม่พร้อมใช้งาน",
+  "예시가 아직 준비되지 않았습니다.": "ตัวอย่างยังไม่พร้อมใช้งาน",
+  "예문": "ตัวอย่างประโยค",
+  "grammar_category_sentence_structure": "โครงสร้างประโยค",
+  "grammar_category_particles": "คำช่วย",
+  "grammar_category_tenses": "กาล (Tense)",
+  "grammar_category_negation": "การปฏิเสธ",
+  "grammar_category_connectives": "คำเชื่อม",
+  "grammar_category_comparison": "การเปรียบเทียบ",
+  "grammar_category_ending": "คำลงท้าย",
+  "grammar_category_aux_verbs": "กริยาช่วย",
+  "grammar_category_voice": "วาจก (ถูกกระทำ/ให้กระทำ)",
+  "grammar_category_conditionals": "ประโยคเงื่อนไข",
+  "grammar_category_quotations": "การอ้างอิงคำพูด",
+  "grammar_group_sentence_structure_basic_order": "ลำดับคำพื้นฐาน (SOV)",
+  "grammar_group_sentence_structure_elements": "ส่วนประกอบของประโยค",
+  "grammar_group_sentence_structure_types": "ประเภทของประโยค",
+  "grammar_group_particles_case": "คำช่วยชี้หน้าที่",
+  "grammar_group_particles_auxiliary": "คำช่วยเสริม",
+  "grammar_group_particles_conjunctive": "คำช่วยเชื่อม",
+  "grammar_group_tenses_present": "ปัจจุบันกาล",
+  "grammar_group_tenses_past": "อดีตกาล",
+  "grammar_group_tenses_future": "อนาคตกาล",
+  "grammar_group_tenses_progressive": "กำลังกระทำ (-고 있어요)",
+  "grammar_group_tenses_experiential": "ประสบการณ์ (-아/어 본 적이 있다)",
+  "grammar_group_negation_an": "การปฏิเสธด้วย 안",
+  "grammar_group_negation_mot": "การปฏิเสธด้วย 못",
+  "grammar_group_negation_ji_anhda": "การปฏิเสธด้วย -지 않다",
+  "grammar_group_negation_ji_mothada": "การปฏิเสธด้วย -지 못하다",
+  "grammar_group_connectives_go": "คำเชื่อม -고",
+  "grammar_group_connectives_aseo_eoseo": "คำเชื่อม -아서/어서",
+  "grammar_group_connectives_jiman": "คำเชื่อม -지만",
+  "grammar_group_connectives_myeonseo": "คำเชื่อม -면서",
+  "grammar_group_connectives_geona": "คำเชื่อม -거나",
+  "grammar_group_comparison_boda": "การเปรียบเทียบด้วย 보다",
+  "grammar_group_comparison_mankeum": "การเปรียบเทียบด้วย 만큼",
+  "grammar_group_comparison_cheoreom": "การเปรียบเทียบด้วย 처럼",
+  "grammar_group_ending_polite_ayo_eoyo": "คำลงท้ายแบบสุภาพ -아요/어요",
+  "grammar_group_ending_formal_sumnida": "คำลงท้ายแบบทางการ -습니다/-습니까",
+  "grammar_group_aux_verbs_want_gosipda": "กริยาช่วย -고 싶다",
+  "grammar_group_aux_verbs_try_boda": "กริยาช่วย -아/어 보다",
+  "grammar_group_aux_verbs_must_eya_hada": "กริยาช่วย -아/어야 하다",
+  "grammar_group_voice_passive_ajida": "รูปถูกกระทำ -아/어지다",
+  "grammar_group_voice_causative_gehada": "รูปให้กระทำ -게 하다",
+  "grammar_group_conditionals_myeon_basic": "เงื่อนไข -(으)면",
+  "grammar_group_conditionals_tomyeon_future": "เงื่อนไข -(으)면 (อนาคต/ทำซ้ำ)",
+  "grammar_group_quotations_declare_dago": "อ้างอิง -다고 하다",
+  "grammar_group_quotations_say_lago": "อ้างอิง -라고 하다"
+}

@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "Japanese": "こんにちは",
+    "romanization": "annyeonghaseyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "Japanese": "さようなら",
+    "romanization": "annyeonghi gaseyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "Japanese": "さようなら",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "안녕",
+    "Japanese": "やあ",
+    "romanization": "annyeong",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "감사합니다",
+    "Japanese": "ありがとうございます",
+    "romanization": "gamsahamnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "고맙습니다",
+    "Japanese": "ありがとうございます",
+    "romanization": "gomapseumnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "고마워요",
+    "Japanese": "ありがとう",
+    "romanization": "gomawoyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "죄송합니다",
+    "Japanese": "申し訳ありません",
+    "romanization": "joesonghamnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "미안합니다",
+    "Japanese": "ごめんなさい",
+    "romanization": "mianhamnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "미안해요",
+    "Japanese": "ごめんね",
+    "romanization": "mianhaeyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "반갑습니다",
+    "Japanese": "はじめまして",
+    "romanization": "bangapseumnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "Japanese": "お会いできて嬉しいです",
+    "romanization": "mannaseo bangawoyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "실례합니다",
+    "Japanese": "失礼します",
+    "romanization": "sillyehamnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "저기요",
+    "Japanese": "あのう",
+    "romanization": "jeogiyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "어서 오세요",
+    "Japanese": "いらっしゃいませ",
+    "romanization": "eoseo oseyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "Japanese": "おやすみなさい",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "잘 자요",
+    "Japanese": "おやすみ",
+    "romanization": "jal jayo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "Japanese": "どうぞ召し上がってください",
+    "romanization": "masitge deuseyo",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "Japanese": "いただきます",
+    "romanization": "jal meokgetseumnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "Japanese": "ごちそうさまでした",
+    "romanization": "jal meogeotseumnida",
+    "category": "ご挨拶"
+  },
+  {
+    "korean": "네",
+    "Japanese": "はい",
+    "romanization": "ne",
+    "category": "基本単語"
+  },
+  {
+    "korean": "아니요",
+    "Japanese": "いいえ",
+    "romanization": "aniyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "괜찮아요",
+    "Japanese": "大丈夫です",
+    "romanization": "gwaenchanayo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "좋아요",
+    "Japanese": "好きです",
+    "romanization": "joayo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "싫어요",
+    "Japanese": "嫌いです",
+    "romanization": "sileoyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "천만에요",
+    "Japanese": "どういたしまして",
+    "romanization": "cheonmaneyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "잠깐만요",
+    "Japanese": "ちょっと待ってください",
+    "romanization": "jamkkanmanyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "알겠습니다",
+    "Japanese": "わかりました",
+    "romanization": "algesseumnida",
+    "category": "基本単語"
+  },
+  {
+    "korean": "모르겠어요",
+    "Japanese": "わかりません",
+    "romanization": "moreugesseoyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "도와주세요",
+    "Japanese": "助けてください",
+    "romanization": "dowajuseyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "됐어요",
+    "Japanese": "結構です",
+    "romanization": "dwaesseoyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "안 돼요",
+    "Japanese": "ダメです",
+    "romanization": "an dwaeyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "맞아요",
+    "Japanese": "そうです",
+    "romanization": "majayo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "틀렸어요",
+    "Japanese": "違います",
+    "romanization": "teullyeosseoyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "그래요",
+    "Japanese": "そうですか",
+    "romanization": "geuraeyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "정말요",
+    "Japanese": "本当ですか",
+    "romanization": "jeongmallyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "진짜요",
+    "Japanese": "マジですか",
+    "romanization": "jinjjayo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "그럼요",
+    "Japanese": "もちろんです",
+    "romanization": "geureomyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "아마도",
+    "Japanese": "多分",
+    "romanization": "amado",
+    "category": "基本単語"
+  },
+  {
+    "korean": "글쎄요",
+    "Japanese": "どうでしょうか",
+    "romanization": "geulsseyo",
+    "category": "基本単語"
+  },
+  {
+    "korean": "물",
+    "Japanese": "水",
+    "romanization": "mul",
+    "category": "食べ物"
+  },
+  {
+    "korean": "밥",
+    "Japanese": "ご飯",
+    "romanization": "bap",
+    "category": "食べ物"
+  },
+  {
+    "korean": "김밥",
+    "Japanese": "キンパ",
+    "romanization": "gimbap",
+    "category": "食べ物"
+  },
+  {
+    "korean": "라면",
+    "Japanese": "ラーメン",
+    "romanization": "ramyeon",
+    "category": "食べ物"
+  },
+  {
+    "korean": "김치",
+    "Japanese": "キムチ",
+    "romanization": "gimchi",
+    "category": "食べ物"
+  },
+  {
+    "korean": "커피",
+    "Japanese": "コーヒー",
+    "romanization": "keopi",
+    "category": "食べ物"
+  },
+  {
+    "korean": "차",
+    "Japanese": "お茶",
+    "romanization": "cha",
+    "category": "食べ物"
+  },
+  {
+    "korean": "우유",
+    "Japanese": "牛乳",
+    "romanization": "uyu",
+    "category": "食べ物"
+  },
+  {
+    "korean": "주스",
+    "Japanese": "ジュース",
+    "romanization": "juseu",
+    "category": "食べ物"
+  },
+  {
+    "korean": "맥주",
+    "Japanese": "ビール",
+    "romanization": "maekju",
+    "category": "食べ物"
+  },
+  {
+    "korean": "빵",
+    "Japanese": "パン",
+    "romanization": "ppang",
+    "category": "食べ物"
+  },
+  {
+    "korean": "과자",
+    "Japanese": "お菓子",
+    "romanization": "gwaja",
+    "category": "食べ物"
+  },
+  {
+    "korean": "사탕",
+    "Japanese": "飴",
+    "romanization": "satang",
+    "category": "食べ物"
+  },
+  {
+    "korean": "고기",
+    "Japanese": "肉",
+    "romanization": "gogi",
+    "category": "食べ物"
+  },
+  {
+    "korean": "치킨",
+    "Japanese": "チキン",
+    "romanization": "chikin",
+    "category": "食べ物"
+  },
+  {
+    "korean": "계란",
+    "Japanese": "卵",
+    "romanization": "gyeran",
+    "category": "食べ物"
+  },
+  {
+    "korean": "과일",
+    "Japanese": "果物",
+    "romanization": "gwail",
+    "category": "食べ物"
+  },
+  {
+    "korean": "사과",
+    "Japanese": "りんご",
+    "romanization": "sagwa",
+    "category": "食べ物"
+  },
+  {
+    "korean": "바나나",
+    "Japanese": "バナナ",
+    "romanization": "banana",
+    "category": "食べ物"
+  },
+  {
+    "korean": "야채",
+    "Japanese": "野菜",
+    "romanization": "yachae",
+    "category": "食べ物"
+  },
+  {
+    "korean": "사람",
+    "Japanese": "人",
+    "romanization": "saram",
+    "category": "人"
+  },
+  {
+    "korean": "친구",
+    "Japanese": "友達",
+    "romanization": "chingu",
+    "category": "人"
+  },
+  {
+    "korean": "가족",
+    "Japanese": "家族",
+    "romanization": "gajok",
+    "category": "人"
+  },
+  {
+    "korean": "엄마",
+    "Japanese": "お母さん",
+    "romanization": "eomma",
+    "category": "人"
+  },
+  {
+    "korean": "아빠",
+    "Japanese": "お父さん",
+    "romanization": "appa",
+    "category": "人"
+  },
+  {
+    "korean": "부모님",
+    "Japanese": "両親",
+    "romanization": "bumonim",
+    "category": "人"
+  },
+  {
+    "korean": "형",
+    "Japanese": "お兄さん",
+    "romanization": "hyeong",
+    "category": "人"
+  },
+  {
+    "korean": "오빠",
+    "Japanese": "お兄さん",
+    "romanization": "oppa",
+    "category": "人"
+  },
+  {
+    "korean": "누나",
+    "Japanese": "お姉さん",
+    "romanization": "nuna",
+    "category": "人"
+  },
+  {
+    "korean": "언니",
+    "Japanese": "お姉さん",
+    "romanization": "eonni",
+    "category": "人"
+  },
+  {
+    "korean": "동생",
+    "Japanese": "弟・妹",
+    "romanization": "dongsaeng",
+    "category": "人"
+  },
+  {
+    "korean": "선생님",
+    "Japanese": "先生",
+    "romanization": "seonsaengnim",
+    "category": "人"
+  },
+  {
+    "korean": "학생",
+    "Japanese": "学生",
+    "romanization": "haksaeng",
+    "category": "人"
+  },
+  {
+    "korean": "남자",
+    "Japanese": "男",
+    "romanization": "namja",
+    "category": "人"
+  },
+  {
+    "korean": "여자",
+    "Japanese": "女",
+    "romanization": "yeoja",
+    "category": "人"
+  },
+  {
+    "korean": "아이",
+    "Japanese": "子供",
+    "romanization": "ai",
+    "category": "人"
+  },
+  {
+    "korean": "아기",
+    "Japanese": "赤ちゃん",
+    "romanization": "agi",
+    "category": "人"
+  },
+  {
+    "korean": "할아버지",
+    "Japanese": "おじいさん",
+    "romanization": "harabeoji",
+    "category": "人"
+  },
+  {
+    "korean": "할머니",
+    "Japanese": "おばあさん",
+    "romanization": "halmeoni",
+    "category": "人"
+  },
+  {
+    "korean": "손님",
+    "Japanese": "お客さん",
+    "romanization": "sonnim",
+    "category": "人"
+  },
+  {
+    "korean": "집",
+    "Japanese": "家",
+    "romanization": "jip",
+    "category": "場所"
+  },
+  {
+    "korean": "학교",
+    "Japanese": "学校",
+    "romanization": "hakgyo",
+    "category": "場所"
+  },
+  {
+    "korean": "병원",
+    "Japanese": "病院",
+    "romanization": "byeongwon",
+    "category": "場所"
+  },
+  {
+    "korean": "약국",
+    "Japanese": "薬局",
+    "romanization": "yakguk",
+    "category": "場所"
+  },
+  {
+    "korean": "식당",
+    "Japanese": "食堂",
+    "romanization": "sikdang",
+    "category": "場所"
+  },
+  {
+    "korean": "카페",
+    "Japanese": "カフェ",
+    "romanization": "kape",
+    "category": "場所"
+  },
+  {
+    "korean": "화장실",
+    "Japanese": "トイレ",
+    "romanization": "hwajangsil",
+    "category": "場所"
+  },
+  {
+    "korean": "은행",
+    "Japanese": "銀行",
+    "romanization": "eunhaeng",
+    "category": "場所"
+  },
+  {
+    "korean": "공항",
+    "Japanese": "空港",
+    "romanization": "gonghang",
+    "category": "場所"
+  },
+  {
+    "korean": "호텔",
+    "Japanese": "ホテル",
+    "romanization": "hotel",
+    "category": "場所"
+  },
+  {
+    "korean": "시장",
+    "Japanese": "市場",
+    "romanization": "sijang",
+    "category": "場所"
+  },
+  {
+    "korean": "백화점",
+    "Japanese": "デパート",
+    "romanization": "baekwajeom",
+    "category": "場所"
+  },
+  {
+    "korean": "편의점",
+    "Japanese": "コンビニ",
+    "romanization": "pyeonuijeom",
+    "category": "場所"
+  },
+  {
+    "korean": "회사",
+    "Japanese": "会社",
+    "romanization": "hoesa",
+    "category": "場所"
+  },
+  {
+    "korean": "도서관",
+    "Japanese": "図書館",
+    "romanization": "doseogwan",
+    "category": "場所"
+  },
+  {
+    "korean": "공원",
+    "Japanese": "公園",
+    "romanization": "gongwon",
+    "category": "場所"
+  },
+  {
+    "korean": "극장",
+    "Japanese": "劇場",
+    "romanization": "geukjang",
+    "category": "場所"
+  },
+  {
+    "korean": "박물관",
+    "Japanese": "博物館",
+    "romanization": "bangmulgwan",
+    "category": "場所"
+  },
+  {
+    "korean": "역",
+    "Japanese": "駅",
+    "romanization": "yeok",
+    "category": "場所"
+  },
+  {
+    "korean": "정류장",
+    "Japanese": "停留所",
+    "romanization": "jeongnyujang",
+    "category": "場所"
+  },
+  {
+    "korean": "버스",
+    "Japanese": "バス",
+    "romanization": "beoseu",
+    "category": "交通"
+  },
+  {
+    "korean": "택시",
+    "Japanese": "タクシー",
+    "romanization": "taeksi",
+    "category": "交通"
+  },
+  {
+    "korean": "기차",
+    "Japanese": "電車",
+    "romanization": "gicha",
+    "category": "交通"
+  },
+  {
+    "korean": "지하철",
+    "Japanese": "地下鉄",
+    "romanization": "jihacheol",
+    "category": "交通"
+  },
+  {
+    "korean": "비행기",
+    "Japanese": "飛行機",
+    "romanization": "bihaenggi",
+    "category": "交通"
+  },
+  {
+    "korean": "자동차",
+    "Japanese": "自動車",
+    "romanization": "jadongcha",
+    "category": "交通"
+  },
+  {
+    "korean": "자전거",
+    "Japanese": "自転車",
+    "romanization": "jajeongeo",
+    "category": "交通"
+  },
+  {
+    "korean": "오토바이",
+    "Japanese": "オートバイ",
+    "romanization": "otobai",
+    "category": "交通"
+  },
+  {
+    "korean": "배",
+    "Japanese": "船",
+    "romanization": "bae",
+    "category": "交通"
+  },
+  {
+    "korean": "표",
+    "Japanese": "切符",
+    "romanization": "pyo",
+    "category": "交通"
+  },
+  {
+    "korean": "길",
+    "Japanese": "道",
+    "romanization": "gil",
+    "category": "交通"
+  },
+  {
+    "korean": "거리",
+    "Japanese": "通り",
+    "romanization": "geori",
+    "category": "交通"
+  },
+  {
+    "korean": "신호등",
+    "Japanese": "信号",
+    "romanization": "sinhodeung",
+    "category": "交通"
+  },
+  {
+    "korean": "횡단보도",
+    "Japanese": "横断歩道",
+    "romanization": "hoengdanbodo",
+    "category": "交通"
+  },
+  {
+    "korean": "주차장",
+    "Japanese": "駐車場",
+    "romanization": "juchajang",
+    "category": "交通"
+  },
+  {
+    "korean": "운전",
+    "Japanese": "運転",
+    "romanization": "unjeon",
+    "category": "交通"
+  },
+  {
+    "korean": "출발",
+    "Japanese": "出発",
+    "romanization": "chulbal",
+    "category": "交通"
+  },
+  {
+    "korean": "도착",
+    "Japanese": "到着",
+    "romanization": "dochak",
+    "category": "交通"
+  },
+  {
+    "korean": "가까이",
+    "Japanese": "近く",
+    "romanization": "gakkai",
+    "category": "交通"
+  },
+  {
+    "korean": "멀리",
+    "Japanese": "遠く",
+    "romanization": "meolli",
+    "category": "交通"
+  },
+  {
+    "korean": "가다",
+    "Japanese": "行く",
+    "romanization": "gada",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "오다",
+    "Japanese": "来る",
+    "romanization": "oda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "먹다",
+    "Japanese": "食べる",
+    "romanization": "meokda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "마시다",
+    "Japanese": "飲む",
+    "romanization": "masida",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "자다",
+    "Japanese": "寝る",
+    "romanization": "jada",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "일어나다",
+    "Japanese": "起きる",
+    "romanization": "ireonada",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "씻다",
+    "Japanese": "洗う",
+    "romanization": "ssitda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "입다",
+    "Japanese": "着る",
+    "romanization": "ipda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "벗다",
+    "Japanese": "脱ぐ",
+    "romanization": "beotda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "앉다",
+    "Japanese": "座る",
+    "romanization": "anda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "서다",
+    "Japanese": "立つ",
+    "romanization": "seoda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "눕다",
+    "Japanese": "横になる",
+    "romanization": "nupda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "걷다",
+    "Japanese": "歩く",
+    "romanization": "geotda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "뛰다",
+    "Japanese": "走る",
+    "romanization": "ttwida",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "타다",
+    "Japanese": "乗る",
+    "romanization": "tada",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "내리다",
+    "Japanese": "降りる",
+    "romanization": "naerida",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "열다",
+    "Japanese": "開ける",
+    "romanization": "yeolda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "닫다",
+    "Japanese": "閉める",
+    "romanization": "datda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "켜다",
+    "Japanese": "つける",
+    "romanization": "kyeoda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "끄다",
+    "Japanese": "消す",
+    "romanization": "kkeuda",
+    "category": "日常の動詞"
+  },
+  {
+    "korean": "공부하다",
+    "Japanese": "勉強する",
+    "romanization": "gongbuhada",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "일하다",
+    "Japanese": "働く",
+    "romanization": "ilhada",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "보다",
+    "Japanese": "見る",
+    "romanization": "boda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "듣다",
+    "Japanese": "聞く",
+    "romanization": "deutda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "말하다",
+    "Japanese": "話す",
+    "romanization": "malhada",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "읽다",
+    "Japanese": "読む",
+    "romanization": "ikda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "쓰다",
+    "Japanese": "書く",
+    "romanization": "sseuda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "배우다",
+    "Japanese": "学ぶ",
+    "romanization": "baeuda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "가르치다",
+    "Japanese": "教える",
+    "romanization": "gareuchida",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "생각하다",
+    "Japanese": "考える",
+    "romanization": "saenggakhada",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "알다",
+    "Japanese": "知る",
+    "romanization": "alda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "모르다",
+    "Japanese": "知らない",
+    "romanization": "moreuda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "사다",
+    "Japanese": "買う",
+    "romanization": "sada",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "팔다",
+    "Japanese": "売る",
+    "romanization": "palda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "만들다",
+    "Japanese": "作る",
+    "romanization": "mandeulda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "하다",
+    "Japanese": "する",
+    "romanization": "hada",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "주다",
+    "Japanese": "あげる",
+    "romanization": "juda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "받다",
+    "Japanese": "もらう",
+    "romanization": "batda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "찾다",
+    "Japanese": "探す",
+    "romanization": "chatda",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "잃다",
+    "Japanese": "失う",
+    "romanization": "ilta",
+    "category": "動作の動詞"
+  },
+  {
+    "korean": "좋다",
+    "Japanese": "良い",
+    "romanization": "jota",
+    "category": "形容詞"
+  },
+  {
+    "korean": "나쁘다",
+    "Japanese": "悪い",
+    "romanization": "nappeuda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "크다",
+    "Japanese": "大きい",
+    "romanization": "keuda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "작다",
+    "Japanese": "小さい",
+    "romanization": "jakda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "높다",
+    "Japanese": "高い",
+    "romanization": "nopda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "낮다",
+    "Japanese": "低い",
+    "romanization": "natda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "길다",
+    "Japanese": "長い",
+    "romanization": "gilda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "짧다",
+    "Japanese": "短い",
+    "romanization": "jjalpda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "넓다",
+    "Japanese": "広い",
+    "romanization": "neolpda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "좁다",
+    "Japanese": "狭い",
+    "romanization": "jopda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "예쁘다",
+    "Japanese": "きれいだ",
+    "romanization": "yeppeuda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "아름답다",
+    "Japanese": "美しい",
+    "romanization": "areumdapda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "맛있다",
+    "Japanese": "おいしい",
+    "romanization": "masitta",
+    "category": "形容詞"
+  },
+  {
+    "korean": "맛없다",
+    "Japanese": "まずい",
+    "romanization": "mateopsda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "비싸다",
+    "Japanese": "高い",
+    "romanization": "bissada",
+    "category": "形容詞"
+  },
+  {
+    "korean": "싸다",
+    "Japanese": "安い",
+    "romanization": "ssada",
+    "category": "形容詞"
+  },
+  {
+    "korean": "많다",
+    "Japanese": "多い",
+    "romanization": "manta",
+    "category": "形容詞"
+  },
+  {
+    "korean": "적다",
+    "Japanese": "少ない",
+    "romanization": "jeokda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "빠르다",
+    "Japanese": "速い",
+    "romanization": "ppareuda",
+    "category": "形容詞"
+  },
+  {
+    "korean": "느리다",
+    "Japanese": "遅い",
+    "romanization": "neurida",
+    "category": "形容詞"
+  },
+  {
+    "korean": "하나",
+    "Japanese": "ひとつ",
+    "romanization": "hana",
+    "category": "数字"
+  },
+  {
+    "korean": "둘",
+    "Japanese": "ふたつ",
+    "romanization": "dul",
+    "category": "数字"
+  },
+  {
+    "korean": "셋",
+    "Japanese": "みっつ",
+    "romanization": "set",
+    "category": "数字"
+  },
+  {
+    "korean": "넷",
+    "Japanese": "よっつ",
+    "romanization": "net",
+    "category": "数字"
+  },
+  {
+    "korean": "다섯",
+    "Japanese": "いつつ",
+    "romanization": "daseot",
+    "category": "数字"
+  },
+  {
+    "korean": "여섯",
+    "Japanese": "むっつ",
+    "romanization": "yeoseot",
+    "category": "数字"
+  },
+  {
+    "korean": "일곱",
+    "Japanese": "ななつ",
+    "romanization": "ilgop",
+    "category": "数字"
+  },
+  {
+    "korean": "여덟",
+    "Japanese": "やっつ",
+    "romanization": "yeodeol",
+    "category": "数字"
+  },
+  {
+    "korean": "아홉",
+    "Japanese": "ここのつ",
+    "romanization": "ahop",
+    "category": "数字"
+  },
+  {
+    "korean": "열",
+    "Japanese": "とお",
+    "romanization": "yeol",
+    "category": "数字"
+  },
+  {
+    "korean": "일",
+    "Japanese": "いち",
+    "romanization": "il",
+    "category": "数字"
+  },
+  {
+    "korean": "이",
+    "Japanese": "に",
+    "romanization": "i",
+    "category": "数字"
+  },
+  {
+    "korean": "삼",
+    "Japanese": "さん",
+    "romanization": "sam",
+    "category": "数字"
+  },
+  {
+    "korean": "사",
+    "Japanese": "よん",
+    "romanization": "sa",
+    "category": "数字"
+  },
+  {
+    "korean": "오",
+    "Japanese": "ご",
+    "romanization": "o",
+    "category": "数字"
+  },
+  {
+    "korean": "육",
+    "Japanese": "ろく",
+    "romanization": "yuk",
+    "category": "数字"
+  },
+  {
+    "korean": "칠",
+    "Japanese": "なな",
+    "romanization": "chil",
+    "category": "数字"
+  },
+  {
+    "korean": "팔",
+    "Japanese": "はち",
+    "romanization": "pal",
+    "category": "数字"
+  },
+  {
+    "korean": "구",
+    "Japanese": "きゅう",
+    "romanization": "gu",
+    "category": "数字"
+  },
+  {
+    "korean": "십",
+    "Japanese": "じゅう",
+    "romanization": "sip",
+    "category": "数字"
+  },
+  {
+    "korean": "오늘",
+    "Japanese": "今日",
+    "romanization": "oneul",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "내일",
+    "Japanese": "明日",
+    "romanization": "naeil",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "어제",
+    "Japanese": "昨日",
+    "romanization": "eoje",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "모레",
+    "Japanese": "明後日",
+    "romanization": "more",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "그제",
+    "Japanese": "一昨日",
+    "romanization": "geuje",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "지금",
+    "Japanese": "今",
+    "romanization": "jigeum",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "나중에",
+    "Japanese": "後で",
+    "romanization": "najunge",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "아침",
+    "Japanese": "朝",
+    "romanization": "achim",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "점심",
+    "Japanese": "昼",
+    "romanization": "jeomsim",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "저녁",
+    "Japanese": "夕方",
+    "romanization": "jeonyeok",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "밤",
+    "Japanese": "夜",
+    "romanization": "bam",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "시간",
+    "Japanese": "時間",
+    "romanization": "sigan",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "분",
+    "Japanese": "分",
+    "romanization": "bun",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "초",
+    "Japanese": "秒",
+    "romanization": "cho",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "년",
+    "Japanese": "年",
+    "romanization": "nyeon",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "월",
+    "Japanese": "月",
+    "romanization": "wol",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "일",
+    "Japanese": "日",
+    "romanization": "il",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "주",
+    "Japanese": "週",
+    "romanization": "ju",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "요일",
+    "Japanese": "曜日",
+    "romanization": "yoil",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "날",
+    "Japanese": "日",
+    "romanization": "nal",
+    "category": "時間・日付"
+  },
+  {
+    "korean": "빨강",
+    "Japanese": "赤",
+    "romanization": "ppalgang",
+    "category": "色"
+  },
+  {
+    "korean": "빨간색",
+    "Japanese": "赤色",
+    "romanization": "ppalgansaek",
+    "category": "色"
+  },
+  {
+    "korean": "파랑",
+    "Japanese": "青",
+    "romanization": "parang",
+    "category": "色"
+  },
+  {
+    "korean": "파란색",
+    "Japanese": "青色",
+    "romanization": "paransaek",
+    "category": "色"
+  },
+  {
+    "korean": "노랑",
+    "Japanese": "黄色",
+    "romanization": "norang",
+    "category": "色"
+  },
+  {
+    "korean": "노란색",
+    "Japanese": "黄色",
+    "romanization": "noransaek",
+    "category": "色"
+  },
+  {
+    "korean": "초록",
+    "Japanese": "緑",
+    "romanization": "chorok",
+    "category": "色"
+  },
+  {
+    "korean": "초록색",
+    "Japanese": "緑色",
+    "romanization": "choroksaek",
+    "category": "色"
+  },
+  {
+    "korean": "검정",
+    "Japanese": "黒",
+    "romanization": "geomjeong",
+    "category": "色"
+  },
+  {
+    "korean": "검은색",
+    "Japanese": "黒色",
+    "romanization": "geomeunsaek",
+    "category": "色"
+  },
+  {
+    "korean": "하양",
+    "Japanese": "白",
+    "romanization": "hayang",
+    "category": "色"
+  },
+  {
+    "korean": "하얀색",
+    "Japanese": "白色",
+    "romanization": "hayansaek",
+    "category": "色"
+  },
+  {
+    "korean": "주황",
+    "Japanese": "オレンジ",
+    "romanization": "juhwang",
+    "category": "色"
+  },
+  {
+    "korean": "주황색",
+    "Japanese": "オレンジ色",
+    "romanization": "juhwangsaek",
+    "category": "色"
+  },
+  {
+    "korean": "보라",
+    "Japanese": "紫",
+    "romanization": "bora",
+    "category": "色"
+  },
+  {
+    "korean": "보라색",
+    "Japanese": "紫色",
+    "romanization": "borasaek",
+    "category": "色"
+  },
+  {
+    "korean": "분홍",
+    "Japanese": "ピンク",
+    "romanization": "bunhong",
+    "category": "色"
+  },
+  {
+    "korean": "분홍색",
+    "Japanese": "ピンク色",
+    "romanization": "bunhongsaek",
+    "category": "色"
+  },
+  {
+    "korean": "회색",
+    "Japanese": "灰色",
+    "romanization": "hoesaek",
+    "category": "色"
+  },
+  {
+    "korean": "갈색",
+    "Japanese": "茶色",
+    "romanization": "galsaek",
+    "category": "色"
+  },
+  {
+    "korean": "머리",
+    "Japanese": "頭",
+    "romanization": "meori",
+    "category": "体"
+  },
+  {
+    "korean": "얼굴",
+    "Japanese": "顔",
+    "romanization": "eolgul",
+    "category": "体"
+  },
+  {
+    "korean": "눈",
+    "Japanese": "目",
+    "romanization": "nun",
+    "category": "体"
+  },
+  {
+    "korean": "코",
+    "Japanese": "鼻",
+    "romanization": "ko",
+    "category": "体"
+  },
+  {
+    "korean": "귀",
+    "Japanese": "耳",
+    "romanization": "gwi",
+    "category": "体"
+  },
+  {
+    "korean": "입",
+    "Japanese": "口",
+    "romanization": "ip",
+    "category": "体"
+  },
+  {
+    "korean": "이",
+    "Japanese": "歯",
+    "romanization": "i",
+    "category": "体"
+  },
+  {
+    "korean": "목",
+    "Japanese": "首",
+    "romanization": "mok",
+    "category": "体"
+  },
+  {
+    "korean": "어깨",
+    "Japanese": "肩",
+    "romanization": "eokkae",
+    "category": "体"
+  },
+  {
+    "korean": "팔",
+    "Japanese": "腕",
+    "romanization": "pal",
+    "category": "体"
+  },
+  {
+    "korean": "손",
+    "Japanese": "手",
+    "romanization": "son",
+    "category": "体"
+  },
+  {
+    "korean": "손가락",
+    "Japanese": "指",
+    "romanization": "son garak",
+    "category": "体"
+  },
+  {
+    "korean": "다리",
+    "Japanese": "足",
+    "romanization": "dari",
+    "category": "体"
+  },
+  {
+    "korean": "발",
+    "Japanese": "足",
+    "romanization": "bal",
+    "category": "体"
+  },
+  {
+    "korean": "발가락",
+    "Japanese": "足の指",
+    "romanization": "balgarak",
+    "category": "体"
+  },
+  {
+    "korean": "배",
+    "Japanese": "お腹",
+    "romanization": "bae",
+    "category": "体"
+  },
+  {
+    "korean": "등",
+    "Japanese": "背中",
+    "romanization": "deung",
+    "category": "体"
+  },
+  {
+    "korean": "가슴",
+    "Japanese": "胸",
+    "romanization": "gaseum",
+    "category": "体"
+  },
+  {
+    "korean": "심장",
+    "Japanese": "心臓",
+    "romanization": "simjang",
+    "category": "体"
+  },
+  {
+    "korean": "피",
+    "Japanese": "血",
+    "romanization": "pi",
+    "category": "体"
+  },
+  {
+    "korean": "날씨",
+    "Japanese": "天気",
+    "romanization": "nalssi",
+    "category": "自然"
+  },
+  {
+    "korean": "비",
+    "Japanese": "雨",
+    "romanization": "bi",
+    "category": "自然"
+  },
+  {
+    "korean": "눈",
+    "Japanese": "雪",
+    "romanization": "nun",
+    "category": "自然"
+  },
+  {
+    "korean": "바람",
+    "Japanese": "風",
+    "romanization": "baram",
+    "category": "自然"
+  },
+  {
+    "korean": "구름",
+    "Japanese": "雲",
+    "romanization": "gureum",
+    "category": "自然"
+  },
+  {
+    "korean": "해",
+    "Japanese": "太陽",
+    "romanization": "hae",
+    "category": "自然"
+  },
+  {
+    "korean": "달",
+    "Japanese": "月",
+    "romanization": "dal",
+    "category": "自然"
+  },
+  {
+    "korean": "별",
+    "Japanese": "星",
+    "romanization": "byeol",
+    "category": "自然"
+  },
+  {
+    "korean": "하늘",
+    "Japanese": "空",
+    "romanization": "haneul",
+    "category": "自然"
+  },
+  {
+    "korean": "땅",
+    "Japanese": "地面",
+    "romanization": "ttang",
+    "category": "自然"
+  },
+  {
+    "korean": "산",
+    "Japanese": "山",
+    "romanization": "san",
+    "category": "自然"
+  },
+  {
+    "korean": "강",
+    "Japanese": "川",
+    "romanization": "gang",
+    "category": "自然"
+  },
+  {
+    "korean": "바다",
+    "Japanese": "海",
+    "romanization": "bada",
+    "category": "自然"
+  },
+  {
+    "korean": "호수",
+    "Japanese": "湖",
+    "romanization": "hosu",
+    "category": "自然"
+  },
+  {
+    "korean": "나무",
+    "Japanese": "木",
+    "romanization": "namu",
+    "category": "自然"
+  },
+  {
+    "korean": "꽃",
+    "Japanese": "花",
+    "romanization": "kkot",
+    "category": "自然"
+  },
+  {
+    "korean": "풀",
+    "Japanese": "草",
+    "romanization": "pul",
+    "category": "自然"
+  },
+  {
+    "korean": "불",
+    "Japanese": "火",
+    "romanization": "bul",
+    "category": "自然"
+  },
+  {
+    "korean": "돌",
+    "Japanese": "石",
+    "romanization": "dol",
+    "category": "自然"
+  },
+  {
+    "korean": "흙",
+    "Japanese": "土",
+    "romanization": "heuk",
+    "category": "自然"
+  },
+  {
+    "korean": "교실",
+    "Japanese": "教室",
+    "romanization": "gyosil",
+    "category": "学校"
+  },
+  {
+    "korean": "책",
+    "Japanese": "本",
+    "romanization": "chaek",
+    "category": "学校"
+  },
+  {
+    "korean": "공책",
+    "Japanese": "ノート",
+    "romanization": "gongchaek",
+    "category": "学校"
+  },
+  {
+    "korean": "연필",
+    "Japanese": "鉛筆",
+    "romanization": "yeonpil",
+    "category": "学校"
+  },
+  {
+    "korean": "펜",
+    "Japanese": "ペン",
+    "romanization": "pen",
+    "category": "学校"
+  },
+  {
+    "korean": "지우개",
+    "Japanese": "消しゴム",
+    "romanization": "jiugae",
+    "category": "学校"
+  },
+  {
+    "korean": "가방",
+    "Japanese": "カバン",
+    "romanization": "gabang",
+    "category": "学校"
+  },
+  {
+    "korean": "책상",
+    "Japanese": "机",
+    "romanization": "chaeksang",
+    "category": "学校"
+  },
+  {
+    "korean": "의자",
+    "Japanese": "椅子",
+    "romanization": "uija",
+    "category": "学校"
+  },
+  {
+    "korean": "칠판",
+    "Japanese": "黒板",
+    "romanization": "chilpan",
+    "category": "学校"
+  },
+  {
+    "korean": "숙제",
+    "Japanese": "宿題",
+    "romanization": "sukje",
+    "category": "学校"
+  },
+  {
+    "korean": "시험",
+    "Japanese": "試験",
+    "romanization": "siheom",
+    "category": "学校"
+  },
+  {
+    "korean": "성적",
+    "Japanese": "成績",
+    "romanization": "seongjeok",
+    "category": "学校"
+  },
+  {
+    "korean": "수업",
+    "Japanese": "授業",
+    "romanization": "sueop",
+    "category": "学校"
+  },
+  {
+    "korean": "과목",
+    "Japanese": "科目",
+    "romanization": "gwamok",
+    "category": "学校"
+  },
+  {
+    "korean": "수학",
+    "Japanese": "数学",
+    "romanization": "suhak",
+    "category": "学校"
+  },
+  {
+    "korean": "과학",
+    "Japanese": "科学",
+    "romanization": "gwahak",
+    "category": "学校"
+  },
+  {
+    "korean": "영어",
+    "Japanese": "英語",
+    "romanization": "yeongeo",
+    "category": "学校"
+  },
+  {
+    "korean": "역사",
+    "Japanese": "歴史",
+    "romanization": "yeoksa",
+    "category": "学校"
+  },
+  {
+    "korean": "체육",
+    "Japanese": "体育",
+    "romanization": "cheyuk",
+    "category": "学校"
+  }
+]

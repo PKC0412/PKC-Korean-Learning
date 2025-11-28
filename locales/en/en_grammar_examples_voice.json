@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "The window was opened."
+    },
+    "voice_passive_ajida_2": {
+      "translation": "The door was closed."
+    },
+    "voice_passive_ajida_3": {
+      "translation": "The light was turned off."
+    },
+    "voice_passive_ajida_4": {
+      "translation": "The food was prepared."
+    },
+    "voice_passive_ajida_5": {
+      "translation": "The road was blocked."
+    },
+    "voice_causative_gehada_1": {
+      "translation": "I made my younger sibling laugh."
+    },
+    "voice_causative_gehada_2": {
+      "translation": "The teacher made the students read."
+    },
+    "voice_causative_gehada_3": {
+      "translation": "I made my friend wait."
+    },
+    "voice_causative_gehada_4": {
+      "translation": "Mom made me sleep early."
+    },
+    "voice_causative_gehada_5": {
+      "translation": "I made the puppy sit."
+    }
+  }
+}

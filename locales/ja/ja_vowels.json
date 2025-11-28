@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "아",
+    "romanization": "A",
+    "ipa": "[a]",
+    "description": "舌を前のほうに置き、口を大きく開けて出す明るい非円唇母音です。"
+  },
+  {
+    "char": "ㅑ",
+    "name": "야",
+    "romanization": "Ya",
+    "ipa": "[ja]",
+    "description": "[j] 系の滑らかな音のあとに、後ろ寄りで出る低い非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅓ",
+    "name": "어",
+    "romanization": "Eo",
+    "ipa": "[ʌ]",
+    "description": "舌を後ろ寄りに置き、口をやや大きく開けて出す中低の非円唇母音です。"
+  },
+  {
+    "char": "ㅕ",
+    "name": "여",
+    "romanization": "Yeo",
+    "ipa": "[jʌ]",
+    "description": "[j] 系の滑らかな音のあとに、後ろ寄りで出る中低の非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅗ",
+    "name": "오",
+    "romanization": "O",
+    "ipa": "[o]",
+    "description": "舌を後ろ寄りにし、唇を丸くすぼめて少し開いた状態で出す中高の円唇母音です。"
+  },
+  {
+    "char": "ㅛ",
+    "name": "요",
+    "romanization": "Yo",
+    "ipa": "[jo]",
+    "description": "[j] 系の滑らかな音のあとに、後ろ寄りで出る中高の円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅜ",
+    "name": "우",
+    "romanization": "U",
+    "ipa": "[u]",
+    "description": "舌を後ろ寄りにし、唇を丸くすぼめて出す高い円唇母音です。"
+  },
+  {
+    "char": "ㅠ",
+    "name": "유",
+    "romanization": "Yu",
+    "ipa": "[ju]",
+    "description": "[j] 系の滑らかな音のあとに、後ろ寄りで出る高い円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅡ",
+    "name": "은",
+    "romanization": "Eu",
+    "ipa": "[ɨ]",
+    "description": "舌を中央付近に置き、口をほとんど閉じた状態で出す高い非円唇母音です。"
+  },
+  {
+    "char": "ㅣ",
+    "name": "이",
+    "romanization": "I",
+    "ipa": "[i]",
+    "description": "舌を前のほうに置き、口をほとんど閉じた状態で出す高い非円唇母音です。"
+  },
+  {
+    "char": "ㅐ",
+    "name": "애",
+    "romanization": "Ae",
+    "ipa": "[æ]",
+    "description": "舌を前寄りに置き、口を大きく開けて出す低い非円唇母音です。"
+  },
+  {
+    "char": "ㅒ",
+    "name": "녀",
+    "romanization": "Nyeo",
+    "ipa": "[jæ]",
+    "description": "[j] 系の滑らかな音のあとに、前寄りで出る低い非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅔ",
+    "name": "에",
+    "romanization": "E",
+    "ipa": "[e]",
+    "description": "舌を前寄りに置き、口を少しだけ開けて出す中高の非円唇母音です。"
+  },
+  {
+    "char": "ㅖ",
+    "name": "여",
+    "romanization": "Yeo",
+    "ipa": "[je]",
+    "description": "[j] 系の滑らかな音のあとに、前寄りで出る中高の非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅘ",
+    "name": "와",
+    "romanization": "Wa",
+    "ipa": "[wa]",
+    "description": "[w] 系の唇の滑らかな音のあとに、前寄りで出る明るい非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅙ",
+    "name": "왜",
+    "romanization": "Wae",
+    "ipa": "[wæ]",
+    "description": "[w] 系の滑らかな音のあとに、前寄りで出る低い非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅚ",
+    "name": "외",
+    "romanization": "We",
+    "ipa": "[we]",
+    "description": "[w] 系の滑らかな音のあとに、前寄りで出る中高の非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅝ",
+    "name": "워",
+    "romanization": "Weo",
+    "ipa": "[wʌ]",
+    "description": "[w] 系の唇の滑らかな音のあとに、後ろ寄りで出る中低の非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅞ",
+    "name": "웨",
+    "romanization": "We",
+    "ipa": "[we]",
+    "description": "[w] 系の滑らかな音のあとに、前寄りで出る中高の非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅟ",
+    "name": "위",
+    "romanization": "Wi",
+    "ipa": "[wi]",
+    "description": "[w] 系の滑らかな音のあとに、前寄りで出る高い非円唇母音が続く二重母音です。"
+  },
+  {
+    "char": "ㅢ",
+    "name": "은",
+    "romanization": "Eui",
+    "ipa": "[ɨj]",
+    "description": "中央付近で出る高い非円唇母音に、前寄りの滑らかな音が続く二重母音です。"
+  }
+]

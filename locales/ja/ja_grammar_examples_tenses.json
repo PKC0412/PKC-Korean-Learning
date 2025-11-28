@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "私は毎日運動する。"
+    },
+    "tenses_present_2": {
+      "translation": "弟は今宿題をしている。"
+    },
+    "tenses_present_3": {
+      "translation": "友達は会社で働いている。"
+    },
+    "tenses_present_4": {
+      "translation": "私は家で休んでいる。"
+    },
+    "tenses_present_5": {
+      "translation": "私たちは公園を歩く。"
+    },
+    "tenses_past_1": {
+      "translation": "昨日、友達に会った。"
+    },
+    "tenses_past_2": {
+      "translation": "先週映画を見た。"
+    },
+    "tenses_past_3": {
+      "translation": "弟は遅く朝食を食べた。"
+    },
+    "tenses_past_4": {
+      "translation": "私は新しい服を買った。"
+    },
+    "tenses_past_5": {
+      "translation": "週末に旅行した。"
+    },
+    "tenses_future_1": {
+      "translation": "明日友達に会う。"
+    },
+    "tenses_future_2": {
+      "translation": "弟は来週引っ越す。"
+    },
+    "tenses_future_3": {
+      "translation": "私は今年韓国語を勉強する。"
+    },
+    "tenses_future_4": {
+      "translation": "私たちは来年旅行する。"
+    },
+    "tenses_future_5": {
+      "translation": "私はもうすぐ夕食を作る。"
+    },
+    "tenses_progressive_1": {
+      "translation": "私は今食べている。"
+    },
+    "tenses_progressive_2": {
+      "translation": "弟は部屋で音楽を聞いている。"
+    },
+    "tenses_progressive_3": {
+      "translation": "友達は図書館で読書している。"
+    },
+    "tenses_progressive_4": {
+      "translation": "私たちは会議の準備をしている。"
+    },
+    "tenses_progressive_5": {
+      "translation": "外は雨が降っている。"
+    },
+    "tenses_experiential_1": {
+      "translation": "私は以前韓国に行ったことがある。"
+    },
+    "tenses_experiential_2": {
+      "translation": "友達はスキーをしたことがある。"
+    },
+    "tenses_experiential_3": {
+      "translation": "私はとても辛い食べ物を食べたことがない。"
+    },
+    "tenses_experiential_4": {
+      "translation": "弟は海外に住んだことがある。"
+    },
+    "tenses_experiential_5": {
+      "translation": "私はギターを弾いたことがある。"
+    }
+  }
+}

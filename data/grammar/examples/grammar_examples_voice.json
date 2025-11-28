@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "examples": [
+    {
+      "id": "voice_passive_ajida_1",
+      "groupId": "voice_passive_ajida",
+      "korean": "창문이 열어졌어요.",
+      "romanization": "changmuni yeoreojyeosseoyo",
+      "ipa": "tɕʰaŋmuni jʌɾʌdʑʌs͈ʌjo"
+    },
+    {
+      "id": "voice_passive_ajida_2",
+      "groupId": "voice_passive_ajida",
+      "korean": "문이 닫혀졌어요.",
+      "romanization": "muni dadhyeojyeosseoyo",
+      "ipa": "muni tatʰjʌdʑʌs͈ʌjo"
+    },
+    {
+      "id": "voice_passive_ajida_3",
+      "groupId": "voice_passive_ajida",
+      "korean": "불이 꺼졌어요.",
+      "romanization": "buri kkeojyeosseoyo",
+      "ipa": "puɾi k͈ʌdʑʌs͈ʌjo"
+    },
+    {
+      "id": "voice_passive_ajida_4",
+      "groupId": "voice_passive_ajida",
+      "korean": "음식이 만들어졌어요.",
+      "romanization": "eumsigi mandeureojyeosseoyo",
+      "ipa": "ɯmsiɡi mandɯɾʌdʑʌs͈ʌjo"
+    },
+    {
+      "id": "voice_passive_ajida_5",
+      "groupId": "voice_passive_ajida",
+      "korean": "길이 막혀졌어요.",
+      "romanization": "giri makhyeojyeosseoyo",
+      "ipa": "kiɾi mak̚hjʌdʑʌs͈ʌjo"
+    },
+    {
+      "id": "voice_causative_gehada_1",
+      "groupId": "voice_causative_gehada",
+      "korean": "저는 동생을 웃게 했어요.",
+      "romanization": "jeoneun dongsaengeul utge haesseoyo",
+      "ipa": "tɕʌnɯn toŋsɛŋɯl ut̚ke hɛs͈ʌjo"
+    },
+    {
+      "id": "voice_causative_gehada_2",
+      "groupId": "voice_causative_gehada",
+      "korean": "선생님은 학생들에게 읽게 했어요.",
+      "romanization": "seonsaengnimeun haksaengdeurege ilgge haesseoyo",
+      "ipa": "sʌnsɛŋnimɯn hak̚sɛŋdɯɾeɡe ik̚ke hɛs͈ʌjo"
+    },
+    {
+      "id": "voice_causative_gehada_3",
+      "groupId": "voice_causative_gehada",
+      "korean": "저는 친구를 기다리게 했어요.",
+      "romanization": "jeoneun chingureul gidarige haesseoyo",
+      "ipa": "tɕʌnɯn tɕʰiŋɡuɾɯl kidaɾiɡe hɛs͈ʌjo"
+    },
+    {
+      "id": "voice_causative_gehada_4",
+      "groupId": "voice_causative_gehada",
+      "korean": "엄마는 저를 일찍 자게 했어요.",
+      "romanization": "eommaneun jeoreul iljjik jage haesseoyo",
+      "ipa": "ʌmːanɯn tɕʌɾɯl ilt͡ɕ͈ik̚ tɕaɡe hɛs͈ʌjo"
+    },
+    {
+      "id": "voice_causative_gehada_5",
+      "groupId": "voice_causative_gehada",
+      "korean": "저는 강아지를 앉게 했어요.",
+      "romanization": "jeoneun gangajireul anke haesseoyo",
+      "ipa": "tɕʌnɯn kaŋadʑiɾɯl an̚ke hɛs͈ʌjo"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "Oggi fa più caldo di ieri."
+    },
+    "comparison_boda_2": {
+      "translation": "Sono più alto di mia sorella maggiore."
+    },
+    "comparison_boda_3": {
+      "translation": "Questa borsa è più leggera di quella."
+    },
+    "comparison_boda_4": {
+      "translation": "Questo film è molto più interessante di quello precedente."
+    },
+    "comparison_boda_5": {
+      "translation": "Questa strada è un po' più tranquilla di quella."
+    },
+    "comparison_mankeum_1": {
+      "translation": "Non cucino bene quanto mia sorella maggiore."
+    },
+    "comparison_mankeum_2": {
+      "translation": "Oggi è impegnato quanto ieri."
+    },
+    "comparison_mankeum_3": {
+      "translation": "Questo atleta ha ottenuto risultati tanto buoni quanto ci aspettavamo."
+    },
+    "comparison_mankeum_4": {
+      "translation": "Questo completo non è così caldo come pensavo."
+    },
+    "comparison_mankeum_5": {
+      "translation": "Non sono bravo in inglese quanto il mio amico."
+    },
+    "comparison_cheoreom_1": {
+      "translation": "Quel bambino sorride come un angelo."
+    },
+    "comparison_cheoreom_2": {
+      "translation": "Questo cagnolino è piccolo e carino come una bambola."
+    },
+    "comparison_cheoreom_3": {
+      "translation": "Il cielo è così bello, proprio come un dipinto."
+    },
+    "comparison_cheoreom_4": {
+      "translation": "Lui lavora come una macchina."
+    },
+    "comparison_cheoreom_5": {
+      "translation": "Voglio correre libero come il vento."
+    }
+  }
+}

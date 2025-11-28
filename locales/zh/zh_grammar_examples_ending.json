@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "translations": {
+    "ending_polite_ayo_eoyo_1": {
+      "translation": "我今天早点回家。"
+    },
+    "ending_polite_ayo_eoyo_2": {
+      "translation": "朋友在咖啡馆喝咖啡。"
+    },
+    "ending_polite_ayo_eoyo_3": {
+      "translation": "我们晚上运动。"
+    },
+    "ending_polite_ayo_eoyo_4": {
+      "translation": "我每周末看电影。"
+    },
+    "ending_polite_ayo_eoyo_5": {
+      "translation": "天气很好。"
+    },
+    "ending_formal_sumnida_1": {
+      "translation": "我在韩国工作。"
+    },
+    "ending_formal_sumnida_2": {
+      "translation": "会议下午3点开始。"
+    },
+    "ending_formal_sumnida_3": {
+      "translation": "我是学生。"
+    },
+    "ending_formal_sumnida_4": {
+      "translation": "现在正在写报告。"
+    },
+    "ending_formal_sumnida_5": {
+      "translation": "您参加会议吗？"
+    }
+  }
+}

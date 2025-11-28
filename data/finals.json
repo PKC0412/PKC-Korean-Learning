@@ -1,0 +1,218 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "기역",
+    "romanization": "g/k",
+    "ipa": "[k]",
+    "description": "혀뒷부분에서 막고 끝나는 소리로, 가장 자주 쓰이는 받침입니다.",
+    "examples": "[translate:박] (park), [translate:삭] (sak)"
+  },
+  {
+    "char": "ㄲ",
+    "name": "쌍기역",
+    "romanization": "kk",
+    "ipa": "[k*]",
+    "description": "혀뒷부분 파열음을 겹쳐 더욱 힘 있게 내는 받침입니다.",
+    "examples": "[translate:닭] (dak), [translate:깎] (kkak)"
+  },
+  {
+    "char": "ㄳ",
+    "name": "기역시옷",
+    "romanization": "gs",
+    "ipa": "[ks]",
+    "description": "혀뒷부분 파열음 뒤에 잇몸 마찰음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:닭] (dags), [translate:맑] (malks)"
+  },
+  {
+    "char": "ㄴ",
+    "name": "니은",
+    "romanization": "n",
+    "ipa": "[n]",
+    "description": "잇몸 부근에서 나는 비음으로 끝나는, 두 번째로 자주 쓰이는 받침입니다.",
+    "examples": "[translate:산] (san), [translate:본] (bon)"
+  },
+  {
+    "char": "ㄵ",
+    "name": "니은지읒",
+    "romanization": "nj",
+    "ipa": "[nʲ]",
+    "description": "잇몸 비음 뒤에 파찰음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:앉] (anj), [translate:닌] (nin)"
+  },
+  {
+    "char": "ㄶ",
+    "name": "니은히읗",
+    "romanization": "nh",
+    "ipa": "[nh]",
+    "description": "잇몸 비음 뒤에 목구멍 마찰음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:않] (anh)"
+  },
+  {
+    "char": "ㄷ",
+    "name": "디귿",
+    "romanization": "d/t",
+    "ipa": "[t]",
+    "description": "잇몸 부근에서 막고 끝나는 파열음 받침입니다.",
+    "examples": "[translate:곡] (gok), [translate:닷] (dat)"
+  },
+  {
+    "char": "ㄹ",
+    "name": "리을",
+    "romanization": "l/r",
+    "ipa": "[l]",
+    "description": "혀옆으로 바람이 흐르며 끝나는 독특한 받침 소리입니다.",
+    "examples": "[translate:말] (mal), [translate:불] (bul)"
+  },
+  {
+    "char": "ㄺ",
+    "name": "리을기역",
+    "romanization": "lk",
+    "ipa": "[lk]",
+    "description": "혀옆으로 흐르는 소리 뒤에 혀뒷부분 파열음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:닭] (dalk), [translate:삭] (salk)"
+  },
+  {
+    "char": "ㄻ",
+    "name": "리을미음",
+    "romanization": "lm",
+    "ipa": "[lm]",
+    "description": "혀옆으로 흐르는 소리 뒤에 입술 비음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:삶] (salm)"
+  },
+  {
+    "char": "ㄼ",
+    "name": "리을비읍",
+    "romanization": "lp",
+    "ipa": "[lp]",
+    "description": "혀옆으로 흐르는 소리 뒤에 입술 파열음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:닮] (dalsm)"
+  },
+  {
+    "char": "ㄽ",
+    "name": "리을시옷",
+    "romanization": "ls",
+    "ipa": "[ls]",
+    "description": "혀옆으로 흐르는 소리 뒤에 잇몸 마찰음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:넓] (neolps)"
+  },
+  {
+    "char": "ㄾ",
+    "name": "리을티읕",
+    "romanization": "lt",
+    "ipa": "[lt]",
+    "description": "혀옆으로 흐르는 소리 뒤에 잇몸 파열음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:벽] (byeolts)"
+  },
+  {
+    "char": "ㄿ",
+    "name": "리을피읖",
+    "romanization": "lp",
+    "ipa": "[lp]",
+    "description": "혀옆으로 흐르는 소리 뒤에 입술의 거센 파열음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:깝] (kkalp)"
+  },
+  {
+    "char": "ㅀ",
+    "name": "리을히읗",
+    "romanization": "lh",
+    "ipa": "[lh]",
+    "description": "혀옆으로 흐르는 소리 뒤에 목구멍 마찰음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:닮] (dalh)"
+  },
+  {
+    "char": "ㅁ",
+    "name": "미음",
+    "romanization": "m",
+    "ipa": "[m]",
+    "description": "입술에서 나는 비음으로 끝나는 받침입니다.",
+    "examples": "[translate:곰] (gom), [translate:밤] (bam)"
+  },
+  {
+    "char": "ㅂ",
+    "name": "비읍",
+    "romanization": "b/p",
+    "ipa": "[p]",
+    "description": "입술에서 막고 끝나는 파열음 받침입니다.",
+    "examples": "[translate:입] (ip), [translate:잡] (jap)"
+  },
+  {
+    "char": "ㅄ",
+    "name": "비읍시옷",
+    "romanization": "ps",
+    "ipa": "[ps]",
+    "description": "입술 파열음 뒤에 잇몸 마찰음이 이어지는 자음군 받침입니다.",
+    "examples": "[translate:잎] (ips), [translate:겹] (gyeops)"
+  },
+  {
+    "char": "ㅅ",
+    "name": "시옷",
+    "romanization": "s",
+    "ipa": "[s]",
+    "description": "잇몸 부근에서 나는 마찰음으로 끝나는 받침입니다.",
+    "examples": "[translate:손] (son), [translate:있] (iss)"
+  },
+  {
+    "char": "ㅆ",
+    "name": "쌍시옷",
+    "romanization": "ss",
+    "ipa": "[s*]",
+    "description": "잇몸 부근 마찰음을 겹쳐 강하게 내는 받침입니다.",
+    "examples": "[translate:있] (itss)"
+  },
+  {
+    "char": "ㅇ",
+    "name": "이응",
+    "romanization": "ng",
+    "ipa": "[ŋ]",
+    "description": "혀뒷부분에서 나는 [ng] 비음으로 끝나는 받침입니다.",
+    "examples": "[translate:강] (gang), [translate:성] (seong)"
+  },
+  {
+    "char": "ㅈ",
+    "name": "지읒",
+    "romanization": "j",
+    "ipa": "[ʈʃ]",
+    "description": "막았다가 마찰을 내며 끝나는 파찰음 받침입니다.",
+    "examples": "[translate:닦] (dakj)"
+  },
+  {
+    "char": "ㅊ",
+    "name": "치읓",
+    "romanization": "ch",
+    "ipa": "[ʈʃʰ]",
+    "description": "거센 파찰음으로 끝나는 받침입니다.",
+    "examples": "[translate:닭] (dakch)"
+  },
+  {
+    "char": "ㅋ",
+    "name": "키읔",
+    "romanization": "kh",
+    "ipa": "[kʰ]",
+    "description": "혀뒷부분에서 나는 거센 파열음으로 끝나는 받침입니다.",
+    "examples": "[translate:닭] (dakkh)"
+  },
+  {
+    "char": "ㅌ",
+    "name": "티읕",
+    "romanization": "th",
+    "ipa": "[tʰ]",
+    "description": "잇몸 부근에서 나는 거센 파열음으로 끝나는 받침입니다.",
+    "examples": "[translate:닭] (dakth)"
+  },
+  {
+    "char": "ㅍ",
+    "name": "피읖",
+    "romanization": "ph",
+    "ipa": "[pʰ]",
+    "description": "입술에서 나는 거센 파열음으로 끝나는 받침입니다.",
+    "examples": "[translate:깝] (kkalph)"
+  },
+  {
+    "char": "ㅎ",
+    "name": "히읗",
+    "romanization": "h",
+    "ipa": "[h]",
+    "description": "목구멍에서 나는 숨이 새는 소리로 끝나는 받침입니다.",
+    "examples": "[translate:닭] (dakh)"
+  }
+]

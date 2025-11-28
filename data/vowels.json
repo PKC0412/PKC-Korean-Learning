@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "아",
+    "romanization": "A",
+    "ipa": "[a]",
+    "description": "혀를 앞쪽에 두고 입을 크게 벌려 내는 밝은 평순 모음입니다."
+  },
+  {
+    "char": "ㅑ",
+    "name": "야",
+    "romanization": "Ya",
+    "ipa": "[ja]",
+    "description": "[j] 계열의 미끄러지는 소리 뒤에 뒤쪽에서 나는 낮은 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅓ",
+    "name": "어",
+    "romanization": "Eo",
+    "ipa": "[ʌ]",
+    "description": "혀를 뒤쪽에 두고 입을 비교적 벌려 내는 중저 평순 모음입니다."
+  },
+  {
+    "char": "ㅕ",
+    "name": "여",
+    "romanization": "Yeo",
+    "ipa": "[jʌ]",
+    "description": "[j] 계열의 미끄러지는 소리 뒤에 뒤쪽에서 나는 중저 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅗ",
+    "name": "오",
+    "romanization": "O",
+    "ipa": "[o]",
+    "description": "혀를 뒤쪽에 두고 입술을 둥글게 모아 약간 벌린 상태에서 내는 중고 원순 모음입니다."
+  },
+  {
+    "char": "ㅛ",
+    "name": "요",
+    "romanization": "Yo",
+    "ipa": "[jo]",
+    "description": "[j] 계열의 미끄러지는 소리 뒤에 뒤쪽에서 나는 중고 원순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅜ",
+    "name": "우",
+    "romanization": "U",
+    "ipa": "[u]",
+    "description": "혀를 뒤쪽에 두고 입술을 둥글게 모아 내는 높은 원순 모음입니다."
+  },
+  {
+    "char": "ㅠ",
+    "name": "유",
+    "romanization": "Yu",
+    "ipa": "[ju]",
+    "description": "[j] 계열의 앞쪽 미끄러지는 소리 뒤에 뒤쪽에서 나는 높은 원순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅡ",
+    "name": "은",
+    "romanization": "Eu",
+    "ipa": "[ɨ]",
+    "description": "혀를 가운데에 두고 입을 거의 다문 상태에서 내는 높은 평순 모음입니다."
+  },
+  {
+    "char": "ㅣ",
+    "name": "이",
+    "romanization": "I",
+    "ipa": "[i]",
+    "description": "혀를 앞쪽에 두고 입을 거의 다문 상태에서 내는 높은 평순 모음입니다."
+  },
+  {
+    "char": "ㅐ",
+    "name": "애",
+    "romanization": "Ae",
+    "ipa": "[æ]",
+    "description": "혀를 앞쪽에 두고 입을 많이 벌려 내는 낮은 평순 모음입니다."
+  },
+  {
+    "char": "ㅒ",
+    "name": "녀",
+    "romanization": "Nyeo",
+    "ipa": "[jæ]",
+    "description": "[j] 계열의 미끄러지는 소리 뒤에 앞쪽에서 나는 낮은 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅔ",
+    "name": "에",
+    "romanization": "E",
+    "ipa": "[e]",
+    "description": "혀를 앞쪽에 두고 입을 조금만 벌려 내는 중고 평순 모음입니다."
+  },
+  {
+    "char": "ㅖ",
+    "name": "여",
+    "romanization": "Yeo",
+    "ipa": "[je]",
+    "description": "[j] 계열의 미끄러지는 소리 뒤에 앞쪽에서 나는 중고 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅘ",
+    "name": "와",
+    "romanization": "Wa",
+    "ipa": "[wa]",
+    "description": "[w] 계열의 입술 미끄러지는 소리 뒤에 앞쪽에서 나는 밝은 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅙ",
+    "name": "왜",
+    "romanization": "Wae",
+    "ipa": "[wæ]",
+    "description": "[w] 계열의 입술 미끄러지는 소리 뒤에 앞쪽에서 나는 낮은 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅚ",
+    "name": "외",
+    "romanization": "We",
+    "ipa": "[we]",
+    "description": "[w] 계열의 입술 미끄러지는 소리 뒤에 앞쪽에서 나는 중고 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅝ",
+    "name": "워",
+    "romanization": "Weo",
+    "ipa": "[wʌ]",
+    "description": "[w] 계열의 입술 미끄러지는 소리 뒤에 뒤쪽에서 나는 중저 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅞ",
+    "name": "웨",
+    "romanization": "We",
+    "ipa": "[we]",
+    "description": "[w] 계열의 입술 미끄러지는 소리 뒤에 앞쪽에서 나는 중고 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅟ",
+    "name": "위",
+    "romanization": "Wi",
+    "ipa": "[wi]",
+    "description": "[w] 계열의 입술 미끄러지는 소리 뒤에 앞쪽에서 나는 높은 평순 모음이 이어지는 이중모음입니다."
+  },
+  {
+    "char": "ㅢ",
+    "name": "은",
+    "romanization": "Eui",
+    "ipa": "[ɨj]",
+    "description": "가운데에서 나는 높은 평순 모음에 [j] 계열의 앞쪽 미끄러지는 소리가 더해진 이중모음입니다."
+  }
+]

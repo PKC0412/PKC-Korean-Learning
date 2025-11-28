@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "Je vais à l'école."
+    },
+    "particles_case_2": {
+      "translation": "Mon ami m'a appelé."
+    },
+    "particles_case_3": {
+      "translation": "Mon petit frère lit un livre dans la chambre."
+    },
+    "particles_case_4": {
+      "translation": "Je vais au travail à l'entreprise."
+    },
+    "particles_case_5": {
+      "translation": "Nous faisons de l'exercice chaque week-end."
+    },
+    "particles_auxiliary_1": {
+      "translation": "J'aime le café."
+    },
+    "particles_auxiliary_2": {
+      "translation": "Mon ami a aussi regardé le film."
+    },
+    "particles_auxiliary_3": {
+      "translation": "Je ne bois que de l'eau."
+    },
+    "particles_auxiliary_4": {
+      "translation": "Mon petit frère n'a même pas mangé de riz."
+    },
+    "particles_auxiliary_5": {
+      "translation": "Je ne lis que des livres."
+    },
+    "particles_conjunctive_1": {
+      "translation": "Je mange avec mon ami."
+    },
+    "particles_conjunctive_2": {
+      "translation": "Nous avons voyagé avec la famille."
+    },
+    "particles_conjunctive_3": {
+      "translation": "Mon petit frère joue avec le chiot."
+    },
+    "particles_conjunctive_4": {
+      "translation": "J'aime le kimchi et le bulgogi."
+    },
+    "particles_conjunctive_5": {
+      "translation": "Mon ami a parlé avec le professeur."
+    }
+  }
+}

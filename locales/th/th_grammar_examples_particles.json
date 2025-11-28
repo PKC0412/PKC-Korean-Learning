@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "ฉันไปโรงเรียน"
+    },
+    "particles_case_2": {
+      "translation": "เพื่อนเรียกฉัน"
+    },
+    "particles_case_3": {
+      "translation": "น้องอ่านหนังสือในห้อง"
+    },
+    "particles_case_4": {
+      "translation": "ฉันไปทำงานที่บริษัท"
+    },
+    "particles_case_5": {
+      "translation": "พวกเราออกกำลังกายทุกสุดสัปดาห์"
+    },
+    "particles_auxiliary_1": {
+      "translation": "ฉันชอบกาแฟ"
+    },
+    "particles_auxiliary_2": {
+      "translation": "เพื่อนก็ดูหนังเหมือนกัน"
+    },
+    "particles_auxiliary_3": {
+      "translation": "ฉันดื่มแค่น้ำเปล่า"
+    },
+    "particles_auxiliary_4": {
+      "translation": "น้องไม่กินแม้แต่ข้าว"
+    },
+    "particles_auxiliary_5": {
+      "translation": "ฉันอ่านแค่หนังสือ"
+    },
+    "particles_conjunctive_1": {
+      "translation": "ฉันกินข้าวกับเพื่อน"
+    },
+    "particles_conjunctive_2": {
+      "translation": "พวกเราไปเที่ยวกับครอบครัว"
+    },
+    "particles_conjunctive_3": {
+      "translation": "น้องเล่นกับลูกสุนัข"
+    },
+    "particles_conjunctive_4": {
+      "translation": "ฉันชอบกิมจิและบุลโกกิ"
+    },
+    "particles_conjunctive_5": {
+      "translation": "เพื่อนคุยกับคุณครู"
+    }
+  }
+}

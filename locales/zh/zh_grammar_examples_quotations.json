@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "朋友说他会晚点到。"
+    },
+    "quotations_declare_dago_2": {
+      "translation": "妈妈说很好吃。"
+    },
+    "quotations_declare_dago_3": {
+      "translation": "老师让我们保持安静。"
+    },
+    "quotations_declare_dago_4": {
+      "translation": "朋友说电影很有趣。"
+    },
+    "quotations_declare_dago_5": {
+      "translation": "弟弟说他累了。"
+    },
+    "quotations_say_lago_1": {
+      "translation": "我叫朋友过来。"
+    },
+    "quotations_say_lago_2": {
+      "translation": "妈妈让我吃饭。"
+    },
+    "quotations_say_lago_3": {
+      "translation": "老师让我们学习。"
+    },
+    "quotations_say_lago_4": {
+      "translation": "朋友让我开门。"
+    },
+    "quotations_say_lago_5": {
+      "translation": "弟弟让我快点来。"
+    }
+  }
+}

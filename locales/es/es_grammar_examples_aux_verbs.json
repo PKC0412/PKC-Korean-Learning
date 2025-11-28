@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "Hoy quiero irme a casa temprano."
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "Mi hermano menor quiere criar un cachorro."
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "Quiero ir al mar el fin de semana."
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "Mi amigo dice que quiere aprender un trabajo nuevo."
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "Quiero trabajar en el extranjero el año que viene."
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "Ayer intenté hacer kimchi por primera vez."
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "Mi hermano menor quería probar a esquiar."
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "Intenté usar un método nuevo."
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "Mi amigo me dijo que probara el pastel que hizo."
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "Esta semana voy a probar un tipo nuevo de ejercicio."
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "Tengo que entregar este informe hoy."
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "Los trabajadores deben llevar equipo de seguridad en la obra."
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "Tengo que organizar los materiales antes de la reunión."
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "Tenemos que revisar los billetes antes de salir."
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "Tengo que comer antes de tomar la medicina."
+    }
+  }
+}

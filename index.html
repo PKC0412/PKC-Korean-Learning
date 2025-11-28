@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#4f46e5">
+    <link rel="manifest" href="manifest.webmanifest">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+<title>PKC Korean Learning App</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.base.css">
+    <link rel="stylesheet" href="css/components.sections.css">
+    <link rel="stylesheet" href="css/components.modals.css">
+    <link rel="stylesheet" href="css/grammar.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <div class="header-left">
+                    <button id="help-btn" class="help-btn" data-i18n="menu.help">도움말</button>
+                    <button id="language-btn" class="lang-btn" aria-label="Select language" data-i18n="language.modalTitle">
+                        언어
+                    </button>
+                </div>
+                <h1 class="app-title" data-i18n="app.title">PKC Korean Learning</h1>
+                <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
+                    <span class="theme-icon">🌙</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="app-main">
+            <!-- Navigation Menu -->
+            <nav class="menu-container">
+                <div class="menu-grid">
+                    <button class="menu-card" id="btn-hangul">
+                        <span class="menu-icon">🔤</span>
+                        <span class="menu-label" data-i18n="menu.hangul">한글 배우기</span>
+                    </button>
+                    <button class="menu-card" id="btn-vocabulary">
+                        <span class="menu-icon">📚</span>
+                        <span class="menu-label" data-i18n="menu.vocabulary">어휘 학습</span>
+                    </button>
+                    <button class="menu-card" id="btn-flashcard">
+                        <span class="menu-icon">🎴</span>
+                        <span class="menu-label" data-i18n="menu.flashcard">플래시카드</span>
+                    </button>
+                    <button class="menu-card" id="btn-grammar">
+                        <span class="menu-icon">✏️</span>
+                        <span class="menu-label" data-i18n="menu.grammar">문법 학습</span>
+                    </button>
+                </div>
+            </nav>
+
+            <!-- Hangul Learning Section -->
+            <section id="hangul-section" class="content-section" style="display: none;">
+                <div class="section-header">
+                    <h2 data-i18n="menu.hangul">한글 배우기</h2>
+                    <button class="close-btn" onclick="showWelcome()">✕</button>
+                </div>
+                <div id="hangul-container" class="hangul-container">
+                    <!-- Hangul content will be loaded here -->
+                </div>
+            </section>
+
+            <!-- Vocabulary Section -->
+            <section id="vocabulary-section" class="content-section" style="display: none;">
+                <div class="section-header">
+                    <h2 data-i18n="menu.vocabulary">어휘 학습</h2>
+                    <button class="close-btn" onclick="showWelcome()">✕</button>
+                </div>
+                <div id="vocabulary-container" class="vocabulary-container">
+                    <!-- Vocabulary content will be loaded here -->
+                </div>
+            </section>
+
+            <!-- Flashcard Section -->
+            <section id="flashcard-section" class="content-section" style="display: none;">
+                <div class="section-header">
+                    <h2 data-i18n="menu.flashcard">플래시카드</h2>
+                    <button class="close-btn" onclick="showWelcome()">✕</button>
+                </div>
+                <div id="flashcard-container" class="flashcard-container">
+                    <!-- Flashcard content will be loaded here -->
+                </div>
+            </section>
+
+            <!-- Grammar Section -->
+            <section id="grammar-section" class="content-section" style="display: none;">
+                <div class="section-header">
+                    <h2 data-i18n="menu.grammar">문법 학습</h2>
+                    <button class="close-btn" onclick="showWelcome()">✕</button>
+                </div>
+                <div id="grammar-container" class="grammar-container">
+                    <!-- Grammar content will be loaded here -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- HELP Modal -->
+    <div id="helpModal" class="modal-overlay">
+        <div class="modal-content">
+            <span class="modal-close" id="closeHelpModal">×</span>
+            <div class="modal-header">✍️ <span data-i18n="help.header">제작자 & 연락처</span></div>
+            <p style="margin-bottom:1rem;line-height:1.6;color:var(--text-secondary);" data-i18n="help.description">질문, 버그 제보, 개선 의견이 있다면<br>아래 채널로 편하게 연락 주세요.</p>
+            <p style="font-weight:600;margin-bottom:1rem;"><span data-i18n="help.creatorLabel">제작자:</span> PKC</p>
+            <div class="modal-links">
+                <a href="https://pkc0412.tistory.com/" target="_blank" rel="noopener noreferrer">pkc0412.tistory.com</a>
+                <a href="mailto:pkc0412@gmail.com" target="_blank" rel="noopener noreferrer">pkc0412@gmail.com</a>
+            </div>
+        </div>
+    </div>
+
+    
+    <!-- Language Selection Modal -->
+    <div id="languageModal" class="modal-overlay">
+        <div class="modal-content language-modal">
+            <span class="modal-close" id="closeLanguageModal">×</span>
+            <div class="modal-header">🌐 <span data-i18n="language.modalTitle">언어</span></div>
+            <p class="modal-description" data-i18n="language.modalDescription">
+                인터페이스 언어를 선택하세요. 나중에 언제든지 변경할 수 있습니다.
+            </p>
+            <div class="language-grid">
+                <button class="language-option selected" data-lang="ko">한국어 (기본)</button>
+                <button class="language-option" data-lang="en" data-i18n="language.names.en">English</button>
+                <button class="language-option" data-lang="zh" data-i18n="language.names.zh">简体中文</button>
+                <button class="language-option" data-lang="ja" data-i18n="language.names.ja">日本語</button>
+                <button class="language-option" data-lang="ru" data-i18n="language.names.ru">Русский</button>
+                <button class="language-option" data-lang="es" data-i18n="language.names.es">Español</button>
+                <button class="language-option" data-lang="fr" data-i18n="language.names.fr">Français</button>
+                <button class="language-option" data-lang="it" data-i18n="language.names.it">Italiano</button>
+                <button class="language-option" data-lang="de" data-i18n="language.names.de">Deutsch</button>
+                <button class="language-option" data-lang="th" data-i18n="language.names.th">ไทย</button>
+                <button class="language-option" data-lang="pt" data-i18n="language.names.pt">Português</button>
+                <button class="language-option" data-lang="nl" data-i18n="language.names.nl">Nederlands</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="config.js"></script>
+    <script src="i18n.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/speech.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/hangul-learning.js"></script>
+    <script src="js/vocabulary-learning.js"></script>
+    <script src="js/grammar-ui.js"></script>
+    <script src="js/flashcard.js"></script>
+
+    <script>
+
+
+        // HELP & Language Modal + i18n Script
+        const helpBtn = document.getElementById('help-btn');
+        const helpModal = document.getElementById('helpModal');
+        const closeHelpModal = document.getElementById('closeHelpModal');
+
+        if (helpBtn && helpModal && closeHelpModal) {
+            helpBtn.addEventListener('click', () => {
+                helpModal.classList.add('active');
+            });
+
+            closeHelpModal.addEventListener('click', () => {
+                helpModal.classList.remove('active');
+            });
+
+            helpModal.addEventListener('click', e => {
+                if (e.target === helpModal) {
+                    helpModal.classList.remove('active');
+                }
+            });
+        }
+
+        // Language modal
+        const languageBtn = document.getElementById('language-btn');
+        const languageModal = document.getElementById('languageModal');
+        const closeLanguageModal = document.getElementById('closeLanguageModal');
+
+        if (languageBtn && languageModal && closeLanguageModal) {
+            languageBtn.addEventListener('click', () => {
+                languageModal.classList.add('active');
+            });
+
+            closeLanguageModal.addEventListener('click', () => {
+                languageModal.classList.remove('active');
+            });
+
+            languageModal.addEventListener('click', (e) => {
+                if (e.target === languageModal) {
+                    languageModal.classList.remove('active');
+                }
+            });
+        }
+
+        // ESC 키로 모든 모달 닫기
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' || e.key === 'Esc') {
+                const allModals = document.querySelectorAll('.modal-overlay.active');
+                allModals.forEach(modal => {
+                    modal.classList.remove('active');
+                });
+            }
+        });
+
+        // i18n initialization
+        const supportedLanguages = ['en', 'zh', 'ja', 'ru', 'es', 'fr', 'it', 'de', 'th', 'pt', 'nl'];
+        const defaultLanguage = 'ko';
+
+        function normalizeLanguage(lang) {
+            if (!lang || typeof lang !== 'string') return defaultLanguage;
+            const lower = lang.toLowerCase();
+            const base = lower.split('-')[0];
+            if (supportedLanguages.includes(lower)) return lower;
+            if (supportedLanguages.includes(base)) return base;
+            // 그 외(ko / ko-KR 포함)는 모두 기본 한국어로 처리
+            return defaultLanguage;
+        }
+
+        async function applyLanguage(lang) {
+            const normalized = normalizeLanguage(lang);
+            if (!window.I18n) return;
+
+            // 기본 한국어 모드에서는 언어팩을 적용하지 않는다
+            if (normalized === defaultLanguage) {
+                try {
+                    localStorage.removeItem('preferredLanguage');
+                } catch (e) {
+                    console.warn('Could not clear preferredLanguage from storage', e);
+                }
+                // 다른 언어에서 한국어로 되돌릴 때는 새로고침이 가장 안전하다
+                window.location.reload();
+                return;
+            }
+
+            try {
+                await I18n.load(normalized);
+                I18n.apply();
+            } catch (err) {
+                console.error('Failed to apply language:', err);
+            }
+
+            const options = document.querySelectorAll('.language-option');
+            options.forEach((btn) => {
+                if (btn.dataset.lang === normalized) {
+                    btn.classList.add('selected');
+                } else {
+                    btn.classList.remove('selected');
+                }
+            });
+
+            try {
+                localStorage.setItem('preferredLanguage', normalized);
+            } catch (e) {
+                console.warn('Could not store preferredLanguage', e);
+            }
+        }
+
+        function setupLanguageOptions() {
+            const options = document.querySelectorAll('.language-option');
+            options.forEach((btn) => {
+                btn.addEventListener('click', () => {
+                    const selectedLang = btn.dataset.lang;
+                    applyLanguage(selectedLang);
+                    if (languageModal) {
+                        languageModal.classList.remove('active');
+                    }
+                });
+            });
+        }
+
+        (function initI18n() {
+            let initialLang = defaultLanguage;
+
+            try {
+                const stored = localStorage.getItem('preferredLanguage');
+                if (stored) {
+                    const normalizedStored = normalizeLanguage(stored);
+                    if (supportedLanguages.includes(normalizedStored)) {
+                        initialLang = normalizedStored;
+                    }
+                } else if (navigator.language || navigator.userLanguage) {
+                    const browserLang = normalizeLanguage(navigator.language || navigator.userLanguage);
+                    if (supportedLanguages.includes(browserLang)) {
+                        initialLang = browserLang;
+                    }
+                }
+            } catch (e) {
+                console.warn('Could not read preferredLanguage from storage', e);
+            }
+
+            // 한국어(기본값)는 언어팩을 적용하지 않고,
+            // 다른 언어(en, ja 등)일 때만 언어팩으로 덮어쓴다.
+            if (initialLang !== defaultLanguage) {
+                applyLanguage(initialLang);
+            }
+            setupLanguageOptions();
+
+            // 기본 한국어 모드일 때는 언어 모달에서 한국어 버튼을 선택 상태로 표시
+            if (initialLang === defaultLanguage) {
+                const koButton = document.querySelector('.language-option[data-lang="ko"]');
+                if (koButton) {
+                    koButton.classList.add('selected');
+                }
+            }
+
+            window.applyLanguage = applyLanguage;
+        })();
+    </script>
+
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./service-worker.js')
+                    .catch(err => console.error('Service worker registration failed:', err));
+            });
+        }
+    </script>
+
+</body>
+</html>

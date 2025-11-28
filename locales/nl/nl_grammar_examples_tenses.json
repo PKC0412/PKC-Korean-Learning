@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "Ik sport elke dag."
+    },
+    "tenses_present_2": {
+      "translation": "Mijn broertje maakt nu zijn huiswerk."
+    },
+    "tenses_present_3": {
+      "translation": "Mijn vriend werkt bij een bedrijf."
+    },
+    "tenses_present_4": {
+      "translation": "Ik rust thuis uit."
+    },
+    "tenses_present_5": {
+      "translation": "Wij wandelen in het park."
+    },
+    "tenses_past_1": {
+      "translation": "Gisteren heb ik mijn vriend ontmoet."
+    },
+    "tenses_past_2": {
+      "translation": "Vorige week heb ik een film gezien."
+    },
+    "tenses_past_3": {
+      "translation": "Mijn broertje heeft laat ontbeten."
+    },
+    "tenses_past_4": {
+      "translation": "Ik heb nieuwe kleren gekocht."
+    },
+    "tenses_past_5": {
+      "translation": "Wij zijn in het weekend op reis geweest."
+    },
+    "tenses_future_1": {
+      "translation": "Morgen ga ik mijn vriend zien."
+    },
+    "tenses_future_2": {
+      "translation": "Mijn broertje gaat volgende week verhuizen."
+    },
+    "tenses_future_3": {
+      "translation": "Dit jaar ga ik Koreaans studeren."
+    },
+    "tenses_future_4": {
+      "translation": "Volgend jaar gaan wij reizen."
+    },
+    "tenses_future_5": {
+      "translation": "Ik ga binnenkort het avondeten klaarmaken."
+    },
+    "tenses_progressive_1": {
+      "translation": "Ik ben nu aan het eten."
+    },
+    "tenses_progressive_2": {
+      "translation": "Mijn broertje luistert in de kamer naar muziek."
+    },
+    "tenses_progressive_3": {
+      "translation": "Mijn vriend is in de bibliotheek aan het lezen."
+    },
+    "tenses_progressive_4": {
+      "translation": "Wij zijn een vergadering aan het voorbereiden."
+    },
+    "tenses_progressive_5": {
+      "translation": "Buiten is het aan het regenen."
+    },
+    "tenses_experiential_1": {
+      "translation": "Ik ben al eens in Korea geweest."
+    },
+    "tenses_experiential_2": {
+      "translation": "Mijn vriend heeft al eens geskied."
+    },
+    "tenses_experiential_3": {
+      "translation": "Ik heb nog nooit heel pittig eten gegeten."
+    },
+    "tenses_experiential_4": {
+      "translation": "Mijn broertje heeft in het buitenland gewoond."
+    },
+    "tenses_experiential_5": {
+      "translation": "Ik heb eerder gitaar gespeeld."
+    }
+  }
+}

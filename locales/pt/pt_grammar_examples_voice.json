@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "A janela foi aberta."
+    },
+    "voice_passive_ajida_2": {
+      "translation": "A porta foi fechada."
+    },
+    "voice_passive_ajida_3": {
+      "translation": "A luz foi apagada."
+    },
+    "voice_passive_ajida_4": {
+      "translation": "A comida foi preparada."
+    },
+    "voice_passive_ajida_5": {
+      "translation": "A estrada foi bloqueada."
+    },
+    "voice_causative_gehada_1": {
+      "translation": "Fiz meu irmãozinho rir."
+    },
+    "voice_causative_gehada_2": {
+      "translation": "O professor fez os alunos lerem."
+    },
+    "voice_causative_gehada_3": {
+      "translation": "Fiz meu amigo esperar."
+    },
+    "voice_causative_gehada_4": {
+      "translation": "Minha mãe me fez dormir cedo."
+    },
+    "voice_causative_gehada_5": {
+      "translation": "Fiz o filhote sentar."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "Il mio amico ha detto che sarebbe arrivato in ritardo."
+    },
+    "quotations_declare_dago_2": {
+      "translation": "Mia madre ha detto che era buono."
+    },
+    "quotations_declare_dago_3": {
+      "translation": "L'insegnante ci ha detto di stare in silenzio."
+    },
+    "quotations_declare_dago_4": {
+      "translation": "Il mio amico ha detto che il film era divertente."
+    },
+    "quotations_declare_dago_5": {
+      "translation": "Il mio fratellino ha detto che era stanco."
+    },
+    "quotations_say_lago_1": {
+      "translation": "Ho detto al mio amico di venire."
+    },
+    "quotations_say_lago_2": {
+      "translation": "Mia madre mi ha detto di mangiare."
+    },
+    "quotations_say_lago_3": {
+      "translation": "L'insegnante ci ha detto di studiare."
+    },
+    "quotations_say_lago_4": {
+      "translation": "Il mio amico mi ha detto di aprire la porta."
+    },
+    "quotations_say_lago_5": {
+      "translation": "Il mio fratellino mi ha detto di venire in fretta."
+    }
+  }
+}

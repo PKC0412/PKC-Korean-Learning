@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "Chinese": "你好 / 您好",
+    "romanization": "annyeonghaseyo",
+    "category": "问候"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "Chinese": "再见 / 慢走 (对离开的人)",
+    "romanization": "annyeonghi gaseyo",
+    "category": "问候"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "Chinese": "再见 / 请留步 (对留下的人)",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "问候"
+  },
+  {
+    "korean": "안녕",
+    "Chinese": "你好 / 拜拜",
+    "romanization": "annyeong",
+    "category": "问候"
+  },
+  {
+    "korean": "감사합니다",
+    "Chinese": "谢谢 (敬语)",
+    "romanization": "gamsahamnida",
+    "category": "问候"
+  },
+  {
+    "korean": "고맙습니다",
+    "Chinese": "谢谢",
+    "romanization": "gomapseumnida",
+    "category": "问候"
+  },
+  {
+    "korean": "고마워요",
+    "Chinese": "谢啦",
+    "romanization": "gomawoyo",
+    "category": "问候"
+  },
+  {
+    "korean": "죄송합니다",
+    "Chinese": "对不起 / 抱歉 (敬语)",
+    "romanization": "joesonghamnida",
+    "category": "问候"
+  },
+  {
+    "korean": "미안합니다",
+    "Chinese": "对不起",
+    "romanization": "mianhamnida",
+    "category": "问候"
+  },
+  {
+    "korean": "미안해요",
+    "Chinese": "不好意思",
+    "romanization": "mianhaeyo",
+    "category": "问候"
+  },
+  {
+    "korean": "반갑습니다",
+    "Chinese": "很高兴见到你",
+    "romanization": "bangapseumnida",
+    "category": "问候"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "Chinese": "见到你很高兴",
+    "romanization": "mannaseo bangawoyo",
+    "category": "问候"
+  },
+  {
+    "korean": "실례합니다",
+    "Chinese": "打扰一下 / 失陪了",
+    "romanization": "sillyehamnida",
+    "category": "问候"
+  },
+  {
+    "korean": "저기요",
+    "Chinese": "不好意思 (引起注意)",
+    "romanization": "jeogiyo",
+    "category": "问候"
+  },
+  {
+    "korean": "어서 오세요",
+    "Chinese": "欢迎光临",
+    "romanization": "eoseo oseyo",
+    "category": "问候"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "Chinese": "晚安 (敬语)",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "问候"
+  },
+  {
+    "korean": "잘 자요",
+    "Chinese": "晚安",
+    "romanization": "jal jayo",
+    "category": "问候"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "Chinese": "请慢用 / 祝您用餐愉快",
+    "romanization": "masitge deuseyo",
+    "category": "问候"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "Chinese": "我要开动了 (谢谢款待)",
+    "romanization": "jal meokgetseumnida",
+    "category": "问候"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "Chinese": "我吃好了 (多谢款待)",
+    "romanization": "jal meogeotseumnida",
+    "category": "问候"
+  },
+  {
+    "korean": "네",
+    "Chinese": "是 / 好的",
+    "romanization": "ne",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "아니요",
+    "Chinese": "不是 / 不",
+    "romanization": "aniyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "괜찮아요",
+    "Chinese": "没关系 / 还可以",
+    "romanization": "gwaenchanayo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "좋아요",
+    "Chinese": "好 / 喜欢",
+    "romanization": "joayo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "싫어요",
+    "Chinese": "不喜欢 / 讨厌",
+    "romanization": "sileoyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "천만에요",
+    "Chinese": "不客气",
+    "romanization": "cheonmaneyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "잠깐만요",
+    "Chinese": "请稍等",
+    "romanization": "jamkkanmanyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "알겠습니다",
+    "Chinese": "知道了 / 明白了",
+    "romanization": "algesseumnida",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "모르겠어요",
+    "Chinese": "不知道",
+    "romanization": "moreugesseoyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "도와주세요",
+    "Chinese": "请帮帮我",
+    "romanization": "dowajuseyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "됐어요",
+    "Chinese": "算了 / 够了",
+    "romanization": "dwaesseoyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "안 돼요",
+    "Chinese": "不行 / 不可以",
+    "romanization": "an dwaeyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "맞아요",
+    "Chinese": "对 / 没错",
+    "romanization": "majayo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "틀렸어요",
+    "Chinese": "错 / 不对",
+    "romanization": "teullyeosseoyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "그래요",
+    "Chinese": "是吗？ / 这样啊",
+    "romanization": "geuraeyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "정말요",
+    "Chinese": "真的吗？",
+    "romanization": "jeongmallyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "진짜요",
+    "Chinese": "真的？",
+    "romanization": "jinjjayo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "그럼요",
+    "Chinese": "当然",
+    "romanization": "geureomyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "아마도",
+    "Chinese": "大概 / 也许",
+    "romanization": "amado",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "글쎄요",
+    "Chinese": "这个嘛... / 不太清楚",
+    "romanization": "geulsseyo",
+    "category": "基本词汇"
+  },
+  {
+    "korean": "물",
+    "Chinese": "水",
+    "romanization": "mul",
+    "category": "食物"
+  },
+  {
+    "korean": "밥",
+    "Chinese": "饭 / 米饭",
+    "romanization": "bap",
+    "category": "食物"
+  },
+  {
+    "korean": "김밥",
+    "Chinese": "紫菜包饭",
+    "romanization": "gimbap",
+    "category": "食物"
+  },
+  {
+    "korean": "라면",
+    "Chinese": "拉面 / 方便面",
+    "romanization": "ramyeon",
+    "category": "食物"
+  },
+  {
+    "korean": "김치",
+    "Chinese": "泡菜",
+    "romanization": "gimchi",
+    "category": "食物"
+  },
+  {
+    "korean": "커피",
+    "Chinese": "咖啡",
+    "romanization": "keopi",
+    "category": "食物"
+  },
+  {
+    "korean": "차",
+    "Chinese": "茶",
+    "romanization": "cha",
+    "category": "食物"
+  },
+  {
+    "korean": "우유",
+    "Chinese": "牛奶",
+    "romanization": "uyu",
+    "category": "食物"
+  },
+  {
+    "korean": "주스",
+    "Chinese": "果汁",
+    "romanization": "juseu",
+    "category": "食物"
+  },
+  {
+    "korean": "맥주",
+    "Chinese": "啤酒",
+    "romanization": "maekju",
+    "category": "食物"
+  },
+  {
+    "korean": "빵",
+    "Chinese": "面包",
+    "romanization": "ppang",
+    "category": "食物"
+  },
+  {
+    "korean": "과자",
+    "Chinese": "零食 / 饼干",
+    "romanization": "gwaja",
+    "category": "食物"
+  },
+  {
+    "korean": "사탕",
+    "Chinese": "糖果",
+    "romanization": "satang",
+    "category": "食物"
+  },
+  {
+    "korean": "고기",
+    "Chinese": "肉",
+    "romanization": "gogi",
+    "category": "食物"
+  },
+  {
+    "korean": "치킨",
+    "Chinese": "炸鸡",
+    "romanization": "chikin",
+    "category": "食物"
+  },
+  {
+    "korean": "계란",
+    "Chinese": "鸡蛋",
+    "romanization": "gyeran",
+    "category": "食物"
+  },
+  {
+    "korean": "과일",
+    "Chinese": "水果",
+    "romanization": "gwail",
+    "category": "食物"
+  },
+  {
+    "korean": "사과",
+    "Chinese": "苹果",
+    "romanization": "sagwa",
+    "category": "食物"
+  },
+  {
+    "korean": "바나나",
+    "Chinese": "香蕉",
+    "romanization": "banana",
+    "category": "食物"
+  },
+  {
+    "korean": "야채",
+    "Chinese": "蔬菜",
+    "romanization": "yachae",
+    "category": "食物"
+  },
+  {
+    "korean": "사람",
+    "Chinese": "人",
+    "romanization": "saram",
+    "category": "人物"
+  },
+  {
+    "korean": "친구",
+    "Chinese": "朋友",
+    "romanization": "chingu",
+    "category": "人物"
+  },
+  {
+    "korean": "가족",
+    "Chinese": "家人",
+    "romanization": "gajok",
+    "category": "人物"
+  },
+  {
+    "korean": "엄마",
+    "Chinese": "妈妈",
+    "romanization": "eomma",
+    "category": "人物"
+  },
+  {
+    "korean": "아빠",
+    "Chinese": "爸爸",
+    "romanization": "appa",
+    "category": "人物"
+  },
+  {
+    "korean": "부모님",
+    "Chinese": "父母",
+    "romanization": "bumonim",
+    "category": "人物"
+  },
+  {
+    "korean": "형",
+    "Chinese": "哥哥 (男生称呼)",
+    "romanization": "hyeong",
+    "category": "人物"
+  },
+  {
+    "korean": "오빠",
+    "Chinese": "哥哥 (女生称呼)",
+    "romanization": "oppa",
+    "category": "人物"
+  },
+  {
+    "korean": "누나",
+    "Chinese": "姐姐 (男生称呼)",
+    "romanization": "nuna",
+    "category": "人物"
+  },
+  {
+    "korean": "언니",
+    "Chinese": "姐姐 (女生称呼)",
+    "romanization": "eonni",
+    "category": "人物"
+  },
+  {
+    "korean": "동생",
+    "Chinese": "弟弟 / 妹妹",
+    "romanization": "dongsaeng",
+    "category": "人物"
+  },
+  {
+    "korean": "선생님",
+    "Chinese": "老师",
+    "romanization": "seonsaengnim",
+    "category": "人物"
+  },
+  {
+    "korean": "학생",
+    "Chinese": "学生",
+    "romanization": "haksaeng",
+    "category": "人物"
+  },
+  {
+    "korean": "남자",
+    "Chinese": "男人",
+    "romanization": "namja",
+    "category": "人物"
+  },
+  {
+    "korean": "여자",
+    "Chinese": "女人",
+    "romanization": "yeoja",
+    "category": "人物"
+  },
+  {
+    "korean": "아이",
+    "Chinese": "孩子 / 小孩",
+    "romanization": "ai",
+    "category": "人物"
+  },
+  {
+    "korean": "아기",
+    "Chinese": "婴儿 / 宝宝",
+    "romanization": "agi",
+    "category": "人物"
+  },
+  {
+    "korean": "할아버지",
+    "Chinese": "爷爷 / 外公",
+    "romanization": "harabeoji",
+    "category": "人物"
+  },
+  {
+    "korean": "할머니",
+    "Chinese": "奶奶 / 外婆",
+    "romanization": "halmeoni",
+    "category": "人物"
+  },
+  {
+    "korean": "손님",
+    "Chinese": "客人",
+    "romanization": "sonnim",
+    "category": "人物"
+  },
+  {
+    "korean": "집",
+    "Chinese": "家 / 房子",
+    "romanization": "jip",
+    "category": "地点"
+  },
+  {
+    "korean": "학교",
+    "Chinese": "学校",
+    "romanization": "hakgyo",
+    "category": "地点"
+  },
+  {
+    "korean": "병원",
+    "Chinese": "医院",
+    "romanization": "byeongwon",
+    "category": "地点"
+  },
+  {
+    "korean": "약국",
+    "Chinese": "药店",
+    "romanization": "yakguk",
+    "category": "地点"
+  },
+  {
+    "korean": "식당",
+    "Chinese": "餐厅 / 食堂",
+    "romanization": "sikdang",
+    "category": "地点"
+  },
+  {
+    "korean": "카페",
+    "Chinese": "咖啡厅",
+    "romanization": "kape",
+    "category": "地点"
+  },
+  {
+    "korean": "화장실",
+    "Chinese": "洗手间 / 厕所",
+    "romanization": "hwajangsil",
+    "category": "地点"
+  },
+  {
+    "korean": "은행",
+    "Chinese": "银行",
+    "romanization": "eunhaeng",
+    "category": "地点"
+  },
+  {
+    "korean": "공항",
+    "Chinese": "机场",
+    "romanization": "gonghang",
+    "category": "地点"
+  },
+  {
+    "korean": "호텔",
+    "Chinese": "酒店 / 旅馆",
+    "romanization": "hotel",
+    "category": "地点"
+  },
+  {
+    "korean": "시장",
+    "Chinese": "市场",
+    "romanization": "sijang",
+    "category": "地点"
+  },
+  {
+    "korean": "백화점",
+    "Chinese": "百货商店",
+    "romanization": "baekwajeom",
+    "category": "地点"
+  },
+  {
+    "korean": "편의점",
+    "Chinese": "便利店",
+    "romanization": "pyeonuijeom",
+    "category": "地点"
+  },
+  {
+    "korean": "회사",
+    "Chinese": "公司",
+    "romanization": "hoesa",
+    "category": "地点"
+  },
+  {
+    "korean": "도서관",
+    "Chinese": "图书馆",
+    "romanization": "doseogwan",
+    "category": "地点"
+  },
+  {
+    "korean": "공원",
+    "Chinese": "公园",
+    "romanization": "gongwon",
+    "category": "地点"
+  },
+  {
+    "korean": "극장",
+    "Chinese": "剧场 / 电影院",
+    "romanization": "geukjang",
+    "category": "地点"
+  },
+  {
+    "korean": "박물관",
+    "Chinese": "博物馆",
+    "romanization": "bangmulgwan",
+    "category": "地点"
+  },
+  {
+    "korean": "역",
+    "Chinese": "站 / 火车站",
+    "romanization": "yeok",
+    "category": "地点"
+  },
+  {
+    "korean": "정류장",
+    "Chinese": "车站 / 站台",
+    "romanization": "jeongnyujang",
+    "category": "地点"
+  },
+  {
+    "korean": "버스",
+    "Chinese": "公共汽车 / 巴士",
+    "romanization": "beoseu",
+    "category": "交通"
+  },
+  {
+    "korean": "택시",
+    "Chinese": "出租车",
+    "romanization": "taeksi",
+    "category": "交通"
+  },
+  {
+    "korean": "기차",
+    "Chinese": "火车",
+    "romanization": "gicha",
+    "category": "交通"
+  },
+  {
+    "korean": "지하철",
+    "Chinese": "地铁",
+    "romanization": "jihacheol",
+    "category": "交通"
+  },
+  {
+    "korean": "비행기",
+    "Chinese": "飞机",
+    "romanization": "bihaenggi",
+    "category": "交通"
+  },
+  {
+    "korean": "자동차",
+    "Chinese": "汽车",
+    "romanization": "jadongcha",
+    "category": "交通"
+  },
+  {
+    "korean": "자전거",
+    "Chinese": "自行车",
+    "romanization": "jajeongeo",
+    "category": "交通"
+  },
+  {
+    "korean": "오토바이",
+    "Chinese": "摩托车",
+    "romanization": "otobai",
+    "category": "交通"
+  },
+  {
+    "korean": "배",
+    "Chinese": "船",
+    "romanization": "bae",
+    "category": "交通"
+  },
+  {
+    "korean": "표",
+    "Chinese": "票",
+    "romanization": "pyo",
+    "category": "交通"
+  },
+  {
+    "korean": "길",
+    "Chinese": "路",
+    "romanization": "gil",
+    "category": "交通"
+  },
+  {
+    "korean": "거리",
+    "Chinese": "街道 / 距离",
+    "romanization": "geori",
+    "category": "交通"
+  },
+  {
+    "korean": "신호등",
+    "Chinese": "红绿灯 / 信号灯",
+    "romanization": "sinhodeung",
+    "category": "交通"
+  },
+  {
+    "korean": "횡단보도",
+    "Chinese": "人行横道 / 斑马线",
+    "romanization": "hoengdanbodo",
+    "category": "交通"
+  },
+  {
+    "korean": "주차장",
+    "Chinese": "停车场",
+    "romanization": "juchajang",
+    "category": "交通"
+  },
+  {
+    "korean": "운전",
+    "Chinese": "驾驶 / 开车",
+    "romanization": "unjeon",
+    "category": "交通"
+  },
+  {
+    "korean": "출발",
+    "Chinese": "出发",
+    "romanization": "chulbal",
+    "category": "交通"
+  },
+  {
+    "korean": "도착",
+    "Chinese": "到达",
+    "romanization": "dochak",
+    "category": "交通"
+  },
+  {
+    "korean": "가까이",
+    "Chinese": "近",
+    "romanization": "gakkai",
+    "category": "交通"
+  },
+  {
+    "korean": "멀리",
+    "Chinese": "远",
+    "romanization": "meolli",
+    "category": "交通"
+  },
+  {
+    "korean": "가다",
+    "Chinese": "去",
+    "romanization": "gada",
+    "category": "日常动词"
+  },
+  {
+    "korean": "오다",
+    "Chinese": "来",
+    "romanization": "oda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "먹다",
+    "Chinese": "吃",
+    "romanization": "meokda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "마시다",
+    "Chinese": "喝",
+    "romanization": "masida",
+    "category": "日常动词"
+  },
+  {
+    "korean": "자다",
+    "Chinese": "睡觉",
+    "romanization": "jada",
+    "category": "日常动词"
+  },
+  {
+    "korean": "일어나다",
+    "Chinese": "起床 / 起来",
+    "romanization": "ireonada",
+    "category": "日常动词"
+  },
+  {
+    "korean": "씻다",
+    "Chinese": "洗",
+    "romanization": "ssitda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "입다",
+    "Chinese": "穿 (衣服)",
+    "romanization": "ipda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "벗다",
+    "Chinese": "脱",
+    "romanization": "beotda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "앉다",
+    "Chinese": "坐",
+    "romanization": "anda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "서다",
+    "Chinese": "站",
+    "romanization": "seoda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "눕다",
+    "Chinese": "躺",
+    "romanization": "nupda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "걷다",
+    "Chinese": "走 / 步行",
+    "romanization": "geotda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "뛰다",
+    "Chinese": "跑 / 跳",
+    "romanization": "ttwida",
+    "category": "日常动词"
+  },
+  {
+    "korean": "타다",
+    "Chinese": "坐 / 乘 (交通工具)",
+    "romanization": "tada",
+    "category": "日常动词"
+  },
+  {
+    "korean": "내리다",
+    "Chinese": "下 (车) / 降落",
+    "romanization": "naerida",
+    "category": "日常动词"
+  },
+  {
+    "korean": "열다",
+    "Chinese": "打开",
+    "romanization": "yeolda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "닫다",
+    "Chinese": "关上",
+    "romanization": "datda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "켜다",
+    "Chinese": "打开 (电器/灯)",
+    "romanization": "kyeoda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "끄다",
+    "Chinese": "关掉 (电器/灯)",
+    "romanization": "kkeuda",
+    "category": "日常动词"
+  },
+  {
+    "korean": "공부하다",
+    "Chinese": "学习 / 读书",
+    "romanization": "gongbuhada",
+    "category": "动作动词"
+  },
+  {
+    "korean": "일하다",
+    "Chinese": "工作",
+    "romanization": "ilhada",
+    "category": "动作动词"
+  },
+  {
+    "korean": "보다",
+    "Chinese": "看",
+    "romanization": "boda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "듣다",
+    "Chinese": "听",
+    "romanization": "deutda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "말하다",
+    "Chinese": "说 / 讲",
+    "romanization": "malhada",
+    "category": "动作动词"
+  },
+  {
+    "korean": "읽다",
+    "Chinese": "读",
+    "romanization": "ikda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "쓰다",
+    "Chinese": "写 / 用",
+    "romanization": "sseuda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "배우다",
+    "Chinese": "学习 / 学",
+    "romanization": "baeuda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "가르치다",
+    "Chinese": "教",
+    "romanization": "gareuchida",
+    "category": "动作动词"
+  },
+  {
+    "korean": "생각하다",
+    "Chinese": "想 / 思考",
+    "romanization": "saenggakhada",
+    "category": "动作动词"
+  },
+  {
+    "korean": "알다",
+    "Chinese": "知道 / 认识",
+    "romanization": "alda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "모르다",
+    "Chinese": "不知道",
+    "romanization": "moreuda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "사다",
+    "Chinese": "买",
+    "romanization": "sada",
+    "category": "动作动词"
+  },
+  {
+    "korean": "팔다",
+    "Chinese": "卖",
+    "romanization": "palda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "만들다",
+    "Chinese": "做 / 制作",
+    "romanization": "mandeulda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "하다",
+    "Chinese": "做",
+    "romanization": "hada",
+    "category": "动作动词"
+  },
+  {
+    "korean": "주다",
+    "Chinese": "给",
+    "romanization": "juda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "받다",
+    "Chinese": "收 / 接受",
+    "romanization": "batda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "찾다",
+    "Chinese": "找 / 寻找",
+    "romanization": "chatda",
+    "category": "动作动词"
+  },
+  {
+    "korean": "잃다",
+    "Chinese": "丢失 / 失去",
+    "romanization": "ilta",
+    "category": "动作动词"
+  },
+  {
+    "korean": "좋다",
+    "Chinese": "好",
+    "romanization": "jota",
+    "category": "形容词"
+  },
+  {
+    "korean": "나쁘다",
+    "Chinese": "坏 / 不好",
+    "romanization": "nappeuda",
+    "category": "形容词"
+  },
+  {
+    "korean": "크다",
+    "Chinese": "大",
+    "romanization": "keuda",
+    "category": "形容词"
+  },
+  {
+    "korean": "작다",
+    "Chinese": "小",
+    "romanization": "jakda",
+    "category": "形容词"
+  },
+  {
+    "korean": "높다",
+    "Chinese": "高",
+    "romanization": "nopda",
+    "category": "形容词"
+  },
+  {
+    "korean": "낮다",
+    "Chinese": "低",
+    "romanization": "natda",
+    "category": "形容词"
+  },
+  {
+    "korean": "길다",
+    "Chinese": "长",
+    "romanization": "gilda",
+    "category": "形容词"
+  },
+  {
+    "korean": "짧다",
+    "Chinese": "短",
+    "romanization": "jjalpda",
+    "category": "形容词"
+  },
+  {
+    "korean": "넓다",
+    "Chinese": "宽",
+    "romanization": "neolpda",
+    "category": "形容词"
+  },
+  {
+    "korean": "좁다",
+    "Chinese": "窄",
+    "romanization": "jopda",
+    "category": "形容词"
+  },
+  {
+    "korean": "예쁘다",
+    "Chinese": "漂亮",
+    "romanization": "yeppeuda",
+    "category": "形容词"
+  },
+  {
+    "korean": "아름답다",
+    "Chinese": "美丽",
+    "romanization": "areumdapda",
+    "category": "形容词"
+  },
+  {
+    "korean": "맛있다",
+    "Chinese": "好吃 / 美味",
+    "romanization": "masitta",
+    "category": "形容词"
+  },
+  {
+    "korean": "맛없다",
+    "Chinese": "不好吃 / 难吃",
+    "romanization": "mateopsda",
+    "category": "形容词"
+  },
+  {
+    "korean": "비싸다",
+    "Chinese": "贵",
+    "romanization": "bissada",
+    "category": "形容词"
+  },
+  {
+    "korean": "싸다",
+    "Chinese": "便宜",
+    "romanization": "ssada",
+    "category": "形容词"
+  },
+  {
+    "korean": "많다",
+    "Chinese": "多",
+    "romanization": "manta",
+    "category": "形容词"
+  },
+  {
+    "korean": "적다",
+    "Chinese": "少",
+    "romanization": "jeokda",
+    "category": "形容词"
+  },
+  {
+    "korean": "빠르다",
+    "Chinese": "快",
+    "romanization": "ppareuda",
+    "category": "形容词"
+  },
+  {
+    "korean": "느리다",
+    "Chinese": "慢",
+    "romanization": "neurida",
+    "category": "形容词"
+  },
+  {
+    "korean": "하나",
+    "Chinese": "一 (韩语固有词)",
+    "romanization": "hana",
+    "category": "数字"
+  },
+  {
+    "korean": "둘",
+    "Chinese": "二 (韩语固有词)",
+    "romanization": "dul",
+    "category": "数字"
+  },
+  {
+    "korean": "셋",
+    "Chinese": "三 (韩语固有词)",
+    "romanization": "set",
+    "category": "数字"
+  },
+  {
+    "korean": "넷",
+    "Chinese": "四 (韩语固有词)",
+    "romanization": "net",
+    "category": "数字"
+  },
+  {
+    "korean": "다섯",
+    "Chinese": "五 (韩语固有词)",
+    "romanization": "daseot",
+    "category": "数字"
+  },
+  {
+    "korean": "여섯",
+    "Chinese": "六 (韩语固有词)",
+    "romanization": "yeoseot",
+    "category": "数字"
+  },
+  {
+    "korean": "일곱",
+    "Chinese": "七 (韩语固有词)",
+    "romanization": "ilgop",
+    "category": "数字"
+  },
+  {
+    "korean": "여덟",
+    "Chinese": "八 (韩语固有词)",
+    "romanization": "yeodeol",
+    "category": "数字"
+  },
+  {
+    "korean": "아홉",
+    "Chinese": "九 (韩语固有词)",
+    "romanization": "ahop",
+    "category": "数字"
+  },
+  {
+    "korean": "열",
+    "Chinese": "十 (韩语固有词)",
+    "romanization": "yeol",
+    "category": "数字"
+  },
+  {
+    "korean": "일",
+    "Chinese": "一 (汉字词)",
+    "romanization": "il",
+    "category": "数字"
+  },
+  {
+    "korean": "이",
+    "Chinese": "二 (汉字词)",
+    "romanization": "i",
+    "category": "数字"
+  },
+  {
+    "korean": "삼",
+    "Chinese": "三 (汉字词)",
+    "romanization": "sam",
+    "category": "数字"
+  },
+  {
+    "korean": "사",
+    "Chinese": "四 (汉字词)",
+    "romanization": "sa",
+    "category": "数字"
+  },
+  {
+    "korean": "오",
+    "Chinese": "五 (汉字词)",
+    "romanization": "o",
+    "category": "数字"
+  },
+  {
+    "korean": "육",
+    "Chinese": "六 (汉字词)",
+    "romanization": "yuk",
+    "category": "数字"
+  },
+  {
+    "korean": "칠",
+    "Chinese": "七 (汉字词)",
+    "romanization": "chil",
+    "category": "数字"
+  },
+  {
+    "korean": "팔",
+    "Chinese": "八 (汉字词)",
+    "romanization": "pal",
+    "category": "数字"
+  },
+  {
+    "korean": "구",
+    "Chinese": "九 (汉字词)",
+    "romanization": "gu",
+    "category": "数字"
+  },
+  {
+    "korean": "십",
+    "Chinese": "十 (汉字词)",
+    "romanization": "sip",
+    "category": "数字"
+  },
+  {
+    "korean": "오늘",
+    "Chinese": "今天",
+    "romanization": "oneul",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "내일",
+    "Chinese": "明天",
+    "romanization": "naeil",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "어제",
+    "Chinese": "昨天",
+    "romanization": "eoje",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "모레",
+    "Chinese": "后天",
+    "romanization": "more",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "그제",
+    "Chinese": "前天",
+    "romanization": "geuje",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "지금",
+    "Chinese": "现在",
+    "romanization": "jigeum",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "나중에",
+    "Chinese": "以后 / 待会儿",
+    "romanization": "najunge",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "아침",
+    "Chinese": "早晨 / 早上",
+    "romanization": "achim",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "점심",
+    "Chinese": "中午 / 午饭",
+    "romanization": "jeomsim",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "저녁",
+    "Chinese": "晚上 / 晚饭",
+    "romanization": "jeonyeok",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "밤",
+    "Chinese": "夜晚",
+    "romanization": "bam",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "시간",
+    "Chinese": "时间",
+    "romanization": "sigan",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "분",
+    "Chinese": "分 / 分钟",
+    "romanization": "bun",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "초",
+    "Chinese": "秒",
+    "romanization": "cho",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "년",
+    "Chinese": "年",
+    "romanization": "nyeon",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "월",
+    "Chinese": "月",
+    "romanization": "wol",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "일",
+    "Chinese": "日",
+    "romanization": "il",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "주",
+    "Chinese": "周",
+    "romanization": "ju",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "요일",
+    "Chinese": "星期",
+    "romanization": "yoil",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "날",
+    "Chinese": "天 / 日子",
+    "romanization": "nal",
+    "category": "时间和日期"
+  },
+  {
+    "korean": "빨강",
+    "Chinese": "红",
+    "romanization": "ppalgang",
+    "category": "颜色"
+  },
+  {
+    "korean": "빨간색",
+    "Chinese": "红色",
+    "romanization": "ppalgansaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "파랑",
+    "Chinese": "蓝",
+    "romanization": "parang",
+    "category": "颜色"
+  },
+  {
+    "korean": "파란색",
+    "Chinese": "蓝色",
+    "romanization": "paransaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "노랑",
+    "Chinese": "黄",
+    "romanization": "norang",
+    "category": "颜色"
+  },
+  {
+    "korean": "노란색",
+    "Chinese": "黄色",
+    "romanization": "noransaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "초록",
+    "Chinese": "绿",
+    "romanization": "chorok",
+    "category": "颜色"
+  },
+  {
+    "korean": "초록색",
+    "Chinese": "绿色",
+    "romanization": "choroksaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "검정",
+    "Chinese": "黑",
+    "romanization": "geomjeong",
+    "category": "颜色"
+  },
+  {
+    "korean": "검은색",
+    "Chinese": "黑色",
+    "romanization": "geomeunsaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "하양",
+    "Chinese": "白",
+    "romanization": "hayang",
+    "category": "颜色"
+  },
+  {
+    "korean": "하얀색",
+    "Chinese": "白色",
+    "romanization": "hayansaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "주황",
+    "Chinese": "橙",
+    "romanization": "juhwang",
+    "category": "颜色"
+  },
+  {
+    "korean": "주황색",
+    "Chinese": "橙色",
+    "romanization": "juhwangsaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "보라",
+    "Chinese": "紫",
+    "romanization": "bora",
+    "category": "颜色"
+  },
+  {
+    "korean": "보라색",
+    "Chinese": "紫色",
+    "romanization": "borasaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "분홍",
+    "Chinese": "粉",
+    "romanization": "bunhong",
+    "category": "颜色"
+  },
+  {
+    "korean": "분홍색",
+    "Chinese": "粉色",
+    "romanization": "bunhongsaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "회색",
+    "Chinese": "灰色",
+    "romanization": "hoesaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "갈색",
+    "Chinese": "褐色 / 棕色",
+    "romanization": "galsaek",
+    "category": "颜色"
+  },
+  {
+    "korean": "머리",
+    "Chinese": "头 / 头发",
+    "romanization": "meori",
+    "category": "身体"
+  },
+  {
+    "korean": "얼굴",
+    "Chinese": "脸",
+    "romanization": "eolgul",
+    "category": "身体"
+  },
+  {
+    "korean": "눈",
+    "Chinese": "眼睛",
+    "romanization": "nun",
+    "category": "身体"
+  },
+  {
+    "korean": "코",
+    "Chinese": "鼻子",
+    "romanization": "ko",
+    "category": "身体"
+  },
+  {
+    "korean": "귀",
+    "Chinese": "耳朵",
+    "romanization": "gwi",
+    "category": "身体"
+  },
+  {
+    "korean": "입",
+    "Chinese": "嘴",
+    "romanization": "ip",
+    "category": "身体"
+  },
+  {
+    "korean": "이",
+    "Chinese": "牙齿",
+    "romanization": "i",
+    "category": "身体"
+  },
+  {
+    "korean": "목",
+    "Chinese": "脖子 / 喉咙",
+    "romanization": "mok",
+    "category": "身体"
+  },
+  {
+    "korean": "어깨",
+    "Chinese": "肩膀",
+    "romanization": "eokkae",
+    "category": "身体"
+  },
+  {
+    "korean": "팔",
+    "Chinese": "胳膊 / 手臂",
+    "romanization": "pal",
+    "category": "身体"
+  },
+  {
+    "korean": "손",
+    "Chinese": "手",
+    "romanization": "son",
+    "category": "身体"
+  },
+  {
+    "korean": "손가락",
+    "Chinese": "手指",
+    "romanization": "son garak",
+    "category": "身体"
+  },
+  {
+    "korean": "다리",
+    "Chinese": "腿",
+    "romanization": "dari",
+    "category": "身体"
+  },
+  {
+    "korean": "발",
+    "Chinese": "脚",
+    "romanization": "bal",
+    "category": "身体"
+  },
+  {
+    "korean": "발가락",
+    "Chinese": "脚趾",
+    "romanization": "balgarak",
+    "category": "身体"
+  },
+  {
+    "korean": "배",
+    "Chinese": "肚子 / 船 / 梨",
+    "romanization": "bae",
+    "category": "身体"
+  },
+  {
+    "korean": "등",
+    "Chinese": "背",
+    "romanization": "deung",
+    "category": "身体"
+  },
+  {
+    "korean": "가슴",
+    "Chinese": "胸 / 心里",
+    "romanization": "gaseum",
+    "category": "身体"
+  },
+  {
+    "korean": "심장",
+    "Chinese": "心脏",
+    "romanization": "simjang",
+    "category": "身体"
+  },
+  {
+    "korean": "피",
+    "Chinese": "血",
+    "romanization": "pi",
+    "category": "身体"
+  },
+  {
+    "korean": "날씨",
+    "Chinese": "天气",
+    "romanization": "nalssi",
+    "category": "自然"
+  },
+  {
+    "korean": "비",
+    "Chinese": "雨",
+    "romanization": "bi",
+    "category": "自然"
+  },
+  {
+    "korean": "눈",
+    "Chinese": "雪 / 眼睛",
+    "romanization": "nun",
+    "category": "自然"
+  },
+  {
+    "korean": "바람",
+    "Chinese": "风",
+    "romanization": "baram",
+    "category": "自然"
+  },
+  {
+    "korean": "구름",
+    "Chinese": "云",
+    "romanization": "gureum",
+    "category": "自然"
+  },
+  {
+    "korean": "해",
+    "Chinese": "太阳 / 年",
+    "romanization": "hae",
+    "category": "自然"
+  },
+  {
+    "korean": "달",
+    "Chinese": "月亮 / 月",
+    "romanization": "dal",
+    "category": "自然"
+  },
+  {
+    "korean": "별",
+    "Chinese": "星星",
+    "romanization": "byeol",
+    "category": "自然"
+  },
+  {
+    "korean": "하늘",
+    "Chinese": "天空",
+    "romanization": "haneul",
+    "category": "自然"
+  },
+  {
+    "korean": "땅",
+    "Chinese": "地 / 土地",
+    "romanization": "ttang",
+    "category": "自然"
+  },
+  {
+    "korean": "산",
+    "Chinese": "山",
+    "romanization": "san",
+    "category": "自然"
+  },
+  {
+    "korean": "강",
+    "Chinese": "江 / 河",
+    "romanization": "gang",
+    "category": "自然"
+  },
+  {
+    "korean": "바다",
+    "Chinese": "大海",
+    "romanization": "bada",
+    "category": "自然"
+  },
+  {
+    "korean": "호수",
+    "Chinese": "湖",
+    "romanization": "hosu",
+    "category": "自然"
+  },
+  {
+    "korean": "나무",
+    "Chinese": "树 / 木头",
+    "romanization": "namu",
+    "category": "自然"
+  },
+  {
+    "korean": "꽃",
+    "Chinese": "花",
+    "romanization": "kkot",
+    "category": "自然"
+  },
+  {
+    "korean": "풀",
+    "Chinese": "草 / 胶水",
+    "romanization": "pul",
+    "category": "自然"
+  },
+  {
+    "korean": "불",
+    "Chinese": "火 / 灯",
+    "romanization": "bul",
+    "category": "自然"
+  },
+  {
+    "korean": "돌",
+    "Chinese": "石头",
+    "romanization": "dol",
+    "category": "自然"
+  },
+  {
+    "korean": "흙",
+    "Chinese": "土 / 泥土",
+    "romanization": "heuk",
+    "category": "自然"
+  },
+  {
+    "korean": "교실",
+    "Chinese": "教室",
+    "romanization": "gyosil",
+    "category": "学校"
+  },
+  {
+    "korean": "책",
+    "Chinese": "书",
+    "romanization": "chaek",
+    "category": "学校"
+  },
+  {
+    "korean": "공책",
+    "Chinese": "笔记本",
+    "romanization": "gongchaek",
+    "category": "学校"
+  },
+  {
+    "korean": "연필",
+    "Chinese": "铅笔",
+    "romanization": "yeonpil",
+    "category": "学校"
+  },
+  {
+    "korean": "펜",
+    "Chinese": "笔",
+    "romanization": "pen",
+    "category": "学校"
+  },
+  {
+    "korean": "지우개",
+    "Chinese": "橡皮",
+    "romanization": "jiugae",
+    "category": "学校"
+  },
+  {
+    "korean": "가방",
+    "Chinese": "包 / 书包",
+    "romanization": "gabang",
+    "category": "学校"
+  },
+  {
+    "korean": "책상",
+    "Chinese": "书桌",
+    "romanization": "chaeksang",
+    "category": "学校"
+  },
+  {
+    "korean": "의자",
+    "Chinese": "椅子",
+    "romanization": "uija",
+    "category": "学校"
+  },
+  {
+    "korean": "칠판",
+    "Chinese": "黑板",
+    "romanization": "chilpan",
+    "category": "学校"
+  },
+  {
+    "korean": "숙제",
+    "Chinese": "作业",
+    "romanization": "sukje",
+    "category": "学校"
+  },
+  {
+    "korean": "시험",
+    "Chinese": "考试",
+    "romanization": "siheom",
+    "category": "学校"
+  },
+  {
+    "korean": "성적",
+    "Chinese": "成绩",
+    "romanization": "seongjeok",
+    "category": "学校"
+  },
+  {
+    "korean": "수업",
+    "Chinese": "课 / 上课",
+    "romanization": "sueop",
+    "category": "学校"
+  },
+  {
+    "korean": "과목",
+    "Chinese": "科目",
+    "romanization": "gwamok",
+    "category": "学校"
+  },
+  {
+    "korean": "수학",
+    "Chinese": "数学",
+    "romanization": "suhak",
+    "category": "学校"
+  },
+  {
+    "korean": "과학",
+    "Chinese": "科学",
+    "romanization": "gwahak",
+    "category": "学校"
+  },
+  {
+    "korean": "영어",
+    "Chinese": "英语",
+    "romanization": "yeongeo",
+    "category": "学校"
+  },
+  {
+    "korean": "역사",
+    "Chinese": "历史",
+    "romanization": "yeoksa",
+    "category": "学校"
+  },
+  {
+    "korean": "체육",
+    "Chinese": "体育",
+    "romanization": "cheyuk",
+    "category": "学校"
+  }
+]

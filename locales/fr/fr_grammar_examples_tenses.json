@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "Je fais de l'exercice tous les jours."
+    },
+    "tenses_present_2": {
+      "translation": "Mon petit frère fait ses devoirs maintenant."
+    },
+    "tenses_present_3": {
+      "translation": "Mon ami travaille dans une entreprise."
+    },
+    "tenses_present_4": {
+      "translation": "Je me repose à la maison."
+    },
+    "tenses_present_5": {
+      "translation": "Nous marchons dans le parc."
+    },
+    "tenses_past_1": {
+      "translation": "J'ai rencontré mon ami hier."
+    },
+    "tenses_past_2": {
+      "translation": "J'ai regardé un film la semaine dernière."
+    },
+    "tenses_past_3": {
+      "translation": "Mon petit frère a pris son petit-déjeuner tard."
+    },
+    "tenses_past_4": {
+      "translation": "J'ai acheté des vêtements neufs."
+    },
+    "tenses_past_5": {
+      "translation": "Nous avons voyagé le week-end."
+    },
+    "tenses_future_1": {
+      "translation": "Je verrai mon ami demain."
+    },
+    "tenses_future_2": {
+      "translation": "Mon petit frère déménagera la semaine prochaine."
+    },
+    "tenses_future_3": {
+      "translation": "J'étudierai le coréen cette année."
+    },
+    "tenses_future_4": {
+      "translation": "Nous voyagerons l'année prochaine."
+    },
+    "tenses_future_5": {
+      "translation": "Je préparerai bientôt le dîner."
+    },
+    "tenses_progressive_1": {
+      "translation": "Je suis en train de manger."
+    },
+    "tenses_progressive_2": {
+      "translation": "Mon petit frère écoute de la musique dans la chambre."
+    },
+    "tenses_progressive_3": {
+      "translation": "Mon ami lit à la bibliothèque."
+    },
+    "tenses_progressive_4": {
+      "translation": "Nous préparons une réunion."
+    },
+    "tenses_progressive_5": {
+      "translation": "Il pleut dehors."
+    },
+    "tenses_experiential_1": {
+      "translation": "Je suis déjà allé en Corée."
+    },
+    "tenses_experiential_2": {
+      "translation": "Mon ami a déjà essayé le ski."
+    },
+    "tenses_experiential_3": {
+      "translation": "Je n'ai jamais mangé de nourriture très épicée."
+    },
+    "tenses_experiential_4": {
+      "translation": "Mon petit frère a déjà vécu à l'étranger."
+    },
+    "tenses_experiential_5": {
+      "translation": "J'ai déjà joué de la guitare."
+    }
+  }
+}

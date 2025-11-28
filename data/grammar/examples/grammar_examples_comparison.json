@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "examples": [
+    {
+      "id": "comparison_boda_1",
+      "groupId": "comparison_boda",
+      "korean": "오늘은 어제보다 날씨가 더 따뜻해요.",
+      "romanization": "oneureun eoje boda nalssiga deo ttatteuthaeyo",
+      "ipa": "onɯɾɯn ʌtɕe poda nals͈iɡa tʌ t͈at͈ɯtʰɛjo"
+    },
+    {
+      "id": "comparison_boda_2",
+      "groupId": "comparison_boda",
+      "korean": "저는 언니보다 키가 더 커요.",
+      "romanization": "jeoneun eonniboda kigado keoyo",
+      "ipa": "tɕʌnɯn ʌnːiboda kʰiɡa tʌ kʰʌjo"
+    },
+    {
+      "id": "comparison_boda_3",
+      "groupId": "comparison_boda",
+      "korean": "이 가방이 저 가방보다 더 가벼워요.",
+      "romanization": "i gabangi jeo gabangboda deo gabyeowoyo",
+      "ipa": "i kaɓaŋi tɕʌ kaɓaŋboda tʌ kaβjʌwʌjo"
+    },
+    {
+      "id": "comparison_boda_4",
+      "groupId": "comparison_boda",
+      "korean": "이 영화가 지난 영화보다 훨씬 재미있어요.",
+      "romanization": "i yeonghwaga jinan yeonghwaboda hweolsin jaemiisseoyo",
+      "ipa": "i jʌŋhʷaɡa tɕinaŋ jʌŋhʷaboda hwʌls͈in tɕɛmiisseojo"
+    },
+    {
+      "id": "comparison_boda_5",
+      "groupId": "comparison_boda",
+      "korean": "이 길이 저 길보다 조금 더 조용해요.",
+      "romanization": "i giri jeo gilboda jogeum deo joyonghaeyo",
+      "ipa": "i kiɾi tɕʌ kilboda tɕoɡɯm tʌ tɕojoŋhɛjo"
+    },
+    {
+      "id": "comparison_mankeum_1",
+      "groupId": "comparison_mankeum",
+      "korean": "저는 언니만큼 요리를 잘 못해요.",
+      "romanization": "jeoneun eonnimankeum yorireul jal motaeyo",
+      "ipa": "tɕʌnɯn ʌnːimankʰɯm joriɾɯl tɕal motʰɛjo"
+    },
+    {
+      "id": "comparison_mankeum_2",
+      "groupId": "comparison_mankeum",
+      "korean": "오늘은 어제만큼 바빠요.",
+      "romanization": "oneureun eojemankeum bappayo",
+      "ipa": "onɯɾɯn ʌtɕemankʰɯm pap͈ajo"
+    },
+    {
+      "id": "comparison_mankeum_3",
+      "groupId": "comparison_mankeum",
+      "korean": "그 선수는 기대한 만큼 좋은 성적을 냈어요.",
+      "romanization": "geu seonsuneun gidaehamankeum joeun seongjeogeul naesseoyo",
+      "ipa": "kɯ sʌnsunɯn kidɛhanmankʰɯm tɕoɯn sʌŋdʑʌɡɯl nɛs͈ʌjo"
+    },
+    {
+      "id": "comparison_mankeum_4",
+      "groupId": "comparison_mankeum",
+      "korean": "이 옷은 생각한 만큼 따뜻하지 않아요.",
+      "romanization": "i oseun saenggakhan mankeum ttatteuthaji anayo",
+      "ipa": "i osɯn sɛŋɡakʰan mankʰɯm t͈at͈ɯtʰadʑi anaɟo"
+    },
+    {
+      "id": "comparison_mankeum_5",
+      "groupId": "comparison_mankeum",
+      "korean": "저는 친구만큼 영어를 잘 못해요.",
+      "romanization": "jeoneun chingumankeum yeongeoreul jal motaeyo",
+      "ipa": "tɕʌnɯn tɕʰinɡumankʰɯm jʌŋʌɾɯl tɕal motʰɛjo"
+    },
+    {
+      "id": "comparison_cheoreom_1",
+      "groupId": "comparison_cheoreom",
+      "korean": "그 아이는 진짜 천사처럼 웃어요.",
+      "romanization": "geu aineun jinjja cheonsacheoreom useoyo",
+      "ipa": "kɯ ainin tɕint͈ɕa tɕʰʌnsat͡ɕʰʌɾʌm usʌjo"
+    },
+    {
+      "id": "comparison_cheoreom_2",
+      "groupId": "comparison_cheoreom",
+      "korean": "이 강아지는 인형처럼 작고 귀여워요.",
+      "romanization": "i gangajineun inhyeongcheoreom jakgo gwiyeowoyo",
+      "ipa": "i kaŋadʑinɯn inhjʌŋt͡ɕʰʌɾʌm tɕak̚k͈o kwiʌwʌjo"
+    },
+    {
+      "id": "comparison_cheoreom_3",
+      "groupId": "comparison_cheoreom",
+      "korean": "하늘이 그림처럼 너무 예뻐요.",
+      "romanization": "haneuri geurimcheoreom neomu yeppeoyo",
+      "ipa": "hanɯɾi kɯɾimt͡ɕʰʌɾʌm nʌmu jep͈ʌjo"
+    },
+    {
+      "id": "comparison_cheoreom_4",
+      "groupId": "comparison_cheoreom",
+      "korean": "그는 정말 기계처럼 일해요.",
+      "romanization": "geuneun jeongmal gigyecheoreom ilhaeyo",
+      "ipa": "kɯnɯn tɕʌŋmal kiɡjet͡ɕʰʌɾʌm ilhaɛjo"
+    },
+    {
+      "id": "comparison_cheoreom_5",
+      "groupId": "comparison_cheoreom",
+      "korean": "저는 바람처럼 자유롭게 걷고 싶어요.",
+      "romanization": "jeoneun baramcheoreom jayurobge geotgo sipeoyo",
+      "ipa": "tɕʌnɯn paɾamt͡ɕʰʌɾʌm tɕajurop̚k͈e kʌt̚k͈o ɕipʰʌjo"
+    }
+  ]
+}

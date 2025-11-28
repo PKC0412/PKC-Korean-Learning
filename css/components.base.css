@@ -1,0 +1,163 @@
+/* Button Styles */
+.theme-toggle-btn {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  font-size: 1.25rem;
+  transition: all var(--transition-duration) ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.theme-toggle-btn:hover {
+  background-color: var(--border-color);
+  transform: scale(1.05);
+}
+
+.theme-toggle-btn:active {
+  transform: scale(0.98);
+}
+
+.theme-icon {
+  line-height: 1;
+}
+
+/* Loading & Animation */
+.loading {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: currentColor;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Responsive */
+@media (max-width: 1200px) {
+  .vocab-list {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 992px) {
+  .vocab-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .hangul-card {
+    max-width: 100%;
+  }
+
+  .hangul-char {
+    font-size: 3.5rem;
+  }
+
+  .hangul-tabs {
+    gap: 0.25rem;
+  }
+
+  .hangul-tab {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+  }
+
+  .vocab-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .vocab-card {
+    min-height: 180px;
+  }
+
+  .flashcard-wrapper {
+    max-width: 100%;
+  }
+
+  .flashcard {
+    font-size: 2.5rem;
+  }
+
+  .flashcard-controls {
+    flex-direction: column;
+  }
+
+  .btn-know, .btn-dont-know, .btn-speak, .btn-next, .btn-prev {
+    width: 100%;
+  }
+
+  .vocab-category-tabs {
+    overflow-x: auto;
+  }
+
+  .vocab-category-btn {
+    white-space: nowrap;
+  }
+
+  .modal-content {
+    padding: 1.5rem;
+    max-width: 95%;
+  }
+}
+
+@media (max-width: 480px) {
+  .hangul-char {
+    font-size: 3rem;
+  }
+
+  .vocab-list {
+    grid-template-columns: 1fr;
+  }
+
+  .flashcard {
+    font-size: 2rem;
+  }
+
+  .menu-card {
+    padding: 1.25rem;
+    gap: 0.75rem;
+  }
+
+  .menu-icon {
+    font-size: 2.5rem;
+  }
+}
+
+/* 다크 테마 전용 - 음성/Play/Know 버튼 보라색 */
+[data-theme="dark"] .btn-speak,
+[data-theme="dark"] .vocab-play-btn,
+[data-theme="dark"] .grammar-speak-btn,
+[data-theme="dark"] .btn-know {
+  background-color: var(--accent-primary) !important;
+  color: #fff;
+}
+
+[data-theme="dark"] .btn-speak:hover,
+[data-theme="dark"] .vocab-play-btn:hover,
+[data-theme="dark"] .grammar-speak-btn:hover,
+[data-theme="dark"] .btn-know:hover {
+  background-color: var(--accent-primary) !important;
+  opacity: 0.9;
+}

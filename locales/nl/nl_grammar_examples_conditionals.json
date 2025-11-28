@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "Als het regent, gebruik ik een paraplu."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "Als je tijd hebt, laten we samen lunchen."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "Als ik vroeg thuis kom, kijk ik een film."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "Als het mooi weer is, ga ik wandelen."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "Als ik het druk heb, doe ik het morgen."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "Als ik geld spaar, ga ik op reis."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "Als ik sport, word ik gezonder."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "Als ik hard studeer, worden mijn cijfers beter."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "Als ik vroeg ga slapen, voel ik me morgen fitter."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "Als ik veel loop, word ik moe."
+    }
+  }
+}

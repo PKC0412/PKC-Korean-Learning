@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "อา",
+    "romanization": "a",
+    "ipa": "[a]",
+    "description": "สระเสียงสว่างที่ออกเสียงโดยอ้าปากกว้างและลิ้นอยู่ด้านหน้า"
+  },
+  {
+    "char": "ㅑ",
+    "name": "ยา",
+    "romanization": "ya",
+    "ipa": "[ja]",
+    "description": "สระประสมเริ่มด้วยเสียงกึ่งสระ [j] ตามด้วย 'อา'"
+  },
+  {
+    "char": "ㅓ",
+    "name": "ออ",
+    "romanization": "eo",
+    "ipa": "[ʌ]",
+    "description": "สระกลาง-ต่ำที่ออกเสียงโดยลิ้นอยู่ด้านหลังและปากเปิดเล็กน้อย"
+  },
+  {
+    "char": "ㅕ",
+    "name": "ยอ",
+    "romanization": "yeo",
+    "ipa": "[jʌ]",
+    "description": "สระประสมเริ่มด้วยเสียงกึ่งสระ [j] ตามด้วย 'ออ'"
+  },
+  {
+    "char": "ㅗ",
+    "name": "โอ",
+    "romanization": "o",
+    "ipa": "[o]",
+    "description": "สระห่อปากที่ออกเสียงโดยทำปากจู๋และลิ้นอยู่ด้านหลัง"
+  },
+  {
+    "char": "ㅛ",
+    "name": "โย",
+    "romanization": "yo",
+    "ipa": "[jo]",
+    "description": "สระประสมเริ่มด้วยเสียงกึ่งสระ [j] ตามด้วย 'โอ'"
+  },
+  {
+    "char": "ㅜ",
+    "name": "อู",
+    "romanization": "u",
+    "ipa": "[u]",
+    "description": "สระห่อปากสูงที่ออกเสียงโดยยื่นริมฝีปากไปข้างหน้า"
+  },
+  {
+    "char": "ㅠ",
+    "name": "ยู",
+    "romanization": "yu",
+    "ipa": "[ju]",
+    "description": "สระประสมเริ่มด้วยเสียงกึ่งสระ [j] ตามด้วย 'อู'"
+  },
+  {
+    "char": "ㅡ",
+    "name": "อือ",
+    "romanization": "eu",
+    "ipa": "[ɨ]",
+    "description": "สระแบนสูงที่ออกเสียงโดยเกือบปิดปากและลิ้นอยู่ตรงกลาง"
+  },
+  {
+    "char": "ㅣ",
+    "name": "อี",
+    "romanization": "i",
+    "ipa": "[i]",
+    "description": "สระหน้าสูงที่ออกเสียงโดยเกือบปิดปาก"
+  },
+  {
+    "char": "ㅐ",
+    "name": "แอ",
+    "romanization": "ae",
+    "ipa": "[æ]",
+    "description": "สระหน้าต่ำที่ออกเสียงโดยอ้าปากกว้าง"
+  },
+  {
+    "char": "ㅒ",
+    "name": "แย",
+    "romanization": "yae",
+    "ipa": "[jæ]",
+    "description": "สระประสมเริ่มด้วยเสียงกึ่งสระ [j] ตามด้วย 'แอ'"
+  },
+  {
+    "char": "ㅔ",
+    "name": "เอ",
+    "romanization": "e",
+    "ipa": "[e]",
+    "description": "สระหน้ากลาง-สูงที่ออกเสียงโดยเปิดปากเล็กน้อย"
+  },
+  {
+    "char": "ㅖ",
+    "name": "เย",
+    "romanization": "ye",
+    "ipa": "[je]",
+    "description": "สระประสมเริ่มด้วยเสียงกึ่งสระ [j] ตามด้วย 'เอ'"
+  },
+  {
+    "char": "ㅘ",
+    "name": "วา",
+    "romanization": "wa",
+    "ipa": "[wa]",
+    "description": "สระประสมที่รวมเสียงกึ่งสระ [w] และ 'อา'"
+  },
+  {
+    "char": "ㅙ",
+    "name": "แว",
+    "romanization": "wae",
+    "ipa": "[wæ]",
+    "description": "สระประสมที่รวมเสียงกึ่งสระ [w] และ 'แอ'"
+  },
+  {
+    "char": "ㅚ",
+    "name": "เว",
+    "romanization": "oe",
+    "ipa": "[we]",
+    "description": "สระประสมที่มักออกเสียงเหมือน 'เว' ([w] + 'เอ')"
+  },
+  {
+    "char": "ㅝ",
+    "name": "วอ",
+    "romanization": "weo",
+    "ipa": "[wʌ]",
+    "description": "สระประสมที่รวมเสียงกึ่งสระ [w] และ 'ออ'"
+  },
+  {
+    "char": "ㅞ",
+    "name": "เว",
+    "romanization": "we",
+    "ipa": "[we]",
+    "description": "สระประสมที่รวมเสียงกึ่งสระ [w] และ 'เอ'"
+  },
+  {
+    "char": "ㅟ",
+    "name": "วี",
+    "romanization": "wi",
+    "ipa": "[wi]",
+    "description": "สระประสมที่รวมเสียงกึ่งสระ [w] และ 'อี'"
+  },
+  {
+    "char": "ㅢ",
+    "name": "อึย",
+    "romanization": "ui",
+    "ipa": "[ɨj]",
+    "description": "สระประสมที่รวม 'อือ' และ 'อี'"
+  }
+]

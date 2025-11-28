@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "Aujourd'hui, je veux rentrer tôt à la maison."
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "Mon petit frère veut élever un chiot."
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "Je veux aller à la mer ce week-end."
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "Mon ami dit qu'il veut apprendre un nouveau métier."
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "Je veux travailler à l'étranger l'année prochaine."
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "Hier, j'ai essayé de faire du kimchi pour la première fois."
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "Mon petit frère voulait essayer le ski."
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "J'ai essayé d'utiliser une nouvelle méthode."
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "Mon ami m'a dit d'essayer le gâteau qu'il avait fait."
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "Cette semaine, je vais essayer un nouveau type d'exercice."
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "Je dois rendre ce rapport aujourd'hui."
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "Les ouvriers doivent porter un équipement de sécurité sur le chantier."
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "Je dois organiser les documents avant la réunion."
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "Nous devons vérifier nos billets avant le départ."
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "Je dois manger avant de prendre le médicament."
+    }
+  }
+}

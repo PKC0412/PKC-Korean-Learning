@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "窓が開けられた。"
+    },
+    "voice_passive_ajida_2": {
+      "translation": "ドアが閉められた。"
+    },
+    "voice_passive_ajida_3": {
+      "translation": "電気が消された。"
+    },
+    "voice_passive_ajida_4": {
+      "translation": "食べ物が準備された。"
+    },
+    "voice_passive_ajida_5": {
+      "translation": "道路が封鎖された。"
+    },
+    "voice_causative_gehada_1": {
+      "translation": "私は弟を笑わせた。"
+    },
+    "voice_causative_gehada_2": {
+      "translation": "先生は生徒に本を読ませた。"
+    },
+    "voice_causative_gehada_3": {
+      "translation": "私は友達を待たせた。"
+    },
+    "voice_causative_gehada_4": {
+      "translation": "母は私を早く寝させた。"
+    },
+    "voice_causative_gehada_5": {
+      "translation": "私は子犬を座らせた。"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "วันนี้อากาศร้อนกว่าเมื่อวาน"
+    },
+    "comparison_boda_2": {
+      "translation": "ฉันสูงกว่าพี่สาว"
+    },
+    "comparison_boda_3": {
+      "translation": "กระเป๋าใบนี้เบากว่าใบนั้น"
+    },
+    "comparison_boda_4": {
+      "translation": "หนังเรื่องนี้สนุกกว่าเรื่องที่แล้วมาก"
+    },
+    "comparison_boda_5": {
+      "translation": "ถนนสายนี้เงียบกว่าสายนั้นนิดหน่อย"
+    },
+    "comparison_mankeum_1": {
+      "translation": "ฉันทำอาหารไม่เก่งเท่าพี่สาว"
+    },
+    "comparison_mankeum_2": {
+      "translation": "วันนี้ยุ่งพอๆ กับเมื่อวาน"
+    },
+    "comparison_mankeum_3": {
+      "translation": "นักกีฬาคนนั้นทำผลงานได้ดีเท่าที่คาดหวัง"
+    },
+    "comparison_mankeum_4": {
+      "translation": "ชุดนี้ไม่อุ่นเท่าที่คิด"
+    },
+    "comparison_mankeum_5": {
+      "translation": "ฉันไม่เก่งภาษาอังกฤษเท่าเพื่อน"
+    },
+    "comparison_cheoreom_1": {
+      "translation": "เด็กคนนั้นยิ้มเหมือนนางฟ้า"
+    },
+    "comparison_cheoreom_2": {
+      "translation": "ลูกสุนัขตัวนี้ตัวเล็กและน่ารักเหมือนตุ๊กตา"
+    },
+    "comparison_cheoreom_3": {
+      "translation": "ท้องฟ้าสวยงามราวกับภาพวาด"
+    },
+    "comparison_cheoreom_4": {
+      "translation": "เขาทำงานเหมือนเครื่องจักร"
+    },
+    "comparison_cheoreom_5": {
+      "translation": "ฉันอยากเดินอย่างอิสระเหมือนสายลม"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "examples": [
+    {
+      "id": "particles_case_1",
+      "groupId": "particles_case",
+      "korean": "저는 학교에 가요.",
+      "romanization": "jeoneun hakgyoe gayo",
+      "ipa": "tɕʌnɯn hak̚kjoe kayo"
+    },
+    {
+      "id": "particles_case_2",
+      "groupId": "particles_case",
+      "korean": "친구가 저를 불렀어요.",
+      "romanization": "chinguga jeoreul bulleosseoyo",
+      "ipa": "tɕʰiŋuɡa tɕʌɾɯl pulːʌs͈ʌjo"
+    },
+    {
+      "id": "particles_case_3",
+      "groupId": "particles_case",
+      "korean": "동생은 방에서 책을 읽어요.",
+      "romanization": "dongsaengeun bangeseo chaegeul ilgeoyo",
+      "ipa": "toŋsɛŋɯn paŋeso tɕʰɛɡɯl ilɡʌjo"
+    },
+    {
+      "id": "particles_case_4",
+      "groupId": "particles_case",
+      "korean": "저는 회사로 출근해요.",
+      "romanization": "jeoneun hoesaro chulgeunhaeyo",
+      "ipa": "tɕʌnɯn hweːsaɾo tɕʰulɡɯn hɛjo"
+    },
+    {
+      "id": "particles_case_5",
+      "groupId": "particles_case",
+      "korean": "우리는 주말마다 운동해요.",
+      "romanization": "urineun jumalmada undonghaeyo",
+      "ipa": "uɾinɯn tɕumal mada undoŋ hɛjo"
+    },
+    {
+      "id": "particles_auxiliary_1",
+      "groupId": "particles_auxiliary",
+      "korean": "저는 커피는 좋아해요.",
+      "romanization": "jeoneun keopineun joahaeyo",
+      "ipa": "tɕʌnɯn kʰʌpʰinɯn tɕoahɛjo"
+    },
+    {
+      "id": "particles_auxiliary_2",
+      "groupId": "particles_auxiliary",
+      "korean": "친구도 영화를 봤어요.",
+      "romanization": "chingudo yeonghwareul bwasseoyo",
+      "ipa": "tɕʰiŋu do jʌŋhʷaɾɯl pats͈ʌjo"
+    },
+    {
+      "id": "particles_auxiliary_3",
+      "groupId": "particles_auxiliary",
+      "korean": "저는 물만 마셔요.",
+      "romanization": "jeoneun mulman masyeoyo",
+      "ipa": "tɕʌnɯn mulman maʃʌjo"
+    },
+    {
+      "id": "particles_auxiliary_4",
+      "groupId": "particles_auxiliary",
+      "korean": "동생은 밥조차 안 먹었어요.",
+      "romanization": "dongsaengeun bapjoch'a an meogeosseoyo",
+      "ipa": "toŋsɛŋɯn pap̚tɕʰo̞tɕʰʌ an mʌɡʌs͈ʌjo"
+    },
+    {
+      "id": "particles_auxiliary_5",
+      "groupId": "particles_auxiliary",
+      "korean": "저는 책밖에 안 읽어요.",
+      "romanization": "jeoneun chaekbakke an ilgeoyo",
+      "ipa": "tɕʌnɯn tɕʰɛk̚pak̚kʰe an ilɡʌjo"
+    },
+    {
+      "id": "particles_conjunctive_1",
+      "groupId": "particles_conjunctive",
+      "korean": "저는 친구와 밥을 먹어요.",
+      "romanization": "jeoneun chinguwa babeul meogeoyo",
+      "ipa": "tɕʌnɯn tɕʰiŋɡuwa babɯl mʌɡʌjo"
+    },
+    {
+      "id": "particles_conjunctive_2",
+      "groupId": "particles_conjunctive",
+      "korean": "우리는 가족과 여행을 갔어요.",
+      "romanization": "urineun gajokgwa yeohaengeul gasseoyo",
+      "ipa": "uɾinɯn kadʑok̚kʷa jʌhɛŋɯl kas͈ʌjo"
+    },
+    {
+      "id": "particles_conjunctive_3",
+      "groupId": "particles_conjunctive",
+      "korean": "동생은 강아지랑 놀아요.",
+      "romanization": "dongsaengeun gangajirang norayo",
+      "ipa": "toŋsɛŋɯn kaŋadʑiɾaŋ noɾajo"
+    },
+    {
+      "id": "particles_conjunctive_4",
+      "groupId": "particles_conjunctive",
+      "korean": "저는 김치하고 불고기를 좋아해요.",
+      "romanization": "jeoneun gimchihago bulgogireul joahaeyo",
+      "ipa": "tɕʌnɯn kimtɕʰihaɡo pulɡoɡiɾɯl tɕoahɛjo"
+    },
+    {
+      "id": "particles_conjunctive_5",
+      "groupId": "particles_conjunctive",
+      "korean": "친구는 선생님과 이야기했어요.",
+      "romanization": "chinguneun seonsaengnimgwa iyagiyahaesseoyo",
+      "ipa": "tɕʰiŋɡunɯn sʌnsɛŋnimɡwa ijagi hɛs͈ʌjo"
+    }
+  ]
+}

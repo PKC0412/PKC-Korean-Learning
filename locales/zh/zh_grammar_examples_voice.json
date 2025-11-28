@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "窗户被打开了。"
+    },
+    "voice_passive_ajida_2": {
+      "translation": "门被关上了。"
+    },
+    "voice_passive_ajida_3": {
+      "translation": "灯被关掉了。"
+    },
+    "voice_passive_ajida_4": {
+      "translation": "食物做好了。"
+    },
+    "voice_passive_ajida_5": {
+      "translation": "路被堵住了。"
+    },
+    "voice_causative_gehada_1": {
+      "translation": "我把弟弟逗笑了。"
+    },
+    "voice_causative_gehada_2": {
+      "translation": "老师让学生们朗读。"
+    },
+    "voice_causative_gehada_3": {
+      "translation": "我让朋友久等了。"
+    },
+    "voice_causative_gehada_4": {
+      "translation": "妈妈让我早点睡。"
+    },
+    "voice_causative_gehada_5": {
+      "translation": "我让小狗坐下了。"
+    }
+  }
+}

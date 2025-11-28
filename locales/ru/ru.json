@@ -1,0 +1,146 @@
+{
+  "menu": {
+    "hangul": "Изучение хангыля",
+    "vocabulary": "Словарь",
+    "flashcard": "Карточки",
+    "grammar": "Грамматика",
+    "help": "Справка"
+  },
+  "language": {
+    "modalTitle": "Язык",
+    "modalDescription": "Выберите предпочитаемый язык интерфейса. Вы можете изменить его в любое время.",
+    "names": {
+      "en": "English",
+      "zh": "简体中文",
+      "ja": "日本語",
+      "ru": "Русский",
+      "es": "Español",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch",
+      "th": "ไทย",
+      "pt": "Português",
+      "nl": "Nederlands"
+    }
+  },
+  "help": {
+    "header": "Разработчик и контакты",
+    "description": "Если у вас есть вопросы, сообщения об ошибках или предложения, свяжитесь с нами по каналам ниже.",
+    "creatorLabel": "Разработчик:"
+  },
+  "vocab": {
+    "play": "Воспроизвести аудио"
+  },
+  "grammar": {
+    "hear": "Слушать"
+  },
+  "common": {
+    "listen": "Слушать",
+    "example": "Пример",
+    "romanization": "Романизация",
+    "nodata": "Нет данных."
+  },
+  "flashcard": {
+    "empty": "Нет доступных слов для изучения.",
+    "session": {
+      "summary": "Сессия: {current} из {total} слов",
+      "shuffled": "Случайно",
+      "sequential": "По порядку"
+    },
+    "total_words": "Всего слов",
+    "controls": {
+      "hear": "Слушать",
+      "know": "Знаю",
+      "dontKnow": "Повторить"
+    },
+    "progress": {
+      "label": "Прогресс: {done} / {total}"
+    },
+    "hint": {
+      "reveal": "Нажмите на карту, чтобы увидеть значение",
+      "romanizationLabel": "Романизация:"
+    },
+    "result": {
+      "title": "Отличная работа!",
+      "completed": "Вы изучили {total} слов.",
+      "accuracy": "Точность: {accuracy}%",
+      "stats": "Знаю: {known} | Повторить: {unknown}",
+      "restart": "Перемешать и начать заново"
+    }
+  },
+  "category": {
+    "all": "Все",
+    "greetings": "Приветствия",
+    "basic": "Основы",
+    "food": "Еда",
+    "people": "Люди",
+    "places": "Места",
+    "transportation": "Транспорт",
+    "verbs_daily": "Повседневные глаголы",
+    "verbs_actions": "Глаголы действия",
+    "adjectives": "Прилагательные",
+    "numbers": "Числа",
+    "time": "Время/Дата",
+    "colors": "Цвета",
+    "body": "Тело",
+    "nature": "Природа",
+    "school": "Школа"
+  },
+  "발음 듣기": "Слушать произношение",
+  "자음": "Согласные",
+  "모음": "Гласные",
+  "받침": "Патчим (Конечные согласные)",
+  "로마자 표기:": "Романизация:",
+  "이전": "Назад",
+  "다음": "Далее",
+  "설명:": "Описание:",
+  "예시:": "Пример:",
+  "설명이 아직 준비되지 않았습니다.": "Описание пока недоступно.",
+  "예시가 아직 준비되지 않았습니다.": "Пример пока недоступен.",
+  "예문": "Пример",
+  "grammar_category_sentence_structure": "Структура предложения",
+  "grammar_category_particles": "Частицы",
+  "grammar_category_tenses": "Времена",
+  "grammar_category_negation": "Отрицание",
+  "grammar_category_connectives": "Соединительные окончания",
+  "grammar_category_comparison": "Сравнение",
+  "grammar_category_ending": "Окончания предложений",
+  "grammar_category_aux_verbs": "Вспомогательные глаголы",
+  "grammar_category_voice": "Залог (Пассивный и Каузативный)",
+  "grammar_category_conditionals": "Условные предложения",
+  "grammar_category_quotations": "Косвенная речь",
+  "grammar_group_sentence_structure_basic_order": "Базовый порядок слов (SOV)",
+  "grammar_group_sentence_structure_elements": "Члены предложения",
+  "grammar_group_sentence_structure_types": "Типы предложений",
+  "grammar_group_particles_case": "Падежные частицы",
+  "grammar_group_particles_auxiliary": "Вспомогательные частицы",
+  "grammar_group_particles_conjunctive": "Соединительные частицы",
+  "grammar_group_tenses_present": "Настоящее время",
+  "grammar_group_tenses_past": "Прошедшее время",
+  "grammar_group_tenses_future": "Будущее время",
+  "grammar_group_tenses_progressive": "Продолженное действие (-고 있어요)",
+  "grammar_group_tenses_experiential": "Опыт (-아/어 본 적이 있다)",
+  "grammar_group_negation_an": "Отрицание с 안",
+  "grammar_group_negation_mot": "Отрицание с 못",
+  "grammar_group_negation_ji_anhda": "Отрицание с -지 않다",
+  "grammar_group_negation_ji_mothada": "Отрицание с -지 못하다",
+  "grammar_group_connectives_go": "Соединительное -고",
+  "grammar_group_connectives_aseo_eoseo": "Соединительное -아서/어서",
+  "grammar_group_connectives_jiman": "Соединительное -지만",
+  "grammar_group_connectives_myeonseo": "Соединительное -면서",
+  "grammar_group_connectives_geona": "Соединительное -거나",
+  "grammar_group_comparison_boda": "Сравнение с 보다",
+  "grammar_group_comparison_mankeum": "Сравнение с 만큼",
+  "grammar_group_comparison_cheoreom": "Сравнение с 처럼",
+  "grammar_group_ending_polite_ayo_eoyo": "Вежливое окончание -아요/어요",
+  "grammar_group_ending_formal_sumnida": "Формальное окончание -습니다/-습니까",
+  "grammar_group_aux_verbs_want_gosipda": "Вспомогательный глагол -고 싶다",
+  "grammar_group_aux_verbs_try_boda": "Вспомогательный глагол -아/어 보다",
+  "grammar_group_aux_verbs_must_eya_hada": "Вспомогательный глагол -아/어야 하다",
+  "grammar_group_voice_passive_ajida": "Пассивный залог -아/어지다",
+  "grammar_group_voice_causative_gehada": "Каузативный залог -게 하다",
+  "grammar_group_conditionals_myeon_basic": "Условие -(으)면",
+  "grammar_group_conditionals_tomyeon_future": "Условие -(으)면 (будущее/повторение)",
+  "grammar_group_quotations_declare_dago": "Косвенная речь -다고 하다",
+  "grammar_group_quotations_say_lago": "Косвенная речь -라고 하다"
+}

@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "examples": [
+    {
+      "id": "tenses_present_1",
+      "groupId": "tenses_present",
+      "korean": "저는 매일 운동해요.",
+      "romanization": "jeoneun maeil undonghaeyo",
+      "ipa": "tɕʌnɯn mɛil undoŋ hɛjo"
+    },
+    {
+      "id": "tenses_present_2",
+      "groupId": "tenses_present",
+      "korean": "동생은 지금 숙제해요.",
+      "romanization": "dongsaengeun jigeum sukjehaeyo",
+      "ipa": "toŋsɛŋɯn tɕigɯm suk̚tɕe hɛjo"
+    },
+    {
+      "id": "tenses_present_3",
+      "groupId": "tenses_present",
+      "korean": "친구는 회사에서 일해요.",
+      "romanization": "chinguneun hoesaeseo ilhaeyo",
+      "ipa": "tɕʰiŋɡunɯn hweːsaeso ilhaɛjo"
+    },
+    {
+      "id": "tenses_present_4",
+      "groupId": "tenses_present",
+      "korean": "저는 집에서 쉬어요.",
+      "romanization": "jeoneun jibeseo swieoyo",
+      "ipa": "tɕʌnɯn tɕibeso ɕɥiʌjo"
+    },
+    {
+      "id": "tenses_present_5",
+      "groupId": "tenses_present",
+      "korean": "우리는 공원에서 걸어요.",
+      "romanization": "urineun gongwoneseo georeoyo",
+      "ipa": "uɾinɯn koŋwoneso kʌɾʌjo"
+    },
+    {
+      "id": "tenses_past_1",
+      "groupId": "tenses_past",
+      "korean": "어제 친구를 만났어요.",
+      "romanization": "eoje chingureul mannasseoyo",
+      "ipa": "ʌtɕe tɕʰiŋɡuɾɯl manːas͈ʌjo"
+    },
+    {
+      "id": "tenses_past_2",
+      "groupId": "tenses_past",
+      "korean": "저는 지난주에 영화를 봤어요.",
+      "romanization": "jeoneun jinanjue yeonghwareul bwasseoyo",
+      "ipa": "tɕʌnɯn tɕinan dʑue jʌŋhʷaɾɯl pats͈ʌjo"
+    },
+    {
+      "id": "tenses_past_3",
+      "groupId": "tenses_past",
+      "korean": "동생은 아침을 늦게 먹었어요.",
+      "romanization": "dongsaengeun achimeul neutge meogeosseoyo",
+      "ipa": "toŋsɛŋɯn atɕʰimɯl nɯt̚ke mʌɡʌs͈ʌjo"
+    },
+    {
+      "id": "tenses_past_4",
+      "groupId": "tenses_past",
+      "korean": "저는 새 옷을 샀어요.",
+      "romanization": "jeoneun sae oseul sasseoyo",
+      "ipa": "tɕʌnɯn sɛ osɯl sas͈ʌjo"
+    },
+    {
+      "id": "tenses_past_5",
+      "groupId": "tenses_past",
+      "korean": "우리는 주말에 여행 갔어요.",
+      "romanization": "urineun jumare yeohaeng gasseoyo",
+      "ipa": "uɾinɯn tɕumare jʌhɛŋ kas͈ʌjo"
+    },
+    {
+      "id": "tenses_future_1",
+      "groupId": "tenses_future",
+      "korean": "저는 내일 친구를 만날 거예요.",
+      "romanization": "jeoneun naeil chingureul mannalggeoyeyo",
+      "ipa": "tɕʌnɯn nɛil tɕʰiŋɡuɾɯl manːal kʌjejo"
+    },
+    {
+      "id": "tenses_future_2",
+      "groupId": "tenses_future",
+      "korean": "동생은 다음 주에 이사할 거예요.",
+      "romanization": "dongsaengeun daeum jue isahal geoyeyo",
+      "ipa": "toŋsɛŋɯn taɯm tɕue isahaɾ kʌjejo"
+    },
+    {
+      "id": "tenses_future_3",
+      "groupId": "tenses_future",
+      "korean": "저는 올해 한국어 공부를 열심히 할 거예요.",
+      "romanization": "jeoneun olhae hangugeo gongbureul yeolsimhi hal geoyeyo",
+      "ipa": "tɕʌnɯn olhɛ hanɡuɡʌ koŋbuɾɯl jʌlɕimhi hal kʌjejo"
+    },
+    {
+      "id": "tenses_future_4",
+      "groupId": "tenses_future",
+      "korean": "우리는 내년에 여행 갈 거예요.",
+      "romanization": "urineun naenyeone yeohaeng gal geoyeyo",
+      "ipa": "uɾinɯn nɛɲʌnɛ jʌhɛŋ kal kʌjejo"
+    },
+    {
+      "id": "tenses_future_5",
+      "groupId": "tenses_future",
+      "korean": "저는 곧 저녁을 만들 거예요.",
+      "romanization": "jeoneun got jeonyeogeul mandeul geoyeyo",
+      "ipa": "tɕʌnɯn kot tɕʌɲʌɡɯl mandɯl kʌjejo"
+    },
+    {
+      "id": "tenses_experiential_1",
+      "groupId": "tenses_experiential",
+      "korean": "저는 한국에 가 본 적 있어요.",
+      "romanization": "jeoneun hanguke ga bon jeok isseoyo",
+      "ipa": "tɕʌnɯn hanɡuɡe ka pon tɕʌk̚ issʌjo"
+    },
+    {
+      "id": "tenses_experiential_2",
+      "groupId": "tenses_experiential",
+      "korean": "친구는 스키를 타 본 적 있어요.",
+      "romanization": "chinguneun seukireul ta bon jeok isseoyo",
+      "ipa": "tɕʰiŋɡunɯn sɯkʰiɾɯl tʰa pon tɕʌk̚ issʌjo"
+    },
+    {
+      "id": "tenses_experiential_3",
+      "groupId": "tenses_experiential",
+      "korean": "저는 매운 음식 먹어 본 적 없어요.",
+      "romanization": "jeoneun maeun eumsik meogeo bon jeok eopsseoyo",
+      "ipa": "tɕʌnɯn mɛun ɯmsik̚ mʌɡʌ pon tɕʌk̚ ʌps͈ʌjo"
+    },
+    {
+      "id": "tenses_experiential_4",
+      "groupId": "tenses_experiential",
+      "korean": "동생은 해외에서 살아 본 적 있어요.",
+      "romanization": "dongsaengeun haeoeeseo sara bon jeok isseoyo",
+      "ipa": "toŋsɛŋɯn hɛoeeso saɾa pon tɕʌk̚ issʌjo"
+    },
+    {
+      "id": "tenses_experiential_5",
+      "groupId": "tenses_experiential",
+      "korean": "저는 기타를 쳐 본 적 있어요.",
+      "romanization": "jeoneun gitareul chyeo bon jeok isseoyo",
+      "ipa": "tɕʌnɯn kʰitaɾɯl tɕʰʌ pon tɕʌk̚ issʌjo"
+    },
+    {
+      "id": "tenses_progressive_1",
+      "groupId": "tenses_progressive",
+      "korean": "저는 지금 밥을 먹고 있어요.",
+      "romanization": "jeoneun jigeum babeul meokgo isseoyo",
+      "ipa": "tɕʌnɯn tɕigɯm babɯl mʌk̚ko issʌjo"
+    },
+    {
+      "id": "tenses_progressive_2",
+      "groupId": "tenses_progressive",
+      "korean": "동생은 방에서 음악을 듣고 있어요.",
+      "romanization": "dongsaengeun bangeseo eumageul deutgo isseoyo",
+      "ipa": "toŋsɛŋɯn paŋeso ɯmaɡɯl tɯt̚ko issʌjo"
+    },
+    {
+      "id": "tenses_progressive_3",
+      "groupId": "tenses_progressive",
+      "korean": "친구는 도서관에서 책을 읽고 있어요.",
+      "romanization": "chinguneun doseogwaneseo chaegeul ilggo isseoyo",
+      "ipa": "tɕʰiŋɡunɯn toseɡwaneso tɕʰɛɡɯl ik̚ko issʌjo"
+    },
+    {
+      "id": "tenses_progressive_4",
+      "groupId": "tenses_progressive",
+      "korean": "우리는 회의 준비를 하고 있어요.",
+      "romanization": "urineun hoeui junbireul hago isseoyo",
+      "ipa": "uɾinɯn hweɰi tɕunbiɾɯl haɡo issʌjo"
+    },
+    {
+      "id": "tenses_progressive_5",
+      "groupId": "tenses_progressive",
+      "korean": "밖에 비가 오고 있어요.",
+      "romanization": "bakke biga ogo isseoyo",
+      "ipa": "pak̚kʰe piɡa oɡo issʌjo"
+    }
+  ]
+}

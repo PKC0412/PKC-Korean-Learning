@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "Das Fenster wurde geöffnet."
+    },
+    "voice_passive_ajida_2": {
+      "translation": "Die Tür wurde geschlossen."
+    },
+    "voice_passive_ajida_3": {
+      "translation": "Das Licht wurde ausgeschaltet."
+    },
+    "voice_passive_ajida_4": {
+      "translation": "Das Essen wurde zubereitet."
+    },
+    "voice_passive_ajida_5": {
+      "translation": "Die Straße wurde blockiert."
+    },
+    "voice_causative_gehada_1": {
+      "translation": "Ich habe mein jüngeres Geschwisterchen zum Lachen gebracht."
+    },
+    "voice_causative_gehada_2": {
+      "translation": "Der Lehrer ließ die Schüler lesen."
+    },
+    "voice_causative_gehada_3": {
+      "translation": "Ich habe meinen Freund warten lassen."
+    },
+    "voice_causative_gehada_4": {
+      "translation": "Mama ließ mich früh schlafen."
+    },
+    "voice_causative_gehada_5": {
+      "translation": "Ich ließ den Welpen sitzen."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "Hoy hace más calor que ayer."
+    },
+    "comparison_boda_2": {
+      "translation": "Soy más alto que mi hermana mayor."
+    },
+    "comparison_boda_3": {
+      "translation": "Este bolso es más ligero que aquel."
+    },
+    "comparison_boda_4": {
+      "translation": "Esta película es mucho más interesante que la anterior."
+    },
+    "comparison_boda_5": {
+      "translation": "Esta calle es un poco más tranquila que esa."
+    },
+    "comparison_mankeum_1": {
+      "translation": "No soy tan bueno cocinando como mi hermana mayor."
+    },
+    "comparison_mankeum_2": {
+      "translation": "Hoy está tan ocupado como ayer."
+    },
+    "comparison_mankeum_3": {
+      "translation": "Ese atleta obtuvo resultados tan buenos como esperábamos."
+    },
+    "comparison_mankeum_4": {
+      "translation": "Este conjunto no es tan abrigado como pensé."
+    },
+    "comparison_mankeum_5": {
+      "translation": "No soy tan bueno en inglés como mi amigo."
+    },
+    "comparison_cheoreom_1": {
+      "translation": "Ese niño sonríe como un ángel."
+    },
+    "comparison_cheoreom_2": {
+      "translation": "Este perrito es pequeño y adorable como una muñeca."
+    },
+    "comparison_cheoreom_3": {
+      "translation": "El cielo es tan hermoso, como una pintura."
+    },
+    "comparison_cheoreom_4": {
+      "translation": "Él trabaja como una máquina."
+    },
+    "comparison_cheoreom_5": {
+      "translation": "Quiero caminar libre como el viento."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "translations": {
+    "ending_polite_ayo_eoyo_1": {
+      "translation": "วันนี้ฉันกลับบ้านเร็วค่ะ/ครับ"
+    },
+    "ending_polite_ayo_eoyo_2": {
+      "translation": "เพื่อนดื่มกาแฟที่คาเฟ่ค่ะ/ครับ"
+    },
+    "ending_polite_ayo_eoyo_3": {
+      "translation": "พวกเราออกกำลังกายตอนเย็นค่ะ/ครับ"
+    },
+    "ending_polite_ayo_eoyo_4": {
+      "translation": "ฉันดูหนังทุกสุดสัปดาห์ค่ะ/ครับ"
+    },
+    "ending_polite_ayo_eoyo_5": {
+      "translation": "อากาศดีค่ะ/ครับ"
+    },
+    "ending_formal_sumnida_1": {
+      "translation": "ฉันทำงานที่เกาหลีครับ/ค่ะ"
+    },
+    "ending_formal_sumnida_2": {
+      "translation": "การประชุมเริ่มตอนบ่าย 3 โมงครับ/ค่ะ"
+    },
+    "ending_formal_sumnida_3": {
+      "translation": "ฉันเป็นนักเรียนครับ/ค่ะ"
+    },
+    "ending_formal_sumnida_4": {
+      "translation": "กำลังเขียนรายงานอยู่ครับ/ค่ะ"
+    },
+    "ending_formal_sumnida_5": {
+      "translation": "จะเข้าร่วมการประชุมไหมครับ/คะ?"
+    }
+  }
+}

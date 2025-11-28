@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "Il fait plus chaud aujourd'hui qu'hier."
+    },
+    "comparison_boda_2": {
+      "translation": "Je suis plus grand que ma grande sœur."
+    },
+    "comparison_boda_3": {
+      "translation": "Ce sac est plus léger que celui-là."
+    },
+    "comparison_boda_4": {
+      "translation": "Ce film est beaucoup plus intéressant que le précédent."
+    },
+    "comparison_boda_5": {
+      "translation": "Cette rue est un peu plus calme que celle-là."
+    },
+    "comparison_mankeum_1": {
+      "translation": "Je ne cuisine pas aussi bien que ma grande sœur."
+    },
+    "comparison_mankeum_2": {
+      "translation": "Aujourd'hui est aussi chargé qu'hier."
+    },
+    "comparison_mankeum_3": {
+      "translation": "Cet athlète a obtenu des résultats aussi bons que ce que nous attendions."
+    },
+    "comparison_mankeum_4": {
+      "translation": "Cette tenue n'est pas aussi chaude que je le pensais."
+    },
+    "comparison_mankeum_5": {
+      "translation": "Je ne suis pas aussi bon en anglais que mon ami."
+    },
+    "comparison_cheoreom_1": {
+      "translation": "Cet enfant sourit comme un ange."
+    },
+    "comparison_cheoreom_2": {
+      "translation": "Ce chiot est petit et mignon comme une poupée."
+    },
+    "comparison_cheoreom_3": {
+      "translation": "Le ciel est si beau, comme un tableau."
+    },
+    "comparison_cheoreom_4": {
+      "translation": "Il travaille comme une machine."
+    },
+    "comparison_cheoreom_5": {
+      "translation": "Je veux marcher librement comme le vent."
+    }
+  }
+}

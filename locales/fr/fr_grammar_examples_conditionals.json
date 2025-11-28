@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "Quand il pleut, j'utilise un parapluie."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "Si tu as du temps, déjeunons ensemble."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "Si je rentre tôt à la maison, je regarde un film."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "S'il fait beau, je vais me promener."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "Si je suis occupé, je le ferai demain."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "Si j'économise de l'argent, je partirai en voyage."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "Si je fais de l'exercice, je serai en meilleure forme."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "Si j'étudie sérieusement, mes notes s'amélioreront."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "Si je me couche tôt, je me sentirai plus en forme demain."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "Si je marche beaucoup, je serai fatigué."
+    }
+  }
+}

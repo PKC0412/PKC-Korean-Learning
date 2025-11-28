@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "Spanish": "Hola / Buenos días/tardes",
+    "romanization": "annyeonghaseyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "Spanish": "Adiós (a quien se va)",
+    "romanization": "annyeonghi gaseyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "Spanish": "Adiós (a quien se queda)",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "안녕",
+    "Spanish": "Hola / Adiós (informal)",
+    "romanization": "annyeong",
+    "category": "Saludos"
+  },
+  {
+    "korean": "감사합니다",
+    "Spanish": "Gracias (formal)",
+    "romanization": "gamsahamnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "고맙습니다",
+    "Spanish": "Gracias",
+    "romanization": "gomapseumnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "고마워요",
+    "Spanish": "Gracias (cortés)",
+    "romanization": "gomawoyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "죄송합니다",
+    "Spanish": "Lo siento (formal)",
+    "romanization": "joesonghamnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "미안합니다",
+    "Spanish": "Perdón / Lo siento",
+    "romanization": "mianhamnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "미안해요",
+    "Spanish": "Perdón / Lo siento (cortés)",
+    "romanization": "mianhaeyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "반갑습니다",
+    "Spanish": "Mucho gusto",
+    "romanization": "bangapseumnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "Spanish": "Encantado de conocerle",
+    "romanization": "mannaseo bangawoyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "실례합니다",
+    "Spanish": "Disculpe / Con permiso",
+    "romanization": "sillyehamnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "저기요",
+    "Spanish": "Disculpe (para llamar la atención)",
+    "romanization": "jeogiyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "어서 오세요",
+    "Spanish": "Bienvenido",
+    "romanization": "eoseo oseyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "Spanish": "Buenas noches (formal)",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "잘 자요",
+    "Spanish": "Buenas noches / Que duermas bien",
+    "romanization": "jal jayo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "Spanish": "Buen provecho",
+    "romanization": "masitge deuseyo",
+    "category": "Saludos"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "Spanish": "Voy a comer bien (Gracias por la comida)",
+    "romanization": "jal meokgetseumnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "Spanish": "He comido bien (Gracias por la comida)",
+    "romanization": "jal meogeotseumnida",
+    "category": "Saludos"
+  },
+  {
+    "korean": "네",
+    "Spanish": "Sí",
+    "romanization": "ne",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "아니요",
+    "Spanish": "No",
+    "romanization": "aniyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "괜찮아요",
+    "Spanish": "Está bien / No pasa nada",
+    "romanization": "gwaenchanayo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "좋아요",
+    "Spanish": "Bien / Me gusta",
+    "romanization": "joayo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "싫어요",
+    "Spanish": "No me gusta / No quiero",
+    "romanization": "sileoyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "천만에요",
+    "Spanish": "De nada",
+    "romanization": "cheonmaneyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "잠깐만요",
+    "Spanish": "Un momento, por favor",
+    "romanization": "jamkkanmanyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "알겠습니다",
+    "Spanish": "Entendido",
+    "romanization": "algesseumnida",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "모르겠어요",
+    "Spanish": "No lo sé",
+    "romanization": "moreugesseoyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "도와주세요",
+    "Spanish": "Ayúdeme, por favor",
+    "romanization": "dowajuseyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "됐어요",
+    "Spanish": "Está bien / Suficiente",
+    "romanization": "dwaesseoyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "안 돼요",
+    "Spanish": "No se puede / No",
+    "romanization": "an dwaeyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "맞아요",
+    "Spanish": "Correcto / Es verdad",
+    "romanization": "majayo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "틀렸어요",
+    "Spanish": "Incorrecto / Está mal",
+    "romanization": "teullyeosseoyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "그래요",
+    "Spanish": "¿Ah, sí? / ¿En serio?",
+    "romanization": "geuraeyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "정말요",
+    "Spanish": "¿De verdad?",
+    "romanization": "jeongmallyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "진짜요",
+    "Spanish": "¿En serio?",
+    "romanization": "jinjjayo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "그럼요",
+    "Spanish": "Por supuesto",
+    "romanization": "geureomyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "아마도",
+    "Spanish": "Tal vez",
+    "romanization": "amado",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "글쎄요",
+    "Spanish": "Bueno... / No estoy seguro",
+    "romanization": "geulsseyo",
+    "category": "Vocabulario básico"
+  },
+  {
+    "korean": "물",
+    "Spanish": "Agua",
+    "romanization": "mul",
+    "category": "Comida"
+  },
+  {
+    "korean": "밥",
+    "Spanish": "Arroz / Comida",
+    "romanization": "bap",
+    "category": "Comida"
+  },
+  {
+    "korean": "김밥",
+    "Spanish": "Kimbap",
+    "romanization": "gimbap",
+    "category": "Comida"
+  },
+  {
+    "korean": "라면",
+    "Spanish": "Ramen / Fideos instantáneos",
+    "romanization": "ramyeon",
+    "category": "Comida"
+  },
+  {
+    "korean": "김치",
+    "Spanish": "Kimchi",
+    "romanization": "gimchi",
+    "category": "Comida"
+  },
+  {
+    "korean": "커피",
+    "Spanish": "Café",
+    "romanization": "keopi",
+    "category": "Comida"
+  },
+  {
+    "korean": "차",
+    "Spanish": "Té",
+    "romanization": "cha",
+    "category": "Comida"
+  },
+  {
+    "korean": "우유",
+    "Spanish": "Leche",
+    "romanization": "uyu",
+    "category": "Comida"
+  },
+  {
+    "korean": "주스",
+    "Spanish": "Jugo / Zumo",
+    "romanization": "juseu",
+    "category": "Comida"
+  },
+  {
+    "korean": "맥주",
+    "Spanish": "Cerveza",
+    "romanization": "maekju",
+    "category": "Comida"
+  },
+  {
+    "korean": "빵",
+    "Spanish": "Pan",
+    "romanization": "ppang",
+    "category": "Comida"
+  },
+  {
+    "korean": "과자",
+    "Spanish": "Snack / Galleta",
+    "romanization": "gwaja",
+    "category": "Comida"
+  },
+  {
+    "korean": "사탕",
+    "Spanish": "Caramelo",
+    "romanization": "satang",
+    "category": "Comida"
+  },
+  {
+    "korean": "고기",
+    "Spanish": "Carne",
+    "romanization": "gogi",
+    "category": "Comida"
+  },
+  {
+    "korean": "치킨",
+    "Spanish": "Pollo frito",
+    "romanization": "chikin",
+    "category": "Comida"
+  },
+  {
+    "korean": "계란",
+    "Spanish": "Huevo",
+    "romanization": "gyeran",
+    "category": "Comida"
+  },
+  {
+    "korean": "과일",
+    "Spanish": "Fruta",
+    "romanization": "gwail",
+    "category": "Comida"
+  },
+  {
+    "korean": "사과",
+    "Spanish": "Manzana",
+    "romanization": "sagwa",
+    "category": "Comida"
+  },
+  {
+    "korean": "바나나",
+    "Spanish": "Plátano / Banana",
+    "romanization": "banana",
+    "category": "Comida"
+  },
+  {
+    "korean": "야채",
+    "Spanish": "Verdura",
+    "romanization": "yachae",
+    "category": "Comida"
+  },
+  {
+    "korean": "사람",
+    "Spanish": "Persona",
+    "romanization": "saram",
+    "category": "Personas"
+  },
+  {
+    "korean": "친구",
+    "Spanish": "Amigo",
+    "romanization": "chingu",
+    "category": "Personas"
+  },
+  {
+    "korean": "가족",
+    "Spanish": "Familia",
+    "romanization": "gajok",
+    "category": "Personas"
+  },
+  {
+    "korean": "엄마",
+    "Spanish": "Mamá",
+    "romanization": "eomma",
+    "category": "Personas"
+  },
+  {
+    "korean": "아빠",
+    "Spanish": "Papá",
+    "romanization": "appa",
+    "category": "Personas"
+  },
+  {
+    "korean": "부모님",
+    "Spanish": "Padres",
+    "romanization": "bumonim",
+    "category": "Personas"
+  },
+  {
+    "korean": "형",
+    "Spanish": "Hermano mayor (para hombres)",
+    "romanization": "hyeong",
+    "category": "Personas"
+  },
+  {
+    "korean": "오빠",
+    "Spanish": "Hermano mayor (para mujeres)",
+    "romanization": "oppa",
+    "category": "Personas"
+  },
+  {
+    "korean": "누나",
+    "Spanish": "Hermana mayor (para hombres)",
+    "romanization": "nuna",
+    "category": "Personas"
+  },
+  {
+    "korean": "언니",
+    "Spanish": "Hermana mayor (para mujeres)",
+    "romanization": "eonni",
+    "category": "Personas"
+  },
+  {
+    "korean": "동생",
+    "Spanish": "Hermano/a menor",
+    "romanization": "dongsaeng",
+    "category": "Personas"
+  },
+  {
+    "korean": "선생님",
+    "Spanish": "Profesor / Maestro",
+    "romanization": "seonsaengnim",
+    "category": "Personas"
+  },
+  {
+    "korean": "학생",
+    "Spanish": "Estudiante",
+    "romanization": "haksaeng",
+    "category": "Personas"
+  },
+  {
+    "korean": "남자",
+    "Spanish": "Hombre",
+    "romanization": "namja",
+    "category": "Personas"
+  },
+  {
+    "korean": "여자",
+    "Spanish": "Mujer",
+    "romanization": "yeoja",
+    "category": "Personas"
+  },
+  {
+    "korean": "아이",
+    "Spanish": "Niño/a",
+    "romanization": "ai",
+    "category": "Personas"
+  },
+  {
+    "korean": "아기",
+    "Spanish": "Bebé",
+    "romanization": "agi",
+    "category": "Personas"
+  },
+  {
+    "korean": "할아버지",
+    "Spanish": "Abuelo",
+    "romanization": "harabeoji",
+    "category": "Personas"
+  },
+  {
+    "korean": "할머니",
+    "Spanish": "Abuela",
+    "romanization": "halmeoni",
+    "category": "Personas"
+  },
+  {
+    "korean": "손님",
+    "Spanish": "Cliente / Invitado",
+    "romanization": "sonnim",
+    "category": "Personas"
+  },
+  {
+    "korean": "집",
+    "Spanish": "Casa",
+    "romanization": "jip",
+    "category": "Lugares"
+  },
+  {
+    "korean": "학교",
+    "Spanish": "Escuela",
+    "romanization": "hakgyo",
+    "category": "Lugares"
+  },
+  {
+    "korean": "병원",
+    "Spanish": "Hospital",
+    "romanization": "byeongwon",
+    "category": "Lugares"
+  },
+  {
+    "korean": "약국",
+    "Spanish": "Farmacia",
+    "romanization": "yakguk",
+    "category": "Lugares"
+  },
+  {
+    "korean": "식당",
+    "Spanish": "Restaurante / Comedor",
+    "romanization": "sikdang",
+    "category": "Lugares"
+  },
+  {
+    "korean": "카페",
+    "Spanish": "Cafetería",
+    "romanization": "kape",
+    "category": "Lugares"
+  },
+  {
+    "korean": "화장실",
+    "Spanish": "Baño",
+    "romanization": "hwajangsil",
+    "category": "Lugares"
+  },
+  {
+    "korean": "은행",
+    "Spanish": "Banco",
+    "romanization": "eunhaeng",
+    "category": "Lugares"
+  },
+  {
+    "korean": "공항",
+    "Spanish": "Aeropuerto",
+    "romanization": "gonghang",
+    "category": "Lugares"
+  },
+  {
+    "korean": "호텔",
+    "Spanish": "Hotel",
+    "romanization": "hotel",
+    "category": "Lugares"
+  },
+  {
+    "korean": "시장",
+    "Spanish": "Mercado",
+    "romanization": "sijang",
+    "category": "Lugares"
+  },
+  {
+    "korean": "백화점",
+    "Spanish": "Grandes almacenes",
+    "romanization": "baekwajeom",
+    "category": "Lugares"
+  },
+  {
+    "korean": "편의점",
+    "Spanish": "Tienda de conveniencia",
+    "romanization": "pyeonuijeom",
+    "category": "Lugares"
+  },
+  {
+    "korean": "회사",
+    "Spanish": "Empresa / Oficina",
+    "romanization": "hoesa",
+    "category": "Lugares"
+  },
+  {
+    "korean": "도서관",
+    "Spanish": "Biblioteca",
+    "romanization": "doseogwan",
+    "category": "Lugares"
+  },
+  {
+    "korean": "공원",
+    "Spanish": "Parque",
+    "romanization": "gongwon",
+    "category": "Lugares"
+  },
+  {
+    "korean": "극장",
+    "Spanish": "Teatro / Cine",
+    "romanization": "geukjang",
+    "category": "Lugares"
+  },
+  {
+    "korean": "박물관",
+    "Spanish": "Museo",
+    "romanization": "bangmulgwan",
+    "category": "Lugares"
+  },
+  {
+    "korean": "역",
+    "Spanish": "Estación",
+    "romanization": "yeok",
+    "category": "Lugares"
+  },
+  {
+    "korean": "정류장",
+    "Spanish": "Parada de autobús",
+    "romanization": "jeongnyujang",
+    "category": "Lugares"
+  },
+  {
+    "korean": "버스",
+    "Spanish": "Autobús",
+    "romanization": "beoseu",
+    "category": "Transporte"
+  },
+  {
+    "korean": "택시",
+    "Spanish": "Taxi",
+    "romanization": "taeksi",
+    "category": "Transporte"
+  },
+  {
+    "korean": "기차",
+    "Spanish": "Tren",
+    "romanization": "gicha",
+    "category": "Transporte"
+  },
+  {
+    "korean": "지하철",
+    "Spanish": "Metro",
+    "romanization": "jihacheol",
+    "category": "Transporte"
+  },
+  {
+    "korean": "비행기",
+    "Spanish": "Avión",
+    "romanization": "bihaenggi",
+    "category": "Transporte"
+  },
+  {
+    "korean": "자동차",
+    "Spanish": "Coche / Automóvil",
+    "romanization": "jadongcha",
+    "category": "Transporte"
+  },
+  {
+    "korean": "자전거",
+    "Spanish": "Bicicleta",
+    "romanization": "jajeongeo",
+    "category": "Transporte"
+  },
+  {
+    "korean": "오토바이",
+    "Spanish": "Motocicleta",
+    "romanization": "otobai",
+    "category": "Transporte"
+  },
+  {
+    "korean": "배",
+    "Spanish": "Barco",
+    "romanization": "bae",
+    "category": "Transporte"
+  },
+  {
+    "korean": "표",
+    "Spanish": "Billete / Boleto",
+    "romanization": "pyo",
+    "category": "Transporte"
+  },
+  {
+    "korean": "길",
+    "Spanish": "Camino / Calle",
+    "romanization": "gil",
+    "category": "Transporte"
+  },
+  {
+    "korean": "거리",
+    "Spanish": "Calle / Distancia",
+    "romanization": "geori",
+    "category": "Transporte"
+  },
+  {
+    "korean": "신호등",
+    "Spanish": "Semáforo",
+    "romanization": "sinhodeung",
+    "category": "Transporte"
+  },
+  {
+    "korean": "횡단보도",
+    "Spanish": "Paso de peatones",
+    "romanization": "hoengdanbodo",
+    "category": "Transporte"
+  },
+  {
+    "korean": "주차장",
+    "Spanish": "Aparcamiento",
+    "romanization": "juchajang",
+    "category": "Transporte"
+  },
+  {
+    "korean": "운전",
+    "Spanish": "Conducción",
+    "romanization": "unjeon",
+    "category": "Transporte"
+  },
+  {
+    "korean": "출발",
+    "Spanish": "Salida",
+    "romanization": "chulbal",
+    "category": "Transporte"
+  },
+  {
+    "korean": "도착",
+    "Spanish": "Llegada",
+    "romanization": "dochak",
+    "category": "Transporte"
+  },
+  {
+    "korean": "가까이",
+    "Spanish": "Cerca",
+    "romanization": "gakkai",
+    "category": "Transporte"
+  },
+  {
+    "korean": "멀리",
+    "Spanish": "Lejos",
+    "romanization": "meolli",
+    "category": "Transporte"
+  },
+  {
+    "korean": "가다",
+    "Spanish": "Ir",
+    "romanization": "gada",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "오다",
+    "Spanish": "Venir",
+    "romanization": "oda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "먹다",
+    "Spanish": "Comer",
+    "romanization": "meokda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "마시다",
+    "Spanish": "Beber",
+    "romanization": "masida",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "자다",
+    "Spanish": "Dormir",
+    "romanization": "jada",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "일어나다",
+    "Spanish": "Levantarse / Despertarse",
+    "romanization": "ireonada",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "씻다",
+    "Spanish": "Lavar",
+    "romanization": "ssitda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "입다",
+    "Spanish": "Vestirse / Ponerse",
+    "romanization": "ipda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "벗다",
+    "Spanish": "Quitarse / Desvestirse",
+    "romanization": "beotda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "앉다",
+    "Spanish": "Sentarse",
+    "romanization": "anda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "서다",
+    "Spanish": "Estar de pie",
+    "romanization": "seoda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "눕다",
+    "Spanish": "Acostarse / Tumbarse",
+    "romanization": "nupda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "걷다",
+    "Spanish": "Caminar",
+    "romanization": "geotda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "뛰다",
+    "Spanish": "Correr",
+    "romanization": "ttwida",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "타다",
+    "Spanish": "Subir / Montar",
+    "romanization": "tada",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "내리다",
+    "Spanish": "Bajar",
+    "romanization": "naerida",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "열다",
+    "Spanish": "Abrir",
+    "romanization": "yeolda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "닫다",
+    "Spanish": "Cerrar",
+    "romanization": "datda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "켜다",
+    "Spanish": "Encender",
+    "romanization": "kyeoda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "끄다",
+    "Spanish": "Apagar",
+    "romanization": "kkeuda",
+    "category": "Verbos cotidianos"
+  },
+  {
+    "korean": "공부하다",
+    "Spanish": "Estudiar",
+    "romanization": "gongbuhada",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "일하다",
+    "Spanish": "Trabajar",
+    "romanization": "ilhada",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "보다",
+    "Spanish": "Ver / Mirar",
+    "romanization": "boda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "듣다",
+    "Spanish": "Oír / Escuchar",
+    "romanization": "deutda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "말하다",
+    "Spanish": "Hablar / Decir",
+    "romanization": "malhada",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "읽다",
+    "Spanish": "Leer",
+    "romanization": "ikda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "쓰다",
+    "Spanish": "Escribir / Usar",
+    "romanization": "sseuda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "배우다",
+    "Spanish": "Aprender",
+    "romanization": "baeuda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "가르치다",
+    "Spanish": "Enseñar",
+    "romanization": "gareuchida",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "생각하다",
+    "Spanish": "Pensar",
+    "romanization": "saenggakhada",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "알다",
+    "Spanish": "Saber / Conocer",
+    "romanization": "alda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "모르다",
+    "Spanish": "No saber / No conocer",
+    "romanization": "moreuda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "사다",
+    "Spanish": "Comprar",
+    "romanization": "sada",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "팔다",
+    "Spanish": "Vender",
+    "romanization": "palda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "만들다",
+    "Spanish": "Hacer / Crear",
+    "romanization": "mandeulda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "하다",
+    "Spanish": "Hacer",
+    "romanization": "hada",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "주다",
+    "Spanish": "Dar",
+    "romanization": "juda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "받다",
+    "Spanish": "Recibir",
+    "romanization": "batda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "찾다",
+    "Spanish": "Buscar / Encontrar",
+    "romanization": "chatda",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "잃다",
+    "Spanish": "Perder",
+    "romanization": "ilta",
+    "category": "Verbos de acción"
+  },
+  {
+    "korean": "좋다",
+    "Spanish": "Bueno / Gustar",
+    "romanization": "jota",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "나쁘다",
+    "Spanish": "Malo",
+    "romanization": "nappeuda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "크다",
+    "Spanish": "Grande",
+    "romanization": "keuda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "작다",
+    "Spanish": "Pequeño",
+    "romanization": "jakda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "높다",
+    "Spanish": "Alto",
+    "romanization": "nopda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "낮다",
+    "Spanish": "Bajo",
+    "romanization": "natda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "길다",
+    "Spanish": "Largo",
+    "romanization": "gilda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "짧다",
+    "Spanish": "Corto",
+    "romanization": "jjalpda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "넓다",
+    "Spanish": "Ancho / Amplio",
+    "romanization": "neolpda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "좁다",
+    "Spanish": "Estrecho",
+    "romanization": "jopda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "예쁘다",
+    "Spanish": "Bonito",
+    "romanization": "yeppeuda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "아름답다",
+    "Spanish": "Hermoso",
+    "romanization": "areumdapda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "맛있다",
+    "Spanish": "Delicioso",
+    "romanization": "masitta",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "맛없다",
+    "Spanish": "Insípido / No sabe bien",
+    "romanization": "mateopsda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "비싸다",
+    "Spanish": "Caro",
+    "romanization": "bissada",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "싸다",
+    "Spanish": "Barato",
+    "romanization": "ssada",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "많다",
+    "Spanish": "Mucho",
+    "romanization": "manta",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "적다",
+    "Spanish": "Poco",
+    "romanization": "jeokda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "빠르다",
+    "Spanish": "Rápido",
+    "romanization": "ppareuda",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "느리다",
+    "Spanish": "Lento",
+    "romanization": "neurida",
+    "category": "Adjetivos"
+  },
+  {
+    "korean": "하나",
+    "Spanish": "Uno",
+    "romanization": "hana",
+    "category": "Números"
+  },
+  {
+    "korean": "둘",
+    "Spanish": "Dos",
+    "romanization": "dul",
+    "category": "Números"
+  },
+  {
+    "korean": "셋",
+    "Spanish": "Tres",
+    "romanization": "set",
+    "category": "Números"
+  },
+  {
+    "korean": "넷",
+    "Spanish": "Cuatro",
+    "romanization": "net",
+    "category": "Números"
+  },
+  {
+    "korean": "다섯",
+    "Spanish": "Cinco",
+    "romanization": "daseot",
+    "category": "Números"
+  },
+  {
+    "korean": "여섯",
+    "Spanish": "Seis",
+    "romanization": "yeoseot",
+    "category": "Números"
+  },
+  {
+    "korean": "일곱",
+    "Spanish": "Siete",
+    "romanization": "ilgop",
+    "category": "Números"
+  },
+  {
+    "korean": "여덟",
+    "Spanish": "Ocho",
+    "romanization": "yeodeol",
+    "category": "Números"
+  },
+  {
+    "korean": "아홉",
+    "Spanish": "Nueve",
+    "romanization": "ahop",
+    "category": "Números"
+  },
+  {
+    "korean": "열",
+    "Spanish": "Diez",
+    "romanization": "yeol",
+    "category": "Números"
+  },
+  {
+    "korean": "일",
+    "Spanish": "Uno (Sino-coreano)",
+    "romanization": "il",
+    "category": "Números"
+  },
+  {
+    "korean": "이",
+    "Spanish": "Dos (Sino-coreano)",
+    "romanization": "i",
+    "category": "Números"
+  },
+  {
+    "korean": "삼",
+    "Spanish": "Tres (Sino-coreano)",
+    "romanization": "sam",
+    "category": "Números"
+  },
+  {
+    "korean": "사",
+    "Spanish": "Cuatro (Sino-coreano)",
+    "romanization": "sa",
+    "category": "Números"
+  },
+  {
+    "korean": "오",
+    "Spanish": "Cinco (Sino-coreano)",
+    "romanization": "o",
+    "category": "Números"
+  },
+  {
+    "korean": "육",
+    "Spanish": "Seis (Sino-coreano)",
+    "romanization": "yuk",
+    "category": "Números"
+  },
+  {
+    "korean": "칠",
+    "Spanish": "Siete (Sino-coreano)",
+    "romanization": "chil",
+    "category": "Números"
+  },
+  {
+    "korean": "팔",
+    "Spanish": "Ocho (Sino-coreano)",
+    "romanization": "pal",
+    "category": "Números"
+  },
+  {
+    "korean": "구",
+    "Spanish": "Nueve (Sino-coreano)",
+    "romanization": "gu",
+    "category": "Números"
+  },
+  {
+    "korean": "십",
+    "Spanish": "Diez (Sino-coreano)",
+    "romanization": "sip",
+    "category": "Números"
+  },
+  {
+    "korean": "오늘",
+    "Spanish": "Hoy",
+    "romanization": "oneul",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "내일",
+    "Spanish": "Mañana",
+    "romanization": "naeil",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "어제",
+    "Spanish": "Ayer",
+    "romanization": "eoje",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "모레",
+    "Spanish": "Pasado mañana",
+    "romanization": "more",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "그제",
+    "Spanish": "Anteayer",
+    "romanization": "geuje",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "지금",
+    "Spanish": "Ahora",
+    "romanization": "jigeum",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "나중에",
+    "Spanish": "Más tarde",
+    "romanization": "najunge",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "아침",
+    "Spanish": "Mañana (tiempo)",
+    "romanization": "achim",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "점심",
+    "Spanish": "Mediodía / Almuerzo",
+    "romanization": "jeomsim",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "저녁",
+    "Spanish": "Tarde / Cena",
+    "romanization": "jeonyeok",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "밤",
+    "Spanish": "Noche",
+    "romanization": "bam",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "시간",
+    "Spanish": "Tiempo / Hora",
+    "romanization": "sigan",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "분",
+    "Spanish": "Minuto",
+    "romanization": "bun",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "초",
+    "Spanish": "Segundo",
+    "romanization": "cho",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "년",
+    "Spanish": "Año",
+    "romanization": "nyeon",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "월",
+    "Spanish": "Mes",
+    "romanization": "wol",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "일",
+    "Spanish": "Día",
+    "romanization": "il",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "주",
+    "Spanish": "Semana",
+    "romanization": "ju",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "요일",
+    "Spanish": "Día de la semana",
+    "romanization": "yoil",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "날",
+    "Spanish": "Día",
+    "romanization": "nal",
+    "category": "Hora y fecha"
+  },
+  {
+    "korean": "빨강",
+    "Spanish": "Rojo",
+    "romanization": "ppalgang",
+    "category": "Colores"
+  },
+  {
+    "korean": "빨간색",
+    "Spanish": "Color rojo",
+    "romanization": "ppalgansaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "파랑",
+    "Spanish": "Azul",
+    "romanization": "parang",
+    "category": "Colores"
+  },
+  {
+    "korean": "파란색",
+    "Spanish": "Color azul",
+    "romanization": "paransaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "노랑",
+    "Spanish": "Amarillo",
+    "romanization": "norang",
+    "category": "Colores"
+  },
+  {
+    "korean": "노란색",
+    "Spanish": "Color amarillo",
+    "romanization": "noransaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "초록",
+    "Spanish": "Verde",
+    "romanization": "chorok",
+    "category": "Colores"
+  },
+  {
+    "korean": "초록색",
+    "Spanish": "Color verde",
+    "romanization": "choroksaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "검정",
+    "Spanish": "Negro",
+    "romanization": "geomjeong",
+    "category": "Colores"
+  },
+  {
+    "korean": "검은색",
+    "Spanish": "Color negro",
+    "romanization": "geomeunsaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "하양",
+    "Spanish": "Blanco",
+    "romanization": "hayang",
+    "category": "Colores"
+  },
+  {
+    "korean": "하얀색",
+    "Spanish": "Color blanco",
+    "romanization": "hayansaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "주황",
+    "Spanish": "Naranja",
+    "romanization": "juhwang",
+    "category": "Colores"
+  },
+  {
+    "korean": "주황색",
+    "Spanish": "Color naranja",
+    "romanization": "juhwangsaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "보라",
+    "Spanish": "Violeta / Morado",
+    "romanization": "bora",
+    "category": "Colores"
+  },
+  {
+    "korean": "보라색",
+    "Spanish": "Color violeta",
+    "romanization": "borasaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "분홍",
+    "Spanish": "Rosa",
+    "romanization": "bunhong",
+    "category": "Colores"
+  },
+  {
+    "korean": "분홍색",
+    "Spanish": "Color rosa",
+    "romanization": "bunhongsaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "회색",
+    "Spanish": "Gris",
+    "romanization": "hoesaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "갈색",
+    "Spanish": "Marrón / Café",
+    "romanization": "galsaek",
+    "category": "Colores"
+  },
+  {
+    "korean": "머리",
+    "Spanish": "Cabeza",
+    "romanization": "meori",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "얼굴",
+    "Spanish": "Cara",
+    "romanization": "eolgul",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "눈",
+    "Spanish": "Ojo",
+    "romanization": "nun",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "코",
+    "Spanish": "Nariz",
+    "romanization": "ko",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "귀",
+    "Spanish": "Oreja",
+    "romanization": "gwi",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "입",
+    "Spanish": "Boca",
+    "romanization": "ip",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "이",
+    "Spanish": "Diente",
+    "romanization": "i",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "목",
+    "Spanish": "Cuello",
+    "romanization": "mok",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "어깨",
+    "Spanish": "Hombro",
+    "romanization": "eokkae",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "팔",
+    "Spanish": "Brazo",
+    "romanization": "pal",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "손",
+    "Spanish": "Mano",
+    "romanization": "son",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "손가락",
+    "Spanish": "Dedo de la mano",
+    "romanization": "son garak",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "다리",
+    "Spanish": "Pierna",
+    "romanization": "dari",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "발",
+    "Spanish": "Pie",
+    "romanization": "bal",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "발가락",
+    "Spanish": "Dedo del pie",
+    "romanization": "balgarak",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "배",
+    "Spanish": "Vientre / Estómago",
+    "romanization": "bae",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "등",
+    "Spanish": "Espalda",
+    "romanization": "deung",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "가슴",
+    "Spanish": "Pecho",
+    "romanization": "gaseum",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "심장",
+    "Spanish": "Corazón",
+    "romanization": "simjang",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "피",
+    "Spanish": "Sangre",
+    "romanization": "pi",
+    "category": "Cuerpo"
+  },
+  {
+    "korean": "날씨",
+    "Spanish": "Tiempo / Clima",
+    "romanization": "nalssi",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "비",
+    "Spanish": "Lluvia",
+    "romanization": "bi",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "눈",
+    "Spanish": "Nieve",
+    "romanization": "nun",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "바람",
+    "Spanish": "Viento",
+    "romanization": "baram",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "구름",
+    "Spanish": "Nube",
+    "romanization": "gureum",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "해",
+    "Spanish": "Sol",
+    "romanization": "hae",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "달",
+    "Spanish": "Luna",
+    "romanization": "dal",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "별",
+    "Spanish": "Estrella",
+    "romanization": "byeol",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "하늘",
+    "Spanish": "Cielo",
+    "romanization": "haneul",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "땅",
+    "Spanish": "Tierra / Suelo",
+    "romanization": "ttang",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "산",
+    "Spanish": "Montaña",
+    "romanization": "san",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "강",
+    "Spanish": "Río",
+    "romanization": "gang",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "바다",
+    "Spanish": "Mar",
+    "romanization": "bada",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "호수",
+    "Spanish": "Lago",
+    "romanization": "hosu",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "나무",
+    "Spanish": "Árbol",
+    "romanization": "namu",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "꽃",
+    "Spanish": "Flor",
+    "romanization": "kkot",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "풀",
+    "Spanish": "Hierba / Pasto",
+    "romanization": "pul",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "불",
+    "Spanish": "Fuego",
+    "romanization": "bul",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "돌",
+    "Spanish": "Piedra",
+    "romanization": "dol",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "흙",
+    "Spanish": "Tierra",
+    "romanization": "heuk",
+    "category": "Naturaleza"
+  },
+  {
+    "korean": "교실",
+    "Spanish": "Aula / Salón de clases",
+    "romanization": "gyosil",
+    "category": "Escuela"
+  },
+  {
+    "korean": "책",
+    "Spanish": "Libro",
+    "romanization": "chaek",
+    "category": "Escuela"
+  },
+  {
+    "korean": "공책",
+    "Spanish": "Cuaderno",
+    "romanization": "gongchaek",
+    "category": "Escuela"
+  },
+  {
+    "korean": "연필",
+    "Spanish": "Lápiz",
+    "romanization": "yeonpil",
+    "category": "Escuela"
+  },
+  {
+    "korean": "펜",
+    "Spanish": "Bolígrafo / Pluma",
+    "romanization": "pen",
+    "category": "Escuela"
+  },
+  {
+    "korean": "지우개",
+    "Spanish": "Borrador / Goma",
+    "romanization": "jiugae",
+    "category": "Escuela"
+  },
+  {
+    "korean": "가방",
+    "Spanish": "Mochila / Bolso",
+    "romanization": "gabang",
+    "category": "Escuela"
+  },
+  {
+    "korean": "책상",
+    "Spanish": "Escritorio / Pupitre",
+    "romanization": "chaeksang",
+    "category": "Escuela"
+  },
+  {
+    "korean": "의자",
+    "Spanish": "Silla",
+    "romanization": "uija",
+    "category": "Escuela"
+  },
+  {
+    "korean": "칠판",
+    "Spanish": "Pizarra / Tablero",
+    "romanization": "chilpan",
+    "category": "Escuela"
+  },
+  {
+    "korean": "숙제",
+    "Spanish": "Tarea / Deberes",
+    "romanization": "sukje",
+    "category": "Escuela"
+  },
+  {
+    "korean": "시험",
+    "Spanish": "Examen",
+    "romanization": "siheom",
+    "category": "Escuela"
+  },
+  {
+    "korean": "성적",
+    "Spanish": "Calificación / Notas",
+    "romanization": "seongjeok",
+    "category": "Escuela"
+  },
+  {
+    "korean": "수업",
+    "Spanish": "Clase",
+    "romanization": "sueop",
+    "category": "Escuela"
+  },
+  {
+    "korean": "과목",
+    "Spanish": "Asignatura / Materia",
+    "romanization": "gwamok",
+    "category": "Escuela"
+  },
+  {
+    "korean": "수학",
+    "Spanish": "Matemáticas",
+    "romanization": "suhak",
+    "category": "Escuela"
+  },
+  {
+    "korean": "과학",
+    "Spanish": "Ciencias",
+    "romanization": "gwahak",
+    "category": "Escuela"
+  },
+  {
+    "korean": "영어",
+    "Spanish": "Inglés",
+    "romanization": "yeongeo",
+    "category": "Escuela"
+  },
+  {
+    "korean": "역사",
+    "Spanish": "Historia",
+    "romanization": "yeoksa",
+    "category": "Escuela"
+  },
+  {
+    "korean": "체육",
+    "Spanish": "Educación física",
+    "romanization": "cheyuk",
+    "category": "Escuela"
+  }
+]

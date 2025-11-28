@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "ฉันออกกำลังกายตอนเช้าแล้วอาบน้ำ"
+    },
+    "connectives_go_2": {
+      "translation": "น้องทำการบ้านแล้วดูทีวี"
+    },
+    "connectives_go_3": {
+      "translation": "กินข้าวแล้วไปเดินเล่น"
+    },
+    "connectives_go_4": {
+      "translation": "เพื่อนอ่านหนังสือและฟังเพลง"
+    },
+    "connectives_go_5": {
+      "translation": "ฉันล้างจานและซักผ้า"
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "เพราะฝนตก เลยอยู่บ้าน"
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "เพราะหิวข้าว เลยกินมื้อเที่ยงเร็ว"
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "เพราะรถติด เลยมาสาย"
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "เพราะเหนื่อย เลยรีบนอน"
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "เพราะอากาศดี เลยออกไปเดินเล่น"
+    },
+    "connectives_jiman_1": {
+      "translation": "เหนื่อยนะ แต่ก็ออกกำลังกาย"
+    },
+    "connectives_jiman_2": {
+      "translation": "หนาวนะ แต่ออกไปเดินเล่น"
+    },
+    "connectives_jiman_3": {
+      "translation": "ยุ่งนะ แต่ก็ไปเจอเพื่อน"
+    },
+    "connectives_jiman_4": {
+      "translation": "อร่อยนะ แต่เผ็ดนิดหน่อย"
+    },
+    "connectives_jiman_5": {
+      "translation": "แพงนะ แต่คุณภาพดี"
+    },
+    "connectives_myeonseo_1": {
+      "translation": "ฉันฟังเพลงไปพร้อมกับเรียนหนังสือ"
+    },
+    "connectives_myeonseo_2": {
+      "translation": "น้องกินข้าวไปพร้อมกับดูทีวี"
+    },
+    "connectives_myeonseo_3": {
+      "translation": "เพื่อนเดินไปคุยไป"
+    },
+    "connectives_myeonseo_4": {
+      "translation": "ฉันทำอาหารไปร้องเพลงไป"
+    },
+    "connectives_myeonseo_5": {
+      "translation": "ผู้คนยิ้มขณะถ่ายรูป"
+    },
+    "connectives_geona_1": {
+      "translation": "สุดสัปดาห์ฉันดูหนังหรือไม่ก็พักผ่อน"
+    },
+    "connectives_geona_2": {
+      "translation": "น้องอ่านหนังสือหรือไม่ก็เล่นเกม"
+    },
+    "connectives_geona_3": {
+      "translation": "เพื่อนอ่านหนังสือหรือฟังเพลงที่คาเฟ่"
+    },
+    "connectives_geona_4": {
+      "translation": "ออกกำลังกายหรือไม่ก็ไปเดินเล่น"
+    },
+    "connectives_geona_5": {
+      "translation": "พวกเราถ่ายรูปหรือไม่ก็ดื่มกาแฟข้างนอก"
+    }
+  }
+}

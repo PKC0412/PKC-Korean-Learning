@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "Thai": "สวัสดีครับ/ค่ะ",
+    "romanization": "annyeonghaseyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "Thai": "ลาก่อน (ผู้พูดอยู่)",
+    "romanization": "annyeonghi gaseyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "Thai": "ลาก่อน (ผู้พูดไป)",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "안녕",
+    "Thai": "สวัสดี / บาย",
+    "romanization": "annyeong",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "감사합니다",
+    "Thai": "ขอบคุณครับ/ค่ะ (ทางการ)",
+    "romanization": "gamsahamnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "고맙습니다",
+    "Thai": "ขอบคุณครับ/ค่ะ",
+    "romanization": "gomapseumnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "고마워요",
+    "Thai": "ขอบใจนะ",
+    "romanization": "gomawoyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "죄송합니다",
+    "Thai": "ขอโทษครับ/ค่ะ (ทางการ)",
+    "romanization": "joesonghamnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "미안합니다",
+    "Thai": "ขอโทษครับ/ค่ะ",
+    "romanization": "mianhamnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "미안해요",
+    "Thai": "ขอโทษนะ",
+    "romanization": "mianhaeyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "반갑습니다",
+    "Thai": "ยินดีที่ได้รู้จัก",
+    "romanization": "bangapseumnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "Thai": "ยินดีที่ได้พบกัน",
+    "romanization": "mannaseo bangawoyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "실례합니다",
+    "Thai": "ขอโทษครับ/ค่ะ (รบกวน)",
+    "romanization": "sillyehamnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "저기요",
+    "Thai": "ขอโทษครับ/ค่ะ (เรียกคน)",
+    "romanization": "jeogiyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "어서 오세요",
+    "Thai": "ยินดีต้อนรับ",
+    "romanization": "eoseo oseyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "Thai": "ราตรีสวัสดิ์ (ทางการ)",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "잘 자요",
+    "Thai": "ฝันดีนะ",
+    "romanization": "jal jayo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "Thai": "ทานให้อร่อยนะครับ/คะ",
+    "romanization": "masitge deuseyo",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "Thai": "จะทานแล้วนะครับ/คะ (ขอบคุณสำหรับอาหาร)",
+    "romanization": "jal meokgetseumnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "Thai": "อิ่มแล้วครับ/ค่ะ (ขอบคุณสำหรับอาหาร)",
+    "romanization": "jal meogeotseumnida",
+    "category": "การทักทาย"
+  },
+  {
+    "korean": "네",
+    "Thai": "ใช่ / ครับ / ค่ะ",
+    "romanization": "ne",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "아니요",
+    "Thai": "ไม่ / ไม่ใช่",
+    "romanization": "aniyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "괜찮아요",
+    "Thai": "ไม่เป็นไร / โอเค",
+    "romanization": "gwaenchanayo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "좋아요",
+    "Thai": "ดี / ชอบ",
+    "romanization": "joayo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "싫어요",
+    "Thai": "ไม่ชอบ / เกลียด",
+    "romanization": "sileoyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "천만에요",
+    "Thai": "ยินดีครับ/ค่ะ / ไม่เป็นไร",
+    "romanization": "cheonmaneyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "잠깐만요",
+    "Thai": "รอสักครู่",
+    "romanization": "jamkkanmanyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "알겠습니다",
+    "Thai": "เข้าใจแล้ว / รับทราบ",
+    "romanization": "algesseumnida",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "모르겠어요",
+    "Thai": "ไม่รู้ / ไม่เข้าใจ",
+    "romanization": "moreugesseoyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "도와주세요",
+    "Thai": "ช่วยด้วย",
+    "romanization": "dowajuseyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "됐어요",
+    "Thai": "พอแล้ว / ไม่เอาแล้ว",
+    "romanization": "dwaesseoyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "안 돼요",
+    "Thai": "ไม่ได้ / ไม่",
+    "romanization": "an dwaeyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "맞아요",
+    "Thai": "ถูกต้อง",
+    "romanization": "majayo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "틀렸어요",
+    "Thai": "ผิด / ไม่ถูกต้อง",
+    "romanization": "teullyeosseoyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "그래요",
+    "Thai": "งั้นเหรอ / จริงเหรอ",
+    "romanization": "geuraeyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "정말요",
+    "Thai": "จริงเหรอ",
+    "romanization": "jeongmallyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "진짜요",
+    "Thai": "จริงดิ / พูดจริงเหรอ",
+    "romanization": "jinjjayo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "그럼요",
+    "Thai": "แน่นอน",
+    "romanization": "geureomyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "아마도",
+    "Thai": "อาจจะ",
+    "romanization": "amado",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "글쎄요",
+    "Thai": "ไม่แน่ใจ / ก็ไม่รู้สินะ",
+    "romanization": "geulsseyo",
+    "category": "คำศัพท์พื้นฐาน"
+  },
+  {
+    "korean": "물",
+    "Thai": "น้ำ",
+    "romanization": "mul",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "밥",
+    "Thai": "ข้าว / อาหาร",
+    "romanization": "bap",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "김밥",
+    "Thai": "คิมบับ",
+    "romanization": "gimbap",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "라면",
+    "Thai": "ราเมน / บะหมี่กึ่งสำเร็จรูป",
+    "romanization": "ramyeon",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "김치",
+    "Thai": "กิมจิ",
+    "romanization": "gimchi",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "커피",
+    "Thai": "กาแฟ",
+    "romanization": "keopi",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "차",
+    "Thai": "ชา",
+    "romanization": "cha",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "우유",
+    "Thai": "นม",
+    "romanization": "uyu",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "주스",
+    "Thai": "น้ำผลไม้",
+    "romanization": "juseu",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "맥주",
+    "Thai": "เบียร์",
+    "romanization": "maekju",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "빵",
+    "Thai": "ขนมปัง",
+    "romanization": "ppang",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "과자",
+    "Thai": "ขนม / ขนมขบเคี้ยว",
+    "romanization": "gwaja",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "사탕",
+    "Thai": "ลูกอม",
+    "romanization": "satang",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "고기",
+    "Thai": "เนื้อสัตว์",
+    "romanization": "gogi",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "치킨",
+    "Thai": "ไก่ทอด",
+    "romanization": "chikin",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "계란",
+    "Thai": "ไข่",
+    "romanization": "gyeran",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "과일",
+    "Thai": "ผลไม้",
+    "romanization": "gwail",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "사과",
+    "Thai": "แอปเปิ้ล",
+    "romanization": "sagwa",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "바나나",
+    "Thai": "กล้วย",
+    "romanization": "banana",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "야채",
+    "Thai": "ผัก",
+    "romanization": "yachae",
+    "category": "อาหาร"
+  },
+  {
+    "korean": "사람",
+    "Thai": "คน",
+    "romanization": "saram",
+    "category": "คน"
+  },
+  {
+    "korean": "친구",
+    "Thai": "เพื่อน",
+    "romanization": "chingu",
+    "category": "คน"
+  },
+  {
+    "korean": "가족",
+    "Thai": "ครอบครัว",
+    "romanization": "gajok",
+    "category": "คน"
+  },
+  {
+    "korean": "엄마",
+    "Thai": "แม่",
+    "romanization": "eomma",
+    "category": "คน"
+  },
+  {
+    "korean": "아빠",
+    "Thai": "พ่อ",
+    "romanization": "appa",
+    "category": "คน"
+  },
+  {
+    "korean": "부모님",
+    "Thai": "พ่อแม่",
+    "romanization": "bumonim",
+    "category": "คน"
+  },
+  {
+    "korean": "형",
+    "Thai": "พี่ชาย (ผู้ชายเรียก)",
+    "romanization": "hyeong",
+    "category": "คน"
+  },
+  {
+    "korean": "오빠",
+    "Thai": "พี่ชาย (ผู้หญิงเรียก)",
+    "romanization": "oppa",
+    "category": "คน"
+  },
+  {
+    "korean": "누나",
+    "Thai": "พี่สาว (ผู้ชายเรียก)",
+    "romanization": "nuna",
+    "category": "คน"
+  },
+  {
+    "korean": "언니",
+    "Thai": "พี่สาว (ผู้หญิงเรียก)",
+    "romanization": "eonni",
+    "category": "คน"
+  },
+  {
+    "korean": "동생",
+    "Thai": "น้อง (ชาย/สาว)",
+    "romanization": "dongsaeng",
+    "category": "คน"
+  },
+  {
+    "korean": "선생님",
+    "Thai": "ครู / อาจารย์",
+    "romanization": "seonsaengnim",
+    "category": "คน"
+  },
+  {
+    "korean": "학생",
+    "Thai": "นักเรียน",
+    "romanization": "haksaeng",
+    "category": "คน"
+  },
+  {
+    "korean": "남자",
+    "Thai": "ผู้ชาย",
+    "romanization": "namja",
+    "category": "คน"
+  },
+  {
+    "korean": "여자",
+    "Thai": "ผู้หญิง",
+    "romanization": "yeoja",
+    "category": "คน"
+  },
+  {
+    "korean": "아이",
+    "Thai": "เด็ก",
+    "romanization": "ai",
+    "category": "คน"
+  },
+  {
+    "korean": "아기",
+    "Thai": "ทารก / เด็กเล็ก",
+    "romanization": "agi",
+    "category": "คน"
+  },
+  {
+    "korean": "할아버지",
+    "Thai": "ปู่ / ตา",
+    "romanization": "harabeoji",
+    "category": "คน"
+  },
+  {
+    "korean": "할머니",
+    "Thai": "ย่า / ยาย",
+    "romanization": "halmeoni",
+    "category": "คน"
+  },
+  {
+    "korean": "손님",
+    "Thai": "ลูกค้า / แขก",
+    "romanization": "sonnim",
+    "category": "คน"
+  },
+  {
+    "korean": "집",
+    "Thai": "บ้าน",
+    "romanization": "jip",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "학교",
+    "Thai": "โรงเรียน",
+    "romanization": "hakgyo",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "병원",
+    "Thai": "โรงพยาบาล",
+    "romanization": "byeongwon",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "약국",
+    "Thai": "ร้านขายยา",
+    "romanization": "yakguk",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "식당",
+    "Thai": "ร้านอาหาร",
+    "romanization": "sikdang",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "카페",
+    "Thai": "คาเฟ่ / ร้านกาแฟ",
+    "romanization": "kape",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "화장실",
+    "Thai": "ห้องน้ำ",
+    "romanization": "hwajangsil",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "은행",
+    "Thai": "ธนาคาร",
+    "romanization": "eunhaeng",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "공항",
+    "Thai": "สนามบิน",
+    "romanization": "gonghang",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "호텔",
+    "Thai": "โรงแรม",
+    "romanization": "hotel",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "시장",
+    "Thai": "ตลาด",
+    "romanization": "sijang",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "백화점",
+    "Thai": "ห้างสรรพสินค้า",
+    "romanization": "baekwajeom",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "편의점",
+    "Thai": "ร้านสะดวกซื้อ",
+    "romanization": "pyeonuijeom",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "회사",
+    "Thai": "บริษัท / ที่ทำงาน",
+    "romanization": "hoesa",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "도서관",
+    "Thai": "ห้องสมุด",
+    "romanization": "doseogwan",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "공원",
+    "Thai": "สวนสาธารณะ",
+    "romanization": "gongwon",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "극장",
+    "Thai": "โรงหนัง / โรงละคร",
+    "romanization": "geukjang",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "박물관",
+    "Thai": "พิพิธภัณฑ์",
+    "romanization": "bangmulgwan",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "역",
+    "Thai": "สถานี",
+    "romanization": "yeok",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "정류장",
+    "Thai": "ป้ายรถเมล์",
+    "romanization": "jeongnyujang",
+    "category": "สถานที่"
+  },
+  {
+    "korean": "버스",
+    "Thai": "รถบัส / รถเมล์",
+    "romanization": "beoseu",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "택시",
+    "Thai": "แท็กซี่",
+    "romanization": "taeksi",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "기차",
+    "Thai": "รถไฟ",
+    "romanization": "gicha",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "지하철",
+    "Thai": "รถไฟใต้ดิน",
+    "romanization": "jihacheol",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "비행기",
+    "Thai": "เครื่องบิน",
+    "romanization": "bihaenggi",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "자동차",
+    "Thai": "รถยนต์",
+    "romanization": "jadongcha",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "자전거",
+    "Thai": "จักรยาน",
+    "romanization": "jajeongeo",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "오토바이",
+    "Thai": "มอเตอร์ไซค์",
+    "romanization": "otobai",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "배",
+    "Thai": "เรือ",
+    "romanization": "bae",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "표",
+    "Thai": "ตั๋ว",
+    "romanization": "pyo",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "길",
+    "Thai": "ถนน / ทาง",
+    "romanization": "gil",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "거리",
+    "Thai": "ถนน / ระยะทาง",
+    "romanization": "geori",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "신호등",
+    "Thai": "ไฟจราจร",
+    "romanization": "sinhodeung",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "횡단보도",
+    "Thai": "ทางม้าลาย",
+    "romanization": "hoengdanbodo",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "주차장",
+    "Thai": "ที่จอดรถ",
+    "romanization": "juchajang",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "운전",
+    "Thai": "การขับรถ",
+    "romanization": "unjeon",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "출발",
+    "Thai": "ออกเดินทาง",
+    "romanization": "chulbal",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "도착",
+    "Thai": "มาถึง",
+    "romanization": "dochak",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "가까이",
+    "Thai": "ใกล้",
+    "romanization": "gakkai",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "멀리",
+    "Thai": "ไกล",
+    "romanization": "meolli",
+    "category": "การคมนาคม"
+  },
+  {
+    "korean": "가다",
+    "Thai": "ไป",
+    "romanization": "gada",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "오다",
+    "Thai": "มา",
+    "romanization": "oda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "먹다",
+    "Thai": "กิน",
+    "romanization": "meokda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "마시다",
+    "Thai": "ดื่ม",
+    "romanization": "masida",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "자다",
+    "Thai": "นอน",
+    "romanization": "jada",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "일어나다",
+    "Thai": "ตื่นนอน",
+    "romanization": "ireonada",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "씻다",
+    "Thai": "ล้าง",
+    "romanization": "ssitda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "입다",
+    "Thai": "ใส่ (เสื้อผ้า)",
+    "romanization": "ipda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "벗다",
+    "Thai": "ถอด",
+    "romanization": "beotda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "앉다",
+    "Thai": "นั่ง",
+    "romanization": "anda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "서다",
+    "Thai": "ยืน",
+    "romanization": "seoda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "눕다",
+    "Thai": "นอนลง",
+    "romanization": "nupda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "걷다",
+    "Thai": "เดิน",
+    "romanization": "geotda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "뛰다",
+    "Thai": "วิ่ง",
+    "romanization": "ttwida",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "타다",
+    "Thai": "ขึ้น / ขี่",
+    "romanization": "tada",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "내리다",
+    "Thai": "ลง",
+    "romanization": "naerida",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "열다",
+    "Thai": "เปิด",
+    "romanization": "yeolda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "닫다",
+    "Thai": "ปิด",
+    "romanization": "datda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "켜다",
+    "Thai": "เปิด (ไฟ/เครื่องใช้ไฟฟ้า)",
+    "romanization": "kyeoda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "끄다",
+    "Thai": "ปิด (ไฟ/เครื่องใช้ไฟฟ้า)",
+    "romanization": "kkeuda",
+    "category": "คำกริยาในชีวิตประจำวัน"
+  },
+  {
+    "korean": "공부하다",
+    "Thai": "เรียน",
+    "romanization": "gongbuhada",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "일하다",
+    "Thai": "ทำงาน",
+    "romanization": "ilhada",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "보다",
+    "Thai": "ดู / มอง",
+    "romanization": "boda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "듣다",
+    "Thai": "ฟัง",
+    "romanization": "deutda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "말하다",
+    "Thai": "พูด",
+    "romanization": "malhada",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "읽다",
+    "Thai": "อ่าน",
+    "romanization": "ikda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "쓰다",
+    "Thai": "เขียน / ใช้",
+    "romanization": "sseuda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "배우다",
+    "Thai": "เรียนรู้",
+    "romanization": "baeuda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "가르치다",
+    "Thai": "สอน",
+    "romanization": "gareuchida",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "생각하다",
+    "Thai": "คิด",
+    "romanization": "saenggakhada",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "알다",
+    "Thai": "รู้",
+    "romanization": "alda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "모르다",
+    "Thai": "ไม่รู้",
+    "romanization": "moreuda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "사다",
+    "Thai": "ซื้อ",
+    "romanization": "sada",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "팔다",
+    "Thai": "ขาย",
+    "romanization": "palda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "만들다",
+    "Thai": "ทำ / สร้าง",
+    "romanization": "mandeulda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "하다",
+    "Thai": "ทำ",
+    "romanization": "hada",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "주다",
+    "Thai": "ให้",
+    "romanization": "juda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "받다",
+    "Thai": "รับ",
+    "romanization": "batda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "찾다",
+    "Thai": "หา / พบ",
+    "romanization": "chatda",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "잃다",
+    "Thai": "ทำหาย / เสีย",
+    "romanization": "ilta",
+    "category": "คำกริยาแสดงการกระทำ"
+  },
+  {
+    "korean": "좋다",
+    "Thai": "ดี",
+    "romanization": "jota",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "나쁘다",
+    "Thai": "แย่ / เลว",
+    "romanization": "nappeuda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "크다",
+    "Thai": "ใหญ่",
+    "romanization": "keuda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "작다",
+    "Thai": "เล็ก",
+    "romanization": "jakda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "높다",
+    "Thai": "สูง",
+    "romanization": "nopda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "낮다",
+    "Thai": "เตี้ย / ต่ำ",
+    "romanization": "natda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "길다",
+    "Thai": "ยาว",
+    "romanization": "gilda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "짧다",
+    "Thai": "สั้น",
+    "romanization": "jjalpda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "넓다",
+    "Thai": "กว้าง",
+    "romanization": "neolpda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "좁다",
+    "Thai": "แคบ",
+    "romanization": "jopda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "예쁘다",
+    "Thai": "สวย",
+    "romanization": "yeppeuda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "아름답다",
+    "Thai": "งดงาม",
+    "romanization": "areumdapda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "맛있다",
+    "Thai": "อร่อย",
+    "romanization": "masitta",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "맛없다",
+    "Thai": "ไม่อร่อย",
+    "romanization": "mateopsda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "비싸다",
+    "Thai": "แพง",
+    "romanization": "bissada",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "싸다",
+    "Thai": "ถูก",
+    "romanization": "ssada",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "많다",
+    "Thai": "มาก / เยอะ",
+    "romanization": "manta",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "적다",
+    "Thai": "น้อย",
+    "romanization": "jeokda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "빠르다",
+    "Thai": "เร็ว",
+    "romanization": "ppareuda",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "느리다",
+    "Thai": "ช้า",
+    "romanization": "neurida",
+    "category": "คำคุณศัพท์"
+  },
+  {
+    "korean": "하나",
+    "Thai": "หนึ่ง",
+    "romanization": "hana",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "둘",
+    "Thai": "สอง",
+    "romanization": "dul",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "셋",
+    "Thai": "สาม",
+    "romanization": "set",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "넷",
+    "Thai": "สี่",
+    "romanization": "net",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "다섯",
+    "Thai": "ห้า",
+    "romanization": "daseot",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "여섯",
+    "Thai": "หก",
+    "romanization": "yeoseot",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "일곱",
+    "Thai": "เจ็ด",
+    "romanization": "ilgop",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "여덟",
+    "Thai": "แปด",
+    "romanization": "yeodeol",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "아홉",
+    "Thai": "เก้า",
+    "romanization": "ahop",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "열",
+    "Thai": "สิบ",
+    "romanization": "yeol",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "일",
+    "Thai": "หนึ่ง (แบบจีน)",
+    "romanization": "il",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "이",
+    "Thai": "สอง (แบบจีน)",
+    "romanization": "i",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "삼",
+    "Thai": "สาม (แบบจีน)",
+    "romanization": "sam",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "사",
+    "Thai": "สี่ (แบบจีน)",
+    "romanization": "sa",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "오",
+    "Thai": "ห้า (แบบจีน)",
+    "romanization": "o",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "육",
+    "Thai": "หก (แบบจีน)",
+    "romanization": "yuk",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "칠",
+    "Thai": "เจ็ด (แบบจีน)",
+    "romanization": "chil",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "팔",
+    "Thai": "แปด (แบบจีน)",
+    "romanization": "pal",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "구",
+    "Thai": "เก้า (แบบจีน)",
+    "romanization": "gu",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "십",
+    "Thai": "สิบ (แบบจีน)",
+    "romanization": "sip",
+    "category": "ตัวเลข"
+  },
+  {
+    "korean": "오늘",
+    "Thai": "วันนี้",
+    "romanization": "oneul",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "내일",
+    "Thai": "พรุ่งนี้",
+    "romanization": "naeil",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "어제",
+    "Thai": "เมื่อวาน",
+    "romanization": "eoje",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "모레",
+    "Thai": "มะรืน",
+    "romanization": "more",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "그제",
+    "Thai": "เมื่อวานซืน",
+    "romanization": "geuje",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "지금",
+    "Thai": "ตอนนี้",
+    "romanization": "jigeum",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "나중에",
+    "Thai": "ภายหลัง / ทีหลัง",
+    "romanization": "najunge",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "아침",
+    "Thai": "ตอนเช้า",
+    "romanization": "achim",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "점심",
+    "Thai": "ตอนกลางวัน / มื้อเที่ยง",
+    "romanization": "jeomsim",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "저녁",
+    "Thai": "ตอนเย็น / มื้อเย็น",
+    "romanization": "jeonyeok",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "밤",
+    "Thai": "ตอนกลางคืน",
+    "romanization": "bam",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "시간",
+    "Thai": "เวลา / ชั่วโมง",
+    "romanization": "sigan",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "분",
+    "Thai": "นาที",
+    "romanization": "bun",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "초",
+    "Thai": "วินาที",
+    "romanization": "cho",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "년",
+    "Thai": "ปี",
+    "romanization": "nyeon",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "월",
+    "Thai": "เดือน",
+    "romanization": "wol",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "일",
+    "Thai": "วัน",
+    "romanization": "il",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "주",
+    "Thai": "สัปดาห์",
+    "romanization": "ju",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "요일",
+    "Thai": "วันในสัปดาห์",
+    "romanization": "yoil",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "날",
+    "Thai": "วัน",
+    "romanization": "nal",
+    "category": "เวลาและวันที่"
+  },
+  {
+    "korean": "빨강",
+    "Thai": "สีแดง",
+    "romanization": "ppalgang",
+    "category": "สี"
+  },
+  {
+    "korean": "빨간색",
+    "Thai": "สีแดง",
+    "romanization": "ppalgansaek",
+    "category": "สี"
+  },
+  {
+    "korean": "파랑",
+    "Thai": "สีน้ำเงิน",
+    "romanization": "parang",
+    "category": "สี"
+  },
+  {
+    "korean": "파란색",
+    "Thai": "สีน้ำเงิน",
+    "romanization": "paransaek",
+    "category": "สี"
+  },
+  {
+    "korean": "노랑",
+    "Thai": "สีเหลือง",
+    "romanization": "norang",
+    "category": "สี"
+  },
+  {
+    "korean": "노란색",
+    "Thai": "สีเหลือง",
+    "romanization": "noransaek",
+    "category": "สี"
+  },
+  {
+    "korean": "초록",
+    "Thai": "สีเขียว",
+    "romanization": "chorok",
+    "category": "สี"
+  },
+  {
+    "korean": "초록색",
+    "Thai": "สีเขียว",
+    "romanization": "choroksaek",
+    "category": "สี"
+  },
+  {
+    "korean": "검정",
+    "Thai": "สีดำ",
+    "romanization": "geomjeong",
+    "category": "สี"
+  },
+  {
+    "korean": "검은색",
+    "Thai": "สีดำ",
+    "romanization": "geomeunsaek",
+    "category": "สี"
+  },
+  {
+    "korean": "하양",
+    "Thai": "สีขาว",
+    "romanization": "hayang",
+    "category": "สี"
+  },
+  {
+    "korean": "하얀색",
+    "Thai": "สีขาว",
+    "romanization": "hayansaek",
+    "category": "สี"
+  },
+  {
+    "korean": "주황",
+    "Thai": "สีส้ม",
+    "romanization": "juhwang",
+    "category": "สี"
+  },
+  {
+    "korean": "주황색",
+    "Thai": "สีส้ม",
+    "romanization": "juhwangsaek",
+    "category": "สี"
+  },
+  {
+    "korean": "보라",
+    "Thai": "สีม่วง",
+    "romanization": "bora",
+    "category": "สี"
+  },
+  {
+    "korean": "보라색",
+    "Thai": "สีม่วง",
+    "romanization": "borasaek",
+    "category": "สี"
+  },
+  {
+    "korean": "분홍",
+    "Thai": "สีชมพู",
+    "romanization": "bunhong",
+    "category": "สี"
+  },
+  {
+    "korean": "분홍색",
+    "Thai": "สีชมพู",
+    "romanization": "bunhongsaek",
+    "category": "สี"
+  },
+  {
+    "korean": "회색",
+    "Thai": "สีเทา",
+    "romanization": "hoesaek",
+    "category": "สี"
+  },
+  {
+    "korean": "갈색",
+    "Thai": "สีน้ำตาล",
+    "romanization": "galsaek",
+    "category": "สี"
+  },
+  {
+    "korean": "머리",
+    "Thai": "หัว / ผม",
+    "romanization": "meori",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "얼굴",
+    "Thai": "ใบหน้า",
+    "romanization": "eolgul",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "눈",
+    "Thai": "ตา",
+    "romanization": "nun",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "코",
+    "Thai": "จมูก",
+    "romanization": "ko",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "귀",
+    "Thai": "หู",
+    "romanization": "gwi",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "입",
+    "Thai": "ปาก",
+    "romanization": "ip",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "이",
+    "Thai": "ฟัน",
+    "romanization": "i",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "목",
+    "Thai": "คอ",
+    "romanization": "mok",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "어깨",
+    "Thai": "ไหล่",
+    "romanization": "eokkae",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "팔",
+    "Thai": "แขน",
+    "romanization": "pal",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "손",
+    "Thai": "มือ",
+    "romanization": "son",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "손가락",
+    "Thai": "นิ้วมือ",
+    "romanization": "son garak",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "다리",
+    "Thai": "ขา",
+    "romanization": "dari",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "발",
+    "Thai": "เท้า",
+    "romanization": "bal",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "발가락",
+    "Thai": "นิ้วเท้า",
+    "romanization": "balgarak",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "배",
+    "Thai": "ท้อง",
+    "romanization": "bae",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "등",
+    "Thai": "หลัง",
+    "romanization": "deung",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "가슴",
+    "Thai": "หน้าอก",
+    "romanization": "gaseum",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "심장",
+    "Thai": "หัวใจ",
+    "romanization": "simjang",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "피",
+    "Thai": "เลือด",
+    "romanization": "pi",
+    "category": "ร่างกาย"
+  },
+  {
+    "korean": "날씨",
+    "Thai": "อากาศ",
+    "romanization": "nalssi",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "비",
+    "Thai": "ฝน",
+    "romanization": "bi",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "눈",
+    "Thai": "หิมะ",
+    "romanization": "nun",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "바람",
+    "Thai": "ลม",
+    "romanization": "baram",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "구름",
+    "Thai": "เมฆ",
+    "romanization": "gureum",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "해",
+    "Thai": "ดวงอาทิตย์",
+    "romanization": "hae",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "달",
+    "Thai": "ดวงจันทร์",
+    "romanization": "dal",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "별",
+    "Thai": "ดาว",
+    "romanization": "byeol",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "하늘",
+    "Thai": "ท้องฟ้า",
+    "romanization": "haneul",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "땅",
+    "Thai": "พื้นดิน",
+    "romanization": "ttang",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "산",
+    "Thai": "ภูเขา",
+    "romanization": "san",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "강",
+    "Thai": "แม่น้ำ",
+    "romanization": "gang",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "바다",
+    "Thai": "ทะเล",
+    "romanization": "bada",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "호수",
+    "Thai": "ทะเลสาบ",
+    "romanization": "hosu",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "나무",
+    "Thai": "ต้นไม้",
+    "romanization": "namu",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "꽃",
+    "Thai": "ดอกไม้",
+    "romanization": "kkot",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "풀",
+    "Thai": "หญ้า",
+    "romanization": "pul",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "불",
+    "Thai": "ไฟ",
+    "romanization": "bul",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "돌",
+    "Thai": "ก้อนหิน",
+    "romanization": "dol",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "흙",
+    "Thai": "ดิน",
+    "romanization": "heuk",
+    "category": "ธรรมชาติ"
+  },
+  {
+    "korean": "교실",
+    "Thai": "ห้องเรียน",
+    "romanization": "gyosil",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "책",
+    "Thai": "หนังสือ",
+    "romanization": "chaek",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "공책",
+    "Thai": "สมุดโน้ต",
+    "romanization": "gongchaek",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "연필",
+    "Thai": "ดินสอ",
+    "romanization": "yeonpil",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "펜",
+    "Thai": "ปากกา",
+    "romanization": "pen",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "지우개",
+    "Thai": "ยางลบ",
+    "romanization": "jiugae",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "가방",
+    "Thai": "กระเป๋า",
+    "romanization": "gabang",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "책상",
+    "Thai": "โต๊ะเขียนหนังสือ",
+    "romanization": "chaeksang",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "의자",
+    "Thai": "เก้าอี้",
+    "romanization": "uija",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "칠판",
+    "Thai": "กระดานดำ",
+    "romanization": "chilpan",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "숙제",
+    "Thai": "การบ้าน",
+    "romanization": "sukje",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "시험",
+    "Thai": "การสอบ",
+    "romanization": "siheom",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "성적",
+    "Thai": "เกรด / คะแนน",
+    "romanization": "seongjeok",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "수업",
+    "Thai": "ชั้นเรียน / การสอน",
+    "romanization": "sueop",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "과목",
+    "Thai": "วิชา",
+    "romanization": "gwamok",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "수학",
+    "Thai": "คณิตศาสตร์",
+    "romanization": "suhak",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "과학",
+    "Thai": "วิทยาศาสตร์",
+    "romanization": "gwahak",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "영어",
+    "Thai": "ภาษาอังกฤษ",
+    "romanization": "yeongeo",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "역사",
+    "Thai": "ประวัติศาสตร์",
+    "romanization": "yeoksa",
+    "category": "โรงเรียน"
+  },
+  {
+    "korean": "체육",
+    "Thai": "พละศึกษา",
+    "romanization": "cheyuk",
+    "category": "โรงเรียน"
+  }
+]

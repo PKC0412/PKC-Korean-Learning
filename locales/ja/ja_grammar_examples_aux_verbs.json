@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "今日は早く家に帰りたい。"
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "弟は子犬を育てたいと思っている。"
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "週末は海に行きたい。"
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "友達は新しい仕事を学びたいと言っている。"
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "来年は海外で働きたい。"
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "昨日、初めてキムチ作りに挑戦した。"
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "弟はスキーをやってみたかった。"
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "新しい方法を試してみた。"
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "友達が作ったケーキを食べてみてと言われた。"
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "今週は新しい運動法を試してみるつもりだ。"
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "今日はこの報告書を提出しなければならない。"
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "工事現場では作業員は安全装備を着用しなければならない。"
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "会議の前に資料を整理しなければならない。"
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "出発前にチケットを確認しなければならない。"
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "薬を飲む前に食事をしなければならない。"
+    }
+  }
+}

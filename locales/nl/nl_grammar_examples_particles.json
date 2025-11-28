@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "Ik ga naar school."
+    },
+    "particles_case_2": {
+      "translation": "Mijn vriend heeft mij gebeld."
+    },
+    "particles_case_3": {
+      "translation": "Mijn broertje leest een boek in de kamer."
+    },
+    "particles_case_4": {
+      "translation": "Ik ga naar het bedrijf om te werken."
+    },
+    "particles_case_5": {
+      "translation": "Wij sporten elk weekend."
+    },
+    "particles_auxiliary_1": {
+      "translation": "Ik hou van koffie."
+    },
+    "particles_auxiliary_2": {
+      "translation": "Mijn vriend heeft de film ook gezien."
+    },
+    "particles_auxiliary_3": {
+      "translation": "Ik drink alleen water."
+    },
+    "particles_auxiliary_4": {
+      "translation": "Mijn broertje heeft zelfs geen rijst gegeten."
+    },
+    "particles_auxiliary_5": {
+      "translation": "Ik lees alleen boeken."
+    },
+    "particles_conjunctive_1": {
+      "translation": "Ik eet met mijn vriend."
+    },
+    "particles_conjunctive_2": {
+      "translation": "Wij zijn met de familie op reis geweest."
+    },
+    "particles_conjunctive_3": {
+      "translation": "Mijn broertje speelt met de puppy."
+    },
+    "particles_conjunctive_4": {
+      "translation": "Ik hou van kimchi en bulgogi."
+    },
+    "particles_conjunctive_5": {
+      "translation": "Mijn vriend heeft met de leraar gesproken."
+    }
+  }
+}

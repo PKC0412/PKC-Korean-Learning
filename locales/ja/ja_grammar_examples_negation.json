@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "辛い食べ物は食べない。"
+    },
+    "negation_an_2": {
+      "translation": "弟は宿題をしない。"
+    },
+    "negation_an_3": {
+      "translation": "コーヒーは飲まない。"
+    },
+    "negation_an_4": {
+      "translation": "友達はテレビを見ない。"
+    },
+    "negation_an_5": {
+      "translation": "運動をしない。"
+    },
+    "negation_mot_1": {
+      "translation": "私は上手に泳げない。"
+    },
+    "negation_mot_2": {
+      "translation": "弟は自転車に乗れない。"
+    },
+    "negation_mot_3": {
+      "translation": "私は上手に歌えない。"
+    },
+    "negation_mot_4": {
+      "translation": "友達は絵が上手に描けない。"
+    },
+    "negation_mot_5": {
+      "translation": "私は運転できない。"
+    },
+    "negation_ji_anhda_1": {
+      "translation": "お酒は飲まない。"
+    },
+    "negation_ji_anhda_2": {
+      "translation": "友達は朝食を食べない。"
+    },
+    "negation_ji_anhda_3": {
+      "translation": "私は夜更かししない。"
+    },
+    "negation_ji_anhda_4": {
+      "translation": "弟は学校に行かない。"
+    },
+    "negation_ji_anhda_5": {
+      "translation": "私は肉を食べない。"
+    },
+    "negation_ji_mothada_1": {
+      "translation": "辛い食べ物は食べられない。"
+    },
+    "negation_ji_mothada_2": {
+      "translation": "弟は階段を走って上れない。"
+    },
+    "negation_ji_mothada_3": {
+      "translation": "私は遠くまで歩けない。"
+    },
+    "negation_ji_mothada_4": {
+      "translation": "友達は高い場所に行けない。"
+    },
+    "negation_ji_mothada_5": {
+      "translation": "私は重い荷物を持てない。"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "Окно было открыто."
+    },
+    "voice_passive_ajida_2": {
+      "translation": "Дверь была закрыта."
+    },
+    "voice_passive_ajida_3": {
+      "translation": "Свет был выключен."
+    },
+    "voice_passive_ajida_4": {
+      "translation": "Еда была приготовлена."
+    },
+    "voice_passive_ajida_5": {
+      "translation": "Дорога была перекрыта."
+    },
+    "voice_causative_gehada_1": {
+      "translation": "Я заставил младшего брата улыбнуться."
+    },
+    "voice_causative_gehada_2": {
+      "translation": "Учитель заставил учеников читать."
+    },
+    "voice_causative_gehada_3": {
+      "translation": "Я заставил друга подождать."
+    },
+    "voice_causative_gehada_4": {
+      "translation": "Мама заставила меня лечь спать пораньше."
+    },
+    "voice_causative_gehada_5": {
+      "translation": "Я заставил щенка сесть."
+    }
+  }
+}

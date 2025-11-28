@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "我去学校。"
+    },
+    "particles_case_2": {
+      "translation": "朋友叫了我。"
+    },
+    "particles_case_3": {
+      "translation": "弟弟在房间看书。"
+    },
+    "particles_case_4": {
+      "translation": "我去公司上班。"
+    },
+    "particles_case_5": {
+      "translation": "我们每个周末都运动。"
+    },
+    "particles_auxiliary_1": {
+      "translation": "我喜欢咖啡。"
+    },
+    "particles_auxiliary_2": {
+      "translation": "朋友也看了电影。"
+    },
+    "particles_auxiliary_3": {
+      "translation": "我只喝水。"
+    },
+    "particles_auxiliary_4": {
+      "translation": "弟弟连饭都没吃。"
+    },
+    "particles_auxiliary_5": {
+      "translation": "我只看书。"
+    },
+    "particles_conjunctive_1": {
+      "translation": "我和朋友吃饭。"
+    },
+    "particles_conjunctive_2": {
+      "translation": "我们和家人去旅行了。"
+    },
+    "particles_conjunctive_3": {
+      "translation": "弟弟和小狗玩。"
+    },
+    "particles_conjunctive_4": {
+      "translation": "我喜欢泡菜和烤肉。"
+    },
+    "particles_conjunctive_5": {
+      "translation": "朋友和老师说话了。"
+    }
+  }
+}

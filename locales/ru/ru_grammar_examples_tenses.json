@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "Я занимаюсь спортом каждый день."
+    },
+    "tenses_present_2": {
+      "translation": "Младший брат сейчас делает домашнее задание."
+    },
+    "tenses_present_3": {
+      "translation": "Мой друг работает в компании."
+    },
+    "tenses_present_4": {
+      "translation": "Я отдыхаю дома."
+    },
+    "tenses_present_5": {
+      "translation": "Мы гуляем в парке."
+    },
+    "tenses_past_1": {
+      "translation": "Вчера я встретился с другом."
+    },
+    "tenses_past_2": {
+      "translation": "На прошлой неделе я посмотрел фильм."
+    },
+    "tenses_past_3": {
+      "translation": "Младший брат поздно позавтракал."
+    },
+    "tenses_past_4": {
+      "translation": "Я купил новую одежду."
+    },
+    "tenses_past_5": {
+      "translation": "Мы путешествовали на выходных."
+    },
+    "tenses_future_1": {
+      "translation": "Завтра я встречусь с другом."
+    },
+    "tenses_future_2": {
+      "translation": "Младший брат переедет на следующей неделе."
+    },
+    "tenses_future_3": {
+      "translation": "В этом году я буду учить корейский язык."
+    },
+    "tenses_future_4": {
+      "translation": "В следующем году мы поедем в путешествие."
+    },
+    "tenses_future_5": {
+      "translation": "Скоро я приготовлю ужин."
+    },
+    "tenses_progressive_1": {
+      "translation": "Я сейчас ем."
+    },
+    "tenses_progressive_2": {
+      "translation": "Младший брат слушает музыку в комнате."
+    },
+    "tenses_progressive_3": {
+      "translation": "Мой друг читает в библиотеке."
+    },
+    "tenses_progressive_4": {
+      "translation": "Мы готовим собрание."
+    },
+    "tenses_progressive_5": {
+      "translation": "На улице идет дождь."
+    },
+    "tenses_experiential_1": {
+      "translation": "Я уже бывал в Корее."
+    },
+    "tenses_experiential_2": {
+      "translation": "Мой друг уже пробовал кататься на лыжах."
+    },
+    "tenses_experiential_3": {
+      "translation": "Я никогда не ел очень острую еду."
+    },
+    "tenses_experiential_4": {
+      "translation": "Младший брат уже жил за границей."
+    },
+    "tenses_experiential_5": {
+      "translation": "Я уже играл на гитаре."
+    }
+  }
+}

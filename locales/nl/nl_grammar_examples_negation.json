@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "Ik eet geen pittig eten."
+    },
+    "negation_an_2": {
+      "translation": "Mijn broertje maakt zijn huiswerk niet."
+    },
+    "negation_an_3": {
+      "translation": "Ik drink geen koffie."
+    },
+    "negation_an_4": {
+      "translation": "Mijn vriend kijkt geen tv."
+    },
+    "negation_an_5": {
+      "translation": "Ik sport niet."
+    },
+    "negation_mot_1": {
+      "translation": "Ik kan niet goed zwemmen."
+    },
+    "negation_mot_2": {
+      "translation": "Mijn broertje kan niet fietsen."
+    },
+    "negation_mot_3": {
+      "translation": "Ik kan niet goed zingen."
+    },
+    "negation_mot_4": {
+      "translation": "Mijn vriend kan niet goed tekenen."
+    },
+    "negation_mot_5": {
+      "translation": "Ik kan niet autorijden."
+    },
+    "negation_ji_anhda_1": {
+      "translation": "Ik drink geen alcohol."
+    },
+    "negation_ji_anhda_2": {
+      "translation": "Mijn vriend eet geen ontbijt."
+    },
+    "negation_ji_anhda_3": {
+      "translation": "Ik blijf niet laat op."
+    },
+    "negation_ji_anhda_4": {
+      "translation": "Mijn broertje gaat niet naar school."
+    },
+    "negation_ji_anhda_5": {
+      "translation": "Ik eet geen vlees."
+    },
+    "negation_ji_mothada_1": {
+      "translation": "Ik kan geen pittig eten eten."
+    },
+    "negation_ji_mothada_2": {
+      "translation": "Mijn broertje kan niet de trap oprennen."
+    },
+    "negation_ji_mothada_3": {
+      "translation": "Ik kan niet ver lopen."
+    },
+    "negation_ji_mothada_4": {
+      "translation": "Mijn vriend kan niet naar hoge plaatsen gaan."
+    },
+    "negation_ji_mothada_5": {
+      "translation": "Ik kan geen zware bagage tillen."
+    }
+  }
+}

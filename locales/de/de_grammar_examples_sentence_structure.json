@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "Ich trinke jeden Morgen Kaffee."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "Mein jüngeres Geschwisterchen trifft einen Freund in der Schule."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "Mein Freund schaut zu Hause einen Film."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "Wir essen abends Reis."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "Der Lehrer bringt den Schülern Koreanisch bei."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "Ich lerne morgens in der Schule Koreanisch."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "Meine ältere Schwester ruht sich am Wochenende zu Hause aus."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "Vater arbeitet bis spät in der Firma."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "Ich gebe meinem Freund ein Geschenk."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "Wir unterhalten uns leise im Café."
+    },
+    "sentence_structure_types_1": {
+      "translation": "Heute ist das Wetter wirklich gut."
+    },
+    "sentence_structure_types_2": {
+      "translation": "Haben Sie heute Abend Zeit?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Bitte schließen Sie die Tür."
+    },
+    "sentence_structure_types_4": {
+      "translation": "Sollen wir zusammen zu Mittag essen?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "Kommen Sie bitte früh und nicht zu spät."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "今日は昨日より暑い。"
+    },
+    "comparison_boda_2": {
+      "translation": "私は姉より背が高い。"
+    },
+    "comparison_boda_3": {
+      "translation": "このカバンはあれより軽い。"
+    },
+    "comparison_boda_4": {
+      "translation": "この映画は前の作品よりずっと面白い。"
+    },
+    "comparison_boda_5": {
+      "translation": "この通りはあそこより少し静かだ。"
+    },
+    "comparison_mankeum_1": {
+      "translation": "私は姉ほど料理が上手くない。"
+    },
+    "comparison_mankeum_2": {
+      "translation": "今日は昨日と同じくらい忙しい。"
+    },
+    "comparison_mankeum_3": {
+      "translation": "あの選手は期待したほど良い成績を出した。"
+    },
+    "comparison_mankeum_4": {
+      "translation": "この服は思ったほど暖かくない。"
+    },
+    "comparison_mankeum_5": {
+      "translation": "私は友達ほど英語が上手くない。"
+    },
+    "comparison_cheoreom_1": {
+      "translation": "その子は天使のように微笑む。"
+    },
+    "comparison_cheoreom_2": {
+      "translation": "この子犬は人形のように小さくて可愛い。"
+    },
+    "comparison_cheoreom_3": {
+      "translation": "空は絵のように美しい。"
+    },
+    "comparison_cheoreom_4": {
+      "translation": "彼は機械のように働く。"
+    },
+    "comparison_cheoreom_5": {
+      "translation": "私は風のように自由に歩きたい。"
+    }
+  }
+}

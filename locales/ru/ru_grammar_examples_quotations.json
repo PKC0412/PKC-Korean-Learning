@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "Друг сказал, что опоздает."
+    },
+    "quotations_declare_dago_2": {
+      "translation": "Мама сказала, что это вкусно."
+    },
+    "quotations_declare_dago_3": {
+      "translation": "Учитель сказал нам вести себя тихо."
+    },
+    "quotations_declare_dago_4": {
+      "translation": "Друг сказал, что фильм интересный."
+    },
+    "quotations_declare_dago_5": {
+      "translation": "Младший брат сказал, что устал."
+    },
+    "quotations_say_lago_1": {
+      "translation": "Я сказал другу прийти."
+    },
+    "quotations_say_lago_2": {
+      "translation": "Мама сказала мне поесть."
+    },
+    "quotations_say_lago_3": {
+      "translation": "Учитель сказал нам учиться."
+    },
+    "quotations_say_lago_4": {
+      "translation": "Друг сказал мне открыть дверь."
+    },
+    "quotations_say_lago_5": {
+      "translation": "Младший брат сказал мне прийти быстрее."
+    }
+  }
+}

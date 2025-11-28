@@ -1,0 +1,135 @@
+[
+  {
+    "char": "ㄱ",
+    "name": "기역",
+    "romanization": "Giyeok",
+    "ipa": "[k/g]",
+    "description": "혀 뒷부분과 연구개에서 나는 예사 파열음입니다."
+  },
+  {
+    "char": "ㄴ",
+    "name": "니은",
+    "romanization": "Nieun",
+    "ipa": "[n]",
+    "description": "잇몸 부근에서 나는 콧소리 비음입니다."
+  },
+  {
+    "char": "ㄷ",
+    "name": "디귿",
+    "romanization": "Digeut",
+    "ipa": "[t/d]",
+    "description": "잇몸 부근에서 나는 예사 파열음입니다."
+  },
+  {
+    "char": "ㄹ",
+    "name": "리을",
+    "romanization": "Rieul",
+    "ipa": "[l/r]",
+    "description": "혀끝이 잇몸 근처에서 옆으로 흐르거나 가볍게 튕기는 소리입니다."
+  },
+  {
+    "char": "ㅁ",
+    "name": "미음",
+    "romanization": "Mieum",
+    "ipa": "[m]",
+    "description": "입술에서 나는 콧소리 비음입니다."
+  },
+  {
+    "char": "ㅂ",
+    "name": "비읍",
+    "romanization": "Pieup",
+    "ipa": "[p/b]",
+    "description": "입술을 다물었다가 터뜨리며 내는 예사 파열음입니다."
+  },
+  {
+    "char": "ㅅ",
+    "name": "시옷",
+    "romanization": "Siot",
+    "ipa": "[s]",
+    "description": "잇몸 부근에서 나는 마찰음입니다."
+  },
+  {
+    "char": "ㅇ",
+    "name": "이응",
+    "romanization": "Ieung",
+    "ipa": "[Ø/-ŋ]",
+    "description": "첫소리에는 소리가 없고, 종성에서는 혀뒷부분에서 나는 [ŋ] 비음으로 소리 나는 글자입니다."
+  },
+  {
+    "char": "ㅈ",
+    "name": "지읒",
+    "romanization": "Jieut",
+    "ipa": "[ʈʃ/ɖʒ]",
+    "description": "막았다가 마찰을 내며 터뜨리는 예사 파찰음입니다."
+  },
+  {
+    "char": "ㅊ",
+    "name": "치읓",
+    "romanization": "Chieut",
+    "ipa": "[ʈʃʰ]",
+    "description": "막았다가 마찰을 내며 터뜨리는 거센 파찰음입니다."
+  },
+  {
+    "char": "ㅋ",
+    "name": "키읔",
+    "romanization": "Khieuk",
+    "ipa": "[kʰ]",
+    "description": "혀 뒷부분과 연구개에서 나는 거센 파열음입니다."
+  },
+  {
+    "char": "ㅌ",
+    "name": "티읕",
+    "romanization": "Thieuth",
+    "ipa": "[tʰ]",
+    "description": "잇몸 부근에서 나는 거센 파열음입니다."
+  },
+  {
+    "char": "ㅍ",
+    "name": "피읖",
+    "romanization": "Phieuph",
+    "ipa": "[pʰ]",
+    "description": "입술을 다물었다가 터뜨리며 내는 거센 파열음입니다."
+  },
+  {
+    "char": "ㅎ",
+    "name": "히읗",
+    "romanization": "Hieuh",
+    "ipa": "[h]",
+    "description": "목구멍에서 나는 숨이 새는 마찰음입니다."
+  },
+  {
+    "char": "ㄲ",
+    "name": "쌍기역",
+    "romanization": "Ssanggiyeok",
+    "ipa": "[k*]",
+    "description": "혀뒷부분의 예사 파열음을 겹쳐 힘 있게 내는 소리입니다."
+  },
+  {
+    "char": "ㄸ",
+    "name": "쌍디귿",
+    "romanization": "Ssangdigeut",
+    "ipa": "[t*]",
+    "description": "잇몸 부근의 예사 파열음을 겹쳐 힘 있게 내는 소리입니다."
+  },
+  {
+    "char": "ㅃ",
+    "name": "쌍비읍",
+    "romanization": "Ssangpieup",
+    "ipa": "[p*]",
+    "description": "입술에서 나는 예사 파열음을 겹쳐 힘 있게 내는 소리입니다."
+  },
+  {
+    "char": "ㅆ",
+    "name": "쌍시옷",
+    "romanization": "Ssangsiot",
+    "ipa": "[s*]",
+    "description": "잇몸 부근에서 나는 마찰음을 힘 있게 겹쳐 낸 소리입니다."
+  },
+  {
+    "char": "ㅉ",
+    "name": "쌍지읒",
+    "romanization": "Ssangjieut",
+    "ipa": "[ʈʃ*]",
+    "description": "예사 파찰음을 겹쳐 더욱 세게 내는 소리입니다."
+  }
+]

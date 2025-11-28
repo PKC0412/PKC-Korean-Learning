@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "Я иду в школу."
+    },
+    "particles_case_2": {
+      "translation": "Друг позвал меня."
+    },
+    "particles_case_3": {
+      "translation": "Младший брат читает книгу в комнате."
+    },
+    "particles_case_4": {
+      "translation": "Я иду на работу в компанию."
+    },
+    "particles_case_5": {
+      "translation": "Мы занимаемся спортом каждые выходные."
+    },
+    "particles_auxiliary_1": {
+      "translation": "Мне нравится кофе."
+    },
+    "particles_auxiliary_2": {
+      "translation": "Друг тоже смотрел фильм."
+    },
+    "particles_auxiliary_3": {
+      "translation": "Я пью только воду."
+    },
+    "particles_auxiliary_4": {
+      "translation": "Младший брат даже рис не съел."
+    },
+    "particles_auxiliary_5": {
+      "translation": "Я читаю только книги."
+    },
+    "particles_conjunctive_1": {
+      "translation": "Я ем с другом."
+    },
+    "particles_conjunctive_2": {
+      "translation": "Мы путешествовали с семьей."
+    },
+    "particles_conjunctive_3": {
+      "translation": "Младший брат играет со щенком."
+    },
+    "particles_conjunctive_4": {
+      "translation": "Мне нравятся кимчи и пулькоги."
+    },
+    "particles_conjunctive_5": {
+      "translation": "Друг разговаривал с учителем."
+    }
+  }
+}

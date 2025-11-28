@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "files": [
+    "data/grammar/grammar_content_sentence.json",
+    "data/grammar/grammar_content_particles.json",
+    "data/grammar/grammar_content_tenses.json",
+    "data/grammar/grammar_content_negation.json",
+    "data/grammar/grammar_content_connectives.json",
+    "data/grammar/grammar_content_comparison.json",
+    "data/grammar/grammar_content_ending.json",
+    "data/grammar/grammar_content_aux_verbs.json",
+    "data/grammar/grammar_content_voice.json",
+    "data/grammar/grammar_content_conditionals.json",
+    "data/grammar/grammar_content_quotations.json"
+  ]
+}

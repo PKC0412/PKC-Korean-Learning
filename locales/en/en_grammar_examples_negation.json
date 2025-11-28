@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "I don’t eat spicy food."
+    },
+    "negation_an_2": {
+      "translation": "My younger sibling doesn't do homework."
+    },
+    "negation_an_3": {
+      "translation": "I don’t drink coffee."
+    },
+    "negation_an_4": {
+      "translation": "My friend doesn't watch TV."
+    },
+    "negation_an_5": {
+      "translation": "I don’t exercise."
+    },
+    "negation_mot_1": {
+      "translation": "I can’t swim well."
+    },
+    "negation_mot_2": {
+      "translation": "My younger sibling can’t ride a bicycle."
+    },
+    "negation_mot_3": {
+      "translation": "I can’t sing well."
+    },
+    "negation_mot_4": {
+      "translation": "My friend can’t draw well."
+    },
+    "negation_mot_5": {
+      "translation": "I can’t drive."
+    },
+    "negation_ji_anhda_1": {
+      "translation": "I don’t drink alcohol."
+    },
+    "negation_ji_anhda_2": {
+      "translation": "My friend doesn’t eat breakfast."
+    },
+    "negation_ji_anhda_3": {
+      "translation": "I don’t sleep late."
+    },
+    "negation_ji_anhda_4": {
+      "translation": "My younger sibling doesn’t go to school."
+    },
+    "negation_ji_anhda_5": {
+      "translation": "I don’t eat meat."
+    },
+    "negation_ji_mothada_1": {
+      "translation": "I can’t eat spicy food."
+    },
+    "negation_ji_mothada_2": {
+      "translation": "My younger sibling can’t run up stairs."
+    },
+    "negation_ji_mothada_3": {
+      "translation": "I can’t walk far."
+    },
+    "negation_ji_mothada_4": {
+      "translation": "My friend can’t go to high places."
+    },
+    "negation_ji_mothada_5": {
+      "translation": "I can’t lift heavy luggage."
+    }
+  }
+}

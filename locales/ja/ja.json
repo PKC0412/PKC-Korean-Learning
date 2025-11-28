@@ -1,0 +1,146 @@
+{
+  "menu": {
+    "hangul": "ハングルを学ぶ",
+    "vocabulary": "単語",
+    "flashcard": "フラッシュカード",
+    "grammar": "文法",
+    "help": "ヘルプ"
+  },
+  "language": {
+    "modalTitle": "言語",
+    "modalDescription": "インターフェースで使用する言語を選択してください。いつでも変更できます。",
+    "names": {
+      "en": "English",
+      "zh": "简体中文",
+      "ja": "日本語",
+      "ru": "Русский",
+      "es": "Español",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch",
+      "th": "ไทย",
+      "pt": "Português",
+      "nl": "Nederlands"
+    }
+  },
+  "help": {
+    "header": "制作者 & 連絡先",
+    "description": "質問・バグ報告・提案がある場合は、以下の連絡先からご連絡ください。",
+    "creatorLabel": "制作者:"
+  },
+  "vocab": {
+    "play": "音声を聞く"
+  },
+  "grammar": {
+    "hear": "聞く"
+  },
+  "common": {
+    "listen": "聞く",
+    "example": "例",
+    "romanization": "ローマ字表記",
+    "nodata": "利用可能なデータがありません。"
+  },
+  "flashcard": {
+    "empty": "学習できる単語がありません。",
+    "session": {
+      "summary": "セッション: {current} / {total} 単語",
+      "shuffled": "ランダム",
+      "sequential": "順番"
+    },
+    "total_words": "総単語数",
+    "controls": {
+      "hear": "聞く",
+      "know": "知っている",
+      "dontKnow": "復習"
+    },
+    "progress": {
+      "label": "進行状況: {done} / {total}"
+    },
+    "hint": {
+      "reveal": "タップして意味を表示",
+      "romanizationLabel": "ローマ字表記:"
+    },
+    "result": {
+      "title": "よくできました！",
+      "completed": "{total} 個の単語を学習しました。",
+      "accuracy": "正確度: {accuracy}%",
+      "stats": "知っている: {known} | 復習: {unknown}",
+      "restart": "シャッフルして再開"
+    }
+  },
+  "category": {
+    "all": "すべて",
+    "greetings": "あいさつ",
+    "basic": "基本",
+    "food": "食べ物",
+    "people": "人",
+    "places": "場所",
+    "transportation": "交通",
+    "verbs_daily": "日常動詞",
+    "verbs_actions": "行動動詞",
+    "adjectives": "形容詞",
+    "numbers": "数字",
+    "time": "時間/日付",
+    "colors": "色",
+    "body": "体",
+    "nature": "自然",
+    "school": "学校"
+  },
+  "발음 듣기": "発音を聞く",
+  "자음": "子音",
+  "모음": "母音",
+  "받침": "パッチム",
+  "로마자 표기:": "ローマ字表記:",
+  "이전": "前へ",
+  "다음": "次へ",
+  "설명:": "説明:",
+  "예시:": "例:",
+  "설명이 아직 준비되지 않았습니다.": "説明はまだ準備されていません。",
+  "예시가 아직 준비되지 않았습니다.": "例文はまだ準備されていません。",
+  "예문": "例文",
+  "grammar_category_sentence_structure": "文の構造",
+  "grammar_category_particles": "助詞",
+  "grammar_category_tenses": "時制",
+  "grammar_category_negation": "否定",
+  "grammar_category_connectives": "接続表現",
+  "grammar_category_comparison": "比較",
+  "grammar_category_ending": "語尾",
+  "grammar_category_aux_verbs": "補助動詞",
+  "grammar_category_voice": "態（受動・使役）",
+  "grammar_category_conditionals": "条件文",
+  "grammar_category_quotations": "引用",
+  "grammar_group_sentence_structure_basic_order": "基本語順（SOV）",
+  "grammar_group_sentence_structure_elements": "文の構成要素",
+  "grammar_group_sentence_structure_types": "文の種類",
+  "grammar_group_particles_case": "格助詞",
+  "grammar_group_particles_auxiliary": "補助助詞",
+  "grammar_group_particles_conjunctive": "接続の助詞",
+  "grammar_group_tenses_present": "現在形",
+  "grammar_group_tenses_past": "過去形",
+  "grammar_group_tenses_future": "未来形",
+  "grammar_group_tenses_progressive": "進行形（-고 있어요）",
+  "grammar_group_tenses_experiential": "経験表現（-아/어 본 적が 있다）",
+  "grammar_group_negation_an": "안 を使った否定",
+  "grammar_group_negation_mot": "못 を使った否定",
+  "grammar_group_negation_ji_anhda": "-지 않다 による否定",
+  "grammar_group_negation_ji_mothada": "-지 못하다 による否定",
+  "grammar_group_connectives_go": "-고 の接続表現",
+  "grammar_group_connectives_aseo_eoseo": "-아서/어서 の接続表現",
+  "grammar_group_connectives_jiman": "-지만 の接続表現",
+  "grammar_group_connectives_myeonseo": "-면서 の接続表現",
+  "grammar_group_connectives_geona": "-거나 の接続表現",
+  "grammar_group_comparison_boda": "보다 を使った比較",
+  "grammar_group_comparison_mankeum": "만큼 を使った比較",
+  "grammar_group_comparison_cheoreom": "처럼 を使った比喩",
+  "grammar_group_ending_polite_ayo_eoyo": "丁寧形語尾 -아요/어요",
+  "grammar_group_ending_formal_sumnida": "格式体語尾 -습니다/-습니까",
+  "grammar_group_aux_verbs_want_gosipda": "補助動詞 -고 싶다",
+  "grammar_group_aux_verbs_try_boda": "補助動詞 -아/어 보다",
+  "grammar_group_aux_verbs_must_eya_hada": "補助動詞 -아/어야 하다",
+  "grammar_group_voice_passive_ajida": "受け身 -아/어지다",
+  "grammar_group_voice_causative_gehada": "使役 -게 하다",
+  "grammar_group_conditionals_myeon_basic": "条件文 -(으)면（基本）",
+  "grammar_group_conditionals_tomyeon_future": "条件文 -(으)면（未来・反復）",
+  "grammar_group_quotations_declare_dago": "引用表現 -다고 하다",
+  "grammar_group_quotations_say_lago": "引用表現 -라고 하다"
+}

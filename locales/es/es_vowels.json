@@ -1,0 +1,149 @@
+[
+  {
+    "char": "ㅏ",
+    "name": "A",
+    "romanization": "a",
+    "ipa": "[a]",
+    "description": "Una vocal brillante producida con la boca bien abierta y la lengua hacia adelante."
+  },
+  {
+    "char": "ㅑ",
+    "name": "Ya",
+    "romanization": "ya",
+    "ipa": "[ja]",
+    "description": "Un diptongo que comienza con un deslizamiento [j] seguido de 'a'."
+  },
+  {
+    "char": "ㅓ",
+    "name": "Eo",
+    "romanization": "eo",
+    "ipa": "[ʌ]",
+    "description": "Una vocal media-baja producida con la lengua hacia atrás y la boca parcialmente abierta."
+  },
+  {
+    "char": "ㅕ",
+    "name": "Yeo",
+    "romanization": "yeo",
+    "ipa": "[jʌ]",
+    "description": "Un diptongo que comienza con un deslizamiento [j] seguido de 'eo'."
+  },
+  {
+    "char": "ㅗ",
+    "name": "O",
+    "romanization": "o",
+    "ipa": "[o]",
+    "description": "Una vocal redondeada producida con los labios en círculo y la lengua hacia atrás."
+  },
+  {
+    "char": "ㅛ",
+    "name": "Yo",
+    "romanization": "yo",
+    "ipa": "[jo]",
+    "description": "Un diptongo que comienza con un deslizamiento [j] seguido de 'o'."
+  },
+  {
+    "char": "ㅜ",
+    "name": "U",
+    "romanization": "u",
+    "ipa": "[u]",
+    "description": "Una vocal redondeada alta producida con los labios hacia adelante."
+  },
+  {
+    "char": "ㅠ",
+    "name": "Yu",
+    "romanization": "yu",
+    "ipa": "[ju]",
+    "description": "Un diptongo que comienza con un deslizamiento [j] seguido de 'u'."
+  },
+  {
+    "char": "ㅡ",
+    "name": "Eu",
+    "romanization": "eu",
+    "ipa": "[ɨ]",
+    "description": "Una vocal plana alta producida con la boca casi cerrada y la lengua en el centro."
+  },
+  {
+    "char": "ㅣ",
+    "name": "I",
+    "romanization": "i",
+    "ipa": "[i]",
+    "description": "Una vocal anterior alta producida con la boca casi cerrada."
+  },
+  {
+    "char": "ㅐ",
+    "name": "Ae",
+    "romanization": "ae",
+    "ipa": "[æ]",
+    "description": "Una vocal anterior baja producida con la boca bien abierta."
+  },
+  {
+    "char": "ㅒ",
+    "name": "Yae",
+    "romanization": "yae",
+    "ipa": "[jæ]",
+    "description": "Un diptongo que comienza con un deslizamiento [j] seguido de 'ae'."
+  },
+  {
+    "char": "ㅔ",
+    "name": "E",
+    "romanization": "e",
+    "ipa": "[e]",
+    "description": "Una vocal anterior media-alta producida con la boca ligeramente abierta."
+  },
+  {
+    "char": "ㅖ",
+    "name": "Ye",
+    "romanization": "ye",
+    "ipa": "[je]",
+    "description": "Un diptongo que comienza con un deslizamiento [j] seguido de 'e'."
+  },
+  {
+    "char": "ㅘ",
+    "name": "Wa",
+    "romanization": "wa",
+    "ipa": "[wa]",
+    "description": "Un diptongo que combina el deslizamiento [w] y 'a'."
+  },
+  {
+    "char": "ㅙ",
+    "name": "Wae",
+    "romanization": "wae",
+    "ipa": "[wæ]",
+    "description": "Un diptongo que combina el deslizamiento [w] y 'ae'."
+  },
+  {
+    "char": "ㅚ",
+    "name": "Oe",
+    "romanization": "oe",
+    "ipa": "[we]",
+    "description": "Un diptongo que generalmente se pronuncia como 'we' ([w] + 'e')."
+  },
+  {
+    "char": "ㅝ",
+    "name": "Weo",
+    "romanization": "weo",
+    "ipa": "[wʌ]",
+    "description": "Un diptongo que combina el deslizamiento [w] y 'eo'."
+  },
+  {
+    "char": "ㅞ",
+    "name": "We",
+    "romanization": "we",
+    "ipa": "[we]",
+    "description": "Un diptongo que combina el deslizamiento [w] y 'e'."
+  },
+  {
+    "char": "ㅟ",
+    "name": "Wi",
+    "romanization": "wi",
+    "ipa": "[wi]",
+    "description": "Un diptongo que combina el deslizamiento [w] y 'i'."
+  },
+  {
+    "char": "ㅢ",
+    "name": "Ui",
+    "romanization": "ui",
+    "ipa": "[ɨj]",
+    "description": "Un diptongo que combina 'eu' e 'i'."
+  }
+]

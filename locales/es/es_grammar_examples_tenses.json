@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "tenses",
+  "translations": {
+    "tenses_present_1": {
+      "translation": "Hago ejercicio todos los días."
+    },
+    "tenses_present_2": {
+      "translation": "Mi hermano menor está haciendo la tarea ahora."
+    },
+    "tenses_present_3": {
+      "translation": "Mi amigo trabaja en una empresa."
+    },
+    "tenses_present_4": {
+      "translation": "Descanso en casa."
+    },
+    "tenses_present_5": {
+      "translation": "Caminamos en el parque."
+    },
+    "tenses_past_1": {
+      "translation": "Ayer me encontré con mi amigo."
+    },
+    "tenses_past_2": {
+      "translation": "Vi una película la semana pasada."
+    },
+    "tenses_past_3": {
+      "translation": "Mi hermano menor desayunó tarde."
+    },
+    "tenses_past_4": {
+      "translation": "Compré ropa nueva."
+    },
+    "tenses_past_5": {
+      "translation": "Viajamos el fin de semana."
+    },
+    "tenses_future_1": {
+      "translation": "Mañana veré a mi amigo."
+    },
+    "tenses_future_2": {
+      "translation": "Mi hermano menor se mudará la próxima semana."
+    },
+    "tenses_future_3": {
+      "translation": "Estudiaré coreano este año."
+    },
+    "tenses_future_4": {
+      "translation": "Viajaremos el próximo año."
+    },
+    "tenses_future_5": {
+      "translation": "Pronto cocinaré la cena."
+    },
+    "tenses_progressive_1": {
+      "translation": "Estoy comiendo ahora mismo."
+    },
+    "tenses_progressive_2": {
+      "translation": "Mi hermano menor está escuchando música en la habitación."
+    },
+    "tenses_progressive_3": {
+      "translation": "Mi amigo está leyendo en la biblioteca."
+    },
+    "tenses_progressive_4": {
+      "translation": "Estamos preparando una reunión."
+    },
+    "tenses_progressive_5": {
+      "translation": "Está lloviendo afuera."
+    },
+    "tenses_experiential_1": {
+      "translation": "He estado en Corea antes."
+    },
+    "tenses_experiential_2": {
+      "translation": "Mi amigo ha probado el esquí."
+    },
+    "tenses_experiential_3": {
+      "translation": "Nunca he comido comida muy picante."
+    },
+    "tenses_experiential_4": {
+      "translation": "Mi hermano menor ha vivido en el extranjero."
+    },
+    "tenses_experiential_5": {
+      "translation": "He tocado la guitarra antes."
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "sentence_structure",
+  "translations": {
+    "sentence_structure_basic_order_1": {
+      "translation": "Bebo café cada mañana."
+    },
+    "sentence_structure_basic_order_2": {
+      "translation": "Mi hermano menor se encuentra con un amigo en la escuela."
+    },
+    "sentence_structure_basic_order_3": {
+      "translation": "Mi amigo ve una película en casa."
+    },
+    "sentence_structure_basic_order_4": {
+      "translation": "Cenamos por la noche."
+    },
+    "sentence_structure_basic_order_5": {
+      "translation": "El profesor enseña coreano a los estudiantes."
+    },
+    "sentence_structure_elements_1": {
+      "translation": "Estudio coreano en la escuela por la mañana."
+    },
+    "sentence_structure_elements_2": {
+      "translation": "Mi hermana mayor descansa en casa el fin de semana."
+    },
+    "sentence_structure_elements_3": {
+      "translation": "Mi padre trabaja hasta tarde en la oficina."
+    },
+    "sentence_structure_elements_4": {
+      "translation": "Le doy un regalo a mi amigo."
+    },
+    "sentence_structure_elements_5": {
+      "translation": "Hablamos en voz baja en la cafetería."
+    },
+    "sentence_structure_types_1": {
+      "translation": "El clima está muy bueno hoy."
+    },
+    "sentence_structure_types_2": {
+      "translation": "¿Tienes tiempo esta noche?"
+    },
+    "sentence_structure_types_3": {
+      "translation": "Por favor, cierra la puerta."
+    },
+    "sentence_structure_types_4": {
+      "translation": "¿Vamos a comer juntos?"
+    },
+    "sentence_structure_types_5": {
+      "translation": "No llegue tarde, venga temprano."
+    }
+  }
+}

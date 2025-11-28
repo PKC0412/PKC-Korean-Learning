@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "examples": [
+    {
+      "id": "quotations_declare_dago_1",
+      "groupId": "quotations_declare_dago",
+      "korean": "친구가 늦는다고 했어요.",
+      "romanization": "chinguga neutneundago haesseoyo",
+      "ipa": "tɕʰiŋuɡa nɯt̚nɯndago hɛs͈ʌjo"
+    },
+    {
+      "id": "quotations_declare_dago_2",
+      "groupId": "quotations_declare_dago",
+      "korean": "엄마가 맛있다고 말했어요.",
+      "romanization": "eommaga masitdago malhaesseoyo",
+      "ipa": "ʌmːaɡa masidago malhɛs͈ʌjo"
+    },
+    {
+      "id": "quotations_declare_dago_3",
+      "groupId": "quotations_declare_dago",
+      "korean": "선생님이 조용히 하라고 하셨어요.",
+      "romanization": "seonsaengnimi joyonghi harago hasyeosseoyo",
+      "ipa": "sʌnsɛŋnimi tɕojoŋhi haɾago hasjʌs͈ʌjo"
+    },
+    {
+      "id": "quotations_declare_dago_4",
+      "groupId": "quotations_declare_dago",
+      "korean": "친구가 영화가 재밌다고 했어요.",
+      "romanization": "chinguga yeonghwaga jaemitdago haesseoyo",
+      "ipa": "tɕʰiŋuɡa jʌŋhʷaɡa tɕɛmidaɡo hɛs͈ʌjo"
+    },
+    {
+      "id": "quotations_declare_dago_5",
+      "groupId": "quotations_declare_dago",
+      "korean": "동생이 피곤하다고 했어요.",
+      "romanization": "dongsaengi pigonhadago haesseoyo",
+      "ipa": "toŋsɛŋi pʰiɡonha daɡo hɛs͈ʌjo"
+    },
+    {
+      "id": "quotations_say_lago_1",
+      "groupId": "quotations_say_lago",
+      "korean": "저는 친구에게 오라고 했어요.",
+      "romanization": "jeoneun chinguege orago haesseoyo",
+      "ipa": "tɕʌnɯn tɕʰiŋɡueɡe oɾago hɛs͈ʌjo"
+    },
+    {
+      "id": "quotations_say_lago_2",
+      "groupId": "quotations_say_lago",
+      "korean": "엄마가 저보고 밥 먹으라고 했어요.",
+      "romanization": "eommaga jeobogo bap meogeurago haesseoyo",
+      "ipa": "ʌmːaɡa tɕʌboɡo bab mʌɡɯɾago hɛs͈ʌjo"
+    },
+    {
+      "id": "quotations_say_lago_3",
+      "groupId": "quotations_say_lago",
+      "korean": "선생님이 공부하라고 하셨어요.",
+      "romanization": "seonsaengnimi gongbuharago hasyeosseoyo",
+      "ipa": "sʌnsɛŋnimi koŋbuharaɡo hasjʌs͈ʌjo"
+    },
+    {
+      "id": "quotations_say_lago_4",
+      "groupId": "quotations_say_lago",
+      "korean": "친구가 문 열라고 했어요.",
+      "romanization": "chinguga mun yeollago haesseoyo",
+      "ipa": "tɕʰiŋuɡa mun jʌlːaɡo hɛs͈ʌjo"
+    },
+    {
+      "id": "quotations_say_lago_5",
+      "groupId": "quotations_say_lago",
+      "korean": "동생이 빨리 오라고 했어요.",
+      "romanization": "dongsaengi ppalli orago haesseoyo",
+      "ipa": "toŋsɛŋi p͈alːi oɾaɡo hɛs͈ʌjo"
+    }
+  ]
+}

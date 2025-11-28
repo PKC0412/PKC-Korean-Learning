@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "examples": [
+    {
+      "id": "ending_polite_ayo_eoyo_1",
+      "groupId": "ending_polite_ayo_eoyo",
+      "korean": "저는 오늘 일찍 집에 가요.",
+      "romanization": "jeoneun oneul iljjik jibe gayo",
+      "ipa": "tɕʌnɯn onɯl ilt͡ɕ͈ik tɕibe kayo"
+    },
+    {
+      "id": "ending_polite_ayo_eoyo_2",
+      "groupId": "ending_polite_ayo_eoyo",
+      "korean": "친구는 카페에서 커피를 마셔요.",
+      "romanization": "chinguneun kapeeseo keopireul masyeoyo",
+      "ipa": "tɕʰiŋɡunɯn kʰapʰe eso kʰʌpʰiɾɯl maʃʌjo"
+    },
+    {
+      "id": "ending_polite_ayo_eoyo_3",
+      "groupId": "ending_polite_ayo_eoyo",
+      "korean": "우리는 저녁에 운동해요.",
+      "romanization": "urineun jeonyeoge undonghaeyo",
+      "ipa": "uɾinɯn tɕʌɲʌge undoŋ hɛjo"
+    },
+    {
+      "id": "ending_polite_ayo_eoyo_4",
+      "groupId": "ending_polite_ayo_eoyo",
+      "korean": "저는 주말마다 영화를 봐요.",
+      "romanization": "jeoneun jumalmada yeonghwareul bwayo",
+      "ipa": "tɕʌnɯn tɕumal mada jʌŋhʷaɾɯl bwayo"
+    },
+    {
+      "id": "ending_polite_ayo_eoyo_5",
+      "groupId": "ending_polite_ayo_eoyo",
+      "korean": "날씨가 좋아요.",
+      "romanization": "nalssiga joayo",
+      "ipa": "nals͈iɡa tɕoajo"
+    },
+    {
+      "id": "ending_formal_sumnida_1",
+      "groupId": "ending_formal_sumnida",
+      "korean": "저는 한국에서 일합니다.",
+      "romanization": "jeoneun hangugeseo ilhamnida",
+      "ipa": "tɕʌnɯn hanɡuɡeso ilhamnida"
+    },
+    {
+      "id": "ending_formal_sumnida_2",
+      "groupId": "ending_formal_sumnida",
+      "korean": "회의는 오후 3시에 시작합니다.",
+      "romanization": "hoeui neun ohu samsie sijakhamnida",
+      "ipa": "hweɰi nɯn ohu samsi e sidʑakʰamnida"
+    },
+    {
+      "id": "ending_formal_sumnida_3",
+      "groupId": "ending_formal_sumnida",
+      "korean": "저는 학생입니다.",
+      "romanization": "jeoneun haksaengimnida",
+      "ipa": "tɕʌnɯn hak̚sɛŋimnida"
+    },
+    {
+      "id": "ending_formal_sumnida_4",
+      "groupId": "ending_formal_sumnida",
+      "korean": "지금 보고서를 작성합니다.",
+      "romanization": "jigeum bogoseoreul jakseonghamnida",
+      "ipa": "tɕiɡɯm poɡosoɾɯl tɕaksʰʌŋ hamnida"
+    },
+    {
+      "id": "ending_formal_sumnida_5",
+      "groupId": "ending_formal_sumnida",
+      "korean": "회의에 참석하십니까?",
+      "romanization": "hoeui-e chamseokhasimnikka",
+      "ipa": "hweɰi e tɕʰamsʌkʰa ɕimnik͈a"
+    }
+  ]
+}

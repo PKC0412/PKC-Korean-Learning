@@ -1,0 +1,383 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "sentence_structure",
+      "label": "문장 구조",
+      "groups": [
+        {
+          "id": "sentence_structure_basic_order",
+          "label": "기본 어순 (SOV)",
+          "unitIds": [
+            "sentence_basic_order_intro",
+            "sentence_basic_order_subject_drop",
+            "sentence_basic_order_object_drop",
+            "sentence_basic_order_adverb_position"
+          ]
+        },
+        {
+          "id": "sentence_structure_elements",
+          "label": "문장 성분",
+          "unitIds": [
+            "sentence_elements_subject_object",
+            "sentence_elements_adverbial_complement",
+            "sentence_elements_time_place",
+            "sentence_elements_indirect_object"
+          ]
+        },
+        {
+          "id": "sentence_structure_types",
+          "label": "문장 유형",
+          "unitIds": [
+            "sentence_types_declarative_interrogative_imperative",
+            "sentence_types_question_endings",
+            "sentence_types_request_suggestion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "particles",
+      "label": "조사",
+      "groups": [
+        {
+          "id": "particles_case",
+          "label": "격조사 (이/가, 을/를, 에/에서 등)",
+          "unitIds": [
+            "particles_case_iga_eulreul_basic",
+            "particles_case_e_eseo_location",
+            "particles_case_ege_hante",
+            "particles_case_ro_direction",
+            "particles_case_time_mada"
+          ]
+        },
+        {
+          "id": "particles_auxiliary",
+          "label": "보조사 (은/는, 도, 만 등)",
+          "unitIds": [
+            "particles_auxiliary_eun_neun_contrast",
+            "particles_auxiliary_do_man_focus",
+            "particles_auxiliary_jjeum_ssik",
+            "particles_auxiliary_bakke_kkaji",
+            "particles_auxiliary_jjocha"
+          ]
+        },
+        {
+          "id": "particles_conjunctive",
+          "label": "접속조사 (과/와, 하고, (이)랑 등)",
+          "unitIds": [
+            "particles_conjunctive_and_basic",
+            "particles_conjunctive_and_nuance",
+            "particles_conjunctive_with_person"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tenses",
+      "label": "시제/시간 표현",
+      "groups": [
+        {
+          "id": "tenses_present",
+          "label": "현재 시제 (-아요/어요)",
+          "unitIds": [
+            "tenses_present_basic",
+            "tenses_present_state_habit",
+            "tenses_present_future_use"
+          ]
+        },
+        {
+          "id": "tenses_past",
+          "label": "과거 시제 (-았/었어요)",
+          "unitIds": [
+            "tenses_past_basic",
+            "tenses_past_experience",
+            "tenses_past_background"
+          ]
+        },
+        {
+          "id": "tenses_future",
+          "label": "미래 시제 (-ㄹ/을 거예요)",
+          "unitIds": [
+            "tenses_future_basic",
+            "tenses_future_plan_intent",
+            "tenses_future_guess"
+          ]
+        },
+        {
+          "id": "tenses_progressive",
+          "label": "진행 (-고 있어요)",
+          "unitIds": [
+            "tenses_progressive_basic",
+            "tenses_progressive_now",
+            "tenses_progressive_repeated"
+          ]
+        },
+        {
+          "id": "tenses_experiential",
+          "label": "경험/완료 (-아/어 본 적 있다)",
+          "unitIds": [
+            "tenses_experiential_basic",
+            "tenses_experiential_experience",
+            "tenses_experiential_never"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negation",
+      "label": "부정 표현",
+      "groups": [
+        {
+          "id": "negation_an",
+          "label": "안",
+          "unitIds": [
+            "negation_an_basic",
+            "negation_an_preference",
+            "negation_an_adjective"
+          ]
+        },
+        {
+          "id": "negation_mot",
+          "label": "못",
+          "unitIds": [
+            "negation_mot_basic",
+            "negation_mot_ability",
+            "negation_mot_situation"
+          ]
+        },
+        {
+          "id": "negation_ji_anhda",
+          "label": "-지 않다",
+          "unitIds": [
+            "negation_ji_anhda_basic",
+            "negation_ji_anhda_formal",
+            "negation_ji_anhda_emphasis"
+          ]
+        },
+        {
+          "id": "negation_ji_mothada",
+          "label": "-지 못하다",
+          "unitIds": [
+            "negation_ji_mothada_basic",
+            "negation_ji_mothada_formal",
+            "negation_ji_mothada_regret"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "connectives",
+      "label": "연결 표현",
+      "groups": [
+        {
+          "id": "connectives_go",
+          "label": "-고 (나열, 순서)",
+          "unitIds": [
+            "connectives_go_sequence_basic",
+            "connectives_go_sequence_time",
+            "connectives_go_parallel"
+          ]
+        },
+        {
+          "id": "connectives_aseo_eoseo",
+          "label": "-아서/어서 (이유, 원인)",
+          "unitIds": [
+            "connectives_aseo_eoseo_reason_basic",
+            "connectives_aseo_eoseo_cause",
+            "connectives_aseo_eoseo_constraint"
+          ]
+        },
+        {
+          "id": "connectives_jiman",
+          "label": "-지만 (대조)",
+          "unitIds": [
+            "connectives_jiman_basic",
+            "connectives_jiman_contrast",
+            "connectives_jiman_soften"
+          ]
+        },
+        {
+          "id": "connectives_myeonseo",
+          "label": "-면서 (동시 동작)",
+          "unitIds": [
+            "connectives_myeonseo_simult_basic",
+            "connectives_myeonseo_simult_action",
+            "connectives_myeonseo_criticism"
+          ]
+        },
+        {
+          "id": "connectives_geona",
+          "label": "-거나 (선택)",
+          "unitIds": [
+            "connectives_geona_choice_basic",
+            "connectives_geona_choice_two",
+            "connectives_geona_free_choice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "label": "비교 표현",
+      "groups": [
+        {
+          "id": "comparison_boda",
+          "label": "보다 (A보다 B가 더 ~)",
+          "unitIds": [
+            "comparison_boda_basic",
+            "comparison_boda_more_less",
+            "comparison_boda_expectation"
+          ]
+        },
+        {
+          "id": "comparison_mankeum",
+          "label": "만큼 (~만큼, ~정도)",
+          "unitIds": [
+            "comparison_mankeum_basic",
+            "comparison_mankeum_degree",
+            "comparison_mankeum_negative"
+          ]
+        },
+        {
+          "id": "comparison_cheoreom",
+          "label": "처럼 (~처럼, 같이)",
+          "unitIds": [
+            "comparison_cheoreom_basic",
+            "comparison_cheoreom_simile",
+            "comparison_cheoreom_as_if"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ending",
+      "label": "종결 표현",
+      "groups": [
+        {
+          "id": "ending_polite_ayo_eoyo",
+          "label": "존댓말: -아요/어요",
+          "unitIds": [
+            "ending_polite_ayo_eoyo_basic",
+            "ending_polite_ayo_eoyo_statement",
+            "ending_polite_ayo_eoyo_question"
+          ]
+        },
+        {
+          "id": "ending_formal_sumnida",
+          "label": "격식체: -습니다/-습니까",
+          "unitIds": [
+            "ending_formal_sumnida_basic",
+            "ending_formal_sumnida_statement",
+            "ending_formal_sumnida_question"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aux_verbs",
+      "label": "보조 용언",
+      "groups": [
+        {
+          "id": "aux_verbs_want_gosipda",
+          "label": "-고 싶다 (원함)",
+          "unitIds": [
+            "aux_verbs_gosipda_basic",
+            "aux_verbs_gosipda_desire",
+            "aux_verbs_gosipda_negative"
+          ]
+        },
+        {
+          "id": "aux_verbs_try_boda",
+          "label": "-아/어 보다 (시도)",
+          "unitIds": [
+            "aux_verbs_boda_basic",
+            "aux_verbs_boda_experience",
+            "aux_verbs_boda_suggestion"
+          ]
+        },
+        {
+          "id": "aux_verbs_must_eya_hada",
+          "label": "-아/어야 하다 (의무)",
+          "unitIds": [
+            "aux_verbs_eya_hada_basic",
+            "aux_verbs_eya_hada_rule",
+            "aux_verbs_eya_hada_condition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voice",
+      "label": "피동/사동",
+      "groups": [
+        {
+          "id": "voice_passive_ajida",
+          "label": "피동: -아/어지다",
+          "unitIds": [
+            "voice_passive_ajida_basic",
+            "voice_passive_ajida_state",
+            "voice_passive_ajida_by"
+          ]
+        },
+        {
+          "id": "voice_causative_gehada",
+          "label": "사동: -게 하다",
+          "unitIds": [
+            "voice_causative_gehada_basic",
+            "voice_causative_gehada_request",
+            "voice_causative_gehada_force"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conditionals",
+      "label": "조건/가정",
+      "groups": [
+        {
+          "id": "conditionals_myeon_basic",
+          "label": "-(으)면 (일반 조건)",
+          "unitIds": [
+            "conditionals_eumyeon_basic",
+            "conditionals_eumyeon_real",
+            "conditionals_eumyeon_instruction"
+          ]
+        },
+        {
+          "id": "conditionals_tomyeon_future",
+          "label": "-(으)면 (미래/반복)",
+          "unitIds": [
+            "conditionals_eumyeon_future",
+            "conditionals_eumyeon_habitual",
+            "conditionals_eumyeon_assumption"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quotations",
+      "label": "인용 표현",
+      "groups": [
+        {
+          "id": "quotations_declare_dago",
+          "label": "평서 인용: -다고 하다",
+          "unitIds": [
+            "quotations_dago_basic",
+            "quotations_dago_report",
+            "quotations_dago_think"
+          ]
+        },
+        {
+          "id": "quotations_say_lago",
+          "label": "말하기: -라고 하다",
+          "unitIds": [
+            "quotations_rago_basic",
+            "quotations_rago_name",
+            "quotations_rago_command"
+          ]
+        }
+      ]
+    }
+  ]
+}

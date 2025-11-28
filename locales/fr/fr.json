@@ -1,0 +1,146 @@
+{
+  "menu": {
+    "hangul": "Apprendre le Hangul",
+    "vocabulary": "Vocabulaire",
+    "flashcard": "Cartes",
+    "grammar": "Grammaire",
+    "help": "Aide"
+  },
+  "language": {
+    "modalTitle": "Langue",
+    "modalDescription": "Choisissez votre langue préférée pour l’interface. Vous pouvez la changer à tout moment.",
+    "names": {
+      "en": "English",
+      "zh": "简体中文",
+      "ja": "日本語",
+      "ru": "Русский",
+      "es": "Español",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch",
+      "th": "ไทย",
+      "pt": "Português",
+      "nl": "Nederlands"
+    }
+  },
+  "help": {
+    "header": "Créateur & Contact",
+    "description": "Si vous avez des questions, des rapports de bugs ou des suggestions, contactez-nous via les canaux ci-dessous.",
+    "creatorLabel": "Créateur:"
+  },
+  "vocab": {
+    "play": "Écouter l’audio"
+  },
+  "grammar": {
+    "hear": "Écouter"
+  },
+  "common": {
+    "listen": "Écouter",
+    "example": "Exemple",
+    "romanization": "Romanisation",
+    "nodata": "Aucune donnée disponible."
+  },
+  "flashcard": {
+    "empty": "Aucun mot disponible pour l’apprentissage.",
+    "session": {
+      "summary": "Session : {current} sur {total} mots",
+      "shuffled": "Aléatoire",
+      "sequential": "Séquentiel"
+    },
+    "total_words": "Nombre total de mots",
+    "controls": {
+      "hear": "Écouter",
+      "know": "Je connais",
+      "dontKnow": "Réviser"
+    },
+    "progress": {
+      "label": "Progression : {done} / {total}"
+    },
+    "hint": {
+      "reveal": "Touchez la carte pour révéler la signification",
+      "romanizationLabel": "Romanisation :"
+    },
+    "result": {
+      "title": "Bravo !",
+      "completed": "Vous avez étudié {total} mots.",
+      "accuracy": "Précision : {accuracy}%",
+      "stats": "Connus : {known} | À réviser : {unknown}",
+      "restart": "Mélanger & recommencer"
+    }
+  },
+  "category": {
+    "all": "Tout",
+    "greetings": "Salutations",
+    "basic": "De base",
+    "food": "Nourriture",
+    "people": "Personnes",
+    "places": "Lieux",
+    "transportation": "Transport",
+    "verbs_daily": "Verbes quotidiens",
+    "verbs_actions": "Verbes d’action",
+    "adjectives": "Adjectifs",
+    "numbers": "Nombres",
+    "time": "Temps/Date",
+    "colors": "Couleurs",
+    "body": "Corps",
+    "nature": "Nature",
+    "school": "École"
+  },
+  "발음 듣기": "Écouter la prononciation",
+  "자음": "Consonnes",
+  "모음": "Voyelles",
+  "받침": "Finales (Batchim)",
+  "로마자 표기:": "Romanisation :",
+  "이전": "Précédent",
+  "다음": "Suivant",
+  "설명:": "Description :",
+  "예시:": "Exemple :",
+  "설명이 아직 준비되지 않았습니다.": "La description n’est pas encore disponible.",
+  "예시가 아직 준비되지 않았습니다.": "L’exemple n’est pas encore disponible.",
+  "예문": "Exemple",
+  "grammar_category_sentence_structure": "Structure de phrase",
+  "grammar_category_particles": "Particules",
+  "grammar_category_tenses": "Temps",
+  "grammar_category_negation": "Négation",
+  "grammar_category_connectives": "Connecteurs",
+  "grammar_category_comparison": "Comparaison",
+  "grammar_category_ending": "Terminaisons",
+  "grammar_category_aux_verbs": "Verbes auxiliaires",
+  "grammar_category_voice": "Voix (passive & causative)",
+  "grammar_category_conditionals": "Conditionnels",
+  "grammar_category_quotations": "Citations",
+  "grammar_group_sentence_structure_basic_order": "Ordre de base des mots (SOV)",
+  "grammar_group_sentence_structure_elements": "Éléments de la phrase",
+  "grammar_group_sentence_structure_types": "Types de phrases",
+  "grammar_group_particles_case": "Particules de cas",
+  "grammar_group_particles_auxiliary": "Particules auxiliaires",
+  "grammar_group_particles_conjunctive": "Particules conjonctives",
+  "grammar_group_tenses_present": "Présent",
+  "grammar_group_tenses_past": "Passé",
+  "grammar_group_tenses_future": "Futur",
+  "grammar_group_tenses_progressive": "Forme progressive (-고 있어요)",
+  "grammar_group_tenses_experiential": "Forme expérientielle (-아/어 본 적이 있다)",
+  "grammar_group_negation_an": "Négation avec 안",
+  "grammar_group_negation_mot": "Négation avec 못",
+  "grammar_group_negation_ji_anhda": "Négation avec -지 않다",
+  "grammar_group_negation_ji_mothada": "Négation avec -지 못하다",
+  "grammar_group_connectives_go": "Connecteur -고",
+  "grammar_group_connectives_aseo_eoseo": "Connecteur -아서/어서",
+  "grammar_group_connectives_jiman": "Connecteur -지만",
+  "grammar_group_connectives_myeonseo": "Connecteur -면서",
+  "grammar_group_connectives_geona": "Connecteur -거나",
+  "grammar_group_comparison_boda": "Comparaison avec 보다",
+  "grammar_group_comparison_mankeum": "Comparaison avec 만큼",
+  "grammar_group_comparison_cheoreom": "Comparaison avec 처럼",
+  "grammar_group_ending_polite_ayo_eoyo": "Terminaison polie -아요/어요",
+  "grammar_group_ending_formal_sumnida": "Terminaison formelle -습니다/-습니까",
+  "grammar_group_aux_verbs_want_gosipda": "Verbe auxiliaire -고 싶다",
+  "grammar_group_aux_verbs_try_boda": "Verbe auxiliaire -아/어 보다",
+  "grammar_group_aux_verbs_must_eya_hada": "Verbe auxiliaire -아/어야 하다",
+  "grammar_group_voice_passive_ajida": "Passif -아/어지다",
+  "grammar_group_voice_causative_gehada": "Causatif -게 하다",
+  "grammar_group_conditionals_myeon_basic": "Conditionnel -(으)면",
+  "grammar_group_conditionals_tomyeon_future": "Conditionnel -(으)면 (futur/répétition)",
+  "grammar_group_quotations_declare_dago": "Citations avec -다고 하다",
+  "grammar_group_quotations_say_lago": "Citations avec -라고 하다"
+}

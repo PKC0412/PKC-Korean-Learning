@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "ending",
+  "translations": {
+    "ending_polite_ayo_eoyo_1": {
+      "translation": "I’m going home early today."
+    },
+    "ending_polite_ayo_eoyo_2": {
+      "translation": "My friend is drinking coffee at a café."
+    },
+    "ending_polite_ayo_eoyo_3": {
+      "translation": "We exercise in the evening."
+    },
+    "ending_polite_ayo_eoyo_4": {
+      "translation": "I watch movies every weekend."
+    },
+    "ending_polite_ayo_eoyo_5": {
+      "translation": "The weather is nice."
+    },
+    "ending_formal_sumnida_1": {
+      "translation": "I work in Korea."
+    },
+    "ending_formal_sumnida_2": {
+      "translation": "The meeting starts at 3 p.m."
+    },
+    "ending_formal_sumnida_3": {
+      "translation": "I am a student."
+    },
+    "ending_formal_sumnida_4": {
+      "translation": "I am preparing the report now."
+    },
+    "ending_formal_sumnida_5": {
+      "translation": "Are you attending the meeting?"
+    }
+  }
+}

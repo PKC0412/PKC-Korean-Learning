@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "Oggi voglio tornare presto a casa."
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "Il mio fratellino vuole crescere un cucciolo."
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "Voglio andare al mare questo fine settimana."
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "Il mio amico dice che vuole imparare un nuovo lavoro."
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "Voglio lavorare all'estero l'anno prossimo."
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "Ieri ho provato a fare il kimchi per la prima volta."
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "Il mio fratellino voleva provare lo sci."
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "Ho provato a usare un nuovo metodo."
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "Il mio amico mi ha detto di assaggiare la torta che ha fatto."
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "Questa settimana proverò un nuovo tipo di esercizio."
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "Devo consegnare questo rapporto oggi."
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "Gli operai devono indossare l'equipaggiamento di sicurezza nel cantiere."
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "Devo organizzare i documenti prima della riunione."
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "Dobbiamo controllare i biglietti prima di partire."
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "Devo mangiare prima di prendere la medicina."
+    }
+  }
+}

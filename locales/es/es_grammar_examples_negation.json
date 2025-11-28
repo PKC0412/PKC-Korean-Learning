@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "No como comida picante."
+    },
+    "negation_an_2": {
+      "translation": "Mi hermano menor no hace la tarea."
+    },
+    "negation_an_3": {
+      "translation": "No tomo café."
+    },
+    "negation_an_4": {
+      "translation": "Mi amigo no ve la televisión."
+    },
+    "negation_an_5": {
+      "translation": "No hago ejercicio."
+    },
+    "negation_mot_1": {
+      "translation": "No puedo nadar bien."
+    },
+    "negation_mot_2": {
+      "translation": "Mi hermano menor no puede montar en bicicleta."
+    },
+    "negation_mot_3": {
+      "translation": "No puedo cantar bien."
+    },
+    "negation_mot_4": {
+      "translation": "Mi amigo no puede dibujar bien."
+    },
+    "negation_mot_5": {
+      "translation": "No puedo conducir."
+    },
+    "negation_ji_anhda_1": {
+      "translation": "No bebo alcohol."
+    },
+    "negation_ji_anhda_2": {
+      "translation": "Mi amigo no desayuna."
+    },
+    "negation_ji_anhda_3": {
+      "translation": "No duermo tarde."
+    },
+    "negation_ji_anhda_4": {
+      "translation": "Mi hermano menor no va a la escuela."
+    },
+    "negation_ji_anhda_5": {
+      "translation": "No como carne."
+    },
+    "negation_ji_mothada_1": {
+      "translation": "No puedo comer comida picante."
+    },
+    "negation_ji_mothada_2": {
+      "translation": "Mi hermano menor no puede subir corriendo las escaleras."
+    },
+    "negation_ji_mothada_3": {
+      "translation": "No puedo caminar lejos."
+    },
+    "negation_ji_mothada_4": {
+      "translation": "Mi amigo no puede ir a lugares altos."
+    },
+    "negation_ji_mothada_5": {
+      "translation": "No puedo levantar equipaje pesado."
+    }
+  }
+}

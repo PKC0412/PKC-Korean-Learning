@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "examples": [
+    {
+      "id": "aux_verbs_want_gosipda_1",
+      "groupId": "aux_verbs_want_gosipda",
+      "korean": "저는 오늘 빨리 집에 가고 싶어요.",
+      "romanization": "jeoneun oneul ppalli jibe gago sipeoyo",
+      "ipa": "tɕʌnɯn onɯl p͈alli tɕibe kaɡo ɕipʰʌjo"
+    },
+    {
+      "id": "aux_verbs_want_gosipda_2",
+      "groupId": "aux_verbs_want_gosipda",
+      "korean": "동생은 강아지를 키우고 싶어 해요.",
+      "romanization": "dongsaengeun gangajireul kiugo sipeo haeyo",
+      "ipa": "toŋsɛŋɯn kaŋadʑiɾɯl kʰiuɡo ɕipʰʌ hɛjo"
+    },
+    {
+      "id": "aux_verbs_want_gosipda_3",
+      "groupId": "aux_verbs_want_gosipda",
+      "korean": "저는 주말에 바다에 가고 싶어요.",
+      "romanization": "jeoneun jumare badae gago sipeoyo",
+      "ipa": "tɕʌnɯn tɕumarɛ padae kaɡo ɕipʰʌjo"
+    },
+    {
+      "id": "aux_verbs_want_gosipda_4",
+      "groupId": "aux_verbs_want_gosipda",
+      "korean": "친구는 새로운 일을 배우고 싶대요.",
+      "romanization": "chinguneun saeroun ireul baeu go sipdaeyo",
+      "ipa": "tɕʰinɡunɯn sɛɾoun iɾɯl pɛuɡo ɕip̚tɛjo"
+    },
+    {
+      "id": "aux_verbs_want_gosipda_5",
+      "groupId": "aux_verbs_want_gosipda",
+      "korean": "저는 내년에 해외에서 일하고 싶어요.",
+      "romanization": "jeoneun naenyeone haeoeeseo ilhago sipeoyo",
+      "ipa": "tɕʌnɯn nɛɲʌnɛ hɛoeeso ilhaɡo ɕipʰʌjo"
+    },
+    {
+      "id": "aux_verbs_try_boda_1",
+      "groupId": "aux_verbs_try_boda",
+      "korean": "저는 어제 처음으로 김치를 만들어 봤어요.",
+      "romanization": "jeoneun eoje cheoeumeuro gimchireul mandeureo bwasseoyo",
+      "ipa": "tɕʌnɯn ʌtɕe tɕʰʌɯmɯɾo kimtɕʰiɾɯl mandɯɾʌ pats͈ʌjo"
+    },
+    {
+      "id": "aux_verbs_try_boda_2",
+      "groupId": "aux_verbs_try_boda",
+      "korean": "동생은 스키를 타 보고 싶어 했어요.",
+      "romanization": "dongsaengeun seukireul ta bogo sipeo haesseoyo",
+      "ipa": "toŋsɛŋɯn sɯkʰiɾɯl tʰa poɡo ɕipʰʌ hɛs͈ʌjo"
+    },
+    {
+      "id": "aux_verbs_try_boda_3",
+      "groupId": "aux_verbs_try_boda",
+      "korean": "저는 새로운 방법을 써 봤어요.",
+      "romanization": "jeoneun saeroun bangbeobeul sseo bwasseoyo",
+      "ipa": "tɕʌnɯn sɛɾoun paŋbʌbɯl ssʌ pats͈ʌjo"
+    },
+    {
+      "id": "aux_verbs_try_boda_4",
+      "groupId": "aux_verbs_try_boda",
+      "korean": "친구는 저한테 만든 케이크를 먹어 보라고 했어요.",
+      "romanization": "chinguneun jeohante mandeun keikeureul meogeo borago haesseoyo",
+      "ipa": "tɕʰinɡunɯn tɕʌhantʰe mandɯn kʰeikʰɯɾɯl mʌɡʌ poɾaɡo hɛs͈ʌjo"
+    },
+    {
+      "id": "aux_verbs_try_boda_5",
+      "groupId": "aux_verbs_try_boda",
+      "korean": "저는 이번 주에 새로운 운동을 해 볼 거예요.",
+      "romanization": "jeoneun ibeon jue saeroun undongeul hae bol geoyeyo",
+      "ipa": "tɕʌnɯn ipʌn tɕue sɛɾoun undoŋɯl hɛ pol kʌjejo"
+    },
+    {
+      "id": "aux_verbs_must_eya_hada_1",
+      "groupId": "aux_verbs_must_eya_hada",
+      "korean": "저는 오늘까지 이 보고서를 제출해야 해요.",
+      "romanization": "jeoneun oneulkkaji i bogoseoreul jechrulhaeya haeyo",
+      "ipa": "tɕʌnɯn onɯlkkadʑi i poɡosoɾɯl tɕetɕʰulhɛja hɛjo"
+    },
+    {
+      "id": "aux_verbs_must_eya_hada_2",
+      "groupId": "aux_verbs_must_eya_hada",
+      "korean": "학생들은 현장에서 안전복을 꼭 입어야 해요.",
+      "romanization": "haksaengdeureun hyeonjangeseo anjeonbogeul kkok ibeoya haeyo",
+      "ipa": "hak̚sɛŋdɯɾɯn hjʌndʑaŋeso andʑʌnboɡɯl k͈ok̚ ibʌja hɛjo"
+    },
+    {
+      "id": "aux_verbs_must_eya_hada_3",
+      "groupId": "aux_verbs_must_eya_hada",
+      "korean": "회의 전에 자료를 정리해야 해요.",
+      "romanization": "hoeui jeone jaryoreul jeongnihaeya haeyo",
+      "ipa": "hweɰi tɕʌne tɕaɾjoɾɯl tɕʌŋni hɛja hɛjo"
+    },
+    {
+      "id": "aux_verbs_must_eya_hada_4",
+      "groupId": "aux_verbs_must_eya_hada",
+      "korean": "우리는 출발하기 전에 표를 확인해야 해요.",
+      "romanization": "urineun chulbalhagi jeone pyoreul hwakinhaeya haeyo",
+      "ipa": "uɾinɯn tɕʰulbaɾhaɡi tɕʌne pʰjoɾɯl hʷakʰinhaɛja hɛjo"
+    },
+    {
+      "id": "aux_verbs_must_eya_hada_5",
+      "groupId": "aux_verbs_must_eya_hada",
+      "korean": "저는 약을 먹기 전에 식사를 해야 해요.",
+      "romanization": "jeoneun yageul meokgi jeone siksareul haeya haeyo",
+      "ipa": "tɕʌnɯn jaɡɯl mʌk̚ki tɕʌne sik̚saɾɯl hɛja hɛjo"
+    }
+  ]
+}

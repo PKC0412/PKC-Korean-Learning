@@ -1,0 +1,1802 @@
+[
+  {
+    "korean": "안녕하세요",
+    "Dutch": "Hallo / Goedendag",
+    "romanization": "annyeonghaseyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "안녕히 가세요",
+    "Dutch": "Tot ziens (tegen vertrekker)",
+    "romanization": "annyeonghi gaseyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "안녕히 계세요",
+    "Dutch": "Tot ziens (tegen blijver)",
+    "romanization": "annyeonghi gyeseyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "안녕",
+    "Dutch": "Hoi / Doei",
+    "romanization": "annyeong",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "감사합니다",
+    "Dutch": "Dank u wel (formeel)",
+    "romanization": "gamsahamnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "고맙습니다",
+    "Dutch": "Dank u",
+    "romanization": "gomapseumnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "고마워요",
+    "Dutch": "Dank je",
+    "romanization": "gomawoyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "죄송합니다",
+    "Dutch": "Het spijt me (formeel)",
+    "romanization": "joesonghamnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "미안합니다",
+    "Dutch": "Het spijt me / Sorry",
+    "romanization": "mianhamnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "미안해요",
+    "Dutch": "Sorry",
+    "romanization": "mianhaeyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "반갑습니다",
+    "Dutch": "Aangenaam kennis te maken",
+    "romanization": "bangapseumnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "만나서 반가워요",
+    "Dutch": "Leuk je te ontmoeten",
+    "romanization": "mannaseo bangawoyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "실례합니다",
+    "Dutch": "Pardon / Excuseer mij",
+    "romanization": "sillyehamnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "저기요",
+    "Dutch": "Pardon (om aandacht te vragen)",
+    "romanization": "jeogiyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "어서 오세요",
+    "Dutch": "Welkom",
+    "romanization": "eoseo oseyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "Dutch": "Welterusten (formeel)",
+    "romanization": "annyeonghi jumuseyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "잘 자요",
+    "Dutch": "Welterusten / Slaap lekker",
+    "romanization": "jal jayo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "맛있게 드세요",
+    "Dutch": "Eet smakelijk",
+    "romanization": "masitge deuseyo",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "Dutch": "Ik zal smakelijk eten (Bedankt voor het eten)",
+    "romanization": "jal meokgetseumnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "잘 먹었습니다",
+    "Dutch": "Ik heb lekker gegeten (Bedankt voor de maaltijd)",
+    "romanization": "jal meogeotseumnida",
+    "category": "Begroetingen"
+  },
+  {
+    "korean": "네",
+    "Dutch": "Ja",
+    "romanization": "ne",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "아니요",
+    "Dutch": "Nee",
+    "romanization": "aniyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "괜찮아요",
+    "Dutch": "Het is goed / Geen probleem",
+    "romanization": "gwaenchanayo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "좋아요",
+    "Dutch": "Goed / Ik vind het leuk",
+    "romanization": "joayo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "싫어요",
+    "Dutch": "Ik vind het niet leuk / Ik wil niet",
+    "romanization": "sileoyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "천만에요",
+    "Dutch": "Graag gedaan",
+    "romanization": "cheonmaneyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "잠깐만요",
+    "Dutch": "Een ogenblik alstublieft",
+    "romanization": "jamkkanmanyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "알겠습니다",
+    "Dutch": "Begrepen",
+    "romanization": "algesseumnida",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "모르겠어요",
+    "Dutch": "Ik weet het niet",
+    "romanization": "moreugesseoyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "도와주세요",
+    "Dutch": "Help me alstublieft",
+    "romanization": "dowajuseyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "됐어요",
+    "Dutch": "Het is goed zo / Laat maar",
+    "romanization": "dwaesseoyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "안 돼요",
+    "Dutch": "Dat mag niet / Nee",
+    "romanization": "an dwaeyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "맞아요",
+    "Dutch": "Dat klopt",
+    "romanization": "majayo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "틀렸어요",
+    "Dutch": "Dat is fout",
+    "romanization": "teullyeosseoyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "그래요",
+    "Dutch": "Is dat zo? / Echt?",
+    "romanization": "geuraeyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "정말요",
+    "Dutch": "Echt waar?",
+    "romanization": "jeongmallyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "진짜요",
+    "Dutch": "Serieus?",
+    "romanization": "jinjjayo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "그럼요",
+    "Dutch": "Natuurlijk",
+    "romanization": "geureomyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "아마도",
+    "Dutch": "Misschien",
+    "romanization": "amado",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "글쎄요",
+    "Dutch": "Tja... / Ik weet het niet zeker",
+    "romanization": "geulsseyo",
+    "category": "Basiswoordenschat"
+  },
+  {
+    "korean": "물",
+    "Dutch": "Water",
+    "romanization": "mul",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "밥",
+    "Dutch": "Rijst / Maaltijd",
+    "romanization": "bap",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "김밥",
+    "Dutch": "Kimbap",
+    "romanization": "gimbap",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "라면",
+    "Dutch": "Ramen / Instant noedels",
+    "romanization": "ramyeon",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "김치",
+    "Dutch": "Kimchi",
+    "romanization": "gimchi",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "커피",
+    "Dutch": "Koffie",
+    "romanization": "keopi",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "차",
+    "Dutch": "Thee",
+    "romanization": "cha",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "우유",
+    "Dutch": "Melk",
+    "romanization": "uyu",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "주스",
+    "Dutch": "Sap",
+    "romanization": "juseu",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "맥주",
+    "Dutch": "Bier",
+    "romanization": "maekju",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "빵",
+    "Dutch": "Brood",
+    "romanization": "ppang",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "과자",
+    "Dutch": "Snack / Koekje",
+    "romanization": "gwaja",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "사탕",
+    "Dutch": "Snoepje",
+    "romanization": "satang",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "고기",
+    "Dutch": "Vlees",
+    "romanization": "gogi",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "치킨",
+    "Dutch": "Kip (gefrituurd)",
+    "romanization": "chikin",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "계란",
+    "Dutch": "Ei",
+    "romanization": "gyeran",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "과일",
+    "Dutch": "Fruit",
+    "romanization": "gwail",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "사과",
+    "Dutch": "Appel",
+    "romanization": "sagwa",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "바나나",
+    "Dutch": "Banaan",
+    "romanization": "banana",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "야채",
+    "Dutch": "Groente",
+    "romanization": "yachae",
+    "category": "Eten & Drinken"
+  },
+  {
+    "korean": "사람",
+    "Dutch": "Mens / Persoon",
+    "romanization": "saram",
+    "category": "Mensen"
+  },
+  {
+    "korean": "친구",
+    "Dutch": "Vriend(in)",
+    "romanization": "chingu",
+    "category": "Mensen"
+  },
+  {
+    "korean": "가족",
+    "Dutch": "Familie",
+    "romanization": "gajok",
+    "category": "Mensen"
+  },
+  {
+    "korean": "엄마",
+    "Dutch": "Mama",
+    "romanization": "eomma",
+    "category": "Mensen"
+  },
+  {
+    "korean": "아빠",
+    "Dutch": "Papa",
+    "romanization": "appa",
+    "category": "Mensen"
+  },
+  {
+    "korean": "부모님",
+    "Dutch": "Ouders",
+    "romanization": "bumonim",
+    "category": "Mensen"
+  },
+  {
+    "korean": "형",
+    "Dutch": "Oudere broer (voor mannen)",
+    "romanization": "hyeong",
+    "category": "Mensen"
+  },
+  {
+    "korean": "오빠",
+    "Dutch": "Oudere broer (voor vrouwen)",
+    "romanization": "oppa",
+    "category": "Mensen"
+  },
+  {
+    "korean": "누나",
+    "Dutch": "Oudere zus (voor mannen)",
+    "romanization": "nuna",
+    "category": "Mensen"
+  },
+  {
+    "korean": "언니",
+    "Dutch": "Oudere zus (voor vrouwen)",
+    "romanization": "eonni",
+    "category": "Mensen"
+  },
+  {
+    "korean": "동생",
+    "Dutch": "Jongere broer/zus",
+    "romanization": "dongsaeng",
+    "category": "Mensen"
+  },
+  {
+    "korean": "선생님",
+    "Dutch": "Leraar",
+    "romanization": "seonsaengnim",
+    "category": "Mensen"
+  },
+  {
+    "korean": "학생",
+    "Dutch": "Student / Leerling",
+    "romanization": "haksaeng",
+    "category": "Mensen"
+  },
+  {
+    "korean": "남자",
+    "Dutch": "Man",
+    "romanization": "namja",
+    "category": "Mensen"
+  },
+  {
+    "korean": "여자",
+    "Dutch": "Vrouw",
+    "romanization": "yeoja",
+    "category": "Mensen"
+  },
+  {
+    "korean": "아이",
+    "Dutch": "Kind",
+    "romanization": "ai",
+    "category": "Mensen"
+  },
+  {
+    "korean": "아기",
+    "Dutch": "Baby",
+    "romanization": "agi",
+    "category": "Mensen"
+  },
+  {
+    "korean": "할아버지",
+    "Dutch": "Opa",
+    "romanization": "harabeoji",
+    "category": "Mensen"
+  },
+  {
+    "korean": "할머니",
+    "Dutch": "Oma",
+    "romanization": "halmeoni",
+    "category": "Mensen"
+  },
+  {
+    "korean": "손님",
+    "Dutch": "Gast / Klant",
+    "romanization": "sonnim",
+    "category": "Mensen"
+  },
+  {
+    "korean": "집",
+    "Dutch": "Huis / Thuis",
+    "romanization": "jip",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "학교",
+    "Dutch": "School",
+    "romanization": "hakgyo",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "병원",
+    "Dutch": "Ziekenhuis",
+    "romanization": "byeongwon",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "약국",
+    "Dutch": "Apotheek",
+    "romanization": "yakguk",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "식당",
+    "Dutch": "Restaurant",
+    "romanization": "sikdang",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "카페",
+    "Dutch": "Café",
+    "romanization": "kape",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "화장실",
+    "Dutch": "Toilet",
+    "romanization": "hwajangsil",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "은행",
+    "Dutch": "Bank",
+    "romanization": "eunhaeng",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "공항",
+    "Dutch": "Luchthaven",
+    "romanization": "gonghang",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "호텔",
+    "Dutch": "Hotel",
+    "romanization": "hotel",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "시장",
+    "Dutch": "Markt",
+    "romanization": "sijang",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "백화점",
+    "Dutch": "Warenhuis",
+    "romanization": "baekwajeom",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "편의점",
+    "Dutch": "Buurtwinkel / Supermarktje",
+    "romanization": "pyeonuijeom",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "회사",
+    "Dutch": "Bedrijf / Kantoor",
+    "romanization": "hoesa",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "도서관",
+    "Dutch": "Bibliotheek",
+    "romanization": "doseogwan",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "공원",
+    "Dutch": "Park",
+    "romanization": "gongwon",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "극장",
+    "Dutch": "Theater / Bioscoop",
+    "romanization": "geukjang",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "박물관",
+    "Dutch": "Museum",
+    "romanization": "bangmulgwan",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "역",
+    "Dutch": "Station",
+    "romanization": "yeok",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "정류장",
+    "Dutch": "Bushalte",
+    "romanization": "jeongnyujang",
+    "category": "Plaatsen"
+  },
+  {
+    "korean": "버스",
+    "Dutch": "Bus",
+    "romanization": "beoseu",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "택시",
+    "Dutch": "Taxi",
+    "romanization": "taeksi",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "기차",
+    "Dutch": "Trein",
+    "romanization": "gicha",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "지하철",
+    "Dutch": "Metro",
+    "romanization": "jihacheol",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "비행기",
+    "Dutch": "Vliegtuig",
+    "romanization": "bihaenggi",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "자동차",
+    "Dutch": "Auto",
+    "romanization": "jadongcha",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "자전거",
+    "Dutch": "Fiets",
+    "romanization": "jajeongeo",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "오토바이",
+    "Dutch": "Motorfiets",
+    "romanization": "otobai",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "배",
+    "Dutch": "Boot / Schip",
+    "romanization": "bae",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "표",
+    "Dutch": "Kaartje / Ticket",
+    "romanization": "pyo",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "길",
+    "Dutch": "Weg",
+    "romanization": "gil",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "거리",
+    "Dutch": "Straat",
+    "romanization": "geori",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "신호등",
+    "Dutch": "Stoplicht",
+    "romanization": "sinhodeung",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "횡단보도",
+    "Dutch": "Zebrapad",
+    "romanization": "hoengdanbodo",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "주차장",
+    "Dutch": "Parkeerplaats",
+    "romanization": "juchajang",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "운전",
+    "Dutch": "Rijden / Besturen",
+    "romanization": "unjeon",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "출발",
+    "Dutch": "Vertrek",
+    "romanization": "chulbal",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "도착",
+    "Dutch": "Aankomst",
+    "romanization": "dochak",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "가까이",
+    "Dutch": "Dichtbij",
+    "romanization": "gakkai",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "멀리",
+    "Dutch": "Ver weg",
+    "romanization": "meolli",
+    "category": "Vervoer"
+  },
+  {
+    "korean": "가다",
+    "Dutch": "Gaan",
+    "romanization": "gada",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "오다",
+    "Dutch": "Komen",
+    "romanization": "oda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "먹다",
+    "Dutch": "Eten",
+    "romanization": "meokda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "마시다",
+    "Dutch": "Drinken",
+    "romanization": "masida",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "자다",
+    "Dutch": "Slapen",
+    "romanization": "jada",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "일어나다",
+    "Dutch": "Opstaan / Wakker worden",
+    "romanization": "ireonada",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "씻다",
+    "Dutch": "Wassen",
+    "romanization": "ssitda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "입다",
+    "Dutch": "Aantrekken / Dragen",
+    "romanization": "ipda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "벗다",
+    "Dutch": "Uittrekken",
+    "romanization": "beotda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "앉다",
+    "Dutch": "Zitten",
+    "romanization": "anda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "서다",
+    "Dutch": "Staan",
+    "romanization": "seoda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "눕다",
+    "Dutch": "Liggen",
+    "romanization": "nupda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "걷다",
+    "Dutch": "Lopen",
+    "romanization": "geotda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "뛰다",
+    "Dutch": "Rennen",
+    "romanization": "ttwida",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "타다",
+    "Dutch": "Instappen / Rijden (vervoersmiddel)",
+    "romanization": "tada",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "내리다",
+    "Dutch": "Uitstappen",
+    "romanization": "naerida",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "열다",
+    "Dutch": "Openen",
+    "romanization": "yeolda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "닫다",
+    "Dutch": "Sluiten",
+    "romanization": "datda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "켜다",
+    "Dutch": "Aanzetten",
+    "romanization": "kyeoda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "끄다",
+    "Dutch": "Uitzetten",
+    "romanization": "kkeuda",
+    "category": "Dagelijkse werkwoorden"
+  },
+  {
+    "korean": "공부하다",
+    "Dutch": "Studeren",
+    "romanization": "gongbuhada",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "일하다",
+    "Dutch": "Werken",
+    "romanization": "ilhada",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "보다",
+    "Dutch": "Zien / Kijken",
+    "romanization": "boda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "듣다",
+    "Dutch": "Horen / Luisteren",
+    "romanization": "deutda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "말하다",
+    "Dutch": "Spreken / Zeggen",
+    "romanization": "malhada",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "읽다",
+    "Dutch": "Lezen",
+    "romanization": "ikda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "쓰다",
+    "Dutch": "Schrijven / Gebruiken",
+    "romanization": "sseuda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "배우다",
+    "Dutch": "Leren",
+    "romanization": "baeuda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "가르치다",
+    "Dutch": "Onderwijzen / Lesgeven",
+    "romanization": "gareuchida",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "생각하다",
+    "Dutch": "Denken",
+    "romanization": "saenggakhada",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "알다",
+    "Dutch": "Weten / Kennen",
+    "romanization": "alda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "모르다",
+    "Dutch": "Niet weten",
+    "romanization": "moreuda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "사다",
+    "Dutch": "Kopen",
+    "romanization": "sada",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "팔다",
+    "Dutch": "Verkopen",
+    "romanization": "palda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "만들다",
+    "Dutch": "Maken",
+    "romanization": "mandeulda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "하다",
+    "Dutch": "Doen",
+    "romanization": "hada",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "주다",
+    "Dutch": "Geven",
+    "romanization": "juda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "받다",
+    "Dutch": "Ontvangen / Krijgen",
+    "romanization": "batda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "찾다",
+    "Dutch": "Zoeken / Vinden",
+    "romanization": "chatda",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "잃다",
+    "Dutch": "Verliezen",
+    "romanization": "ilta",
+    "category": "Actiewerkwoorden"
+  },
+  {
+    "korean": "좋다",
+    "Dutch": "Goed / Fijn",
+    "romanization": "jota",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "나쁘다",
+    "Dutch": "Slecht",
+    "romanization": "nappeuda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "크다",
+    "Dutch": "Groot",
+    "romanization": "keuda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "작다",
+    "Dutch": "Klein",
+    "romanization": "jakda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "높다",
+    "Dutch": "Hoog",
+    "romanization": "nopda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "낮다",
+    "Dutch": "Laag",
+    "romanization": "natda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "길다",
+    "Dutch": "Lang",
+    "romanization": "gilda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "짧다",
+    "Dutch": "Kort",
+    "romanization": "jjalpda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "넓다",
+    "Dutch": "Breed / Ruim",
+    "romanization": "neolpda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "좁다",
+    "Dutch": "Smal",
+    "romanization": "jopda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "예쁘다",
+    "Dutch": "Mooi (uiterlijk)",
+    "romanization": "yeppeuda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "아름답다",
+    "Dutch": "Prachtig",
+    "romanization": "areumdapda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "맛있다",
+    "Dutch": "Lekker",
+    "romanization": "masitta",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "맛없다",
+    "Dutch": "Niet lekker / Smakeloos",
+    "romanization": "mateopsda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "비싸다",
+    "Dutch": "Duur",
+    "romanization": "bissada",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "싸다",
+    "Dutch": "Goedkoop",
+    "romanization": "ssada",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "많다",
+    "Dutch": "Veel",
+    "romanization": "manta",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "적다",
+    "Dutch": "Weinig",
+    "romanization": "jeokda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "빠르다",
+    "Dutch": "Snel",
+    "romanization": "ppareuda",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "느리다",
+    "Dutch": "Langzaam",
+    "romanization": "neurida",
+    "category": "Bijvoeglijke naamwoorden"
+  },
+  {
+    "korean": "하나",
+    "Dutch": "Eén",
+    "romanization": "hana",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "둘",
+    "Dutch": "Twee",
+    "romanization": "dul",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "셋",
+    "Dutch": "Drie",
+    "romanization": "set",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "넷",
+    "Dutch": "Vier",
+    "romanization": "net",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "다섯",
+    "Dutch": "Vijf",
+    "romanization": "daseot",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "여섯",
+    "Dutch": "Zes",
+    "romanization": "yeoseot",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "일곱",
+    "Dutch": "Zeven",
+    "romanization": "ilgop",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "여덟",
+    "Dutch": "Acht",
+    "romanization": "yeodeol",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "아홉",
+    "Dutch": "Negen",
+    "romanization": "ahop",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "열",
+    "Dutch": "Tien",
+    "romanization": "yeol",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "일",
+    "Dutch": "Eén (Sino-Koreaans)",
+    "romanization": "il",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "이",
+    "Dutch": "Twee (Sino-Koreaans)",
+    "romanization": "i",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "삼",
+    "Dutch": "Drie (Sino-Koreaans)",
+    "romanization": "sam",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "사",
+    "Dutch": "Vier (Sino-Koreaans)",
+    "romanization": "sa",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "오",
+    "Dutch": "Vijf (Sino-Koreaans)",
+    "romanization": "o",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "육",
+    "Dutch": "Zes (Sino-Koreaans)",
+    "romanization": "yuk",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "칠",
+    "Dutch": "Zeven (Sino-Koreaans)",
+    "romanization": "chil",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "팔",
+    "Dutch": "Acht (Sino-Koreaans)",
+    "romanization": "pal",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "구",
+    "Dutch": "Negen (Sino-Koreaans)",
+    "romanization": "gu",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "십",
+    "Dutch": "Tien (Sino-Koreaans)",
+    "romanization": "sip",
+    "category": "Cijfers"
+  },
+  {
+    "korean": "오늘",
+    "Dutch": "Vandaag",
+    "romanization": "oneul",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "내일",
+    "Dutch": "Morgen",
+    "romanization": "naeil",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "어제",
+    "Dutch": "Gisteren",
+    "romanization": "eoje",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "모레",
+    "Dutch": "Overmorgen",
+    "romanization": "more",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "그제",
+    "Dutch": "Eergisteren",
+    "romanization": "geuje",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "지금",
+    "Dutch": "Nu",
+    "romanization": "jigeum",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "나중에",
+    "Dutch": "Later",
+    "romanization": "najunge",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "아침",
+    "Dutch": "Ochtend",
+    "romanization": "achim",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "점심",
+    "Dutch": "Middag / Lunch",
+    "romanization": "jeomsim",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "저녁",
+    "Dutch": "Avond / Diner",
+    "romanization": "jeonyeok",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "밤",
+    "Dutch": "Nacht",
+    "romanization": "bam",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "시간",
+    "Dutch": "Tijd / Uur",
+    "romanization": "sigan",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "분",
+    "Dutch": "Minuut",
+    "romanization": "bun",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "초",
+    "Dutch": "Seconde",
+    "romanization": "cho",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "년",
+    "Dutch": "Jaar",
+    "romanization": "nyeon",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "월",
+    "Dutch": "Maand",
+    "romanization": "wol",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "일",
+    "Dutch": "Dag",
+    "romanization": "il",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "주",
+    "Dutch": "Week",
+    "romanization": "ju",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "요일",
+    "Dutch": "Dag van de week",
+    "romanization": "yoil",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "날",
+    "Dutch": "Dag",
+    "romanization": "nal",
+    "category": "Tijd & Datum"
+  },
+  {
+    "korean": "빨강",
+    "Dutch": "Rood",
+    "romanization": "ppalgang",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "빨간색",
+    "Dutch": "Rode kleur",
+    "romanization": "ppalgansaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "파랑",
+    "Dutch": "Blauw",
+    "romanization": "parang",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "파란색",
+    "Dutch": "Blauwe kleur",
+    "romanization": "paransaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "노랑",
+    "Dutch": "Geel",
+    "romanization": "norang",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "노란색",
+    "Dutch": "Gele kleur",
+    "romanization": "noransaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "초록",
+    "Dutch": "Groen",
+    "romanization": "chorok",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "초록색",
+    "Dutch": "Groene kleur",
+    "romanization": "choroksaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "검정",
+    "Dutch": "Zwart",
+    "romanization": "geomjeong",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "검은색",
+    "Dutch": "Zwarte kleur",
+    "romanization": "geomeunsaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "하양",
+    "Dutch": "Wit",
+    "romanization": "hayang",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "하얀색",
+    "Dutch": "Witte kleur",
+    "romanization": "hayansaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "주황",
+    "Dutch": "Oranje",
+    "romanization": "juhwang",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "주황색",
+    "Dutch": "Oranje kleur",
+    "romanization": "juhwangsaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "보라",
+    "Dutch": "Paars",
+    "romanization": "bora",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "보라색",
+    "Dutch": "Paarse kleur",
+    "romanization": "borasaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "분홍",
+    "Dutch": "Roze",
+    "romanization": "bunhong",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "분홍색",
+    "Dutch": "Roze kleur",
+    "romanization": "bunhongsaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "회색",
+    "Dutch": "Grijs",
+    "romanization": "hoesaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "갈색",
+    "Dutch": "Bruin",
+    "romanization": "galsaek",
+    "category": "Kleuren"
+  },
+  {
+    "korean": "머리",
+    "Dutch": "Hoofd / Haar",
+    "romanization": "meori",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "얼굴",
+    "Dutch": "Gezicht",
+    "romanization": "eolgul",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "눈",
+    "Dutch": "Oog",
+    "romanization": "nun",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "코",
+    "Dutch": "Neus",
+    "romanization": "ko",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "귀",
+    "Dutch": "Oor",
+    "romanization": "gwi",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "입",
+    "Dutch": "Mond",
+    "romanization": "ip",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "이",
+    "Dutch": "Tand",
+    "romanization": "i",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "목",
+    "Dutch": "Nek / Keel",
+    "romanization": "mok",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "어깨",
+    "Dutch": "Schouder",
+    "romanization": "eokkae",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "팔",
+    "Dutch": "Arm",
+    "romanization": "pal",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "손",
+    "Dutch": "Hand",
+    "romanization": "son",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "손가락",
+    "Dutch": "Vinger",
+    "romanization": "son garak",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "다리",
+    "Dutch": "Been",
+    "romanization": "dari",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "발",
+    "Dutch": "Voet",
+    "romanization": "bal",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "발가락",
+    "Dutch": "Teen",
+    "romanization": "balgarak",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "배",
+    "Dutch": "Buik",
+    "romanization": "bae",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "등",
+    "Dutch": "Rug",
+    "romanization": "deung",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "가슴",
+    "Dutch": "Borst / Hart",
+    "romanization": "gaseum",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "심장",
+    "Dutch": "Hart (orgaan)",
+    "romanization": "simjang",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "피",
+    "Dutch": "Bloed",
+    "romanization": "pi",
+    "category": "Lichaam"
+  },
+  {
+    "korean": "날씨",
+    "Dutch": "Weer",
+    "romanization": "nalssi",
+    "category": "Natuur"
+  },
+  {
+    "korean": "비",
+    "Dutch": "Regen",
+    "romanization": "bi",
+    "category": "Natuur"
+  },
+  {
+    "korean": "눈",
+    "Dutch": "Sneeuw",
+    "romanization": "nun",
+    "category": "Natuur"
+  },
+  {
+    "korean": "바람",
+    "Dutch": "Wind",
+    "romanization": "baram",
+    "category": "Natuur"
+  },
+  {
+    "korean": "구름",
+    "Dutch": "Wolk",
+    "romanization": "gureum",
+    "category": "Natuur"
+  },
+  {
+    "korean": "해",
+    "Dutch": "Zon",
+    "romanization": "hae",
+    "category": "Natuur"
+  },
+  {
+    "korean": "달",
+    "Dutch": "Maan",
+    "romanization": "dal",
+    "category": "Natuur"
+  },
+  {
+    "korean": "별",
+    "Dutch": "Ster",
+    "romanization": "byeol",
+    "category": "Natuur"
+  },
+  {
+    "korean": "하늘",
+    "Dutch": "Lucht",
+    "romanization": "haneul",
+    "category": "Natuur"
+  },
+  {
+    "korean": "땅",
+    "Dutch": "Grond / Aarde",
+    "romanization": "ttang",
+    "category": "Natuur"
+  },
+  {
+    "korean": "산",
+    "Dutch": "Berg",
+    "romanization": "san",
+    "category": "Natuur"
+  },
+  {
+    "korean": "강",
+    "Dutch": "Rivier",
+    "romanization": "gang",
+    "category": "Natuur"
+  },
+  {
+    "korean": "바다",
+    "Dutch": "Zee",
+    "romanization": "bada",
+    "category": "Natuur"
+  },
+  {
+    "korean": "호수",
+    "Dutch": "Meer",
+    "romanization": "hosu",
+    "category": "Natuur"
+  },
+  {
+    "korean": "나무",
+    "Dutch": "Boom",
+    "romanization": "namu",
+    "category": "Natuur"
+  },
+  {
+    "korean": "꽃",
+    "Dutch": "Bloem",
+    "romanization": "kkot",
+    "category": "Natuur"
+  },
+  {
+    "korean": "풀",
+    "Dutch": "Gras",
+    "romanization": "pul",
+    "category": "Natuur"
+  },
+  {
+    "korean": "불",
+    "Dutch": "Vuur",
+    "romanization": "bul",
+    "category": "Natuur"
+  },
+  {
+    "korean": "돌",
+    "Dutch": "Steen",
+    "romanization": "dol",
+    "category": "Natuur"
+  },
+  {
+    "korean": "흙",
+    "Dutch": "Aarde / Zand",
+    "romanization": "heuk",
+    "category": "Natuur"
+  },
+  {
+    "korean": "교실",
+    "Dutch": "Klaslokaal",
+    "romanization": "gyosil",
+    "category": "School"
+  },
+  {
+    "korean": "책",
+    "Dutch": "Boek",
+    "romanization": "chaek",
+    "category": "School"
+  },
+  {
+    "korean": "공책",
+    "Dutch": "Schrift",
+    "romanization": "gongchaek",
+    "category": "School"
+  },
+  {
+    "korean": "연필",
+    "Dutch": "Potlood",
+    "romanization": "yeonpil",
+    "category": "School"
+  },
+  {
+    "korean": "펜",
+    "Dutch": "Pen",
+    "romanization": "pen",
+    "category": "School"
+  },
+  {
+    "korean": "지우개",
+    "Dutch": "Gum",
+    "romanization": "jiugae",
+    "category": "School"
+  },
+  {
+    "korean": "가방",
+    "Dutch": "Tas / Rugzak",
+    "romanization": "gabang",
+    "category": "School"
+  },
+  {
+    "korean": "책상",
+    "Dutch": "Bureau / Tafel",
+    "romanization": "chaeksang",
+    "category": "School"
+  },
+  {
+    "korean": "의자",
+    "Dutch": "Stoel",
+    "romanization": "uija",
+    "category": "School"
+  },
+  {
+    "korean": "칠판",
+    "Dutch": "Schoolbord",
+    "romanization": "chilpan",
+    "category": "School"
+  },
+  {
+    "korean": "숙제",
+    "Dutch": "Huiswerk",
+    "romanization": "sukje",
+    "category": "School"
+  },
+  {
+    "korean": "시험",
+    "Dutch": "Examen / Toets",
+    "romanization": "siheom",
+    "category": "School"
+  },
+  {
+    "korean": "성적",
+    "Dutch": "Cijfer / Resultaten",
+    "romanization": "seongjeok",
+    "category": "School"
+  },
+  {
+    "korean": "수업",
+    "Dutch": "Les",
+    "romanization": "sueop",
+    "category": "School"
+  },
+  {
+    "korean": "과목",
+    "Dutch": "Vak",
+    "romanization": "gwamok",
+    "category": "School"
+  },
+  {
+    "korean": "수학",
+    "Dutch": "Wiskunde",
+    "romanization": "suhak",
+    "category": "School"
+  },
+  {
+    "korean": "과학",
+    "Dutch": "Wetenschap",
+    "romanization": "gwahak",
+    "category": "School"
+  },
+  {
+    "korean": "영어",
+    "Dutch": "Engels",
+    "romanization": "yeongeo",
+    "category": "School"
+  },
+  {
+    "korean": "역사",
+    "Dutch": "Geschiedenis",
+    "romanization": "yeoksa",
+    "category": "School"
+  },
+  {
+    "korean": "체육",
+    "Dutch": "Lichamelijke opvoeding (Gym)",
+    "romanization": "cheyuk",
+    "category": "School"
+  }
+]

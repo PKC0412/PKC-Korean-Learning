@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "Ik sport in de ochtend en neem daarna een douche."
+    },
+    "connectives_go_2": {
+      "translation": "Mijn broertje maakt zijn huiswerk en kijkt dan tv."
+    },
+    "connectives_go_3": {
+      "translation": "Ik eet en ga daarna wandelen."
+    },
+    "connectives_go_4": {
+      "translation": "Mijn vriend leest een boek en luistert muziek."
+    },
+    "connectives_go_5": {
+      "translation": "Ik was de afwas en doe de was."
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "Omdat het regende, bleef ik thuis."
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "Omdat ik honger had, at ik vroeg lunch."
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "Omdat er verkeer was, kwam ik te laat."
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "Omdat ik moe was, ging ik vroeg slapen."
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "Omdat het mooi weer was, ging ik wandelen."
+    },
+    "connectives_jiman_1": {
+      "translation": "Ik ben moe, maar ik deed toch aan sport."
+    },
+    "connectives_jiman_2": {
+      "translation": "Het is koud, maar ik ging wandelen."
+    },
+    "connectives_jiman_3": {
+      "translation": "Ik ben druk, maar ontmoet toch mijn vriend."
+    },
+    "connectives_jiman_4": {
+      "translation": "Het is lekker, maar een beetje pittig."
+    },
+    "connectives_jiman_5": {
+      "translation": "Het is duur, maar van goede kwaliteit."
+    },
+    "connectives_myeonseo_1": {
+      "translation": "Ik luister naar muziek terwijl ik studeer."
+    },
+    "connectives_myeonseo_2": {
+      "translation": "Mijn broertje eet terwijl hij tv kijkt."
+    },
+    "connectives_myeonseo_3": {
+      "translation": "Mijn vriend praat terwijl hij loopt."
+    },
+    "connectives_myeonseo_4": {
+      "translation": "Ik kook terwijl ik zing."
+    },
+    "connectives_myeonseo_5": {
+      "translation": "Mensen glimlachen terwijl ze foto's maken."
+    },
+    "connectives_geona_1": {
+      "translation": "In het weekend kijk ik een film of rust ik uit."
+    },
+    "connectives_geona_2": {
+      "translation": "Mijn broertje studeert of speelt videogames."
+    },
+    "connectives_geona_3": {
+      "translation": "Mijn vriend leest een boek of luistert muziek in het café."
+    },
+    "connectives_geona_4": {
+      "translation": "Ik sport of ik ga wandelen."
+    },
+    "connectives_geona_5": {
+      "translation": "We maken foto's of drinken koffie buiten."
+    }
+  }
+}

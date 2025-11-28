@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "comparison",
+  "translations": {
+    "comparison_boda_1": {
+      "translation": "今天的天气比昨天更暖和。"
+    },
+    "comparison_boda_2": {
+      "translation": "我个子比姐姐高。"
+    },
+    "comparison_boda_3": {
+      "translation": "这个包比那个轻。"
+    },
+    "comparison_boda_4": {
+      "translation": "这部电影比上一部有趣得多。"
+    },
+    "comparison_boda_5": {
+      "translation": "这条路比那条路稍微安静一点。"
+    },
+    "comparison_mankeum_1": {
+      "translation": "我不像姐姐那么会做饭。"
+    },
+    "comparison_mankeum_2": {
+      "translation": "今天和昨天一样忙。"
+    },
+    "comparison_mankeum_3": {
+      "translation": "那位选手取得了如期待般的好成绩。"
+    },
+    "comparison_mankeum_4": {
+      "translation": "这件衣服没有想的那么暖和。"
+    },
+    "comparison_mankeum_5": {
+      "translation": "我的英语不像朋友那么好。"
+    },
+    "comparison_cheoreom_1": {
+      "translation": "那个孩子笑得像天使一样。"
+    },
+    "comparison_cheoreom_2": {
+      "translation": "这只小狗像娃娃一样小巧可爱。"
+    },
+    "comparison_cheoreom_3": {
+      "translation": "天空像画一样美。"
+    },
+    "comparison_cheoreom_4": {
+      "translation": "他像机器一样工作。"
+    },
+    "comparison_cheoreom_5": {
+      "translation": "我想像风一样自由地行走。"
+    }
+  }
+}

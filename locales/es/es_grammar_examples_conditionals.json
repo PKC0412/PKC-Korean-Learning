@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "Cuando llueve, uso un paraguas."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "Si tienes tiempo, almorcemos juntos."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "Si llego a casa temprano, veo una película."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "Si hace buen tiempo, salgo a caminar."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "Si estoy ocupado, lo haré mañana."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "Si ahorro dinero, me iré de viaje."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "Si hago ejercicio, me pondré más sano."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "Si estudio mucho, mis notas mejorarán."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "Si me acuesto temprano, mañana me sentiré más descansado."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "Si camino mucho, me cansaré."
+    }
+  }
+}

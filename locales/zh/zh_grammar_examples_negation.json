@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "我不吃辣的食物。"
+    },
+    "negation_an_2": {
+      "translation": "弟弟不做作业。"
+    },
+    "negation_an_3": {
+      "translation": "我不喝咖啡。"
+    },
+    "negation_an_4": {
+      "translation": "朋友不看电视。"
+    },
+    "negation_an_5": {
+      "translation": "我不运动。"
+    },
+    "negation_mot_1": {
+      "translation": "我不太会游泳。"
+    },
+    "negation_mot_2": {
+      "translation": "弟弟不会骑自行车。"
+    },
+    "negation_mot_3": {
+      "translation": "我不太会唱歌。"
+    },
+    "negation_mot_4": {
+      "translation": "朋友不太会画画。"
+    },
+    "negation_mot_5": {
+      "translation": "我不会开车。"
+    },
+    "negation_ji_anhda_1": {
+      "translation": "我不喝酒。"
+    },
+    "negation_ji_anhda_2": {
+      "translation": "朋友不吃早饭。"
+    },
+    "negation_ji_anhda_3": {
+      "translation": "我不晚睡。"
+    },
+    "negation_ji_anhda_4": {
+      "translation": "弟弟不去学校。"
+    },
+    "negation_ji_anhda_5": {
+      "translation": "我不吃肉。"
+    },
+    "negation_ji_mothada_1": {
+      "translation": "我吃不了辣的食物。"
+    },
+    "negation_ji_mothada_2": {
+      "translation": "弟弟跑不上楼梯。"
+    },
+    "negation_ji_mothada_3": {
+      "translation": "我走不了太远。"
+    },
+    "negation_ji_mothada_4": {
+      "translation": "朋友去不了高的地方。"
+    },
+    "negation_ji_mothada_5": {
+      "translation": "我提不动重的行李。"
+    }
+  }
+}

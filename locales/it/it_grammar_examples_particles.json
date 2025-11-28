@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "particles",
+  "translations": {
+    "particles_case_1": {
+      "translation": "Vado a scuola."
+    },
+    "particles_case_2": {
+      "translation": "Il mio amico mi ha chiamato."
+    },
+    "particles_case_3": {
+      "translation": "Il mio fratellino legge un libro in camera."
+    },
+    "particles_case_4": {
+      "translation": "Vado al lavoro in azienda."
+    },
+    "particles_case_5": {
+      "translation": "Facciamo esercizio ogni fine settimana."
+    },
+    "particles_auxiliary_1": {
+      "translation": "Mi piace il caffè."
+    },
+    "particles_auxiliary_2": {
+      "translation": "Il mio amico ha anche visto il film."
+    },
+    "particles_auxiliary_3": {
+      "translation": "Bevo solo acqua."
+    },
+    "particles_auxiliary_4": {
+      "translation": "Il mio fratellino non ha nemmeno mangiato il riso."
+    },
+    "particles_auxiliary_5": {
+      "translation": "Leggo solo libri."
+    },
+    "particles_conjunctive_1": {
+      "translation": "Mangio con il mio amico."
+    },
+    "particles_conjunctive_2": {
+      "translation": "Abbiamo viaggiato con la famiglia."
+    },
+    "particles_conjunctive_3": {
+      "translation": "Il mio fratellino gioca con il cucciolo."
+    },
+    "particles_conjunctive_4": {
+      "translation": "Mi piacciono il kimchi e il bulgogi."
+    },
+    "particles_conjunctive_5": {
+      "translation": "Il mio amico ha parlato con l'insegnante."
+    }
+  }
+}

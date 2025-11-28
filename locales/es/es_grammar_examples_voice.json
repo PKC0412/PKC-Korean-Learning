@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "voice",
+  "translations": {
+    "voice_passive_ajida_1": {
+      "translation": "La ventana fue abierta."
+    },
+    "voice_passive_ajida_2": {
+      "translation": "La puerta fue cerrada."
+    },
+    "voice_passive_ajida_3": {
+      "translation": "La luz fue apagada."
+    },
+    "voice_passive_ajida_4": {
+      "translation": "La comida fue preparada."
+    },
+    "voice_passive_ajida_5": {
+      "translation": "La carretera fue bloqueada."
+    },
+    "voice_causative_gehada_1": {
+      "translation": "Hice reír a mi hermano menor."
+    },
+    "voice_causative_gehada_2": {
+      "translation": "El profesor hizo que los estudiantes leyeran."
+    },
+    "voice_causative_gehada_3": {
+      "translation": "Hice esperar a mi amigo."
+    },
+    "voice_causative_gehada_4": {
+      "translation": "Mamá hizo que me acostara temprano."
+    },
+    "voice_causative_gehada_5": {
+      "translation": "Hice que el cachorro se sentara."
+    }
+  }
+}

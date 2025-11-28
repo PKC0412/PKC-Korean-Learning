@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "categoryId": "connectives",
+  "translations": {
+    "connectives_go_1": {
+      "translation": "朝運動して、それからシャワーを浴びる。"
+    },
+    "connectives_go_2": {
+      "translation": "弟は宿題をしてからテレビを見る。"
+    },
+    "connectives_go_3": {
+      "translation": "食事をしてから散歩に出かける。"
+    },
+    "connectives_go_4": {
+      "translation": "友達は本を読んで音楽を聴く。"
+    },
+    "connectives_go_5": {
+      "translation": "皿を洗って洗濯をする。"
+    },
+    "connectives_aseo_eoseo_1": {
+      "translation": "雨が降っていたので家にいた。"
+    },
+    "connectives_aseo_eoseo_2": {
+      "translation": "お腹が空いていたので早めに昼食を食べた。"
+    },
+    "connectives_aseo_eoseo_3": {
+      "translation": "渋滞だったので遅れてしまった。"
+    },
+    "connectives_aseo_eoseo_4": {
+      "translation": "疲れていたので早く寝た。"
+    },
+    "connectives_aseo_eoseo_5": {
+      "translation": "天気が良かったので散歩に出かけた。"
+    },
+    "connectives_jiman_1": {
+      "translation": "疲れているが運動した。"
+    },
+    "connectives_jiman_2": {
+      "translation": "寒いけど散歩に出た。"
+    },
+    "connectives_jiman_3": {
+      "translation": "忙しいが友達に会った。"
+    },
+    "connectives_jiman_4": {
+      "translation": "美味しいが少し辛い。"
+    },
+    "connectives_jiman_5": {
+      "translation": "高いが質が良い。"
+    },
+    "connectives_myeonseo_1": {
+      "translation": "音楽を聞きながら勉強する。"
+    },
+    "connectives_myeonseo_2": {
+      "translation": "弟はテレビを見ながら食事する。"
+    },
+    "connectives_myeonseo_3": {
+      "translation": "友達は歩きながら話す。"
+    },
+    "connectives_myeonseo_4": {
+      "translation": "歌いながら料理する。"
+    },
+    "connectives_myeonseo_5": {
+      "translation": "人々は写真を撮りながら微笑む。"
+    },
+    "connectives_geona_1": {
+      "translation": "週末は映画を見るか休む。"
+    },
+    "connectives_geona_2": {
+      "translation": "弟は勉強するかゲームをする。"
+    },
+    "connectives_geona_3": {
+      "translation": "友達はカフェで本を読むか音楽を聴く。"
+    },
+    "connectives_geona_4": {
+      "translation": "運動するか散歩に行く。"
+    },
+    "connectives_geona_5": {
+      "translation": "写真を撮るか外でコーヒーを飲む。"
+    }
+  }
+}

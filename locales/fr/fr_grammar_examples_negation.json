@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categoryId": "negation",
+  "translations": {
+    "negation_an_1": {
+      "translation": "Je ne mange pas de nourriture épicée."
+    },
+    "negation_an_2": {
+      "translation": "Mon petit frère ne fait pas ses devoirs."
+    },
+    "negation_an_3": {
+      "translation": "Je ne bois pas de café."
+    },
+    "negation_an_4": {
+      "translation": "Mon ami ne regarde pas la télévision."
+    },
+    "negation_an_5": {
+      "translation": "Je ne fais pas d'exercice."
+    },
+    "negation_mot_1": {
+      "translation": "Je ne sais pas bien nager."
+    },
+    "negation_mot_2": {
+      "translation": "Mon petit frère ne sait pas faire du vélo."
+    },
+    "negation_mot_3": {
+      "translation": "Je ne sais pas bien chanter."
+    },
+    "negation_mot_4": {
+      "translation": "Mon ami ne sait pas bien dessiner."
+    },
+    "negation_mot_5": {
+      "translation": "Je ne sais pas conduire."
+    },
+    "negation_ji_anhda_1": {
+      "translation": "Je ne bois pas d'alcool."
+    },
+    "negation_ji_anhda_2": {
+      "translation": "Mon ami ne prend pas de petit-déjeuner."
+    },
+    "negation_ji_anhda_3": {
+      "translation": "Je ne me couche pas tard."
+    },
+    "negation_ji_anhda_4": {
+      "translation": "Mon petit frère ne va pas à l'école."
+    },
+    "negation_ji_anhda_5": {
+      "translation": "Je ne mange pas de viande."
+    },
+    "negation_ji_mothada_1": {
+      "translation": "Je ne peux pas manger de nourriture épicée."
+    },
+    "negation_ji_mothada_2": {
+      "translation": "Mon petit frère ne peut pas monter les escaliers en courant."
+    },
+    "negation_ji_mothada_3": {
+      "translation": "Je ne peux pas marcher loin."
+    },
+    "negation_ji_mothada_4": {
+      "translation": "Mon ami ne peut pas aller dans des endroits élevés."
+    },
+    "negation_ji_mothada_5": {
+      "translation": "Je ne peux pas soulever des bagages lourds."
+    }
+  }
+}

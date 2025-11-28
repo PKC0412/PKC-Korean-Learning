@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "quotations",
+  "translations": {
+    "quotations_declare_dago_1": {
+      "translation": "友達は遅れると言った。"
+    },
+    "quotations_declare_dago_2": {
+      "translation": "母は美味しいと言った。"
+    },
+    "quotations_declare_dago_3": {
+      "translation": "先生は静かにするようにと言った。"
+    },
+    "quotations_declare_dago_4": {
+      "translation": "友達は映画が面白いと言った。"
+    },
+    "quotations_declare_dago_5": {
+      "translation": "弟は疲れたと言った。"
+    },
+    "quotations_say_lago_1": {
+      "translation": "私は友達に来るように言った。"
+    },
+    "quotations_say_lago_2": {
+      "translation": "母は私に食べるように言った。"
+    },
+    "quotations_say_lago_3": {
+      "translation": "先生は勉強するようにと言った。"
+    },
+    "quotations_say_lago_4": {
+      "translation": "友達は私にドアを開けるように言った。"
+    },
+    "quotations_say_lago_5": {
+      "translation": "弟は急いで来るように言った。"
+    }
+  }
+}

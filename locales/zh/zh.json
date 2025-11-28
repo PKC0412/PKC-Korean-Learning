@@ -1,0 +1,146 @@
+{
+  "menu": {
+    "hangul": "学习韩语字母",
+    "vocabulary": "词汇",
+    "flashcard": "单词卡",
+    "grammar": "语法",
+    "help": "帮助"
+  },
+  "language": {
+    "modalTitle": "语言",
+    "modalDescription": "请选择界面语言。您可以随时更改。",
+    "names": {
+      "en": "English",
+      "zh": "简体中文",
+      "ja": "日本語",
+      "ru": "Русский",
+      "es": "Español",
+      "fr": "Français",
+      "it": "Italiano",
+      "de": "Deutsch",
+      "th": "ไทย",
+      "pt": "Português",
+      "nl": "Nederlands"
+    }
+  },
+  "help": {
+    "header": "开发者与联系方式",
+    "description": "如果您有任何问题、错误报告或建议，请通过以下渠道联系我们。",
+    "creatorLabel": "开发者："
+  },
+  "vocab": {
+    "play": "播放音频"
+  },
+  "grammar": {
+    "hear": "收听"
+  },
+  "common": {
+    "listen": "收听",
+    "example": "例句",
+    "romanization": "罗马音",
+    "nodata": "暂无数据。"
+  },
+  "flashcard": {
+    "empty": "没有可学习的单词。",
+    "session": {
+      "summary": "进度：{current} / {total} 个单词",
+      "shuffled": "随机",
+      "sequential": "顺序"
+    },
+    "total_words": "单词总数",
+    "controls": {
+      "hear": "收听",
+      "know": "认识",
+      "dontKnow": "复习"
+    },
+    "progress": {
+      "label": "进度：{done} / {total}"
+    },
+    "hint": {
+      "reveal": "点击卡片查看含义",
+      "romanizationLabel": "罗马音："
+    },
+    "result": {
+      "title": "做得好！",
+      "completed": "您已学习了 {total} 个单词。",
+      "accuracy": "准确率：{accuracy}%",
+      "stats": "已掌握：{known} | 需复习：{unknown}",
+      "restart": "随机并重新开始"
+    }
+  },
+  "category": {
+    "all": "全部",
+    "greetings": "问候",
+    "basic": "基础",
+    "food": "食物",
+    "people": "人物",
+    "places": "场所",
+    "transportation": "交通",
+    "verbs_daily": "日常动词",
+    "verbs_actions": "行为动词",
+    "adjectives": "形容词",
+    "numbers": "数字",
+    "time": "时间/日期",
+    "colors": "颜色",
+    "body": "身体",
+    "nature": "自然",
+    "school": "学校"
+  },
+  "발음 듣기": "听发音",
+  "자음": "辅音",
+  "모음": "元音",
+  "받침": "收音 (Batchim)",
+  "로마자 표기:": "罗马音：",
+  "이전": "上一页",
+  "다음": "下一页",
+  "설명:": "说明：",
+  "예시:": "例句：",
+  "설명이 아직 준비되지 않았습니다.": "说明尚未准备好。",
+  "예시가 아직 준비되지 않았습니다.": "例句尚未准备好。",
+  "예문": "例句",
+  "grammar_category_sentence_structure": "句子结构",
+  "grammar_category_particles": "助词",
+  "grammar_category_tenses": "时态",
+  "grammar_category_negation": "否定",
+  "grammar_category_connectives": "连接词",
+  "grammar_category_comparison": "比较",
+  "grammar_category_ending": "终结词尾",
+  "grammar_category_aux_verbs": "辅助动词",
+  "grammar_category_voice": "语态（被动/使动）",
+  "grammar_category_conditionals": "条件句",
+  "grammar_category_quotations": "引用",
+  "grammar_group_sentence_structure_basic_order": "基本语序 (SOV)",
+  "grammar_group_sentence_structure_elements": "句子成分",
+  "grammar_group_sentence_structure_types": "句子类型",
+  "grammar_group_particles_case": "格助词",
+  "grammar_group_particles_auxiliary": "辅助助词",
+  "grammar_group_particles_conjunctive": "连接助词",
+  "grammar_group_tenses_present": "现在时",
+  "grammar_group_tenses_past": "过去时",
+  "grammar_group_tenses_future": "将来时",
+  "grammar_group_tenses_progressive": "进行时 (-고 있어요)",
+  "grammar_group_tenses_experiential": "经验表现 (-아/어 본 적이 있다)",
+  "grammar_group_negation_an": "用“안”表示否定",
+  "grammar_group_negation_mot": "用“못”表示否定",
+  "grammar_group_negation_ji_anhda": "用“-지 않다”表示否定",
+  "grammar_group_negation_ji_mothada": "用“-지 못하다”表示否定",
+  "grammar_group_connectives_go": "连接词 -고",
+  "grammar_group_connectives_aseo_eoseo": "连接词 -아서/어서",
+  "grammar_group_connectives_jiman": "连接词 -지만",
+  "grammar_group_connectives_myeonseo": "连接词 -면서",
+  "grammar_group_connectives_geona": "连接词 -거나",
+  "grammar_group_comparison_boda": "比较表现 보다",
+  "grammar_group_comparison_mankeum": "比较表现 만큼",
+  "grammar_group_comparison_cheoreom": "比较表现 처럼",
+  "grammar_group_ending_polite_ayo_eoyo": "敬语词尾 -아요/어요",
+  "grammar_group_ending_formal_sumnida": "格式体词尾 -습니다/-습니까",
+  "grammar_group_aux_verbs_want_gosipda": "辅助动词 -고 싶다",
+  "grammar_group_aux_verbs_try_boda": "辅助动词 -아/어 보다",
+  "grammar_group_aux_verbs_must_eya_hada": "辅助动词 -아/어야 하다",
+  "grammar_group_voice_passive_ajida": "被动 -아/어지다",
+  "grammar_group_voice_causative_gehada": "使动 -게 하다",
+  "grammar_group_conditionals_myeon_basic": "条件句 -(으)면",
+  "grammar_group_conditionals_tomyeon_future": "条件句 -(으)면 (将来/反复)",
+  "grammar_group_quotations_declare_dago": "引用 -다고 하다",
+  "grammar_group_quotations_say_lago": "引用 -라고 하다"
+}

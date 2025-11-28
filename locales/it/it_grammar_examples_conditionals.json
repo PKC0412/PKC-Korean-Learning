@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "categoryId": "conditionals",
+  "translations": {
+    "conditionals_myeon_basic_1": {
+      "translation": "Quando piove, uso un ombrello."
+    },
+    "conditionals_myeon_basic_2": {
+      "translation": "Se hai tempo, pranziamo insieme."
+    },
+    "conditionals_myeon_basic_3": {
+      "translation": "Se torno a casa presto, guardo un film."
+    },
+    "conditionals_myeon_basic_4": {
+      "translation": "Se il tempo è bello, vado a fare una passeggiata."
+    },
+    "conditionals_myeon_basic_5": {
+      "translation": "Se sono occupato, lo faccio domani."
+    },
+    "conditionals_tomyeon_future_1": {
+      "translation": "Se risparmio dei soldi, farò un viaggio."
+    },
+    "conditionals_tomyeon_future_2": {
+      "translation": "Se faccio esercizio, diventerò più sano."
+    },
+    "conditionals_tomyeon_future_3": {
+      "translation": "Se studio con impegno, i miei voti miglioreranno."
+    },
+    "conditionals_tomyeon_future_4": {
+      "translation": "Se vado a letto presto, domani mi sentirò più riposato."
+    },
+    "conditionals_tomyeon_future_5": {
+      "translation": "Se cammino molto, mi stancherò."
+    }
+  }
+}

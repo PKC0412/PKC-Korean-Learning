@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "categoryId": "aux_verbs",
+  "translations": {
+    "aux_verbs_want_gosipda_1": {
+      "translation": "Vandaag wil ik vroeg naar huis gaan."
+    },
+    "aux_verbs_want_gosipda_2": {
+      "translation": "Mijn broertje wil een puppy grootbrengen."
+    },
+    "aux_verbs_want_gosipda_3": {
+      "translation": "Ik wil dit weekend naar de zee gaan."
+    },
+    "aux_verbs_want_gosipda_4": {
+      "translation": "Mijn vriend zegt dat hij een nieuw vak wil leren."
+    },
+    "aux_verbs_want_gosipda_5": {
+      "translation": "Volgend jaar wil ik in het buitenland werken."
+    },
+    "aux_verbs_try_boda_1": {
+      "translation": "Gisteren probeerde ik voor het eerst kimchi te maken."
+    },
+    "aux_verbs_try_boda_2": {
+      "translation": "Mijn broertje wilde skiën proberen."
+    },
+    "aux_verbs_try_boda_3": {
+      "translation": "Ik probeerde een nieuwe methode te gebruiken."
+    },
+    "aux_verbs_try_boda_4": {
+      "translation": "Mijn vriend vroeg me zijn gemaakte taart te proberen."
+    },
+    "aux_verbs_try_boda_5": {
+      "translation": "Deze week ga ik een nieuwe oefenmethode proberen."
+    },
+    "aux_verbs_must_eya_hada_1": {
+      "translation": "Ik moet dit verslag vandaag inleveren."
+    },
+    "aux_verbs_must_eya_hada_2": {
+      "translation": "Arbeiders moeten veiligheidsuitrusting dragen op de bouwplaats."
+    },
+    "aux_verbs_must_eya_hada_3": {
+      "translation": "Ik moet de materialen ordenen vóór de vergadering."
+    },
+    "aux_verbs_must_eya_hada_4": {
+      "translation": "We moeten de tickets controleren vóór vertrek."
+    },
+    "aux_verbs_must_eya_hada_5": {
+      "translation": "Ik moet eten voordat ik de medicijnen neem."
+    }
+  }
+}

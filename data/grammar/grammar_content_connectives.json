@@ -1,0 +1,79 @@
+{
+  "units": [
+    {
+      "id": "connectives_go_sequence_basic",
+      "title": "연결 표현: -고 (나열, 순서)",
+      "description": "‘-고’는 동작을 나열하거나 순서를 표현할 때 사용합니다."
+    },
+    {
+      "id": "connectives_aseo_eoseo_reason_basic",
+      "title": "연결 표현: -아서/어서 (이유)",
+      "description": "‘-아서/어서’는 이유나 원인을 말할 때 쓰는 연결어미입니다."
+    },
+    {
+      "id": "connectives_jiman_basic",
+      "title": "연결 표현: -지만 (대조)",
+      "description": "‘-지만’은 앞뒤 내용을 대조하거나 양보할 때 사용합니다."
+    },
+    {
+      "id": "connectives_myeonseo_simult_basic",
+      "title": "연결 표현: -면서 (동시 동작)",
+      "description": "‘-면서’는 두 동작이 동시에 일어날 때 사용합니다."
+    },
+    {
+      "id": "connectives_geona_choice_basic",
+      "title": "연결 표현: -거나 (선택)",
+      "description": "‘-거나’는 둘 이상의 선택지 중 하나 이상을 말할 때 사용합니다."
+    },
+    {
+      "id": "connectives_go_sequence_time",
+      "title": "연결: -고 (시간 순서)",
+      "description": "여러 동작을 시간 순서대로 나열하는 표현을 연습합니다."
+    },
+    {
+      "id": "connectives_go_parallel",
+      "title": "연결: -고 (병렬 나열)",
+      "description": "비슷한 성격의 동작을 나란히 나열하는 표현입니다."
+    },
+    {
+      "id": "connectives_aseo_eoseo_cause",
+      "title": "연결: -아서/어서 (원인)",
+      "description": "원인과 결과를 자연스럽게 이어주는 표현을 연습합니다."
+    },
+    {
+      "id": "connectives_aseo_eoseo_constraint",
+      "title": "연결: -아서/어서 (제약)",
+      "description": "어떤 이유로 인해 할 수 없거나 힘든 상황을 설명하는 문장을 살펴봅니다."
+    },
+    {
+      "id": "connectives_jiman_contrast",
+      "title": "연결: -지만 (대조)",
+      "description": "예상과 다른 결과를 말할 때 쓰이는 대조 표현을 연습합니다."
+    },
+    {
+      "id": "connectives_jiman_soften",
+      "title": "연결: -지만 (양보·완화)",
+      "description": "말을 부드럽게 만들거나 양보하는 느낌을 줄 때 쓰이는 표현입니다."
+    },
+    {
+      "id": "connectives_myeonseo_simult_action",
+      "title": "연결: -면서 (동시 동작)",
+      "description": "두 동작이 동시에 일어나는 상황을 표현하는 문장을 연습합니다."
+    },
+    {
+      "id": "connectives_myeonseo_criticism",
+      "title": "연결: -면서 (비판)",
+      "description": "알면서도 하지 않거나 모순적인 행동을 비판하는 표현을 살펴봅니다."
+    },
+    {
+      "id": "connectives_geona_choice_two",
+      "title": "연결: -거나 (선택)",
+      "description": "두 가지 중 선택할 때 쓰는 ‘-거나’ 표현을 연습합니다."
+    },
+    {
+      "id": "connectives_geona_free_choice",
+      "title": "연결: -거나 (자유 선택)",
+      "description": "여러 가능성 중 아무 것이나 괜찮다는 의미를 나타내는 표현입니다."
+    }
+  ]
+}
