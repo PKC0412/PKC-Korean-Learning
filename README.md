@@ -75,6 +75,8 @@ No 24-hour customer support (Personal project).
 
 PKC Korean Learning supports PWA (Progressive Web App).
 
+---
+
 ✅ Android (Chrome)
 
 Access the app in your browser.
@@ -82,6 +84,8 @@ Access the app in your browser.
 Menu (⋮) → "Add to Home screen".
 
 "PKC Korean" icon created → Run it like an app.
+
+---
 
 ✅ iPhone (Safari)
 
@@ -94,6 +98,8 @@ Tap "Add to Home Screen".
 Run it like an app from your home screen.
 
 Since iOS is WebKit-based, some PWA features may be limited.
+
+---
 
 ✅ macOS (Chrome / Edge)
 
@@ -108,6 +114,8 @@ App mode execution without an address bar.
 Fast loading speed.
 
 Partial offline usage available (based on cached data).
+
+---
 
 📁 Project Structure (Latest)
 
@@ -141,6 +149,8 @@ PKC-Korean-Learning/
 
 └─ locales/
 
+---
+
 🎧 Audio Pronunciation Troubleshooting Guide
 
 The pronunciation feature in this app uses the browser's built-in TTS (Web Speech API / speechSynthesis).
@@ -148,6 +158,8 @@ The pronunciation feature in this app uses the browser's built-in TTS (Web Speec
 This means it doesn't play audio files but instead calls the Korean voice engine installed on your device.
 
 Since behavior varies by device, the following issues may occur.
+
+---
 
 ❗ Common Issues
 
@@ -161,6 +173,8 @@ Korean voice (ko-KR) is not installed on the device.
 
 No sound due to the Silent Mode switch (side of iPhone).
 
+---
+
 ✅ Solution (iOS)
 
 Turn off Silent Mode (Switch on the side of the iPhone).
@@ -170,6 +184,8 @@ Turn up the volume.
 Go to Settings → Accessibility → Spoken Content → Voices and download a Korean voice.
 
 If the first pronunciation doesn't work, try tapping the button twice.
+
+---
 
 ✅ Solution (macOS)
 
@@ -182,6 +198,8 @@ You can check via DevTools console:
 speechSynthesis.getVoices().filter(v => v.lang.includes('ko'))
 
 If you see one or more Korean voices, it should play normally.
+
+---
 
 🔎 Summary
 
@@ -202,6 +220,8 @@ python -m http.server 8000
 In your browser, visit:
 
 http://localhost:8000
+
+---
 
 🌐 GitHub Pages Deployment Method
 
@@ -227,11 +247,15 @@ Branch: main
 
 Folder: / (root)
 
+---
+
 4. Access Deployment URL
 
 [https://pkc0412.github.io/PKC-Korean-Learning/]
 
 (https://pkc0412.github.io/PKC-Korean-Learning/)
+
+---
 
 Known Issues
 
@@ -242,6 +266,8 @@ A. Refreshing the browser (F5) often solves this.
 Q. Pronunciation doesn't play.
 
 A. It is highly likely related to iOS/Safari/Silent Mode. Please refer to the audio troubleshooting guide above.
+
+---
 
 Future Development Plans
 
