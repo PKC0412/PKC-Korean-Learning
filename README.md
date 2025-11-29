@@ -20,13 +20,21 @@ This project is built as a fully static web app (PWA) and can be run directly on
 
 You can install it on your home screen to use it like an app, and it offers fast loading times along with partial offline support.
 
+---
+
 ✍️ Creator & Contact
 If you have any questions, bug reports, or suggestions, please contact me below.
 
 Creator: PKC
+
 Blog: https://pkc0412.tistory.com/
+
 Email: pkc0412@gmail.com
+
+---
+
 📜 License
+
 This project follows a Dual License Policy.
 
 Non-Commercial & Open Source Use
@@ -40,6 +48,8 @@ Commercial Use
 To include this in commercial or closed-source products, a separate commercial license is required.
 
 Contact: pkc0412@gmail.com
+
+---
 
 What you can do
 
