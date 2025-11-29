@@ -69,7 +69,9 @@ Some features may not work properly in certain environments.
 
 No 24-hour customer support (Personal project).
 
-🚀 Deployment URL (GitHub Pages)
+🚀 Deployment URL (GitHub: https://github.com/PKC0412/PKC-Korean-Learning)
+
+---
 
 📱 PWA Installation Guide
 
@@ -227,7 +229,9 @@ http://localhost:8000
 
 1. Clone Repo
 
-git clone [https://github.com/PKC0412/PKC-Korean-Learning.git](https://github.com/PKC0412/PKC-Korean-Learning.git)
+git clone [https://github.com/PKC0412/PKC-Korean-Learning.git]
+
+---
 
 2. Copy Project Files & Commit
 
@@ -236,6 +240,8 @@ git add .
 git commit -m "init: PKC Korean Learning PWA"
 
 git push
+
+---
 
 3. Enable Pages
 
@@ -252,8 +258,6 @@ Folder: / (root)
 4. Access Deployment URL
 
 [https://pkc0412.github.io/PKC-Korean-Learning/]
-
-(https://pkc0412.github.io/PKC-Korean-Learning/)
 
 ---
 
