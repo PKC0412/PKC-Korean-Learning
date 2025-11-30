@@ -125,7 +125,7 @@
         <!-- Footer moved inside app-container -->
         <footer
             class="app-footer"
-            style="margin-top:0.5rem; padding:1rem 0; display:flex; justify-content:center; align-items:center; gap:0.75rem; font-size:0.875rem; opacity:0.8;"
+            style="margin-top:2rem; padding:1rem 0; display:flex; justify-content:center; align-items:center; gap:0.75rem; font-size:0.875rem; opacity:0.8;"
         >
             <div>© 2025 PKC Korean Learning v1.2</div>
             <a
@@ -322,6 +322,37 @@
                     .catch(err => console.error('Service worker registration failed:', err));
             });
         }
+    </script>
+
+    <script>
+        function setupMobileAutoScroll() {
+            if (window.innerWidth > 768) return;
+
+            const mappings = [
+                { btnId: 'btn-hangul', sectionId: 'hangul-section' },
+                { btnId: 'btn-vocabulary', sectionId: 'vocabulary-section' },
+                { btnId: 'btn-flashcard', sectionId: 'flashcard-section' },
+                { btnId: 'btn-grammar', sectionId: 'grammar-section' },
+            ];
+
+            mappings.forEach(function (map) {
+                var btn = document.getElementById(map.btnId);
+                var section = document.getElementById(map.sectionId);
+                if (!btn || !section) return;
+
+                btn.addEventListener('click', function () {
+                    setTimeout(function () {
+                        var top = section.offsetTop - 16;
+                        window.scrollTo({
+                            top: top,
+                            behavior: 'smooth'
+                        });
+                    }, 120);
+                });
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', setupMobileAutoScroll);
     </script>
 
 </body>
