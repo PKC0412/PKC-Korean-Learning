@@ -45,7 +45,6 @@ const ASSETS_TO_CACHE = [
   './js/grammar-ui.js',
   './js/hangul-learning.js',
   './js/i18n-init.js',
-  './js/modals.js',
   './js/speech.js',
   './js/theme.js',
   './js/vocabulary-learning.js'
